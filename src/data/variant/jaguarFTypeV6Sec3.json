@@ -1,0 +1,36 @@
+{
+  "headlinePre": "Jaguar F-Type V6",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£3,600",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/jaguar_car.webp",
+  "cards": [
+    {
+      "code": "AJ126",
+      "generation": "",
+      "price": "£3,600"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Jaguar F-Type V6 Oil Leaks & Coolant System Wear ",
+    "titleHighlight": "(AJ126 I6)",
+    "paragraphs": [
+      "The AJ126 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ126 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ126 rebuild.",
+      "Because the F-Type V6 uses a completely different engine family from the V8 M178 fitted to the F-Type 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+    ],
+    "source": "Source: Established AJ126 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+  }
+}

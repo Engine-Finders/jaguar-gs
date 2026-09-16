@@ -1,0 +1,58 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "AJ34S",
+    "titlePost": " ENGINE",
+    "body": "The AJ34S is a V8, 4.2L (4,196 cc), Petrol Supercharged engine used across Jaguar's 1 model range, in production 2008–2015. We rebuild every AJ34S to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "JAGUAR AJ34S",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The AJ34S is fitted across XF — see the full applications table above for exact variants, generations and years.",
+    "lineup": [
+      {
+        "label": "XF",
+        "code": "X250"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "JAGUAR AJ34S",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the AJ34S is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (X250)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

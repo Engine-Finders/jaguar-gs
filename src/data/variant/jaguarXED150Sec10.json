@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar XE D150 ENGINE",
+    "paragraphs": [
+      "The XE D150 uses the Ingenium AJ200D — a 2.0-litre four-cylinder diesel that was part of Jaguar Land Rover's modular Ingenium engine family. It was fitted from the XE's launch in 2015 through to around 2020, when Jaguar dropped diesel from the UK and North American XE range as the model moved to a petrol-only lineup in those markets. The D150 was the entry-level diesel output tier in the XE range, sitting below the D165, D180, D200 and D240. The XE D150 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace Ingenium AJ200D engines for every XE D150 on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar XE D150 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "Ingenium AJ200D",
+        "codeRest": "",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the XE D150 from 2015 to 2020 (X760 generation). Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, tensioners, injector seals, EGR and gaskets as standard on every AJ200D rebuild. Check Your AJ200D XE D150 → [link to quote form]",
+        "cta": "Check Your Ingenium AJ200D XE D150",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar XE D150 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The XE D150 uses the Ingenium AJ200D diesel engine across its entire production run. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "Ingenium AJ200D",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (AJ200D) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X760)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic XE quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar XE D150 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X760",
+        "chassis": "X760",
+        "years": "2015–2020",
+        "engineCode": "Ingenium AJ200D",
+        "fuel": "Diesel"
+      }
+    ]
+  }
+}

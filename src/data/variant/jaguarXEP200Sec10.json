@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar XE P200 ENGINE",
+    "paragraphs": [
+      "The XE P200 uses the Ingenium AJ200 — a 2.0-litre four-cylinder petrol engine fitted across the X760 generation from 2020 onwards. It's part of Jaguar's current-era petrol range and sits alongside the P250 and P300 as the entry-level petrol option in the XE lineup. Unlike the earlier diesel variants, the P200's engine code isn't an evolution of a Ford-era unit — it's part of Jaguar's own Ingenium family, designed and built in-house from the ground up."
+    ],
+    "boldParagraph": "We continue to rebuild and replace AJ200 engines for every XE P200 on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar XE P200 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "AJ200",
+        "codeRest": "(X760 (2015–present))",
+        "body": "A 2.0-litre four-cylinder petrol engine fitted to the XE P200 from 2020 onwards (X760 generation). This is Jaguar's own Ingenium design, not a carryover from the earlier Ford EcoBoost era. We replace timing chain components, bearings and gaskets as standard during every AJ200 rebuild. Check Your AJ200 XE P200 → [link to quote form]",
+        "cta": "Check Your AJ200 XE P200",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar XE P200 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The XE P200 uses the same AJ200 engine code throughout its production run from 2020, with no mid-cycle engine changes for this variant. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "AJ200",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (AJ200) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X760)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic XE quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar XE P200 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X760",
+        "chassis": "X760",
+        "years": "2020–present",
+        "engineCode": "AJ200",
+        "fuel": "Petrol"
+      }
+    ]
+  }
+}

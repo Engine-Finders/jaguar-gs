@@ -1,0 +1,38 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar X-Type Variant",
+  "tabs": [
+    "Jaguar X-Type"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar X-Type 2.0d"
+      },
+      {
+        "label": "Jaguar X-Type 2.0 V6"
+      },
+      {
+        "label": "Jaguar X-Type 2.1 V6"
+      },
+      {
+        "label": "Jaguar X-Type 2.5 V6"
+      },
+      {
+        "label": "Jaguar X-Type 3.0 V6"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

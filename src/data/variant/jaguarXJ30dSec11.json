@@ -1,0 +1,111 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XJ 3.0d ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XJ 3.0d has used the AJD-V6 throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2009",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2010",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2011",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2012",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2013",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2014",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2015",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2016",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2017",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2018",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2019",
+      "generation": "X351",
+      "engineCode": "AJD-V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The AJD-V6",
+    "rest": " has been fitted to every XJ 3.0d since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XK8 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XK8 has used the same engine throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1996",
+      "generation": "X100",
+      "engineCode": "AJ26",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1997",
+      "generation": "X100",
+      "engineCode": "AJ26",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1998",
+      "generation": "X100",
+      "engineCode": "AJ26",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1999",
+      "generation": "X100",
+      "engineCode": "AJ26/AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2000",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2001",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2002",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2003",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2004",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2005",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2006",
+      "generation": "X100",
+      "engineCode": "AJ27",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The engine",
+    "rest": " has been fitted to every XK8 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

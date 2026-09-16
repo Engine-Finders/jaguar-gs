@@ -1,0 +1,115 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar ZSD-420 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-a-class-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-a-class-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2023–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-c-class-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-cla-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-cla-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2020–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-gla-class-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2020–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-gla-class-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2023–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-glc-class-engines"
+    },
+    {
+      "model": "ZSD-420",
+      "variant": "ZSD-420",
+      "generation": "ZSD-420",
+      "chassis": "ZSD-420",
+      "years": "2023–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-sl-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

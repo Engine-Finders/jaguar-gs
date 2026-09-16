@@ -1,0 +1,43 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ-V6 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "S-Type",
+      "variant": "2.5 V6, 3.0 V6",
+      "generation": "X200",
+      "chassis": "X200",
+      "years": "2001–2008",
+      "powertrain": "2.5L / 3.0L",
+      "modelHref": "/jaguar-s-type-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

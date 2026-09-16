@@ -1,0 +1,192 @@
+{
+  "brand": "JAGUAR GARAGE",
+  "blurb": "Jaguar engine rebuild specialists. Ingenium diesel, AJ133 V8 & more — saloons, SUVs and sports models. Fixed-price quotes, 12-month unlimited-mileage warranty.",
+  "columns": [
+    {
+      "title": "Company",
+      "links": [
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        },
+        {
+          "label": "Financing & Payment",
+          "href": "/financing"
+        },
+        {
+          "label": "Pricing & Legal Disclaimer",
+          "href": "/pricing-legal-disclaimer"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "/terms-and-conditions"
+        },
+        {
+          "label": "Warranty",
+          "href": "/warranty"
+        }
+      ]
+    },
+    {
+      "title": "Popular Engines",
+      "links": [
+        {
+          "label": "Jaguar AJ V6",
+          "href": "/jaguar-aj-v6-engine"
+        },
+        {
+          "label": "Jaguar AJ V8",
+          "href": "/jaguar-aj-v8-engine"
+        },
+        {
+          "label": "Jaguar Aj126",
+          "href": "/jaguar-aj126-engine"
+        },
+        {
+          "label": "Jaguar Aj133",
+          "href": "/jaguar-aj133-engine"
+        },
+        {
+          "label": "Jaguar Aj133 AJ V8 GEN III",
+          "href": "/jaguar-aj133-aj-v8-gen-iii-engine"
+        },
+        {
+          "label": "Jaguar Aj133s",
+          "href": "/jaguar-aj133s-engine"
+        },
+        {
+          "label": "Jaguar Aj150 1 5 I3",
+          "href": "/jaguar-aj150-1-5-i3-engine"
+        },
+        {
+          "label": "Jaguar Aj16",
+          "href": "/jaguar-aj16-engine"
+        },
+        {
+          "label": "Jaguar Aj20",
+          "href": "/jaguar-aj20-engine"
+        },
+        {
+          "label": "Jaguar Aj200",
+          "href": "/jaguar-aj200-engine"
+        }
+      ]
+    },
+    {
+      "title": "Popular Models",
+      "links": [
+        {
+          "label": "Jaguar E Pace",
+          "href": "/jaguar-e-pace-engines"
+        },
+        {
+          "label": "Jaguar F Pace",
+          "href": "/jaguar-f-pace-engines"
+        },
+        {
+          "label": "Jaguar F Type",
+          "href": "/jaguar-f-type-engines"
+        },
+        {
+          "label": "Jaguar S Type",
+          "href": "/jaguar-s-type-engines"
+        },
+        {
+          "label": "Jaguar X Type",
+          "href": "/jaguar-x-type-engines"
+        },
+        {
+          "label": "Jaguar XE",
+          "href": "/jaguar-xe-engines"
+        },
+        {
+          "label": "Jaguar XF",
+          "href": "/jaguar-xf-engines"
+        },
+        {
+          "label": "Jaguar XJ",
+          "href": "/jaguar-xj-engines"
+        },
+        {
+          "label": "Jaguar XK",
+          "href": "/jaguar-xk-engines"
+        }
+      ]
+    },
+    {
+      "title": "Guides",
+      "links": [
+        {
+          "label": "Jaguar Cylinder Head Repair & Rebuild",
+          "href": "/jaguar-cylinder-head-repair-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Bearing Replacement",
+          "href": "/jaguar-engine-bearing-replacement"
+        },
+        {
+          "label": "Jaguar Engine Compatibility & Application Matching",
+          "href": "/jaguar-engine-compatibility-and-application-matching"
+        },
+        {
+          "label": "Jaguar Engine Failure Repair",
+          "href": "/jaguar-engine-failure-repair"
+        },
+        {
+          "label": "Jaguar Engine Inspection & Assessment",
+          "href": "/jaguar-engine-inspection-assessment"
+        },
+        {
+          "label": "Jaguar Engine Machining & Rebuild Preparation",
+          "href": "/jaguar-engine-machining-and-rebuild-preparation"
+        },
+        {
+          "label": "Jaguar Engine Matching by Registration & VIN",
+          "href": "/jaguar-engine-matching-by-registration-and-vin"
+        },
+        {
+          "label": "Jaguar Engine Rebuild",
+          "href": "/jaguar-engine-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Reconditioned",
+          "href": "/jaguar-engine-rebuild-vs-reconditioned"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Replacement",
+          "href": "/jaguar-engine-rebuild-vs-replacement"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "address": "Unit A5 Windsor Road, Commercial Estate, Ramsden Heath, Billericay, CM11 1QE",
+    "phone": "0203 488 4649",
+    "whatsapp": "07975 827 396",
+    "email": "info@jaguargarage.uk",
+    "hours": "Mon–Fri 9am–6pm · Sat 11am–2pm"
+  },
+  "social": [
+    {
+      "label": "Facebook",
+      "href": "https://facebook.com/jaguarrebuildgarageuk"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://instagram.com/jaguarrebuildgarageuk"
+    },
+    {
+      "label": "TikTok",
+      "href": "https://tiktok.com/@jaguarrebuildgarageuk"
+    }
+  ],
+  "copyright": "© 2026 Jaguar Garage — a trading name of JLR Engine Specialists Ltd (Company No. 16500838). Independent Jaguar specialist, not affiliated with Jaguar AG."
+}

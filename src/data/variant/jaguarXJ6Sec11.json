@@ -1,0 +1,104 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XJ6 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XJ6 has used the same engine throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1994",
+      "generation": "X300",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1995",
+      "generation": "X300",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1996",
+      "generation": "X300",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1997",
+      "generation": "X300 / X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1998",
+      "generation": "X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "1999",
+      "generation": "X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2000",
+      "generation": "X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2001",
+      "generation": "X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2002",
+      "generation": "X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2003",
+      "generation": "X308",
+      "engineCode": "AJ16",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The engine",
+    "rest": " has been fitted to every XJ6 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "h2": "Find Your Jaguar Model",
+  "models": [
+    { "name": "XE", "slug": "xe", "image": "/variant/jaguar_car.webp", "href": "/jaguar-xe-engines" },
+    { "name": "XF", "slug": "xf", "image": "/variant/jaguar_car.webp", "href": "/jaguar-xf-engines" },
+    { "name": "XJ", "slug": "xj", "image": "/variant/jaguar_car.webp", "href": "/jaguar-xj-engines" },
+    { "name": "F-Pace", "slug": "f-pace", "image": "/variant/jaguar_car.webp", "href": "/jaguar-f-pace-engines" },
+    { "name": "E-Pace", "slug": "e-pace", "image": "/variant/jaguar_car.webp", "href": "/jaguar-e-pace-engines" },
+    { "name": "F-Type", "slug": "f-type", "image": "/variant/jaguar_car.webp", "href": "/jaguar-f-type-engines" },
+    { "name": "XK (X100/X150)", "slug": "xk", "image": "/variant/jaguar_car.webp", "href": "/jaguar-xk-engines" },
+    { "name": "S-Type", "slug": "s-type", "image": "/variant/jaguar_car.webp", "href": "/jaguar-s-type-engines" },
+    { "name": "X-Type", "slug": "x-type", "image": "/variant/jaguar_car.webp", "href": "/jaguar-x-type-engines" }
+  ],
+  "cta": {
+    "label": "All Jaguar Models",
+    "href": "/models"
+  },
+  "trustBadges": [
+    { "label": "All models covered", "icon": "car" },
+    { "label": "Petrol, diesel & hybrid engines", "icon": "fuel" },
+    { "label": "Engine rebuild or replacement", "icon": "gear" },
+    { "label": "12 month warranty", "icon": "shield" },
+    { "label": "Nationwide recovery", "icon": "truck" }
+  ]
+}

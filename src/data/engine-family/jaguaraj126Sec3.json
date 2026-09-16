@@ -1,0 +1,70 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ126 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "F-Type",
+      "variant": "V6, V6 S, 400 Sport",
+      "generation": "X152",
+      "chassis": "X152",
+      "years": "2013–2020",
+      "powertrain": "Supercharged V6",
+      "modelHref": "/jaguar-f-type-engines"
+    },
+    {
+      "model": "XE",
+      "variant": "S, 300 Sport",
+      "generation": "X760",
+      "chassis": "X760",
+      "years": "2015–2019",
+      "powertrain": "Supercharged V6",
+      "modelHref": "/jaguar-xe-engines"
+    },
+    {
+      "model": "XF",
+      "variant": "S, 35t",
+      "generation": "X260",
+      "chassis": "X260",
+      "years": "2015–2018",
+      "powertrain": "Supercharged V6",
+      "modelHref": "/jaguar-xf-engines"
+    },
+    {
+      "model": "XJ",
+      "variant": "XJ Supersport V6",
+      "generation": "X351",
+      "chassis": "X351",
+      "years": "2013–2019",
+      "powertrain": "Supercharged V6",
+      "modelHref": "/jaguar-xj-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

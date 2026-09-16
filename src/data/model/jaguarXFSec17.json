@@ -1,0 +1,47 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar XF Variant",
+  "tabs": [
+    "Jaguar XF"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar XF 2.2d"
+      },
+      {
+        "label": "Jaguar XF 2.0d"
+      },
+      {
+        "label": "Jaguar XF 2.0i"
+      },
+      {
+        "label": "Jaguar XF 3.0d"
+      },
+      {
+        "label": "Jaguar XF 3.0 V6 S/SC"
+      },
+      {
+        "label": "Jaguar XF 5.0 V8"
+      },
+      {
+        "label": "Jaguar XF 300 Sport"
+      },
+      {
+        "label": "Jaguar XFR"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

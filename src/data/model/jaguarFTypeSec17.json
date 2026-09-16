@@ -1,0 +1,44 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar F-Type Variant",
+  "tabs": [
+    "Jaguar F-Type"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar F-Type 2.0i (Ingenium)"
+      },
+      {
+        "label": "Jaguar F-Type V6"
+      },
+      {
+        "label": "Jaguar F-Type V6 S"
+      },
+      {
+        "label": "Jaguar F-Type R"
+      },
+      {
+        "label": "Jaguar F-Type SVR"
+      },
+      {
+        "label": "Jaguar F-Type P450"
+      },
+      {
+        "label": "Jaguar F-Type R575"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

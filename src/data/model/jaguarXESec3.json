@@ -1,0 +1,38 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Jaguar XE|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "4-Cylinder Rebuild (Ingenium)",
+      "titleHighlight": "",
+      "code": "",
+      "price": "£2,000",
+      "featured": false
+    },
+    {
+      "titlePre": "V6 Rebuild (supercharged)",
+      "titleHighlight": "",
+      "code": "",
+      "price": "£3,200",
+      "featured": false
+    },
+    {
+      "titlePre": "Nationwide Recovery",
+      "titleHighlight": "",
+      "code": "",
+      "price": "from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ34 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "XF",
+      "variant": "4.2 V8",
+      "generation": "X250",
+      "chassis": "X250",
+      "years": "2008–2009",
+      "powertrain": "Naturally Aspirated",
+      "modelHref": "/jaguar-xf-engines"
+    },
+    {
+      "model": "XK",
+      "variant": "4.2 V8",
+      "generation": "X150",
+      "chassis": "X150",
+      "years": "2006–2009",
+      "powertrain": "Naturally Aspirated",
+      "modelHref": "/jaguar-xk-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

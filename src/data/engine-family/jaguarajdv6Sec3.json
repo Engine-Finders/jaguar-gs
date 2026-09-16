@@ -1,0 +1,61 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJD-V6 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "S-Type",
+      "variant": "2.7D V6",
+      "generation": "X200",
+      "chassis": "X200",
+      "years": "2004–2007",
+      "powertrain": "2.7L",
+      "modelHref": "/jaguar-s-type-engines"
+    },
+    {
+      "model": "XF",
+      "variant": "2.7D, 3.0D",
+      "generation": "X250",
+      "chassis": "X250",
+      "years": "2008–2015",
+      "powertrain": "2.7L / 3.0L",
+      "modelHref": "/jaguar-xf-engines"
+    },
+    {
+      "model": "XJ",
+      "variant": "2.7D V6",
+      "generation": "X350",
+      "chassis": "X350",
+      "years": "2003–2009",
+      "powertrain": "2.7L",
+      "modelHref": "/jaguar-xj-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

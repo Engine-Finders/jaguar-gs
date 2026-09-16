@@ -1,0 +1,47 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar XJ Variant",
+  "tabs": [
+    "Jaguar XJ"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar XJ6"
+      },
+      {
+        "label": "Jaguar XJ8"
+      },
+      {
+        "label": "Jaguar XJR"
+      },
+      {
+        "label": "Jaguar Super V8"
+      },
+      {
+        "label": "Jaguar XJ 3.0d"
+      },
+      {
+        "label": "Jaguar XJ 3.0 V6"
+      },
+      {
+        "label": "Jaguar XJ 5.0 V8"
+      },
+      {
+        "label": "Jaguar XJ 5.0 Supercharged V8"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

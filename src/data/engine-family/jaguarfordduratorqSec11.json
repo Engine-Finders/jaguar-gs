@@ -1,0 +1,148 @@
+{
+  "costBanner": {
+    "titlePre": "Jaguar Ford Duratorq",
+    "titleHighlight": "ENGINE REBUILD",
+    "titlePost": " COST",
+    "image": "/engine/sec11_top.webp",
+    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "paragraphs": [
+      "A Jaguar Ford Duratorq engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
+      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+    ],
+    "startingFromLabel": "Starting From",
+    "startingFromPrice": "£2,200"
+  },
+  "comparison": {
+    "titlePre": "MERCEDES-BENZ Ford Duratorq",
+    "titleHighlight": "REBUILD VS REPLACEMENT VS USED",
+    "cards": [
+      {
+        "icon": "engine",
+        "title": "Rebuilding Your",
+        "titleHighlight": "Ford Duratorq Engine",
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most Ford Duratorq owners choose."
+      },
+      {
+        "icon": "refresh",
+        "title": "Replacement",
+        "titleHighlight": "Ford Duratorq Engines",
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+      },
+      {
+        "icon": "cog",
+        "title": "Used",
+        "titleHighlight": "Ford Duratorq Engines",
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+      }
+    ],
+    "cta": {
+      "label": "Ask About Your Options →",
+      "href": "#quote-form"
+    }
+  },
+  "options": [
+    {
+      "icon": "refresh",
+      "titlePre": "MERCEDES-BENZ Ford Duratorq",
+      "titleHighlight": "RECONDITIONED",
+      "titlePost": " ENGINES",
+      "body": "\"Reconditioned\" is the term many owners search for when they mean the same thing as a rebuild — a full strip-down, inspection, and replacement of worn parts rather than a straight swap. If that's what you're after, our rebuild service is exactly that."
+    },
+    {
+      "icon": "shield-check",
+      "titlePre": "MERCEDES-BENZ Ford Duratorq",
+      "titleHighlight": "REFURBISHED",
+      "titlePost": " ENGINES",
+      "body": "\"Refurbished\" often describes the same process from a different angle — restoring your existing engine to full working condition rather than replacing it outright. Our rebuild covers this."
+    },
+    {
+      "icon": "cog",
+      "titlePre": "MERCEDES-BENZ Ford Duratorq",
+      "titleHighlight": "REMANUFACTURED",
+      "titlePost": " ENGINES",
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six Ford Duratorq-equipped models you drive."
+    }
+  ],
+  "faq": {
+    "kicker": "FREQUENTLY ASKED",
+    "kickerHighlight": "QUESTIONS",
+    "faqLeft": [
+      {
+        "q": "What is the Jaguar Ford Duratorq engine?",
+        "a": "The Ford Duratorq is a 2.2-litre inline-four diesel engine from Ford's Puma family, used in the XF 2.2D (X250, 2008–2015) as the entry-level diesel option."
+      },
+      {
+        "q": "Which Jaguar models use the Ford Duratorq?",
+        "a": "The Ford Duratorq appears in a single Jaguar application — the XF 2.2D (X250, 2008–2015)."
+      },
+      {
+        "q": "Is the Ford Duratorq a Jaguar-designed engine?",
+        "a": "No — it's Ford-sourced from the Duratorq/Puma family. Parts and maintenance patterns align with Ford's diesel family rather than Jaguar's Ingenium or AJD lines."
+      },
+      {
+        "q": "Can a Ford Duratorq from another vehicle be fitted to a Jaguar XF?",
+        "a": "Not automatically. Ancillaries, mounting, and ECU calibration differ by application. We always confirm compatibility by registration/VIN."
+      },
+      {
+        "q": "How much does a Jaguar Ford Duratorq engine rebuild cost?",
+        "a": "Rebuilds start from £1,900 for the XF 2.2D application."
+      }
+    ],
+    "faqRight": [
+      {
+        "q": "Do you rebuild Ford Duratorq engines?",
+        "a": "Yes. We work on Ford Duratorq rebuilds for the XF 2.2D (X250, 2008–2015)."
+      },
+      {
+        "q": "What are the common issues with the Ford Duratorq?",
+        "a": "EGR valve clogging is common on higher-mileage examples, injector seal problems are well-documented, and DPF clogging can occur with short-trip or urban use."
+      },
+      {
+        "q": "Can you recover my Jaguar if the engine has failed?",
+        "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+      },
+      {
+        "q": "How long does a Ford Duratorq engine rebuild take?",
+        "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+      },
+      {
+        "q": "Is rebuilding better than fitting a used engine?",
+        "a": "For most XF owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+      }
+    ]
+  },
+  "quote": {
+    "icon": "note",
+    "headlinePre": "GET YOUR FREE",
+    "headlineHighlight": "MERCEDES-BENZ Ford Duratorq",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "subtext": "Most quotes returned within 30 minutes during working hours.",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "AB12 CDE"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. CM11 1QE"
+      },
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Your name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "07123 456789"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Engine Failure / Replacement Needed / General Enquiry"
+      }
+    },
+    "submitLabel": "Submit Enquiry"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar F-Pace Variant",
+  "tabs": [
+    "Jaguar F-Pace"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar F-Pace 2.0d"
+      },
+      {
+        "label": "Jaguar F-Pace 2.0i"
+      },
+      {
+        "label": "Jaguar F-Pace 3.0d"
+      },
+      {
+        "label": "Jaguar F-Pace 3.0 V6 S"
+      },
+      {
+        "label": "Jaguar F-Pace 3.0 V6 SC"
+      },
+      {
+        "label": "Jaguar F-Pace P400e"
+      },
+      {
+        "label": "Jaguar F-Pace SVR"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "kicker": "Full Breakdown",
+  "headlinePre": "Jaguar XK",
+  "headlineHighlight": "Engine Rebuild Price Guide",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "columns": [
+    "Engine Code",
+    "Fuel",
+    "Size",
+    "Chassis",
+    "Rebuild Price Range"
+  ],
+  "rows": [
+    {
+      "family": "AJ26/AJ27",
+      "fuel": "Petrol V8",
+      "size": "4.0L/4.2L",
+      "chassis": "X100",
+      "range": "X100"
+    },
+    {
+      "family": "AJ34 (supercharged)",
+      "fuel": "Petrol V8",
+      "size": "4.0L",
+      "chassis": "X100",
+      "range": "X100"
+    },
+    {
+      "family": "AJ133/AJ-V8 Gen III",
+      "fuel": "Petrol V8",
+      "size": "4.2L/5.0L",
+      "chassis": "X100",
+      "range": "X150"
+    },
+    {
+      "family": "AJ133 Supercharged (XKR/XKR-S)",
+      "fuel": "Petrol V8",
+      "size": "5.0L",
+      "chassis": "X100",
+      "range": "X150"
+    }
+  ],
+  "features": [
+    {
+      "icon": "gear",
+      "title": "OEM Components",
+      "body": "Updated components for maximum reliability"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Key Parts Replaced",
+      "body": "Timing chains, injector seals, tensioners & gaskets"
+    },
+    {
+      "icon": "truck",
+      "title": "Recovery From £70",
+      "body": "Nationwide recovery quoted separately"
+    },
+    {
+      "icon": "note",
+      "title": "Prices Exclude VAT",
+      "body": "Unless stated otherwise"
+    }
+  ],
+  "disclaimer": "Every rebuild identifies and replaces worn or damaged timing chains, injector seals, tensioners and gaskets with updated OEM components. Recovery quoted separately from £70. Prices exclude VAT unless stated."
+}

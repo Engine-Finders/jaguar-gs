@@ -1,0 +1,43 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ34S Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "XF",
+      "variant": "XFR",
+      "generation": "X250",
+      "chassis": "X250",
+      "years": "2008–2015",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-xf-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

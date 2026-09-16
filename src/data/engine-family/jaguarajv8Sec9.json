@@ -1,0 +1,62 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "AJ-V8",
+    "titlePost": " ENGINE",
+    "body": "The AJ-V8 is a V8, 4.0L / 4.2L, Petrol engine used across Jaguar's 2 model range, in production 1996–2009. We rebuild every AJ-V8 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "JAGUAR AJ-V8",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The AJ-V8 is fitted across S-Type, XJ — see the full applications table above for exact variants, generations and years.",
+    "lineup": [
+      {
+        "label": "S-Type",
+        "code": "X200"
+      },
+      {
+        "label": "XJ",
+        "code": "X308/X350"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "JAGUAR AJ-V8",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the AJ-V8 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (X200, X308/X350)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

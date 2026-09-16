@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar XE 3.0 V6 S / SC ENGINE",
+    "paragraphs": [
+      "The XE 3.0 V6 S / SC is the performance petrol flagship of the first-generation XE range, fitted from the car's launch in 2015 through to around 2019/2020. It uses the AJ126 — a 3.0-litre supercharged V6 derived from Jaguar's AJ-family engine architecture, which also underpins the larger supercharged V8s used across the brand's performance models of the same era. This engine sits above the four-cylinder Ingenium petrol and diesel units in the XE line-up, offering significantly more power through its supercharged configuration. The XE 3.0 V6 S / SC was discontinued when Jaguar moved the XE to a petrol-only four-cylinder lineup in some markets around 2020, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace AJ126 engines for every XE 3.0 V6 S / SC on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar XE 3.0 V6 S / SC ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "AJ126",
+        "codeRest": "",
+        "body": "A 3.0-litre supercharged V6 petrol engine fitted to the XE 3.0 V6 S / SC from 2015 to 2019/2020 (X760 generation). No specific known issue pattern was independently confirmed for this application during research — cross-referencing the AJ-V8/V6 supercharged pattern from other Jaguar models as a starting point suggests timing chain, tensioner and guide wear are the components to watch, though this has not been independently confirmed for this exact application. We inspect and replace timing chain components, tensioners and guides as standard on every AJ126 rebuild. Check Your AJ126 XE 3.0 V6 S / SC → [link to quote form]",
+        "cta": "Check Your AJ126 XE 3.0 V6 S / SC",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar XE 3.0 V6 S / SC ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Because the XE 3.0 V6 S / SC uses a different engine architecture from the four-cylinder Ingenium units found elsewhere in the XE range, fitting the wrong replacement or assuming parts are interchangeable risks a compatibility problem. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "AJ126",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (AJ126) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X760)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic XE quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar XE 3.0 V6 S / SC ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X760",
+        "chassis": "X760",
+        "years": "2015–2019/2020",
+        "engineCode": "AJ126",
+        "fuel": "Petrol Supercharged"
+      }
+    ]
+  }
+}

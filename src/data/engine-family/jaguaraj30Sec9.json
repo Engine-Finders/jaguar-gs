@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "AJ30",
+    "titlePost": " ENGINE",
+    "body": "The AJ30 is a V6 (60° angle), 3.0L (2,967 cc), Petrol engine used across Jaguar's several model range, in production 1999–2012. We rebuild every AJ30 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ AJ30",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The AJ30 is deployed across the AJ30 (AJ30 / AJ30, AJ30), the AJ30 (AJ30 / AJ30, AJ30), and the AJ30 (AJ30 / AJ30, AJ30). These form the core of the high-performance AJ30 range. More recently, the engine has been adopted for the AJ30 (AJ30, AJ30), the AJ30 (AJ30, AJ30), and the AJ30 roadster (AJ30, AJ30), proving the AJ30's versatility across different vehicle types.",
+    "lineup": [
+      {
+        "label": "AJ30",
+        "code": "AJ30"
+      },
+      {
+        "label": "AJ30",
+        "code": "AJ30"
+      },
+      {
+        "label": "AJ30",
+        "code": "AJ30"
+      },
+      {
+        "label": "AJ30",
+        "code": "AJ30"
+      },
+      {
+        "label": "AJ30",
+        "code": "AJ30"
+      },
+      {
+        "label": "AJ30",
+        "code": "AJ30"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ AJ30",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the AJ30 is fitted to six different models — from the compact AJ30 to the grand-touring AJ30 roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A AJ30 from an AJ30 isn't a drop-in match for a AJ30 from an AJ30 — ancillaries and mounting differ.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (AJ30, AJ30, AJ30, AJ30, AJ30, AJ30)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

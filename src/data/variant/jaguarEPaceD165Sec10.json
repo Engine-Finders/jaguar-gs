@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar E-Pace D165 ENGINE",
+    "paragraphs": [
+      "The E-Pace D165 uses the Ingenium AJ200D — a 2.0-litre four-cylinder diesel that's part of Jaguar Land Rover's modular Ingenium engine family. It's fitted across the entire X540 generation, which has been on sale since 2017. The AJ200D is the same diesel engine family used across the XE, XF and F-Pace ranges, which is why the known timing chain pattern is consistent across these models. The D165 sits as the entry-level diesel in the E-Pace line-up, with the D200 offering a higher-power version of the same 2.0-litre diesel unit."
+    ],
+    "boldParagraph": "We continue to rebuild and replace AJ200D engines for every E-Pace D165 on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar E-Pace D165 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "AJ200D",
+        "codeRest": "(X540 (2017–present))",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the E-Pace D165 from 2017 to present (X540 generation). Known for timing chain wear over time — see the callout above. We inspect and replace timing chain components, injector seals, EGR components and gaskets as standard on every AJ200D rebuild. Check Your AJ200D E-Pace D165 → [link to quote form]",
+        "cta": "Check Your AJ200D E-Pace D165",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar E-Pace D165 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The E-Pace D165 uses the AJ200D diesel across the entire X540 generation, which simplifies compatibility compared to some models that switch engine codes mid-run. We confirm your exact engine code and generation before quoting or supplying anything.",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "AJ200D",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Before we quote or supply anything, we confirm:"
+      },
+      {
+        "icon": "car",
+        "text": "Your exact engine code (AJ200D) via registration or VIN"
+      },
+      {
+        "icon": "gears",
+        "text": "Your generation (X540)"
+      },
+      {
+        "icon": "code",
+        "text": "Drivetrain and ancillary specification"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic E-Pace quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar E-Pace D165 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X540",
+        "chassis": "X540",
+        "years": "2017–present",
+        "engineCode": "AJ200D",
+        "fuel": "Diesel"
+      }
+    ]
+  }
+}

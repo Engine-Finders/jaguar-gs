@@ -1,0 +1,97 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar X-Type 2.1 V6 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar X-Type 2.1 V6 has used the AJ20 throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2001",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2002",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2003",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2004",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2005",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2006",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2007",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2008",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2009",
+      "generation": "X400",
+      "engineCode": "AJ20",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The AJ20",
+    "rest": " has been fitted to every X-Type 2.1 V6 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

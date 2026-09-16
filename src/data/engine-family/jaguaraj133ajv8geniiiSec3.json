@@ -1,0 +1,88 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ133 (AJ-V8 Gen III) Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "F-Pace",
+      "variant": "SVR",
+      "generation": "X761",
+      "chassis": "X761",
+      "years": "2016–2024",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-f-pace-engines"
+    },
+    {
+      "model": "F-Type",
+      "variant": "R, SVR",
+      "generation": "X152",
+      "chassis": "X152",
+      "years": "2013–2024",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-f-type-engines"
+    },
+    {
+      "model": "XE",
+      "variant": "Project 8",
+      "generation": "X760",
+      "chassis": "X760",
+      "years": "2018–2020",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-xe-engines"
+    },
+    {
+      "model": "XF",
+      "variant": "XFR, XFR-S",
+      "generation": "X250",
+      "chassis": "X250",
+      "years": "2009–2015",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-xf-engines"
+    },
+    {
+      "model": "XJ",
+      "variant": "XJ Supersport, XJR",
+      "generation": "X351",
+      "chassis": "X351",
+      "years": "2009–2019",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-xj-engines"
+    },
+    {
+      "model": "XK",
+      "variant": "XKR, XKR-S",
+      "generation": "X150",
+      "chassis": "X150",
+      "years": "2009–2014",
+      "powertrain": "Supercharged V8",
+      "modelHref": "/jaguar-xk-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

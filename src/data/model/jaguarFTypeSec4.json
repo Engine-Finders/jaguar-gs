@@ -1,0 +1,59 @@
+{
+  "kicker": "Full Breakdown",
+  "headlinePre": "Jaguar F-Type",
+  "headlineHighlight": "Engine Rebuild Price Guide",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "columns": [
+    "Engine Code",
+    "Fuel",
+    "Size",
+    "Chassis",
+    "Rebuild Price Range"
+  ],
+  "rows": [
+    {
+      "family": "Ingenium AJ200",
+      "fuel": "Petrol",
+      "size": "2.0L",
+      "chassis": "X152",
+      "range": "£2,200 – £3,000"
+    },
+    {
+      "family": "AJ126 (V6 S)",
+      "fuel": "Petrol Supercharged",
+      "size": "3.0L",
+      "chassis": "X152",
+      "range": "£3,600 – £4,800"
+    },
+    {
+      "family": "AJ133 (V8, R/SVR)",
+      "fuel": "Petrol Supercharged",
+      "size": "5.0L",
+      "chassis": "X152",
+      "range": "£6,500 – £9,500"
+    }
+  ],
+  "features": [
+    {
+      "icon": "gear",
+      "title": "OEM Components",
+      "body": "Updated components for maximum reliability"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Key Parts Replaced",
+      "body": "Timing chains, injector seals, tensioners & gaskets"
+    },
+    {
+      "icon": "truck",
+      "title": "Recovery From £70",
+      "body": "Nationwide recovery quoted separately"
+    },
+    {
+      "icon": "note",
+      "title": "Prices Exclude VAT",
+      "body": "Unless stated otherwise"
+    }
+  ],
+  "disclaimer": "Every rebuild identifies and replaces worn or damaged timing chains, injector seals, tensioners and gaskets with updated OEM components. Recovery quoted separately from £70. Prices exclude VAT unless stated."
+}

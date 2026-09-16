@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar XE P200",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar XE P200"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "XE"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "P200"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "AJ200"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L I4"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X760 (2015–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,000"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The XE P200 uses the AJ200 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

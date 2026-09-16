@@ -1,0 +1,44 @@
+{
+  "kicker": "Jaguar S-Type 2.7d Specialists",
+  "h1": "Jaguar S-Type 2.7d|Engine Rebuild —|From £2,900",
+  "subhead": "Specialist Jaguar S-Type 2.7d engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12‑month unlimited‑mileage warranty",
+  "rating": {
+    "stars": 5,
+    "label": "Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+  },
+  "trustBar": [
+    {
+      "icon": "tech",
+      "label": "12 Month Unlimited-Mileage Warranty"
+    },
+    {
+      "icon": "shield-check",
+      "label": "Nationwide Recovery"
+    },
+    {
+      "icon": "truck",
+      "label": "Specialist technicians with 10-15 years of experience"
+    },
+    {
+      "icon": "search",
+      "label": "Free Engine Matching by Registration"
+    },
+    {
+      "icon": "engine",
+      "label": "AJD‑V6 Specialists"
+    }
+  ],
+  "priceCta": {
+    "kicker": "Starting from £2,900 —",
+    "label": "Get a Fixed-Price Quote →",
+    "href": "#quote-form"
+  },
+  "phoneCta": {
+    "icon": "phone",
+    "label": "Call Our Specialists:",
+    "phone": "01268 944 234",
+    "href": "tel:02034884649"
+  },
+  "image": "/variant/sec1.webp",
+  "imageMobile": "/variant/sec1_mobile.webp"
+}

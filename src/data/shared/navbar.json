@@ -1,0 +1,532 @@
+{
+  "brand": "JAGUAR GARAGE",
+  "tagline": "JAGUAR ENGINE SPECIALISTS",
+  "phone": "0203 488 4649",
+  "phoneHref": "tel:02034884649",
+  "cta": {
+    "label": "Get a Quote",
+    "href": "/contact"
+  },
+  "links": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Models",
+      "href": "/models",
+      "children": [
+        {
+          "label": "Jaguar E Pace",
+          "href": "/jaguar-e-pace-engines"
+        },
+        {
+          "label": "Jaguar F Pace",
+          "href": "/jaguar-f-pace-engines"
+        },
+        {
+          "label": "Jaguar F Type",
+          "href": "/jaguar-f-type-engines"
+        },
+        {
+          "label": "Jaguar S Type",
+          "href": "/jaguar-s-type-engines"
+        },
+        {
+          "label": "Jaguar X Type",
+          "href": "/jaguar-x-type-engines"
+        },
+        {
+          "label": "Jaguar XE",
+          "href": "/jaguar-xe-engines"
+        },
+        {
+          "label": "Jaguar XF",
+          "href": "/jaguar-xf-engines"
+        },
+        {
+          "label": "Jaguar XJ",
+          "href": "/jaguar-xj-engines"
+        },
+        {
+          "label": "Jaguar XK",
+          "href": "/jaguar-xk-engines"
+        }
+      ]
+    },
+    {
+      "label": "Engines",
+      "href": "/engines",
+      "children": [
+        {
+          "label": "Jaguar AJ V6",
+          "href": "/jaguar-aj-v6-engine"
+        },
+        {
+          "label": "Jaguar AJ V8",
+          "href": "/jaguar-aj-v8-engine"
+        },
+        {
+          "label": "Jaguar Aj126",
+          "href": "/jaguar-aj126-engine"
+        },
+        {
+          "label": "Jaguar Aj133",
+          "href": "/jaguar-aj133-engine"
+        },
+        {
+          "label": "Jaguar Aj133 AJ V8 GEN III",
+          "href": "/jaguar-aj133-aj-v8-gen-iii-engine"
+        },
+        {
+          "label": "Jaguar Aj133s",
+          "href": "/jaguar-aj133s-engine"
+        },
+        {
+          "label": "Jaguar Aj150 1 5 I3",
+          "href": "/jaguar-aj150-1-5-i3-engine"
+        },
+        {
+          "label": "Jaguar Aj16",
+          "href": "/jaguar-aj16-engine"
+        },
+        {
+          "label": "Jaguar Aj20",
+          "href": "/jaguar-aj20-engine"
+        },
+        {
+          "label": "Jaguar Aj200",
+          "href": "/jaguar-aj200-engine"
+        },
+        {
+          "label": "Jaguar Aj200d",
+          "href": "/jaguar-aj200d-engine"
+        },
+        {
+          "label": "Jaguar Aj200p",
+          "href": "/jaguar-aj200p-engine"
+        },
+        {
+          "label": "Jaguar Aj25",
+          "href": "/jaguar-aj25-engine"
+        },
+        {
+          "label": "Jaguar Aj26",
+          "href": "/jaguar-aj26-engine"
+        },
+        {
+          "label": "Jaguar Aj27",
+          "href": "/jaguar-aj27-engine"
+        },
+        {
+          "label": "Jaguar Aj30",
+          "href": "/jaguar-aj30-engine"
+        },
+        {
+          "label": "Jaguar Aj300d",
+          "href": "/jaguar-aj300d-engine"
+        },
+        {
+          "label": "Jaguar Aj300p",
+          "href": "/jaguar-aj300p-engine"
+        },
+        {
+          "label": "Jaguar Aj34",
+          "href": "/jaguar-aj34-engine"
+        },
+        {
+          "label": "Jaguar Aj34s",
+          "href": "/jaguar-aj34s-engine"
+        },
+        {
+          "label": "Jaguar AJD V6",
+          "href": "/jaguar-ajd-v6-engine"
+        },
+        {
+          "label": "Jaguar Ford Duratorq",
+          "href": "/jaguar-ford-duratorq-engine"
+        },
+        {
+          "label": "Jaguar Ford Ecoboost",
+          "href": "/jaguar-ford-ecoboost-engine"
+        },
+        {
+          "label": "Jaguar ZSD 420",
+          "href": "/jaguar-zsd-420-engine"
+        }
+      ]
+    },
+    {
+      "label": "Variants",
+      "href": "/variants",
+      "children": [
+        {
+          "label": "Jaguar E Pace D165",
+          "href": "/jaguar-e-pace-d165-engines"
+        },
+        {
+          "label": "Jaguar E Pace D200",
+          "href": "/jaguar-e-pace-d200-engines"
+        },
+        {
+          "label": "Jaguar E Pace P160",
+          "href": "/jaguar-e-pace-p160-engines"
+        },
+        {
+          "label": "Jaguar E Pace P200",
+          "href": "/jaguar-e-pace-p200-engines"
+        },
+        {
+          "label": "Jaguar E Pace P250",
+          "href": "/jaguar-e-pace-p250-engines"
+        },
+        {
+          "label": "Jaguar E Pace P300e",
+          "href": "/jaguar-e-pace-p300e-engines"
+        },
+        {
+          "label": "Jaguar F Pace 300 Sport",
+          "href": "/jaguar-f-pace-300-sport-engines"
+        },
+        {
+          "label": "Jaguar F Pace 400 Sport",
+          "href": "/jaguar-f-pace-400-sport-engines"
+        },
+        {
+          "label": "Jaguar F Pace D180",
+          "href": "/jaguar-f-pace-d180-engines"
+        },
+        {
+          "label": "Jaguar F Pace D200",
+          "href": "/jaguar-f-pace-d200-engines"
+        },
+        {
+          "label": "Jaguar F Pace D300",
+          "href": "/jaguar-f-pace-d300-engines"
+        },
+        {
+          "label": "Jaguar F Pace P250",
+          "href": "/jaguar-f-pace-p250-engines"
+        },
+        {
+          "label": "Jaguar F Pace P340",
+          "href": "/jaguar-f-pace-p340-engines"
+        },
+        {
+          "label": "Jaguar F Pace P400",
+          "href": "/jaguar-f-pace-p400-engines"
+        },
+        {
+          "label": "Jaguar F Pace P400e",
+          "href": "/jaguar-f-pace-p400e-engines"
+        },
+        {
+          "label": "Jaguar F Pace SVR",
+          "href": "/jaguar-f-pace-svr-engines"
+        },
+        {
+          "label": "Jaguar F Type 2 0I Ingenium",
+          "href": "/jaguar-f-type-2-0i-ingenium-engines"
+        },
+        {
+          "label": "Jaguar F Type P450",
+          "href": "/jaguar-f-type-p450-engines"
+        },
+        {
+          "label": "Jaguar F Type R",
+          "href": "/jaguar-f-type-r-engines"
+        },
+        {
+          "label": "Jaguar F Type R575",
+          "href": "/jaguar-f-type-r575-engines"
+        },
+        {
+          "label": "Jaguar F Type SVR",
+          "href": "/jaguar-f-type-svr-engines"
+        },
+        {
+          "label": "Jaguar F Type V6",
+          "href": "/jaguar-f-type-v6-engines"
+        },
+        {
+          "label": "Jaguar F Type V6 S",
+          "href": "/jaguar-f-type-v6-s-engines"
+        },
+        {
+          "label": "Jaguar S Type 2 5 V6",
+          "href": "/jaguar-s-type-2-5-v6-engines"
+        },
+        {
+          "label": "Jaguar S Type 2 7D",
+          "href": "/jaguar-s-type-2-7d-engines"
+        },
+        {
+          "label": "Jaguar S Type 3 0 V6",
+          "href": "/jaguar-s-type-3-0-v6-engines"
+        },
+        {
+          "label": "Jaguar S Type 4 2 V8",
+          "href": "/jaguar-s-type-4-2-v8-engines"
+        },
+        {
+          "label": "Jaguar S Type R",
+          "href": "/jaguar-s-type-r-engines"
+        },
+        {
+          "label": "Jaguar X Type 2 0 V6",
+          "href": "/jaguar-x-type-2-0-v6-engines"
+        },
+        {
+          "label": "Jaguar X Type 2 0D",
+          "href": "/jaguar-x-type-2-0d-engines"
+        },
+        {
+          "label": "Jaguar X Type 2 1 V6",
+          "href": "/jaguar-x-type-2-1-v6-engines"
+        },
+        {
+          "label": "Jaguar X Type 2 5 V6",
+          "href": "/jaguar-x-type-2-5-v6-engines"
+        },
+        {
+          "label": "Jaguar X Type 3 0 V6",
+          "href": "/jaguar-x-type-3-0-v6-engines"
+        },
+        {
+          "label": "Jaguar XE 2 0D",
+          "href": "/jaguar-xe-2-0d-engines"
+        },
+        {
+          "label": "Jaguar XE 3 0 V6 S SC",
+          "href": "/jaguar-xe-3-0-v6-s-sc-engines"
+        },
+        {
+          "label": "Jaguar XE 300 Sport",
+          "href": "/jaguar-xe-300-sport-engines"
+        },
+        {
+          "label": "Jaguar XE D150",
+          "href": "/jaguar-xe-d150-engines"
+        },
+        {
+          "label": "Jaguar XE D165",
+          "href": "/jaguar-xe-d165-engines"
+        },
+        {
+          "label": "Jaguar XE D180",
+          "href": "/jaguar-xe-d180-engines"
+        },
+        {
+          "label": "Jaguar XE D200",
+          "href": "/jaguar-xe-d200-engines"
+        },
+        {
+          "label": "Jaguar XE D240",
+          "href": "/jaguar-xe-d240-engines"
+        },
+        {
+          "label": "Jaguar XE P200",
+          "href": "/jaguar-xe-p200-engines"
+        },
+        {
+          "label": "Jaguar XE P250",
+          "href": "/jaguar-xe-p250-engines"
+        },
+        {
+          "label": "Jaguar XE P300",
+          "href": "/jaguar-xe-p300-engines"
+        },
+        {
+          "label": "Jaguar XF 2 0",
+          "href": "/jaguar-xf-2-0-engines"
+        },
+        {
+          "label": "Jaguar XF 2 0D",
+          "href": "/jaguar-xf-2-0d-engines"
+        },
+        {
+          "label": "Jaguar XF 2 0I",
+          "href": "/jaguar-xf-2-0i-engines"
+        },
+        {
+          "label": "Jaguar XF 2 2 Diesel",
+          "href": "/jaguar-xf-2-2-diesel-engines"
+        },
+        {
+          "label": "Jaguar XF 2 7D",
+          "href": "/jaguar-xf-2-7d-engines"
+        },
+        {
+          "label": "Jaguar XF 3 0 V6",
+          "href": "/jaguar-xf-3-0-v6-engines"
+        },
+        {
+          "label": "Jaguar XF 3 0 V6 S SC",
+          "href": "/jaguar-xf-3-0-v6-s-sc-engines"
+        },
+        {
+          "label": "Jaguar XF 3 0D",
+          "href": "/jaguar-xf-3-0d-engines"
+        },
+        {
+          "label": "Jaguar XF 300 Sport",
+          "href": "/jaguar-xf-300-sport-engines"
+        },
+        {
+          "label": "Jaguar XF 4 2 V8",
+          "href": "/jaguar-xf-4-2-v8-engines"
+        },
+        {
+          "label": "Jaguar XF 5 0 V8 Aj133",
+          "href": "/jaguar-xf-5-0-v8-aj133-engines"
+        },
+        {
+          "label": "Jaguar XF P250",
+          "href": "/jaguar-xf-p250-engines"
+        },
+        {
+          "label": "Jaguar XF P300",
+          "href": "/jaguar-xf-p300-engines"
+        },
+        {
+          "label": "Jaguar XF R Sport",
+          "href": "/jaguar-xf-r-sport-engines"
+        },
+        {
+          "label": "Jaguar XF XFR 5 0 Supercharged V8",
+          "href": "/jaguar-xf-xfr-5-0-supercharged-v8-engines"
+        },
+        {
+          "label": "Jaguar XJ 3 0 V6 Supercharged",
+          "href": "/jaguar-xj-3-0-v6-supercharged-engines"
+        },
+        {
+          "label": "Jaguar XJ 3 0D",
+          "href": "/jaguar-xj-3-0d-engines"
+        },
+        {
+          "label": "Jaguar XJ 5 0 V8",
+          "href": "/jaguar-xj-5-0-v8-engines"
+        },
+        {
+          "label": "Jaguar XJ 5 0 V8 Supercharged",
+          "href": "/jaguar-xj-5-0-v8-supercharged-engines"
+        },
+        {
+          "label": "Jaguar XJ Super V8",
+          "href": "/jaguar-xj-super-v8-engines"
+        },
+        {
+          "label": "Jaguar XJ6",
+          "href": "/jaguar-xj6-engines"
+        },
+        {
+          "label": "Jaguar XJ8",
+          "href": "/jaguar-xj8-engines"
+        },
+        {
+          "label": "Jaguar XJR",
+          "href": "/jaguar-xjr-engines"
+        },
+        {
+          "label": "Jaguar XK 4 2 V8",
+          "href": "/jaguar-xk-4-2-v8-engines"
+        },
+        {
+          "label": "Jaguar XK 5 0 V8",
+          "href": "/jaguar-xk-5-0-v8-engines"
+        },
+        {
+          "label": "Jaguar XK XKR X100",
+          "href": "/jaguar-xk-xkr-x100-engines"
+        },
+        {
+          "label": "Jaguar XK8",
+          "href": "/jaguar-xk8-engines"
+        },
+        {
+          "label": "Jaguar XKR S",
+          "href": "/jaguar-xkr-s-engines"
+        },
+        {
+          "label": "Jaguar XKR X150",
+          "href": "/jaguar-xkr-x150-engines"
+        }
+      ]
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Guides",
+      "href": "/guides",
+      "children": [
+        {
+          "label": "Jaguar Cylinder Head Repair & Rebuild",
+          "href": "/jaguar-cylinder-head-repair-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Bearing Replacement",
+          "href": "/jaguar-engine-bearing-replacement"
+        },
+        {
+          "label": "Jaguar Engine Compatibility & Application Matching",
+          "href": "/jaguar-engine-compatibility-and-application-matching"
+        },
+        {
+          "label": "Jaguar Engine Failure Repair",
+          "href": "/jaguar-engine-failure-repair"
+        },
+        {
+          "label": "Jaguar Engine Inspection & Assessment",
+          "href": "/jaguar-engine-inspection-assessment"
+        },
+        {
+          "label": "Jaguar Engine Machining & Rebuild Preparation",
+          "href": "/jaguar-engine-machining-and-rebuild-preparation"
+        },
+        {
+          "label": "Jaguar Engine Matching by Registration & VIN",
+          "href": "/jaguar-engine-matching-by-registration-and-vin"
+        },
+        {
+          "label": "Jaguar Engine Rebuild",
+          "href": "/jaguar-engine-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Reconditioned",
+          "href": "/jaguar-engine-rebuild-vs-reconditioned"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Replacement",
+          "href": "/jaguar-engine-rebuild-vs-replacement"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Used Engine",
+          "href": "/jaguar-engine-rebuild-vs-used-engine"
+        },
+        {
+          "label": "Jaguar Engine Repair vs Full Rebuild",
+          "href": "/jaguar-engine-repair-vs-full-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Replacement",
+          "href": "/jaguar-engine-replacement"
+        },
+        {
+          "label": "Jaguar Engine Replacement & Fitting",
+          "href": "/jaguar-engine-replacement-and-fitting"
+        },
+        {
+          "label": "Jaguar Engine Supply & Fit",
+          "href": "/jaguar-engine-supply-fit"
+        }
+      ]
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ]
+}

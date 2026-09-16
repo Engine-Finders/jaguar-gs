@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar E-Pace P300e",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar E-Pace P300e"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "E-Pace"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "P300e"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Plug-in Hybrid"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "Ingenium AJ150 (1.5L I3) + Electric"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "1.5L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "X540 (2017–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,000"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The E-Pace P300e uses the Ingenium AJ150 (1.5L I3) + Electric 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

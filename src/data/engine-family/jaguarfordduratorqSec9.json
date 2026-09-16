@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "Ford Duratorq",
+    "titlePost": " ENGINE",
+    "body": "The Ford Duratorq is a Inline-4 (I4), 2.2L (2,198 cc), Diesel engine used across Jaguar's several model range, in production 2008–2015. We rebuild every Ford Duratorq to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ Ford Duratorq",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The Ford Duratorq is deployed across the Ford Duratorq (Ford Duratorq / Ford Duratorq, Ford Duratorq), the Ford Duratorq (Ford Duratorq / Ford Duratorq, Ford Duratorq), and the Ford Duratorq (Ford Duratorq / Ford Duratorq, Ford Duratorq). These form the core of the high-performance Ford Duratorq range. More recently, the engine has been adopted for the Ford Duratorq (Ford Duratorq, Ford Duratorq), the Ford Duratorq (Ford Duratorq, Ford Duratorq), and the Ford Duratorq roadster (Ford Duratorq, Ford Duratorq), proving the Ford Duratorq's versatility across different vehicle types.",
+    "lineup": [
+      {
+        "label": "Ford Duratorq",
+        "code": "Ford Duratorq"
+      },
+      {
+        "label": "Ford Duratorq",
+        "code": "Ford Duratorq"
+      },
+      {
+        "label": "Ford Duratorq",
+        "code": "Ford Duratorq"
+      },
+      {
+        "label": "Ford Duratorq",
+        "code": "Ford Duratorq"
+      },
+      {
+        "label": "Ford Duratorq",
+        "code": "Ford Duratorq"
+      },
+      {
+        "label": "Ford Duratorq",
+        "code": "Ford Duratorq"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ Ford Duratorq",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the Ford Duratorq is fitted to six different models — from the compact Ford Duratorq to the grand-touring Ford Duratorq roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A Ford Duratorq from an Ford Duratorq isn't a drop-in match for a Ford Duratorq from an Ford Duratorq — ancillaries and mounting differ.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (Ford Duratorq, Ford Duratorq, Ford Duratorq, Ford Duratorq, Ford Duratorq, Ford Duratorq)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

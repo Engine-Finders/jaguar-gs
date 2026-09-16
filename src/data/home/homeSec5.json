@@ -1,0 +1,76 @@
+{
+  "h2": "Jaguar Engine Problems|We See|Every Week",
+  "description": "These are the engines we rebuild most often. If yours is here, we know exactly what to do.",
+  "engines": [
+    {
+      "code": "AJ133",
+      "spec": "5.0L Supercharged V8",
+      "models": "XJ, XK, XF, F-Type",
+      "years": "2012–2014",
+      "symptom": "Timing chain, tensioner, guide and water pump wear",
+      "cost": "From £5,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/jaguar-aj133-engine"
+    },
+    {
+      "code": "Ingenium Diesel",
+      "spec": "2.0L Diesel",
+      "models": "XE, XF, F-Pace, E-Pace",
+      "years": "2015–present",
+      "symptom": "Timing chain wear, injector seal leaks, EGR issues",
+      "cost": "From £2,000",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/jaguar-aj200d-engine"
+    },
+    {
+      "code": "AJ-V8 4.2L",
+      "spec": "4.2L V8 Naturally Aspirated",
+      "models": "S-Type, XJ, XK",
+      "years": "1999–2008",
+      "symptom": "Timing chain, tensioner and guide wear",
+      "cost": "From £4,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/jaguar-aj-v8-engine"
+    },
+    {
+      "code": "AJ-V6",
+      "spec": "3.0L V6",
+      "models": "S-Type",
+      "years": "1999–2008",
+      "symptom": "Timing chain and tensioner wear",
+      "cost": "From £2,600",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/jaguar-aj-v6-engine"
+    },
+    {
+      "code": "AJ V6 Petrol",
+      "spec": "V6 Petrol",
+      "models": "X-Type",
+      "years": "2001–2009",
+      "symptom": "Ignition coil failure, valve cover gasket leaks",
+      "cost": "From £2,600",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/jaguar-x-type-engines"
+    },
+    {
+      "code": "AJ27",
+      "spec": "4.0L V8",
+      "models": "XK8/XKR, X100",
+      "years": "1996–2006",
+      "symptom": "Timing chain and tensioner wear",
+      "cost": "From £4,500",
+      "turnaround": "3-5 working days",
+      "image": "/home/engine_trim.webp",
+      "href": "/jaguar-aj27-engine"
+    }
+  ],
+  "cta": {
+    "label": "See All Rebuilds",
+    "href": "/engines"
+  }
+}

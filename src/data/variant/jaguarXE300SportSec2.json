@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar XE 300 Sport",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar XE 300 Sport"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "XE"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "300 Sport"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Supercharged"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "AJ126 (3.0L V6 supercharged)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "X760 (2015–2019/2020)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£3,200"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The XE 300 Sport uses the AJ126 (3.0L V6 supercharged) 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

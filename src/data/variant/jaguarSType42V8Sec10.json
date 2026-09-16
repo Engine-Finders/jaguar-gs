@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar S-Type 4.2 V8 ENGINE",
+    "paragraphs": [
+      "The S-Type 4.2 V8 uses the AJ-V8 — a 4.2-litre naturally aspirated V8 petrol engine. It was fitted to the X200-generation S-Type from its introduction in 1999 until the model was discontinued in 2008. The AJ-V8 was Jaguar's flagship engine of the era and is a completely different unit from the AJ-V6 found in the smaller-engined S-Type variants."
+    ],
+    "boldParagraph": "We continue to rebuild and replace engine engines for every S-Type 4.2 V8 on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar S-Type 4.2 V8 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "—",
+        "codeRest": "",
+        "body": "A 4.2-litre naturally aspirated V8 petrol fitted to the S-Type from 1999 to 2008 (X200 generation). Known for timing chain stretch over time — see the callout above. We replace the timing chain, tensioners, guide rails, and gaskets as standard on every AJ-V8 rebuild. Check Your AJ-V8 S-Type 4.2 V8 → [link to quote form]",
+        "cta": "Check Your engine S-Type 4.2 V8",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar S-Type 4.2 V8 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The S-Type 4.2 V8 uses the AJ-V8 engine across its entire production run. While there were no major engine code changes within the S-Type's lifecycle, ensuring the correct specification is still critical — particularly when it comes to ancillaries, electronics, and ECU matching. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "engine",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "- Your exact engine code (AJ-V8)"
+      },
+      {
+        "icon": "car",
+        "text": "- Your generation (X200)"
+      },
+      {
+        "icon": "gears",
+        "text": "- Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "- Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic Jaguar quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar S-Type 4.2 V8 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X200",
+        "chassis": "X200",
+        "years": "1999–2008",
+        "engineCode": "AJ-V8",
+        "fuel": "Petrol"
+      }
+    ]
+  }
+}
