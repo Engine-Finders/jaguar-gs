@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar F-Pace P400e",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar F-Pace P400e"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "F-Pace"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "P400e"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol Plug-in Hybrid"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "AJ200P"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L I4 + electric motor (404PS combined, 33mi electric range)"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "X761 (2020–present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,200"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The F-Pace P400e uses the AJ200P 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

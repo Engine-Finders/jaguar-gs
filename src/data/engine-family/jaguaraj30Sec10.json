@@ -1,0 +1,49 @@
+{
+  "titlePre": "OUR WORKSHOP VIEW OF",
+  "titleBigPre": "THE ",
+  "titleBigHighlight": "MERCEDES-BENZ",
+  "titleBigPost": " AJ30",
+  "subtext": [
+    "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
+    "Here's our practical view of the AJ30 across all six model applications."
+  ],
+  "columns": [
+    {
+      "icon": "car",
+      "title": "APPLICATIONS WE SEE:",
+      "body": "The AJ30 is a relatively new engine, and we see it across the entire range of its applications — from the compact 45-series Jaguars to the more recent 43-series models and the AJ30."
+    },
+    {
+      "icon": "wrench",
+      "title": "WHAT WE REPLACE:",
+      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+    },
+    {
+      "icon": "clipboard",
+      "title": "KNOWN ISSUES:",
+      "body": "No widely-reported pattern is confirmed for the AJ30 across any of its six applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+    }
+  ],
+  "notice": {
+    "highlight": "Note:",
+    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ30 rebuilds is available to draw from, rather than filled with placeholder examples now."
+  },
+  "typical": {
+    "kicker": "A TYPICAL",
+    "title": "MERCEDES-BENZ AJ30 REBUILD",
+    "image": "/engine/sec10_bottom.webp",
+    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ30 is a highly-strung, high-performance engine, and its twin-scroll turbocharger is a central component in its design. A full rebuild involves removing and inspecting the turbocharger, replacing timing chain components, bearings, gaskets, and calibrating the two-stage fuel injection system (direct and port injection). Given its 421 hp output in S guise, the engine's components are stressed to a high degree, and we pay particular attention to the crankshaft and cylinder head during inspection.",
+    "scope": {
+      "label": "Typical Scope:",
+      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+    },
+    "startingFromLabel": "Starting From:",
+    "startingFromPrice": "£2,200",
+    "cta": {
+      "label": "Check AJ30 Rebuild Options →",
+      "href": "#quote-form"
+    }
+  }
+}

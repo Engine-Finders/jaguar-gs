@@ -1,0 +1,717 @@
+[
+  {
+    "type": "model",
+    "slug": "jaguar-e-pace-engines",
+    "title": "Jaguar E Pace"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-f-pace-engines",
+    "title": "Jaguar F Pace"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-f-type-engines",
+    "title": "Jaguar F Type"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-s-type-engines",
+    "title": "Jaguar S Type"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-x-type-engines",
+    "title": "Jaguar X Type"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-xe-engines",
+    "title": "Jaguar XE"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-xf-engines",
+    "title": "Jaguar XF"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-xj-engines",
+    "title": "Jaguar XJ"
+  },
+  {
+    "type": "model",
+    "slug": "jaguar-xk-engines",
+    "title": "Jaguar XK"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-e-pace-d165-engines",
+    "title": "Jaguar E Pace D165"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-e-pace-d200-engines",
+    "title": "Jaguar E Pace D200"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-e-pace-p160-engines",
+    "title": "Jaguar E Pace P160"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-e-pace-p200-engines",
+    "title": "Jaguar E Pace P200"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-e-pace-p250-engines",
+    "title": "Jaguar E Pace P250"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-e-pace-p300e-engines",
+    "title": "Jaguar E Pace P300e"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-300-sport-engines",
+    "title": "Jaguar F Pace 300 Sport"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-400-sport-engines",
+    "title": "Jaguar F Pace 400 Sport"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-d180-engines",
+    "title": "Jaguar F Pace D180"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-d200-engines",
+    "title": "Jaguar F Pace D200"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-d300-engines",
+    "title": "Jaguar F Pace D300"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-p250-engines",
+    "title": "Jaguar F Pace P250"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-p340-engines",
+    "title": "Jaguar F Pace P340"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-p400-engines",
+    "title": "Jaguar F Pace P400"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-p400e-engines",
+    "title": "Jaguar F Pace P400e"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-pace-svr-engines",
+    "title": "Jaguar F Pace SVR"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-2-0i-ingenium-engines",
+    "title": "Jaguar F Type 2 0I Ingenium"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-p450-engines",
+    "title": "Jaguar F Type P450"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-r-engines",
+    "title": "Jaguar F Type R"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-r575-engines",
+    "title": "Jaguar F Type R575"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-svr-engines",
+    "title": "Jaguar F Type SVR"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-v6-engines",
+    "title": "Jaguar F Type V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-f-type-v6-s-engines",
+    "title": "Jaguar F Type V6 S"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-s-type-2-5-v6-engines",
+    "title": "Jaguar S Type 2 5 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-s-type-2-7d-engines",
+    "title": "Jaguar S Type 2 7D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-s-type-3-0-v6-engines",
+    "title": "Jaguar S Type 3 0 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-s-type-4-2-v8-engines",
+    "title": "Jaguar S Type 4 2 V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-s-type-r-engines",
+    "title": "Jaguar S Type R"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-x-type-2-0-v6-engines",
+    "title": "Jaguar X Type 2 0 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-x-type-2-0d-engines",
+    "title": "Jaguar X Type 2 0D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-x-type-2-1-v6-engines",
+    "title": "Jaguar X Type 2 1 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-x-type-2-5-v6-engines",
+    "title": "Jaguar X Type 2 5 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-x-type-3-0-v6-engines",
+    "title": "Jaguar X Type 3 0 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-2-0d-engines",
+    "title": "Jaguar XE 2 0D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-3-0-v6-s-sc-engines",
+    "title": "Jaguar XE 3 0 V6 S SC"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-300-sport-engines",
+    "title": "Jaguar XE 300 Sport"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-d150-engines",
+    "title": "Jaguar XE D150"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-d165-engines",
+    "title": "Jaguar XE D165"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-d180-engines",
+    "title": "Jaguar XE D180"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-d200-engines",
+    "title": "Jaguar XE D200"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-d240-engines",
+    "title": "Jaguar XE D240"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-p200-engines",
+    "title": "Jaguar XE P200"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-p250-engines",
+    "title": "Jaguar XE P250"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xe-p300-engines",
+    "title": "Jaguar XE P300"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-2-0-engines",
+    "title": "Jaguar XF 2 0"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-2-0d-engines",
+    "title": "Jaguar XF 2 0D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-2-0i-engines",
+    "title": "Jaguar XF 2 0I"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-2-2-diesel-engines",
+    "title": "Jaguar XF 2 2 Diesel"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-2-7d-engines",
+    "title": "Jaguar XF 2 7D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-3-0-v6-engines",
+    "title": "Jaguar XF 3 0 V6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-3-0-v6-s-sc-engines",
+    "title": "Jaguar XF 3 0 V6 S SC"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-3-0d-engines",
+    "title": "Jaguar XF 3 0D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-300-sport-engines",
+    "title": "Jaguar XF 300 Sport"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-4-2-v8-engines",
+    "title": "Jaguar XF 4 2 V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-5-0-v8-aj133-engines",
+    "title": "Jaguar XF 5 0 V8 Aj133"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-p250-engines",
+    "title": "Jaguar XF P250"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-p300-engines",
+    "title": "Jaguar XF P300"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-r-sport-engines",
+    "title": "Jaguar XF R Sport"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xf-xfr-5-0-supercharged-v8-engines",
+    "title": "Jaguar XF XFR 5 0 Supercharged V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj-3-0-v6-supercharged-engines",
+    "title": "Jaguar XJ 3 0 V6 Supercharged"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj-3-0d-engines",
+    "title": "Jaguar XJ 3 0D"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj-5-0-v8-engines",
+    "title": "Jaguar XJ 5 0 V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj-5-0-v8-supercharged-engines",
+    "title": "Jaguar XJ 5 0 V8 Supercharged"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj-super-v8-engines",
+    "title": "Jaguar XJ Super V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj6-engines",
+    "title": "Jaguar XJ6"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xj8-engines",
+    "title": "Jaguar XJ8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xjr-engines",
+    "title": "Jaguar XJR"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xk-4-2-v8-engines",
+    "title": "Jaguar XK 4 2 V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xk-5-0-v8-engines",
+    "title": "Jaguar XK 5 0 V8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xk-xkr-x100-engines",
+    "title": "Jaguar XK XKR X100"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xk8-engines",
+    "title": "Jaguar XK8"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xkr-s-engines",
+    "title": "Jaguar XKR S"
+  },
+  {
+    "type": "variant",
+    "slug": "jaguar-xkr-x150-engines",
+    "title": "Jaguar XKR X150"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj-v6-engine",
+    "title": "Jaguar AJ V6"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj-v8-engine",
+    "title": "Jaguar AJ V8"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj126-engine",
+    "title": "Jaguar Aj126"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj133-engine",
+    "title": "Jaguar Aj133"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj133-aj-v8-gen-iii-engine",
+    "title": "Jaguar Aj133 AJ V8 GEN III"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj133s-engine",
+    "title": "Jaguar Aj133s"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj150-1-5-i3-engine",
+    "title": "Jaguar Aj150 1 5 I3"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj16-engine",
+    "title": "Jaguar Aj16"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj20-engine",
+    "title": "Jaguar Aj20"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj200-engine",
+    "title": "Jaguar Aj200"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj200d-engine",
+    "title": "Jaguar Aj200d"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj200p-engine",
+    "title": "Jaguar Aj200p"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj25-engine",
+    "title": "Jaguar Aj25"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj26-engine",
+    "title": "Jaguar Aj26"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj27-engine",
+    "title": "Jaguar Aj27"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj30-engine",
+    "title": "Jaguar Aj30"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj300d-engine",
+    "title": "Jaguar Aj300d"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj300p-engine",
+    "title": "Jaguar Aj300p"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj34-engine",
+    "title": "Jaguar Aj34"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj34s-engine",
+    "title": "Jaguar Aj34s"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-ajd-v6-engine",
+    "title": "Jaguar AJD V6"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-ford-duratorq-engine",
+    "title": "Jaguar Ford Duratorq"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-ford-ecoboost-engine",
+    "title": "Jaguar Ford Ecoboost"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-zsd-420-engine",
+    "title": "Jaguar ZSD 420"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-cylinder-head-repair-rebuild",
+    "title": "Jaguar Cylinder Head Repair & Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-bearing-replacement",
+    "title": "Jaguar Engine Bearing Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-compatibility-and-application-matching",
+    "title": "Jaguar Engine Compatibility & Application Matching"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-failure-repair",
+    "title": "Jaguar Engine Failure Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-inspection-assessment",
+    "title": "Jaguar Engine Inspection & Assessment"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-machining-and-rebuild-preparation",
+    "title": "Jaguar Engine Machining & Rebuild Preparation"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-matching-by-registration-and-vin",
+    "title": "Jaguar Engine Matching by Registration & VIN"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild",
+    "title": "Jaguar Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild-vs-reconditioned",
+    "title": "Jaguar Engine Rebuild vs Reconditioned"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild-vs-replacement",
+    "title": "Jaguar Engine Rebuild vs Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild-vs-used-engine",
+    "title": "Jaguar Engine Rebuild vs Used Engine"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-repair-vs-full-rebuild",
+    "title": "Jaguar Engine Repair vs Full Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-replacement",
+    "title": "Jaguar Engine Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-replacement-and-fitting",
+    "title": "Jaguar Engine Replacement & Fitting"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-supply-fit",
+    "title": "Jaguar Engine Supply & Fit"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-failed-previous-rebuild-remediation",
+    "title": "Jaguar Failed Previous Rebuild Remediation"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-high-mileage-engine-rebuild",
+    "title": "Jaguar High-Mileage Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-ingenium-diesel-repair",
+    "title": "Jaguar Ingenium Diesel Repair (AJ200D)"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-nationwide-engine-recovery",
+    "title": "Jaguar Nationwide Engine Recovery"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-oil-leak-gasket-repair",
+    "title": "Jaguar Oil Leak & Gasket Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-r-svr-performance-engine-rebuild",
+    "title": "Jaguar R/SVR Performance Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-rebuild-vs-remanufactured-engine",
+    "title": "Jaguar Rebuild vs Remanufactured Engine"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-supercharger-turbo-repair",
+    "title": "Jaguar Supercharger & Turbo Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-timing-chain-failure-repair",
+    "title": "Jaguar Timing Chain Failure Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-v6-ignition-coil-timing-repair",
+    "title": "Jaguar V6 Ignition Coil & Timing Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-v8-supercharged-timing-chain-repair",
+    "title": "Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-xk-aj26-aj27-timing-chain-tensioner-repair",
+    "title": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair"
+  },
+  {
+    "type": "core",
+    "slug": "about",
+    "title": "Jaguar About"
+  },
+  {
+    "type": "core",
+    "slug": "contact",
+    "title": "Jaguar Contact"
+  },
+  {
+    "type": "core",
+    "slug": "financing",
+    "title": "Jaguar Financing"
+  },
+  {
+    "type": "core",
+    "slug": "warranty",
+    "title": "Jaguar Warranty"
+  },
+  {
+    "type": "core",
+    "slug": "privacy-policy",
+    "title": "Jaguar Privacy Policy"
+  },
+  {
+    "type": "core",
+    "slug": "terms-and-conditions",
+    "title": "Jaguar Terms AND Conditions"
+  },
+  {
+    "type": "core",
+    "slug": "pricing-legal-disclaimer",
+    "title": "Jaguar Pricing Legal Disclaimer"
+  },
+  {
+    "type": "directory",
+    "slug": "models",
+    "title": "Jaguar Models"
+  },
+  {
+    "type": "directory",
+    "slug": "variants",
+    "title": "Jaguar Variants"
+  },
+  {
+    "type": "directory",
+    "slug": "engines",
+    "title": "Jaguar Engines"
+  }
+]

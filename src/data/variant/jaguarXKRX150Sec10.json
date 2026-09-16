@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar XKR (X150) ENGINE",
+    "paragraphs": [
+      "The XKR is the supercharged flagship of the XK range, carrying the AJ133 — a 5.0-litre supercharged V8 that was Jaguar's most powerful production engine of its era. It was fitted across the X150 generation from 2005 to 2014, and remains one of the most sought-after modern Jaguar V8s. The XKR sits above the naturally aspirated 4.2-litre and 5.0-litre XK models in the range, and was eventually succeeded by the even more powerful XKR-S. The X150 XKR was discontinued in 2014, but we continue to rebuild and replace engines for every one still on the road."
+    ],
+    "boldParagraph": "We continue to rebuild and replace AJ133 engines for every XKR (X150) on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar XKR (X150) ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "AJ133",
+        "codeRest": "(X150 (2005–2014))",
+        "body": "A 5.0-litre supercharged V8 fitted to the XKR from 2005 to 2014 (X150 generation). Known for the timing chain tensioner design flaw — see the callout above. We replace the timing chain, tensioners, and guide rails as standard on every AJ133 rebuild. Check Your AJ133 XKR → [link to quote form]",
+        "cta": "Check Your AJ133 XKR (X150)",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar XKR (X150) ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The XKR uses the AJ133 supercharged 5.0-litre V8 across the entire X150 production run. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "AJ133",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (AJ133) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X150)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic XK quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar XKR (X150) ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X150",
+        "chassis": "X150",
+        "years": "2005–2014",
+        "engineCode": "AJ133",
+        "fuel": "Petrol Supercharged"
+      }
+    ]
+  }
+}

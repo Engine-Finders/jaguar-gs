@@ -1,0 +1,107 @@
+{
+  "gallery": {
+    "titlePre": "OUR MOST RECENT",
+    "titleHighlight": "MERCEDES RECOVERIES & REBUILDS",
+    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+    "image": "/model/sec12.webp",
+    "items": [
+      {
+        "icon": "truck",
+        "model": "Jaguar F-Type V6 S",
+        "status": "RECOVERY"
+      },
+      {
+        "icon": "search",
+        "model": "Jaguar F-Type V6 S",
+        "status": "DIAGNOSTICS"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar F-Type V6 S",
+        "status": "STRIPPED ENGINE"
+      },
+      {
+        "icon": "chain",
+        "model": "Jaguar F-Type V6 S",
+        "status": "TIMING CHAIN REPLACEMENT"
+      },
+      {
+        "icon": "wrench",
+        "model": "Jaguar F-Type V6 S",
+        "status": "IN FOR REBUILD"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar F-Type V6 S",
+        "status": "REBUILD IN PROGRESS"
+      },
+      {
+        "icon": "truck",
+        "model": "Jaguar F-Type V6 S",
+        "status": "NATIONWIDE RECOVERY"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar F-Type V6 S",
+        "status": "ENGINE STRIPPED"
+      },
+      {
+        "icon": "knock",
+        "model": "Jaguar F-Type V6 S",
+        "status": "TESTING & CHECKS"
+      },
+      {
+        "icon": "shield-check",
+        "model": "Jaguar F-Type V6 S",
+        "status": "READY FOR COLLECTION"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar F-Type V6 S",
+        "status": "AJ126 REBUILD"
+      },
+      {
+        "icon": "wrench",
+        "model": "Jaguar F-Type V6 S",
+        "status": "WORKSHOP BAY"
+      }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "HOW IT ",
+    "titleHighlight": "WORKS",
+    "steps": [
+      {
+        "icon": "note",
+        "linePre": "SEND YOUR",
+        "lineHighlight": "REGISTRATION"
+      },
+      {
+        "icon": "price",
+        "linePre": "RECEIVE YOUR",
+        "lineHighlight": "FIXED-PRICE QUOTE"
+      },
+      {
+        "icon": "truck",
+        "linePre": "WE RECOVER",
+        "lineHighlight": "YOUR CAR"
+      },
+      {
+        "icon": "engine",
+        "linePre": "REBUILD &",
+        "lineHighlight": "REFIT"
+      }
+    ],
+    "summary": {
+      "timeframe": {
+        "icon": "clock",
+        "text": "Most F-Type models are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days."
+      },
+      "urgency": {
+        "icon": "calendar",
+        "textPre": "Workshop slots fill up fast — ",
+        "textHighlight": "book your recovery today."
+      }
+    }
+  }
+}

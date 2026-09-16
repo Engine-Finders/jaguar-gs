@@ -1,0 +1,41 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar XE Variant",
+  "tabs": [
+    "Jaguar XE"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar XE 2.0d"
+      },
+      {
+        "label": "Jaguar XE 2.0i"
+      },
+      {
+        "label": "Jaguar XE 3.0 V6 S"
+      },
+      {
+        "label": "Jaguar XE 3.0 V6 SC"
+      },
+      {
+        "label": "Jaguar XE 300 Sport"
+      },
+      {
+        "label": "Jaguar XE P250"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

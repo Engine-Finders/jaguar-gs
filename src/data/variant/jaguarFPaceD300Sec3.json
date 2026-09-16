@@ -1,0 +1,36 @@
+{
+  "headlinePre": "Jaguar F-Pace D300",
+  "headlineHighlight": "Engine Rebuild Price",
+  "startingFromLabel": "Starting From",
+  "startingFromPrice": "£2,900",
+  "engineImage": "/variant/sec10_engine.webp",
+  "carImage": "/variant/jaguar_car.webp",
+  "cards": [
+    {
+      "code": "AJ300D (Ingenium)",
+      "generation": "X761 (2016–present)",
+      "price": "£2,900"
+    }
+  ],
+  "notes": [
+    {
+      "icon": "price",
+      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+    }
+  ],
+  "cta": {
+    "icon": "car",
+    "label": "Get Your Fixed-Price Quote",
+    "href": "#quote-form"
+  },
+  "warning": {
+    "bgImage": "/variant/sec3.webp",
+    "titlePre": "Jaguar F-Pace D300 Oil Leaks & Coolant System Wear ",
+    "titleHighlight": "(AJ300D (Ingenium) I6)",
+    "paragraphs": [
+      "The AJ300D (Ingenium) is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ300D (Ingenium) V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ300D (Ingenium) rebuild.",
+      "Because the F-Pace D300 uses a completely different engine family from the V8 M178 fitted to the F-Pace 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+    ],
+    "source": "Source: Established AJ300D (Ingenium) specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ200D Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "E-Pace",
+      "variant": "D150, D165, D180, D200",
+      "generation": "X540",
+      "chassis": "X540",
+      "years": "2017–present",
+      "powertrain": "Diesel",
+      "modelHref": "/jaguar-e-pace-engines"
+    },
+    {
+      "model": "F-Pace",
+      "variant": "D165, D180, D200",
+      "generation": "X761",
+      "chassis": "X761",
+      "years": "2016–present",
+      "powertrain": "Diesel",
+      "modelHref": "/jaguar-f-pace-engines"
+    },
+    {
+      "model": "XE",
+      "variant": "D150, D180, D200",
+      "generation": "X760",
+      "chassis": "X760",
+      "years": "2015–present",
+      "powertrain": "Diesel",
+      "modelHref": "/jaguar-xe-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

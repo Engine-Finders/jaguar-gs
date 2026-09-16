@@ -1,0 +1,83 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XJ 3.0 V6 Supercharged ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XJ 3.0 V6 Supercharged has used the same engine throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2013",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2014",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2015",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2016",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2017",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2018",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2019",
+      "generation": "X351",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The engine",
+    "rest": " has been fitted to every XJ 3.0 V6 Supercharged since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar F-Type V6 S ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar F-Type V6 S has used the AJ126 throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2012",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2013",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2014",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2015",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2016",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2017",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2018",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2019",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2020",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2021",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2022",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2023",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2024",
+      "generation": "X152",
+      "engineCode": "AJ126",
+      "fuel": "Petrol Supercharged",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The AJ126",
+    "rest": " has been fitted to every F-Type V6 S since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XF 2.7d ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XF 2.7d has used the Ford AJD V6 throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2007",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2008",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2009",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2010",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2011",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2012",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2013",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2014",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2015",
+      "generation": "X250",
+      "engineCode": "Ford AJD V6",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The Ford AJD V6",
+    "rest": " has been fitted to every XF 2.7d since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

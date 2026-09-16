@@ -1,0 +1,115 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar Ford Duratorq Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-a-class-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-a-class-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2023–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-c-class-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-cla-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2019–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-cla-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2020–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-gla-class-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2020–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-gla-class-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2023–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-glc-class-engines"
+    },
+    {
+      "model": "Ford Duratorq",
+      "variant": "Ford Duratorq",
+      "generation": "Ford Duratorq",
+      "chassis": "Ford Duratorq",
+      "years": "2023–present",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-sl-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

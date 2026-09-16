@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar XJ8",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar XJ8"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "XJ"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "XJ8"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "AJ-V8 (naturally aspirated)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "3.2L–4.0L"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "X308 (1997–2003) · X350 (2002–2009)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£4,500"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The XJ8 uses the AJ-V8 (naturally aspirated) 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

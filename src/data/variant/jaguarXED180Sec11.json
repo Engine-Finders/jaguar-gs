@@ -1,0 +1,76 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XE D180 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XE D180 has used the same engine throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2015",
+      "generation": "X760",
+      "engineCode": "AJ200D",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2016",
+      "generation": "X760",
+      "engineCode": "AJ200D",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2017",
+      "generation": "X760",
+      "engineCode": "AJ200D",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2018",
+      "generation": "X760",
+      "engineCode": "AJ200D",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2019",
+      "generation": "X760",
+      "engineCode": "AJ200D",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2020",
+      "generation": "X760",
+      "engineCode": "AJ200D",
+      "fuel": "Diesel",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The engine",
+    "rest": " has been fitted to every XE D180 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

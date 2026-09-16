@@ -1,0 +1,17 @@
+{
+  "h2": "Recently Completed Jaguar Rebuilds",
+  "footerTagline": "Excellence. Engineered.",
+  "images": [
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
+    { "src": "/home/sec9_car.webp", "alt": "Jaguar interior" },
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
+    { "src": "/home/sec9_car.webp", "alt": "Rebuilt engine bay" },
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
+    { "src": "/home/sec9_car.webp", "alt": "Rebuilt engine bay" },
+    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" }
+  ],
+  "cta": { "label": "See All Rebuilds", "href": "/engines" }
+}

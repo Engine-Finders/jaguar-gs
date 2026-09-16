@@ -1,0 +1,119 @@
+{
+  "title": "Jaguar Guides",
+  "subtitle": "Expert guides and articles on Jaguar engine repair, rebuilds and common issues.",
+  "groups": [
+    {
+      "heading": "",
+      "items": [
+        {
+          "label": "Jaguar Cylinder Head Repair & Rebuild",
+          "href": "/jaguar-cylinder-head-repair-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Bearing Replacement",
+          "href": "/jaguar-engine-bearing-replacement"
+        },
+        {
+          "label": "Jaguar Engine Compatibility & Application Matching",
+          "href": "/jaguar-engine-compatibility-and-application-matching"
+        },
+        {
+          "label": "Jaguar Engine Failure Repair",
+          "href": "/jaguar-engine-failure-repair"
+        },
+        {
+          "label": "Jaguar Engine Inspection & Assessment",
+          "href": "/jaguar-engine-inspection-assessment"
+        },
+        {
+          "label": "Jaguar Engine Machining & Rebuild Preparation",
+          "href": "/jaguar-engine-machining-and-rebuild-preparation"
+        },
+        {
+          "label": "Jaguar Engine Matching by Registration & VIN",
+          "href": "/jaguar-engine-matching-by-registration-and-vin"
+        },
+        {
+          "label": "Jaguar Engine Rebuild",
+          "href": "/jaguar-engine-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Reconditioned",
+          "href": "/jaguar-engine-rebuild-vs-reconditioned"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Replacement",
+          "href": "/jaguar-engine-rebuild-vs-replacement"
+        },
+        {
+          "label": "Jaguar Engine Rebuild vs Used Engine",
+          "href": "/jaguar-engine-rebuild-vs-used-engine"
+        },
+        {
+          "label": "Jaguar Engine Repair vs Full Rebuild",
+          "href": "/jaguar-engine-repair-vs-full-rebuild"
+        },
+        {
+          "label": "Jaguar Engine Replacement",
+          "href": "/jaguar-engine-replacement"
+        },
+        {
+          "label": "Jaguar Engine Replacement & Fitting",
+          "href": "/jaguar-engine-replacement-and-fitting"
+        },
+        {
+          "label": "Jaguar Engine Supply & Fit",
+          "href": "/jaguar-engine-supply-fit"
+        },
+        {
+          "label": "Jaguar Failed Previous Rebuild Remediation",
+          "href": "/jaguar-failed-previous-rebuild-remediation"
+        },
+        {
+          "label": "Jaguar High-Mileage Engine Rebuild",
+          "href": "/jaguar-high-mileage-engine-rebuild"
+        },
+        {
+          "label": "Jaguar Ingenium Diesel Repair (AJ200D)",
+          "href": "/jaguar-ingenium-diesel-repair"
+        },
+        {
+          "label": "Jaguar Nationwide Engine Recovery",
+          "href": "/jaguar-nationwide-engine-recovery"
+        },
+        {
+          "label": "Jaguar Oil Leak & Gasket Repair",
+          "href": "/jaguar-oil-leak-gasket-repair"
+        },
+        {
+          "label": "Jaguar R/SVR Performance Engine Rebuild",
+          "href": "/jaguar-r-svr-performance-engine-rebuild"
+        },
+        {
+          "label": "Jaguar Rebuild vs Remanufactured Engine",
+          "href": "/jaguar-rebuild-vs-remanufactured-engine"
+        },
+        {
+          "label": "Jaguar Supercharger & Turbo Repair",
+          "href": "/jaguar-supercharger-turbo-repair"
+        },
+        {
+          "label": "Jaguar Timing Chain Failure Repair",
+          "href": "/jaguar-timing-chain-failure-repair"
+        },
+        {
+          "label": "Jaguar V6 Ignition Coil & Timing Repair",
+          "href": "/jaguar-v6-ignition-coil-timing-repair"
+        },
+        {
+          "label": "Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)",
+          "href": "/jaguar-v8-supercharged-timing-chain-repair"
+        },
+        {
+          "label": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair",
+          "href": "/jaguar-xk-aj26-aj27-timing-chain-tensioner-repair"
+        }
+      ]
+    }
+  ]
+}

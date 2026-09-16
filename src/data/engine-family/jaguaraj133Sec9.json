@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "AJ133",
+    "titlePost": " ENGINE",
+    "body": "The AJ133 is a V8 (90° angle), 5.0L (5,000 cc), Petrol, Petrol Supercharged engine used across Jaguar's 6 model range, in production 2009–2024. We rebuild every AJ133 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "JAGUAR AJ133",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The AJ133 is fitted across F-Pace, F-Type, XE, XF, XJ, XK — see the full applications table above for exact variants, generations and years.",
+    "lineup": [
+      {
+        "label": "F-Pace",
+        "code": "X761"
+      },
+      {
+        "label": "F-Type",
+        "code": "X152"
+      },
+      {
+        "label": "XE",
+        "code": "X760"
+      },
+      {
+        "label": "XF",
+        "code": "X250"
+      },
+      {
+        "label": "XJ",
+        "code": "X351"
+      },
+      {
+        "label": "XK",
+        "code": "X150"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "JAGUAR AJ133",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the AJ133 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (X761, X152, X760, X250, X351, X150)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

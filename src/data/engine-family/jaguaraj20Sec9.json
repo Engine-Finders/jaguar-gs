@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "AJ20",
+    "titlePost": " ENGINE",
+    "body": "The AJ20 is a Inline-4 (I4), 2.0L (1,997 cc), Diesel engine used across Jaguar's several model range, in production 2003–2009. We rebuild every AJ20 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ AJ20",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The AJ20 is deployed across the AJ20 (AJ20 / AJ20, AJ20), the AJ20 (AJ20 / AJ20, AJ20), and the AJ20 (AJ20 / AJ20, AJ20). These form the core of the high-performance AJ20 range. More recently, the engine has been adopted for the AJ20 (AJ20, AJ20), the AJ20 (AJ20, AJ20), and the AJ20 roadster (AJ20, AJ20), proving the AJ20's versatility across different vehicle types.",
+    "lineup": [
+      {
+        "label": "AJ20",
+        "code": "AJ20"
+      },
+      {
+        "label": "AJ20",
+        "code": "AJ20"
+      },
+      {
+        "label": "AJ20",
+        "code": "AJ20"
+      },
+      {
+        "label": "AJ20",
+        "code": "AJ20"
+      },
+      {
+        "label": "AJ20",
+        "code": "AJ20"
+      },
+      {
+        "label": "AJ20",
+        "code": "AJ20"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ AJ20",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the AJ20 is fitted to six different models — from the compact AJ20 to the grand-touring AJ20 roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A AJ20 from an AJ20 isn't a drop-in match for a AJ20 from an AJ20 — ancillaries and mounting differ.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (AJ20, AJ20, AJ20, AJ20, AJ20, AJ20)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

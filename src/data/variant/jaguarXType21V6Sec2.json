@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar X-Type 2.1 V6",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar X-Type 2.1 V6"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "X-Type"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "2.1 V6"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "AJ20"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.1L V6"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generations",
+      "value": "X400 (2001–2009)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,600"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The X-Type 2.1 V6 uses the AJ20 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

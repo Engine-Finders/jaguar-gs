@@ -1,0 +1,52 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ26 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "XJ",
+      "variant": "XJ8",
+      "generation": "X308",
+      "chassis": "X308",
+      "years": "1997–2003",
+      "powertrain": "AJ26/AJ27",
+      "modelHref": "/jaguar-xj-engines"
+    },
+    {
+      "model": "XK",
+      "variant": "XK8",
+      "generation": "X100",
+      "chassis": "X100",
+      "years": "1996–2004",
+      "powertrain": "AJ26/AJ27",
+      "modelHref": "/jaguar-xk-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

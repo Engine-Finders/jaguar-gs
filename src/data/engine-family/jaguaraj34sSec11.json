@@ -1,0 +1,136 @@
+{
+  "costBanner": {
+    "titlePre": "Jaguar AJ34S",
+    "titleHighlight": "ENGINE REBUILD",
+    "titlePost": " COST",
+    "image": "/engine/sec11_top.webp",
+    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "paragraphs": [
+      "A Jaguar AJ34S engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
+      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+    ],
+    "startingFromLabel": "Starting From",
+    "startingFromPrice": "£2,200"
+  },
+  "comparison": {
+    "titlePre": "MERCEDES-BENZ AJ34S",
+    "titleHighlight": "REBUILD VS REPLACEMENT VS USED",
+    "cards": [
+      {
+        "icon": "engine",
+        "title": "Rebuilding Your",
+        "titleHighlight": "AJ34S Engine",
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ34S owners choose."
+      },
+      {
+        "icon": "refresh",
+        "title": "Replacement",
+        "titleHighlight": "AJ34S Engines",
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+      },
+      {
+        "icon": "cog",
+        "title": "Used",
+        "titleHighlight": "AJ34S Engines",
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+      }
+    ],
+    "cta": {
+      "label": "Ask About Your Options →",
+      "href": "#quote-form"
+    }
+  },
+  "options": [
+    {
+      "icon": "refresh",
+      "titlePre": "MERCEDES-BENZ AJ34S",
+      "titleHighlight": "RECONDITIONED",
+      "titlePost": " ENGINES",
+      "body": "\"Reconditioned\" is the term many owners search for when they mean the same thing as a rebuild — a full strip-down, inspection, and replacement of worn parts rather than a straight swap. If that's what you're after, our rebuild service is exactly that."
+    },
+    {
+      "icon": "shield-check",
+      "titlePre": "MERCEDES-BENZ AJ34S",
+      "titleHighlight": "REFURBISHED",
+      "titlePost": " ENGINES",
+      "body": "\"Refurbished\" often describes the same process from a different angle — restoring your existing engine to full working condition rather than replacing it outright. Our rebuild covers this."
+    },
+    {
+      "icon": "cog",
+      "titlePre": "MERCEDES-BENZ AJ34S",
+      "titleHighlight": "REMANUFACTURED",
+      "titlePost": " ENGINES",
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ34S-equipped models you drive."
+    }
+  ],
+  "faq": {
+    "kicker": "FREQUENTLY ASKED",
+    "kickerHighlight": "QUESTIONS",
+    "faqLeft": [
+      {
+        "q": "What is the Jaguar AJ34S engine?",
+        "a": "The AJ34S is Jaguar's supercharged 4.2-litre V8 petrol engine, produced from 2008 to 2015. It's fitted exclusively to the XF XFR (X250)."
+      },
+      {
+        "q": "Which Jaguar models use the AJ34S?",
+        "a": "The AJ34S is fitted exclusively to the XF XFR (X250, 2008–2015)."
+      },
+      {
+        "q": "How much does a Jaguar AJ34S engine rebuild cost?",
+        "a": "Rebuilds start from £5,500. Exact price depends on condition and parts required."
+      },
+      {
+        "q": "Do you rebuild AJ34S engines?",
+        "a": "Yes. We work on AJ34S rebuilds for the XF XFR, replacing worn components as standard."
+      }
+    ],
+    "faqRight": [
+      {
+        "q": "Do you work on XF XFR engines?",
+        "a": "Yes. The XF XFR is one of the applications we work on regularly."
+      },
+      {
+        "q": "Can you recover my Jaguar if the engine has failed?",
+        "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+      },
+      {
+        "q": "How long does an AJ34S engine rebuild take?",
+        "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+      }
+    ]
+  },
+  "quote": {
+    "icon": "note",
+    "headlinePre": "GET YOUR FREE",
+    "headlineHighlight": "MERCEDES-BENZ AJ34S",
+    "headlinePost": "FIXED-PRICE QUOTE",
+    "subtext": "Most quotes returned within 30 minutes during working hours.",
+    "fields": {
+      "reg": {
+        "label": "Registration Number",
+        "placeholder": "AB12 CDE"
+      },
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "e.g. CM11 1QE"
+      },
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Your name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "07123 456789"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "you@example.com"
+      },
+      "enquiry": {
+        "label": "Issue / Enquiry Type",
+        "placeholder": "Engine Failure / Replacement Needed / General Enquiry"
+      }
+    },
+    "submitLabel": "Submit Enquiry"
+  }
+}

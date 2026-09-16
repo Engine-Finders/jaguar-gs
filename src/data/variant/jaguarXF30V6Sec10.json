@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar XF 3.0 V6 ENGINE",
+    "paragraphs": [
+      "The XF 3.0 V6 uses the AJ30 — a 3.0-litre naturally aspirated V6 petrol engine. It was fitted from 2007 to 2015 across the X250 generation of the XF, making it one of the earlier petrol options in the XF range before the supercharged AJ126 arrived later in the generation. The AJ30 is shared with other Jaguar models of the era, including the S-Type and early XJ, and represents a distinct engine family from the later AJ126 supercharged unit."
+    ],
+    "boldParagraph": "We continue to rebuild and replace AJ30 engines for every XF 3.0 V6 on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar XF 3.0 V6 ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "AJ30",
+        "codeRest": "",
+        "body": "A 3.0-litre naturally aspirated V6 petrol engine fitted to the XF 3.0 V6 from 2007 to 2015 (X250 generation). No widely-reported specific engine issue confirmed for this variant application. Check Your AJ30 XF 3.0 V6 → [link to quote form]",
+        "cta": "Check Your AJ30 XF 3.0 V6",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar XF 3.0 V6 ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The AJ30 is a specific naturally aspirated V6 — different from the supercharged AJ126 fitted to later XF 3.0 S/SC models, and distinct from the diesel or V8 options in the X250 range. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "AJ30",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (AJ30) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X250)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar XF 3.0 V6 ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X250",
+        "chassis": "X250",
+        "years": "2007–2015",
+        "engineCode": "AJ30",
+        "fuel": "Petrol"
+      }
+    ]
+  }
+}

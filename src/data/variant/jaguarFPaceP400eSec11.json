@@ -1,0 +1,83 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar F-Pace P400e ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar F-Pace P400e has used the AJ200P throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2020",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2021",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2022",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2023",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2024",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2025",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2026",
+      "generation": "X761",
+      "engineCode": "AJ200P",
+      "fuel": "Petrol Plug-in Hybrid",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The AJ200P",
+    "rest": " has been fitted to every F-Pace P400e since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

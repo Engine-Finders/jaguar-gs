@@ -1,0 +1,78 @@
+{
+  "badge": "10",
+  "headlinePre": "Most Popular",
+  "headlineHighlight": "Jaguar X-Type Rebuilds",
+  "subhead": "Full variant list below covers every Jaguar X-Type engine we work on — these 10 are simply our most requested.",
+  "image": "/model/sec10.webp",
+  "viewMoreLabel": "View More",
+  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "cards": [
+    {
+      "number": "01",
+      "model": "Jaguar C180",
+      "spec": "1.6L Petrol (ZSD-420/422)"
+    },
+    {
+      "number": "02",
+      "model": "Jaguar C200",
+      "spec": "2.0L Petrol (ZSD-420/422)"
+    },
+    {
+      "number": "03",
+      "model": "Jaguar C220d",
+      "spec": "2.1L Diesel (ZSD-420/422)"
+    },
+    {
+      "number": "04",
+      "model": "Jaguar C250",
+      "spec": "1.8L Petrol Turbo (M271)"
+    },
+    {
+      "number": "05",
+      "model": "Jaguar C250d",
+      "spec": "2.1L Diesel (ZSD-420/422)"
+    },
+    {
+      "number": "06",
+      "model": "Jaguar C300",
+      "spec": "2.0L Petrol Turbo (ZSD-420/422)"
+    },
+    {
+      "number": "07",
+      "model": "Jaguar C300d",
+      "spec": "2.0L Diesel (ZSD-420/422)"
+    },
+    {
+      "number": "08",
+      "model": "Jaguar C350",
+      "spec": "3.5L Petrol (ZSD-420/422)"
+    },
+    {
+      "number": "09",
+      "model": "Jaguar C43 Jaguar",
+      "spec": "3.0L Petrol Twin-Turbo (ZSD-420/422)"
+    },
+    {
+      "number": "10",
+      "model": "Jaguar C63 Jaguar",
+      "spec": "6.2 / 4.0L Petrol (M156 / ZSD-420/422)"
+    }
+  ],
+  "variants": [
+    {
+      "label": "Jaguar X-Type 2.0d"
+    },
+    {
+      "label": "Jaguar X-Type 2.0 V6"
+    },
+    {
+      "label": "Jaguar X-Type 2.1 V6"
+    },
+    {
+      "label": "Jaguar X-Type 2.5 V6"
+    },
+    {
+      "label": "Jaguar X-Type 3.0 V6"
+    }
+  ]
+}

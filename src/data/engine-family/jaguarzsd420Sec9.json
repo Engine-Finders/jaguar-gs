@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/engine/sec9_top.webp",
+    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "kicker": "ABOUT THE",
+    "titlePre": "JAGUAR",
+    "titleHighlight": "ZSD-420",
+    "titlePost": " ENGINE",
+    "body": "The ZSD-420 is a Inline-4 (I4), 2.2L (2,198 cc), Diesel engine used across Jaguar's several model range, in production 2008–2010. We rebuild every ZSD-420 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+  },
+  "byModel": {
+    "image": "/engine/sec9_middle.webp",
+    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "kicker": "MERCEDES-BENZ ZSD-420",
+    "titlePre": "",
+    "titleHighlight": "APPLICATIONS",
+    "titlePost": " BY MODEL",
+    "body": "The ZSD-420 is deployed across the ZSD-420 (ZSD-420 / ZSD-420, ZSD-420), the ZSD-420 (ZSD-420 / ZSD-420, ZSD-420), and the ZSD-420 (ZSD-420 / ZSD-420, ZSD-420). These form the core of the high-performance ZSD-420 range. More recently, the engine has been adopted for the ZSD-420 (ZSD-420, ZSD-420), the ZSD-420 (ZSD-420, ZSD-420), and the ZSD-420 roadster (ZSD-420, ZSD-420), proving the ZSD-420's versatility across different vehicle types.",
+    "lineup": [
+      {
+        "label": "ZSD-420",
+        "code": "ZSD-420"
+      },
+      {
+        "label": "ZSD-420",
+        "code": "ZSD-420"
+      },
+      {
+        "label": "ZSD-420",
+        "code": "ZSD-420"
+      },
+      {
+        "label": "ZSD-420",
+        "code": "ZSD-420"
+      },
+      {
+        "label": "ZSD-420",
+        "code": "ZSD-420"
+      },
+      {
+        "label": "ZSD-420",
+        "code": "ZSD-420"
+      }
+    ]
+  },
+  "compatibility": {
+    "image": "/engine/sec9_bottom.webp",
+    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "kicker": "MERCEDES-BENZ ZSD-420",
+    "titlePre": "",
+    "titleHighlight": "ENGINE",
+    "titlePost": " COMPATIBILITY",
+    "body": "Because the ZSD-420 is fitted to six different models — from the compact ZSD-420 to the grand-touring ZSD-420 roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A ZSD-420 from an ZSD-420 isn't a drop-in match for a ZSD-420 from an ZSD-420 — ancillaries and mounting differ.",
+    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "points": [
+      {
+        "icon": "car",
+        "title": "MODEL",
+        "text": "Confirm your exact model and exact variant."
+      },
+      {
+        "icon": "calendar",
+        "title": "GENERATION",
+        "text": "Identify the correct generation (ZSD-420, ZSD-420, ZSD-420, ZSD-420, ZSD-420, ZSD-420)."
+      },
+      {
+        "icon": "gears",
+        "title": "DRIVETRAIN",
+        "text": "Specify the variant (45, 45 S, 43)."
+      },
+      {
+        "icon": "clipboard",
+        "title": "CONFIRMED BY REGISTRATION",
+        "text": "We confirm by registration or VIN before quoting."
+      }
+    ]
+  }
+}

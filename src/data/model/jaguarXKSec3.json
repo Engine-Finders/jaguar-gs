@@ -1,0 +1,38 @@
+{
+  "kicker": "Transparent Pricing",
+  "h2": "Jaguar XK|Rebuild Pricing",
+  "startingFromLabel": "Starting From:",
+  "image": "/model/sec3.webp",
+  "imageMobile": "/model/sec3_mobile.webp",
+  "cardImage": "/model/engine_trim.webp",
+  "cards": [
+    {
+      "titlePre": "V8 Rebuild (naturally aspirated)",
+      "titleHighlight": "",
+      "code": "",
+      "price": "£4,500",
+      "featured": false
+    },
+    {
+      "titlePre": "Supercharged V8 Rebuild (XKR)",
+      "titleHighlight": "",
+      "code": "",
+      "price": "£5,500",
+      "featured": false
+    },
+    {
+      "titlePre": "Nationwide Recovery",
+      "titleHighlight": "",
+      "code": "",
+      "price": "from £70",
+      "featured": false
+    }
+  ],
+  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "cta": {
+    "line1": "Get Your Fixed-Price Quote",
+    "line2": "In Under 30 Minutes",
+    "buttonLabel": "Request Quote",
+    "href": "#quote-form"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "kicker": "Full Variant Coverage",
+  "headline": "We Cover Every Jaguar XK Variant",
+  "tabs": [
+    "Jaguar XK"
+  ],
+  "activeTab": 0,
+  "tabVariants": [
+    [
+      {
+        "label": "Jaguar XK8"
+      },
+      {
+        "label": "Jaguar XKR"
+      },
+      {
+        "label": "Jaguar XK 4.2 V8"
+      },
+      {
+        "label": "Jaguar XK 5.0 V8"
+      },
+      {
+        "label": "Jaguar XKR-S"
+      }
+    ]
+  ],
+  "notice": {
+    "title": "Not seeing your exact variant?",
+    "linkText": "Send us your registration",
+    "rest": " and we'll confirm engine rebuild availability directly."
+  },
+  "priceCta": {
+    "title": "Full Price Breakdown",
+    "body": "See detailed pricing near the top of this page, directly below the Starting From summary.",
+    "image": "/model/sec15_part.webp",
+    "href": "#pricing"
+  }
+}

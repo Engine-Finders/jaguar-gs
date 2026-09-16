@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar F-Pace 300 Sport ENGINE",
+    "paragraphs": [
+      "The F-Pace 300 Sport is a special-edition variant launched in 2022, positioned as a diesel-focused sporty addition to the F-Pace range alongside the 400 Sport petrol. It uses the Ingenium AJ300D — a 3.0-litre straight-six diesel with mild-hybrid technology, producing 300PS. This is the same engine family used in the F-Pace D300, but in a distinct trim-specific application with its own badging and equipment level. The 300 Sport ran alongside the rest of the F-Pace range from 2022 onwards, offering diesel buyers a more sporting alternative to the standard D300."
+    ],
+    "boldParagraph": "We continue to rebuild and replace AJ300D engines for every F-Pace 300 Sport on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar F-Pace 300 Sport ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "AJ300D",
+        "codeRest": "",
+        "body": "A 3.0-litre straight-six diesel MHEV fitted to the F-Pace 300 Sport from 2022 to present (X761 generation). This is the same Ingenium diesel six-cylinder used across the wider JLR range, with timing chain wear and injector seal failure as documented wear patterns — see the callout above. We replace timing chains, injector seals, bearings and gaskets as standard on every AJ300D rebuild. Check Your AJ300D F-Pace 300 Sport → [link to quote form]",
+        "cta": "Check Your AJ300D F-Pace 300 Sport",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar F-Pace 300 Sport ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "The F-Pace 300 Sport uses the AJ300D Ingenium diesel six-cylinder, specific to the 300 Sport trim level within the X761 generation. Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "AJ300D",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact engine code (AJ300D) via registration or VIN"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X761)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar F-Pace 300 Sport ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X761",
+        "chassis": "X761",
+        "years": "2022–present",
+        "engineCode": "AJ300D",
+        "fuel": "Diesel MHEV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "image": "/variant/sec11.webp",
+  "titlePre": "Jaguar XK 5.0 V8 ENGINES ",
+  "titleHighlight": "BY YEAR",
+  "description": "Jaguar XK 5.0 V8 has used the AJ133 throughout. If you're unsure of your exact spec, we'll confirm it before you book.",
+  "columns": [
+    {
+      "icon": "calendar",
+      "label": "Year"
+    },
+    {
+      "icon": "car",
+      "label": "Generation"
+    },
+    {
+      "icon": "gear",
+      "label": "Engine Code"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel"
+    },
+    {
+      "icon": "wrench",
+      "label": "Service"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2005",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2006",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2007",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2008",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2009",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2010",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2011",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2012",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2013",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    },
+    {
+      "year": "2014",
+      "generation": "X150",
+      "engineCode": "AJ133",
+      "fuel": "Petrol",
+      "service": "Rebuild / Replacement"
+    }
+  ],
+  "notice": {
+    "highlight": "The AJ133",
+    "rest": " has been fitted to every XK 5.0 V8 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  }
+}

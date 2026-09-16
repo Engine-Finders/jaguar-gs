@@ -1,0 +1,419 @@
+{
+  "entries": [
+    {
+      "model": "F-Type",
+      "modelHref": "/jaguar-f-type-engines",
+      "engineCode": "AJ126",
+      "engineHref": "/jaguar-aj126-engine",
+      "fuel": "Supercharged V6",
+      "generation": "X152"
+    },
+    {
+      "model": "XE",
+      "modelHref": "/jaguar-xe-engines",
+      "engineCode": "AJ126",
+      "engineHref": "/jaguar-aj126-engine",
+      "fuel": "Supercharged V6",
+      "generation": "X760"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJ126",
+      "engineHref": "/jaguar-aj126-engine",
+      "fuel": "Supercharged V6",
+      "generation": "X260"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ126",
+      "engineHref": "/jaguar-aj126-engine",
+      "fuel": "Supercharged V6",
+      "generation": "X351"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ133 (AJ-V8 Gen III)",
+      "engineHref": "/jaguar-aj133-aj-v8-gen-iii-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X761"
+    },
+    {
+      "model": "F-Type",
+      "modelHref": "/jaguar-f-type-engines",
+      "engineCode": "AJ133 (AJ-V8 Gen III)",
+      "engineHref": "/jaguar-aj133-aj-v8-gen-iii-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X152"
+    },
+    {
+      "model": "XE",
+      "modelHref": "/jaguar-xe-engines",
+      "engineCode": "AJ133 (AJ-V8 Gen III)",
+      "engineHref": "/jaguar-aj133-aj-v8-gen-iii-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X760"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJ133 (AJ-V8 Gen III)",
+      "engineHref": "/jaguar-aj133-aj-v8-gen-iii-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X250"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ133 (AJ-V8 Gen III)",
+      "engineHref": "/jaguar-aj133-aj-v8-gen-iii-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X351"
+    },
+    {
+      "model": "XK",
+      "modelHref": "/jaguar-xk-engines",
+      "engineCode": "AJ133 (AJ-V8 Gen III)",
+      "engineHref": "/jaguar-aj133-aj-v8-gen-iii-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X150"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ133",
+      "engineHref": "/jaguar-aj133-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X761"
+    },
+    {
+      "model": "F-Type",
+      "modelHref": "/jaguar-f-type-engines",
+      "engineCode": "AJ133",
+      "engineHref": "/jaguar-aj133-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X152"
+    },
+    {
+      "model": "XE",
+      "modelHref": "/jaguar-xe-engines",
+      "engineCode": "AJ133",
+      "engineHref": "/jaguar-aj133-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X760"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJ133",
+      "engineHref": "/jaguar-aj133-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X250"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ133",
+      "engineHref": "/jaguar-aj133-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X351"
+    },
+    {
+      "model": "XK",
+      "modelHref": "/jaguar-xk-engines",
+      "engineCode": "AJ133",
+      "engineHref": "/jaguar-aj133-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X150"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ133S",
+      "engineHref": "/jaguar-aj133s-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X761"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJ133S",
+      "engineHref": "/jaguar-aj133s-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X250"
+    },
+    {
+      "model": "E-Pace",
+      "modelHref": "/jaguar-e-pace-engines",
+      "engineCode": "AJ150 (1.5 I3)",
+      "engineHref": "/jaguar-aj150-1-5-i3-engine",
+      "fuel": "Petrol",
+      "generation": "X540"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ16",
+      "engineHref": "/jaguar-aj16-engine",
+      "fuel": "Petrol",
+      "generation": "X300"
+    },
+    {
+      "model": "E-Pace",
+      "modelHref": "/jaguar-e-pace-engines",
+      "engineCode": "AJ200D",
+      "engineHref": "/jaguar-aj200d-engine",
+      "fuel": "Diesel",
+      "generation": "X540"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ200D",
+      "engineHref": "/jaguar-aj200d-engine",
+      "fuel": "Diesel",
+      "generation": "X761"
+    },
+    {
+      "model": "XE",
+      "modelHref": "/jaguar-xe-engines",
+      "engineCode": "AJ200D",
+      "engineHref": "/jaguar-aj200d-engine",
+      "fuel": "Diesel",
+      "generation": "X760"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ200P",
+      "engineHref": "/jaguar-aj200p-engine",
+      "fuel": "Petrol",
+      "generation": "X761"
+    },
+    {
+      "model": "XE",
+      "modelHref": "/jaguar-xe-engines",
+      "engineCode": "AJ200P",
+      "engineHref": "/jaguar-aj200p-engine",
+      "fuel": "Petrol",
+      "generation": "X760"
+    },
+    {
+      "model": "E-Pace",
+      "modelHref": "/jaguar-e-pace-engines",
+      "engineCode": "AJ200",
+      "engineHref": "/jaguar-aj200-engine",
+      "fuel": "Petrol",
+      "generation": "X540"
+    },
+    {
+      "model": "F-Type",
+      "modelHref": "/jaguar-f-type-engines",
+      "engineCode": "AJ200",
+      "engineHref": "/jaguar-aj200-engine",
+      "fuel": "Petrol",
+      "generation": "X152"
+    },
+    {
+      "model": "AJ20",
+      "modelHref": "/jaguar-a-class-engines",
+      "engineCode": "AJ20",
+      "engineHref": "/jaguar-aj20-engine",
+      "fuel": "Petrol",
+      "generation": "AJ20"
+    },
+    {
+      "model": "AJ25",
+      "modelHref": "/jaguar-a-class-engines",
+      "engineCode": "AJ25",
+      "engineHref": "/jaguar-aj25-engine",
+      "fuel": "Petrol",
+      "generation": "AJ25"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ26",
+      "engineHref": "/jaguar-aj26-engine",
+      "fuel": "AJ26/AJ27",
+      "generation": "X308"
+    },
+    {
+      "model": "XK",
+      "modelHref": "/jaguar-xk-engines",
+      "engineCode": "AJ26",
+      "engineHref": "/jaguar-aj26-engine",
+      "fuel": "AJ26/AJ27",
+      "generation": "X100"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ27",
+      "engineHref": "/jaguar-aj27-engine",
+      "fuel": "AJ26/AJ27",
+      "generation": "X308"
+    },
+    {
+      "model": "XK",
+      "modelHref": "/jaguar-xk-engines",
+      "engineCode": "AJ27",
+      "engineHref": "/jaguar-aj27-engine",
+      "fuel": "AJ26/AJ27",
+      "generation": "X100"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ300D",
+      "engineHref": "/jaguar-aj300d-engine",
+      "fuel": "Diesel MHEV",
+      "generation": "X761"
+    },
+    {
+      "model": "F-Pace",
+      "modelHref": "/jaguar-f-pace-engines",
+      "engineCode": "AJ300P",
+      "engineHref": "/jaguar-aj300p-engine",
+      "fuel": "Petrol MHEV",
+      "generation": "X761"
+    },
+    {
+      "model": "AJ30",
+      "modelHref": "/jaguar-a-class-engines",
+      "engineCode": "AJ30",
+      "engineHref": "/jaguar-aj30-engine",
+      "fuel": "Petrol",
+      "generation": "AJ30"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJ34",
+      "engineHref": "/jaguar-aj34-engine",
+      "fuel": "Naturally Aspirated",
+      "generation": "X250"
+    },
+    {
+      "model": "XK",
+      "modelHref": "/jaguar-xk-engines",
+      "engineCode": "AJ34",
+      "engineHref": "/jaguar-aj34-engine",
+      "fuel": "Naturally Aspirated",
+      "generation": "X150"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJ34S",
+      "engineHref": "/jaguar-aj34s-engine",
+      "fuel": "Supercharged V8",
+      "generation": "X250"
+    },
+    {
+      "model": "S-Type",
+      "modelHref": "/jaguar-s-type-engines",
+      "engineCode": "AJD-V6",
+      "engineHref": "/jaguar-ajd-v6-engine",
+      "fuel": "2.7L",
+      "generation": "X200"
+    },
+    {
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
+      "engineCode": "AJD-V6",
+      "engineHref": "/jaguar-ajd-v6-engine",
+      "fuel": "2.7L / 3.0L",
+      "generation": "X250"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJD-V6",
+      "engineHref": "/jaguar-ajd-v6-engine",
+      "fuel": "2.7L",
+      "generation": "X350"
+    },
+    {
+      "model": "S-Type",
+      "modelHref": "/jaguar-s-type-engines",
+      "engineCode": "AJ-V6",
+      "engineHref": "/jaguar-aj-v6-engine",
+      "fuel": "2.5L / 3.0L",
+      "generation": "X200"
+    },
+    {
+      "model": "S-Type",
+      "modelHref": "/jaguar-s-type-engines",
+      "engineCode": "AJ-V8",
+      "engineHref": "/jaguar-aj-v8-engine",
+      "fuel": "AJ26/AJ28/AJ34",
+      "generation": "X200"
+    },
+    {
+      "model": "XJ",
+      "modelHref": "/jaguar-xj-engines",
+      "engineCode": "AJ-V8",
+      "engineHref": "/jaguar-aj-v8-engine",
+      "fuel": "AJ26/AJ27/AJ33/AJ34",
+      "generation": "X308/X350"
+    },
+    {
+      "model": "Ford Duratorq",
+      "modelHref": "/jaguar-a-class-engines",
+      "engineCode": "Ford Duratorq",
+      "engineHref": "/jaguar-ford-duratorq-engine",
+      "fuel": "Petrol",
+      "generation": "Ford Duratorq"
+    },
+    {
+      "model": "Ford EcoBoost",
+      "modelHref": "/jaguar-a-class-engines",
+      "engineCode": "Ford EcoBoost",
+      "engineHref": "/jaguar-ford-ecoboost-engine",
+      "fuel": "Petrol",
+      "generation": "Ford EcoBoost"
+    },
+    {
+      "model": "ZSD-420",
+      "modelHref": "/jaguar-a-class-engines",
+      "engineCode": "ZSD-420",
+      "engineHref": "/jaguar-zsd-420-engine",
+      "fuel": "Petrol",
+      "generation": "ZSD-420"
+    }
+  ],
+  "models": [
+    "AJ20",
+    "AJ25",
+    "AJ30",
+    "E-Pace",
+    "F-Pace",
+    "F-Type",
+    "Ford Duratorq",
+    "Ford EcoBoost",
+    "S-Type",
+    "XE",
+    "XF",
+    "XJ",
+    "XK",
+    "ZSD-420"
+  ],
+  "fuels": [
+    "2.5L / 3.0L",
+    "2.7L",
+    "2.7L / 3.0L",
+    "AJ26/AJ27",
+    "AJ26/AJ27/AJ33/AJ34",
+    "AJ26/AJ28/AJ34",
+    "Diesel",
+    "Diesel MHEV",
+    "Naturally Aspirated",
+    "Petrol",
+    "Petrol MHEV",
+    "Supercharged V6",
+    "Supercharged V8"
+  ]
+}

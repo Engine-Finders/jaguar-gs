@@ -1,0 +1,107 @@
+{
+  "gallery": {
+    "titlePre": "OUR MOST RECENT",
+    "titleHighlight": "MERCEDES RECOVERIES & REBUILDS",
+    "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
+    "image": "/model/sec12.webp",
+    "items": [
+      {
+        "icon": "truck",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "RECOVERY"
+      },
+      {
+        "icon": "search",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "DIAGNOSTICS"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "STRIPPED ENGINE"
+      },
+      {
+        "icon": "chain",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "TIMING CHAIN REPLACEMENT"
+      },
+      {
+        "icon": "wrench",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "IN FOR REBUILD"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "REBUILD IN PROGRESS"
+      },
+      {
+        "icon": "truck",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "NATIONWIDE RECOVERY"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "ENGINE STRIPPED"
+      },
+      {
+        "icon": "knock",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "TESTING & CHECKS"
+      },
+      {
+        "icon": "shield-check",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "READY FOR COLLECTION"
+      },
+      {
+        "icon": "gear",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "engine REBUILD"
+      },
+      {
+        "icon": "wrench",
+        "model": "Jaguar S-Type 2.7d",
+        "status": "WORKSHOP BAY"
+      }
+    ]
+  },
+  "howItWorks": {
+    "titlePre": "HOW IT ",
+    "titleHighlight": "WORKS",
+    "steps": [
+      {
+        "icon": "note",
+        "linePre": "SEND YOUR",
+        "lineHighlight": "REGISTRATION"
+      },
+      {
+        "icon": "price",
+        "linePre": "RECEIVE YOUR",
+        "lineHighlight": "FIXED-PRICE QUOTE"
+      },
+      {
+        "icon": "truck",
+        "linePre": "WE RECOVER",
+        "lineHighlight": "YOUR CAR"
+      },
+      {
+        "icon": "engine",
+        "linePre": "REBUILD &",
+        "lineHighlight": "REFIT"
+      }
+    ],
+    "summary": {
+      "timeframe": {
+        "icon": "clock",
+        "text": "Most Jaguar models are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days."
+      },
+      "urgency": {
+        "icon": "calendar",
+        "textPre": "Workshop slots fill up fast — ",
+        "textHighlight": "book your recovery today."
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "about": {
+    "image": "/variant/sec10_top_div.webp",
+    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "titlePre": "ABOUT THE",
+    "titleHighlight": "Jaguar E-Pace P300e ENGINE",
+    "paragraphs": [
+      "The E-Pace P300e is the plug-in hybrid version of Jaguar's compact SUV, combining a 1.5-litre three-cylinder Ingenium petrol engine with an electric motor. It's part of the X540 generation E-Pace range, which has been in production since 2017. The P300e represents Jaguar's move toward electrification, offering a balance of petrol performance and electric-only capability."
+    ],
+    "boldParagraph": "We continue to rebuild and replace Ingenium AJ150 (1.5L I3) + Electric engines for every E-Pace P300e on the road."
+  },
+  "codes": {
+    "titlePre": "Jaguar E-Pace P300e ENGINE ",
+    "titleHighlight": "CODES",
+    "image": "/variant/sec10_engine.webp",
+    "cards": [
+      {
+        "codeHighlight": "Ingenium AJ150 (1.5L I3) + Electric",
+        "codeRest": "",
+        "body": "A 1.5-litre three-cylinder petrol engine fitted to the E-Pace P300e, paired with an electric motor. We service the combustion engine to the same standard as our other Ingenium rebuilds. Check Your E-Pace P300e Engine → [link to quote form]",
+        "cta": "Check Your Ingenium AJ150 (1.5L I3) + Electric E-Pace P300e",
+        "codeHref": "/jaguar-m256-engine"
+      }
+    ]
+  },
+  "compatibility": {
+    "titlePre": "Jaguar E-Pace P300e ENGINE ",
+    "titleHighlight": "COMPATIBILITY",
+    "intro": "Before we quote or supply anything, we confirm:",
+    "image": "/variant/sec10_third_div.webp",
+    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "badge": {
+      "title": "Ingenium AJ150 (1.5L I3) + Electric",
+      "line1": "Confirmed by VIN",
+      "line2": "Match Guaranteed"
+    },
+    "points": [
+      {
+        "icon": "piston",
+        "text": "Your exact hybrid specification"
+      },
+      {
+        "icon": "car",
+        "text": "Your generation (X540)"
+      },
+      {
+        "icon": "gears",
+        "text": "Drivetrain and ancillary specification"
+      },
+      {
+        "icon": "code",
+        "text": "Any electronics or ECU considerations specific to your exact build"
+      }
+    ],
+    "footer": "This is why we always start with your registration rather than a generic E-Pace quote — it protects you from paying for parts that don't fit your actual car."
+  },
+  "applications": {
+    "titlePre": "Jaguar E-Pace P300e ",
+    "titleHighlight": "APPLICATIONS BY GENERATION",
+    "image": "/variant/jaguar_car.webp",
+    "columns": [
+      "Generation",
+      "Chassis",
+      "Years",
+      "Engine Code",
+      "Fuel"
+    ],
+    "rows": [
+      {
+        "generation": "X540",
+        "chassis": "X540",
+        "years": "2017–present",
+        "engineCode": "Ingenium AJ150 + Electric",
+        "fuel": "Petrol Plug-in Hybrid"
+      }
+    ]
+  }
+}

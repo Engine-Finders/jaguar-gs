@@ -1,0 +1,43 @@
+{
+  "image": "/engine/sec3.webp",
+  "titlePre": "Jaguar AJ16 Applications — ",
+  "titleHighlight": "Every Model & Variant",
+  "columns": [
+    {
+      "label": "Model"
+    },
+    {
+      "label": "Variant"
+    },
+    {
+      "label": "Generation"
+    },
+    {
+      "label": "Chassis"
+    },
+    {
+      "label": "Years"
+    },
+    {
+      "label": "Powertrain Sub-type"
+    }
+  ],
+  "rows": [
+    {
+      "model": "XJ",
+      "variant": "XJ6",
+      "generation": "X300",
+      "chassis": "X300",
+      "years": "1994–1997",
+      "powertrain": "Petrol",
+      "modelHref": "/jaguar-xj-engines"
+    }
+  ],
+  "prompt": {
+    "icon": "search",
+    "titlePre": "Not seeing your exact model?",
+    "subtext": "Send us your registration and we'll confirm.",
+    "buttonLabel": "Send Us Your Registration →",
+    "href": "#quote-form"
+  }
+}

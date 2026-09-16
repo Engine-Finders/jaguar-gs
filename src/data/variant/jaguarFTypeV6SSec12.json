@@ -1,0 +1,65 @@
+{
+  "yearBanner": {
+    "titlePre": "WE COVER ",
+    "titleHighlight": "EVERY",
+    "titlePost": " Jaguar F-Type V6 S MODEL YEAR:",
+    "years": [
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg.",
+    "vehicleLabel": "Jaguar F-Type V6 S"
+  },
+  "costs": {
+    "titlePre": "Jaguar F-Type V6 S ENGINE ",
+    "titleHighlight": "COSTS",
+    "intro": "A Jaguar F-Type V6 S engine rebuild starts from",
+    "price": "£3,600",
+    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/sec10_engine.webp",
+    "warranty": {
+      "line1": "12 MONTH",
+      "line2": "UNLIMITED-MILEAGE",
+      "line3": "WARRANTY"
+    },
+    "subCards": [
+      {
+        "icon": "engine",
+        "title": "MERCEDES F-Type V6 S ENGINE SIZES",
+        "item": "Jaguar F-Type V6 S 3.0 Litre Engine (AJ126, I6)"
+      },
+      {
+        "icon": "fuel",
+        "title": "MERCEDES F-Type V6 S FUEL TYPES",
+        "item": "Jaguar F-Type V6 S Petrol Mild Hybrid Engine Rebuilds"
+      }
+    ]
+  },
+  "bottomInfo": {
+    "timeframe": {
+      "icon": "clock",
+      "textPre": "Most Jaguar F-Type V6 S engine rebuilds are completed within ",
+      "textHighlight": "3-5 working days",
+      "textPost": "."
+    },
+    "recoveryText": "Nationwide recovery and collection available for all Jaguar F-Type V6 S models.",
+    "image": "/variant/jaguar_car.webp"
+  },
+  "related": {
+    "title": "RELATED JAGUAR ENGINES",
+    "links": [],
+    "viewAll": "View All Jaguar Engines",
+    "viewAllHref": "/engines"
+  }
+}

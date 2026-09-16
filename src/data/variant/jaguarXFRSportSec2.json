@@ -1,0 +1,67 @@
+{
+  "headlinePre": "Your ",
+  "headlineHighlight": "Jaguar XF R-Sport",
+  "headlinePost": " Engine",
+  "image": "/variant/sec10_engine.webp",
+  "specs": [
+    {
+      "icon": "car",
+      "label": "Vehicle",
+      "value": "Jaguar XF R‑Sport"
+    },
+    {
+      "icon": "layers",
+      "label": "Model",
+      "value": "XF"
+    },
+    {
+      "icon": "sliders",
+      "label": "Variant",
+      "value": "R‑Sport"
+    },
+    {
+      "icon": "fuel",
+      "label": "Fuel",
+      "value": "Petrol / Diesel (depends on engine)"
+    },
+    {
+      "icon": "engine",
+      "label": "Engine",
+      "value": "Varies (AJ200, AJ200D, and other X260‑era units)"
+    },
+    {
+      "icon": "gauge",
+      "label": "Capacity",
+      "value": "2.0L (and 3.0L V6 on earlier cars)"
+    },
+    {
+      "icon": "calendar",
+      "label": "Generation",
+      "value": "X260 (2015 – present)"
+    },
+    {
+      "icon": "price",
+      "label": "Rebuild From",
+      "value": "£2,000"
+    }
+  ],
+  "lookup": {
+    "title": "Not sure which engine you have?",
+    "body": "The XF R-Sport uses the Varies (AJ200, AJ200D, and other X260‑era units) 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "DVLA & VIN verified"
+      },
+      {
+        "icon": "lock",
+        "label": "100% secure & private"
+      },
+      {
+        "icon": "note",
+        "label": "No obligation quote"
+      }
+    ],
+    "buttonLabel": "Check My Exact Engine"
+  }
+}

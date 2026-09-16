@@ -1,0 +1,40 @@
+{
+  "kicker": "Known Issue",
+  "h2": "Jaguar S-Type|AJ-V8 / AJ-V6 Timing Chain Issues?|",
+  "description": "The 4.2 V8 is known for timing chain stretch between roughly 80,000–150,000km, signalled by a cold-start rattle — the chain tensioners and guide rails wear alongside the chain itself. The 3.0 V6 shares a similar timing chain tensioner failure pattern. We replace whichever's worn as standard on every rebuild.",
+  "descriptionEmphasis": "No hidden extras.",
+  "image": "/model/sec2.webp",
+  "imageMobile": "/model/sec2_mobile.webp",
+  "callout": {
+    "icon": "shield-check",
+    "title": "A Well-Documented Issue",
+    "body": "AJD-V6 injector seal leaks and timing chain wear are widely documented across Jaguar specialist forums and official TSBs."
+  },
+  "heroHook": {
+    "icon": "shield-check",
+    "title": "Include In Hero Hook:",
+    "body": "Yes — both verified: AJD-V6 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+  },
+  "features": [
+    {
+      "icon": "link",
+      "title": "New Timing Chains",
+      "body": "Replaced as standard (where worn or damaged)"
+    },
+    {
+      "icon": "gear",
+      "title": "New Tensioners",
+      "body": "For maximum reliability"
+    },
+    {
+      "icon": "guide",
+      "title": "New Injector Seals",
+      "body": "Updated OEM components"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Peace Of Mind",
+      "body": "No hidden extras — just a stronger, longer-lasting engine"
+    }
+  ]
+}
