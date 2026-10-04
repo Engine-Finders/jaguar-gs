@@ -11,12 +11,24 @@
   "bodyBold": "Just a smarter, more affordable way",
   "bodyRest": "to keep your Jaguar where it belongs — on the road.",
   "features": [
-    { "label": "Better Value", "icon": "value" },
-    { "label": "Faster Turnaround", "icon": "speed" },
-    { "label": "The Same Jaguar DNA", "icon": "road" }
+    {
+      "label": "Better Value",
+      "icon": "value"
+    },
+    {
+      "label": "Faster Turnaround",
+      "icon": "speed"
+    },
+    {
+      "label": "The Same Jaguar DNA",
+      "icon": "road"
+    }
   ],
-  "cta": { "label": "Check My Jaguar", "href": "#find-my-jaguar" },
+  "cta": {
+    "label": "Check My Jaguar",
+    "href": "#find-my-jaguar"
+  },
   "footer": "Because Every Drive Matters",
   "bgImage": "/home/sec4.5.webp",
-  "mobileImage": "/home/sec4.5_mobile3.webp"
+  "mobileImage": "/home/sec4.5.webp"
 }

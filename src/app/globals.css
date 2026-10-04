@@ -41,7 +41,7 @@
 
   /* Light-section background — client-specified overlay color, replaces
      white/off-white behind text and non-photo areas of light sections. */
-  --color-light-surface: #f1ede8;
+  --color-light-surface: #f2f2f2;
 
   /* Alias kept for reusable/ components (Navbar, Footer, RegLookupForm,
      Heading) written before this token consolidation. */
@@ -458,7 +458,7 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.35);
   box-shadow:
     0 15px 35px -8px rgba(0, 0, 0, 0.55),
-    0 0 26px -4px rgba(201, 169, 110, 0.4),
+    0 0 26px -4px rgba(214, 218, 224, 0.4),
     inset 0 1px 0 rgba(255, 255, 255, 0.15);
 }
 
@@ -481,7 +481,7 @@ body {
   left: 30%;
   width: 40%;
   height: 8px;
-  background: radial-gradient(ellipse at center, rgba(201, 169, 110, 0.85) 0%, transparent 70%);
+  background: radial-gradient(ellipse at center, rgba(214, 218, 224, 0.85) 0%, transparent 70%);
   pointer-events: none;
 }
 
@@ -492,7 +492,7 @@ body {
   overflow: hidden;
   box-shadow:
     0 20px 45px -20px rgba(26, 26, 26, 0.25),
-    0 0 22px -6px rgba(201, 169, 110, 0.25);
+    0 0 22px -6px rgba(214, 218, 224, 0.25);
 }
 
 .card-glare-light::before {
@@ -502,8 +502,8 @@ body {
   left: 15%;
   width: 70%;
   height: 2px;
-  background: linear-gradient(90deg, transparent, rgba(201, 169, 110, 0.9), transparent);
-  box-shadow: 0 0 12px rgba(201, 169, 110, 0.7);
+  background: linear-gradient(90deg, transparent, rgba(214, 218, 224, 0.9), transparent);
+  box-shadow: 0 0 12px rgba(214, 218, 224, 0.7);
   pointer-events: none;
 }
 
@@ -514,7 +514,7 @@ body {
   left: 30%;
   width: 40%;
   height: 8px;
-  background: radial-gradient(ellipse at center, rgba(201, 169, 110, 0.35) 0%, transparent 70%);
+  background: radial-gradient(ellipse at center, rgba(214, 218, 224, 0.35) 0%, transparent 70%);
   pointer-events: none;
 }
 
@@ -527,8 +527,8 @@ body {
 .card-corner-glare {
   overflow: hidden;
   box-shadow:
-    0 0 0 1px rgba(201, 169, 110, 0.15),
-    0 0 18px -4px rgba(201, 169, 110, 0.55);
+    0 0 0 1px rgba(214, 218, 224, 0.15),
+    0 0 18px -4px rgba(214, 218, 224, 0.55);
 }
 
 .card-corner-glare::before {
@@ -538,7 +538,7 @@ body {
   left: -25%;
   width: 60%;
   height: 60%;
-  background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.4), rgba(201, 169, 110, 0.25) 40%, transparent 70%);
+  background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.4), rgba(214, 218, 224, 0.25) 40%, transparent 70%);
   pointer-events: none;
 }
 
@@ -549,7 +549,7 @@ body {
   right: -25%;
   width: 60%;
   height: 60%;
-  background: radial-gradient(circle at bottom right, rgba(201, 169, 110, 0.45), transparent 70%);
+  background: radial-gradient(circle at bottom right, rgba(214, 218, 224, 0.45), transparent 70%);
   pointer-events: none;
 }
 
@@ -566,11 +566,11 @@ body {
   -webkit-backdrop-filter: blur(16px);
   border: 1.5px solid rgba(255, 255, 255, 0.9);
   box-shadow:
-    inset 0 0 15px rgba(201, 169, 110, 0.35),
+    inset 0 0 15px rgba(214, 218, 224, 0.35),
     inset 0 1px 0 rgba(255, 255, 255, 0.95),
     0 15px 35px rgba(0, 0, 0, 0.6),
     0 0 14px rgba(255, 255, 255, 0.55),
-    0 0 30px rgba(201, 169, 110, 0.55);
+    0 0 30px rgba(214, 218, 224, 0.55);
 }
 
 .neon-card::before {
@@ -592,7 +592,7 @@ body {
   left: 20%;
   width: 60%;
   height: 40%;
-  background: radial-gradient(ellipse at bottom, rgba(201, 169, 110, 0.35), transparent 70%);
+  background: radial-gradient(ellipse at bottom, rgba(214, 218, 224, 0.35), transparent 70%);
   pointer-events: none;
 }
 
@@ -601,13 +601,13 @@ body {
 /* rim reads as too bright. Combine as `neon-card neon-card--soft` (must     */
 /* come after .neon-card in the stylesheet to win the cascade).             */
 .neon-card--soft {
-  border-color: rgba(201, 169, 110, 0.55);
+  border-color: rgba(214, 218, 224, 0.55);
   box-shadow:
-    inset 0 0 10px rgba(201, 169, 110, 0.2),
+    inset 0 0 10px rgba(214, 218, 224, 0.2),
     inset 0 1px 0 rgba(255, 255, 255, 0.18),
     0 15px 35px rgba(0, 0, 0, 0.6),
     0 0 3px rgba(255, 255, 255, 0.1),
-    0 0 14px rgba(201, 169, 110, 0.3);
+    0 0 14px rgba(214, 218, 224, 0.3);
 }
 
 .neon-card--soft::before {
@@ -702,8 +702,8 @@ body {
   -webkit-backdrop-filter: blur(14px);
   border: 1px solid rgba(100, 100, 100, 0.35);
   box-shadow:
-    inset 0 1px 0 rgba(201, 169, 110, 0.25),
-    0 0 0 1px rgba(201, 169, 110, 0.1);
+    inset 0 1px 0 rgba(214, 218, 224, 0.25),
+    0 0 0 1px rgba(214, 218, 224, 0.1);
 }
 
 .glow-card--sm {
@@ -718,7 +718,7 @@ body {
   width: 55%;
   height: 14px;
   transform: translateX(-50%);
-  background: radial-gradient(circle, rgba(201, 169, 110, 0.9) 0%, rgba(201, 169, 110, 0) 72%);
+  background: radial-gradient(circle, rgba(214, 218, 224, 0.9) 0%, rgba(214, 218, 224, 0) 72%);
   filter: blur(3px);
   pointer-events: none;
 }
@@ -728,7 +728,7 @@ body {
   position: absolute;
   inset: 0 0 auto 0;
   height: 45%;
-  background: linear-gradient(180deg, rgba(201, 169, 110, 0.16) 0%, rgba(201, 169, 110, 0) 100%);
+  background: linear-gradient(180deg, rgba(214, 218, 224, 0.16) 0%, rgba(214, 218, 224, 0) 100%);
   pointer-events: none;
 }
 
@@ -742,10 +742,10 @@ body {
   position: relative;
   padding: 2px;
   border-radius: 1rem;
-  background: linear-gradient(145deg, #f3ead9 0%, #d9bd8c 25%, #4a3a1e 55%, #e6cda1 80%, #1a1a1a 100%);
+  background: linear-gradient(145deg, #f6f6f6 0%, #c4c4c4 25%, #3d3d3d 55%, #e2e2e2 80%, #1a1a1a 100%);
   box-shadow:
-    0 0 26px 2px rgba(201, 169, 110, 0.35),
-    0 0 6px rgba(230, 205, 161, 0.55);
+    0 0 26px 2px rgba(214, 218, 224, 0.35),
+    0 0 6px rgba(235, 235, 235, 0.55);
 }
 
 .hud-card-inner {
@@ -766,4 +766,87 @@ body {
   filter: blur(1.5px);
   pointer-events: none;
   z-index: 5;
+}
+
+
+/* ---------------------------------------------------------------- */
+/* Jaguar mono (chrome) accent system.                               */
+/* Site palette: white primary, charcoal-black secondary, silver     */
+/* chrome for metallic highlights. The legacy accent tokens          */
+/* (--color-hero-blue / -gold / bmw-*) resolve to CHARCOAL on light   */
+/* sections and SILVER on dark sections inside a .mono-accent scope,  */
+/* so every `text-hero-blue` / `bg-hero-blue/..` utility flips with   */
+/* the section theme. Put .mono-accent on the page wrapper.           */
+/* ---------------------------------------------------------------- */
+
+.mono-accent,
+.mono-accent .theme-light {
+  --color-hero-blue: #2b2b2b;
+  --color-hero-blue-dark: #111111;
+  --color-hero-gold: #2b2b2b;
+  --color-bmw-blue: #2b2b2b;
+  --color-bmw-blue-dark: #111111;
+  --color-bmw-violet: #2b2b2b;
+  --color-bmw-red: #2b2b2b;
+}
+
+.mono-accent .theme-dark {
+  --color-hero-blue: #d4d4d4;
+  --color-hero-blue-dark: #a3a3a3;
+  --color-hero-gold: #d4d4d4;
+  --color-bmw-blue: #d4d4d4;
+  --color-bmw-blue-dark: #a3a3a3;
+  --color-bmw-violet: #d4d4d4;
+  --color-bmw-red: #d4d4d4;
+}
+
+/* chrome gradient text — .text-chrome on dark backgrounds (bright silver),
+   .text-chrome-dim for the de-emphasised word on dark, .text-chrome-ink on
+   light backgrounds (graphite → charcoal) */
+.text-chrome,
+.text-chrome-dim,
+.text-chrome-ink {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  /* italic glyph overhang would otherwise be clipped by the gradient box */
+  padding-right: 0.06em;
+}
+
+.text-chrome {
+  background-image: linear-gradient(180deg, #ffffff 0%, #d6d6d6 50%, #8e8e8e 100%);
+}
+
+.text-chrome-dim {
+  background-image: linear-gradient(180deg, #bdbdbd 0%, #7d7d7d 50%, #4a4a4a 100%);
+}
+
+.text-chrome-ink {
+  background-image: linear-gradient(180deg, #8c8c8c 0%, #5e5e5e 45%, #2b2b2b 100%);
+}
+
+/* silver chrome button (hero primary CTA) — dark text on brushed silver */
+.btn-chrome {
+  background-image: linear-gradient(180deg, #ffffff 0%, #d9d9d9 45%, #a9a9a9 100%);
+  color: #111111;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    0 8px 22px -8px rgba(0, 0, 0, 0.6);
+}
+
+.btn-chrome:hover {
+  background-image: linear-gradient(180deg, #ffffff 0%, #ececec 45%, #bdbdbd 100%);
+}
+
+/* bronze accent word — used sparingly where the reference shows a warm
+   metallic highlight (e.g. "EVERY WEEK", "REBUILD") */
+.text-bronze {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  padding-right: 0.06em;
+  background-image: linear-gradient(180deg, #b79a74 0%, #8f7757 55%, #5f4d37 100%);
 }

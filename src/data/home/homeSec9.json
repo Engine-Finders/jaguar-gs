@@ -1,17 +1,50 @@
 {
   "h2": "Recently Completed Jaguar Rebuilds",
-  "footerTagline": "Excellence. Engineered.",
+  "footerTagline": "Every rebuild. Inspected. Tested. Delivered.",
   "images": [
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Jaguar interior" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Rebuilt engine bay" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" },
-    { "src": "/home/sec9_car.webp", "alt": "Rebuilt engine bay" },
-    { "src": "/home/sec9_car.webp", "alt": "Completed Jaguar rebuild" }
+    {
+      "src": "/home/rebuild_1.webp",
+      "alt": "Completed Jaguar rebuild"
+    },
+    {
+      "src": "/home/rebuild_2.webp",
+      "alt": "Completed Jaguar rebuild"
+    },
+    {
+      "src": "/home/rebuild_3.webp",
+      "alt": "Completed Jaguar rebuild"
+    },
+    {
+      "src": "/home/rebuild_4.webp",
+      "alt": "Jaguar interior"
+    },
+    {
+      "src": "/home/rebuild_5.webp",
+      "alt": "Completed Jaguar rebuild"
+    },
+    {
+      "src": "/home/rebuild_6.webp",
+      "alt": "Completed Jaguar rebuild"
+    },
+    {
+      "src": "/home/rebuild_7.webp",
+      "alt": "Rebuilt engine bay"
+    },
+    {
+      "src": "/home/rebuild_8.webp",
+      "alt": "Completed Jaguar rebuild"
+    },
+    {
+      "src": "/home/rebuild_9.webp",
+      "alt": "Rebuilt engine bay"
+    },
+    {
+      "src": "/home/rebuild_10.webp",
+      "alt": "Completed Jaguar rebuild"
+    }
   ],
-  "cta": { "label": "See All Rebuilds", "href": "/engines" }
+  "cta": {
+    "label": "See All Rebuilds",
+    "href": "/engines"
+  }
 }

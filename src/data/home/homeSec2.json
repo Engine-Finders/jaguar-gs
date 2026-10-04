@@ -1,5 +1,5 @@
 {
   "h2": "Find My Jaguar",
-  "description": "Enter your reg. We'll identify your engine, show you the applicable rebuild price and arrange recovery.",
-  "note": "Live DVLA/VIN API integration"
+  "description": "Enter your reg. We'll identify your engine, tell you the cost, and arrange recovery.",
+  "note": "Live DVLA / VIN API integration"
 }

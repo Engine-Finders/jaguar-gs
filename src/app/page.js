@@ -34,7 +34,7 @@ import homeSec13 from "@/data/home/homeSec13.json";
 // md:hidden / hidden md:block branch, this file just wires them up.
 export default function Home() {
   return (
-    <>
+    <div className="mono-accent">
       <HomeSec1 hero={homeSec1} lookup={homeSec2} />
       <div className="bg-linear-to-b from-(--color-light-surface) to-(--color-light-surface) pb-6 pt-40 md:pt-28">
         <HomeSec3 data={homeSec3} />
@@ -56,6 +56,6 @@ export default function Home() {
       <HomeSec12 data={homeSec12} />
       <HomeSec13 data={homeSec13} />
       <HomeSec10Cta data={homeSec10} />
-    </>
+    </div>
   );
 }

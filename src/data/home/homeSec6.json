@@ -1,19 +1,55 @@
 {
   "h2": "Inside Our Workshop",
   "portrait": [
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" },
-    { "src": "/home/portrait.webp", "alt": "Recovery truck loading a car" }
+    {
+      "src": "/home/gallery_p1.webp",
+      "alt": "Nationwide recovery truck at the workshop"
+    },
+    {
+      "src": "/home/gallery_p2.webp",
+      "alt": "Stripped engine blocks on the bench"
+    },
+    {
+      "src": "/home/gallery_p3.webp",
+      "alt": "Technician rebuilding an engine"
+    },
+    {
+      "src": "/home/gallery_p4.webp",
+      "alt": "Technician inspecting a cylinder block"
+    },
+    {
+      "src": "/home/gallery_p5.webp",
+      "alt": "Engine on a hoist in the workshop"
+    },
+    {
+      "src": "/home/gallery_p6.webp",
+      "alt": "Jaguar raised on a workshop lift"
+    }
   ],
   "landscape": [
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" },
-    { "src": "/home/landscape.webp", "alt": "Recovery truck with car loaded" }
+    {
+      "src": "/home/gallery_l1.webp",
+      "alt": "Engine blocks ready for rebuild"
+    },
+    {
+      "src": "/home/gallery_l2.webp",
+      "alt": "Cylinder block being inspected"
+    },
+    {
+      "src": "/home/gallery_l3.webp",
+      "alt": "Engine on a workshop hoist"
+    },
+    {
+      "src": "/home/gallery_l4.webp",
+      "alt": "Rebuilt cylinder heads in the workshop"
+    },
+    {
+      "src": "/home/gallery_l5.webp",
+      "alt": "Technician with a rebuilt engine"
+    },
+    {
+      "src": "/home/gallery_l6.webp",
+      "alt": "Recovery truck and lift bay"
+    }
   ]
 }

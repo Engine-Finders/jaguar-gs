@@ -5,7 +5,7 @@
   ],
   "note": "We're part of the same specialist group that's been rebuilding engines since 2009.",
   "bgImage": "/home/sec11.webp",
-  "mobileImage": "/home/sec11_mobile.webp",
+  "mobileImage": "/home/sec11.webp",
   "cardImage": "/home/sec11_car.webp",
   "cta": {
     "label": "Learn More",
@@ -14,27 +14,33 @@
   "strip": [
     {
       "label": "Nationwide Recovery",
-      "icon": "truck"
+      "icon": "truck",
+      "image": "/home/workshop_1.webp"
     },
     {
       "label": "Engine Stripping",
-      "icon": "gear"
+      "icon": "gear",
+      "image": "/home/workshop_2.webp"
     },
     {
       "label": "Expert Rebuilding",
-      "icon": "tech"
+      "icon": "tech",
+      "image": "/home/workshop_3.webp"
     },
     {
       "label": "Machine Shop",
-      "icon": "tool"
+      "icon": "tool",
+      "image": "/home/workshop_4.webp"
     },
     {
       "label": "Rigorous Testing",
-      "icon": "monitor"
+      "icon": "monitor",
+      "image": "/home/workshop_5.webp"
     },
     {
       "label": "Road Test & Quality Check",
-      "icon": "car"
+      "icon": "car",
+      "image": "/home/workshop_6.webp"
     }
   ],
   "footerTagline": "The Right Parts. The Right Way. Every Time."
