@@ -55,7 +55,7 @@ export default function HomeSec12({ data }) {
           <div className="absolute inset-y-0 left-0 w-1/5 bg-linear-to-r from-(--color-light-surface) to-transparent" />
         </div>
 
-        <div className="relative mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
+        <div className="relative mx-auto max-w-[76rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
           <h2 className="h2 max-w-xl uppercase">
             <span className="block text-2xl leading-tight text-[#111111] sm:text-3xl">{kicker}</span>
             <span className="block whitespace-nowrap text-4xl leading-tight sm:text-5xl lg:text-6xl">

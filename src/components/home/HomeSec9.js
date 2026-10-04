@@ -51,7 +51,7 @@ export default function HomeSec9({ data }) {
       </div>
 
       {/* ===== desktop ===== */}
-      <div className="relative mx-auto hidden max-w-6xl px-4 py-8 sm:px-6 md:block lg:px-8 lg:py-10">
+      <div className="relative mx-auto hidden max-w-[76rem] px-4 py-8 sm:px-6 md:block lg:px-8 lg:py-10">
         <div className="mb-3 flex justify-center">
           <JaguarLogo className="h-12 w-12" />
         </div>

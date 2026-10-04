@@ -75,7 +75,7 @@ export default function HomeSec11({ data }) {
 
           {/* copy, over the pale left area */}
           <div className="absolute inset-x-0 top-0">
-            <div className="flex items-start px-4 pt-8 sm:px-6 sm:pt-10 lg:pl-[max(2.5rem,calc((100vw-72rem)/2+2.5rem))] lg:pt-14">
+            <div className="flex items-start px-4 pt-8 sm:px-6 sm:pt-10 lg:pl-[max(2rem,calc((100vw-72rem)/2))] lg:pt-14">
               <div className="max-w-[34%] text-[#1a1a1a] sm:max-w-[32%]">
                 <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
                   <span className="block text-2xl leading-[1.05] text-[#111111] sm:text-3xl lg:text-5xl">Meet The</span>
@@ -93,7 +93,7 @@ export default function HomeSec11({ data }) {
           </div>
 
           {/* service cards overlap the bottom edge of the photo */}
-          <div className="relative z-10 mx-auto -mt-40 grid max-w-6xl grid-cols-6 gap-3 px-4 pb-4 sm:px-6 lg:-mt-56 lg:gap-4 lg:px-8">
+          <div className="relative z-10 mx-auto -mt-40 grid max-w-[76rem] grid-cols-6 gap-3 px-4 pb-4 sm:px-6 lg:-mt-56 lg:gap-4 lg:px-8">
             {data.strip.map((s) => (
               <div key={s.label} className="h-52 lg:h-64">
                 <ServiceCard s={s} sizes="200px" />

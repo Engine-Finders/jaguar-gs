@@ -136,7 +136,7 @@ export default function HomeSec1({ hero, lookup }) {
             <div className="absolute inset-0 bg-linear-to-t from-hero-dark/80 via-transparent to-transparent" />
           </div>
 
-          <div className="relative mx-auto max-w-6xl px-4 pb-28 pt-8 sm:px-6 lg:px-8 lg:pt-12">
+          <div className="relative mx-auto max-w-[76rem] px-4 pb-28 pt-8 sm:px-6 lg:px-8 lg:pt-12">
             <h1 className="h1 uppercase">
               <span className="block text-chrome">{line1}</span>
               <span className="block text-chrome-dim">{line2}</span>
@@ -148,7 +148,7 @@ export default function HomeSec1({ hero, lookup }) {
 
             <div
               id="hero-lookup"
-              className={`absolute inset-x-0 bottom-0 z-10 mx-auto max-w-275 translate-y-1/2 overflow-hidden rounded-3xl border border-white/55 p-4 backdrop-blur-xl sm:p-6 ${PANEL_SHADOW}`}
+              className={`absolute inset-x-0 bottom-0 z-10 mx-auto max-w-6xl translate-y-1/2 overflow-hidden rounded-3xl border border-white/55 p-4 backdrop-blur-xl sm:p-6 ${PANEL_SHADOW}`}
               style={{ background: PANEL_BG }}
             >
               <PanelSheen />

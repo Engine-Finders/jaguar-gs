@@ -41,7 +41,7 @@ export default function HomeSec10({ data }) {
             <div className="absolute inset-0 bg-hero-dark/25" />
           </div>
 
-          <div className="relative mx-auto max-w-6xl px-4 pt-8 sm:px-6 lg:px-8 lg:pt-10">
+          <div className="relative mx-auto max-w-[76rem] px-4 pt-8 sm:px-6 lg:px-8 lg:pt-10">
             <div className="max-w-[46%]">
               <h2 className="h2 uppercase">
                 <span className="text-chrome">Why Jaguar Owners Travel Across The UK To Us</span>
