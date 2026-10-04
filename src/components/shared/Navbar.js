@@ -8,6 +8,8 @@ import Icon from "@/components/reusable/Icon";
 export default function Navbar({ data }) {
   const [open, setOpen] = useState(false);
   const [mobileSub, setMobileSub] = useState(null);
+  // wordmark: "JAGUARGARAGE" bold + ".UK" light, matching the reference header
+  const [brandName, brandTld] = data.brand.split(/(?=\.[A-Za-z]+$)/);
 
   return (
     <header className="relative z-50 bg-black text-white">
@@ -15,10 +17,11 @@ export default function Navbar({ data }) {
         <Link href="/" className="flex shrink-0 items-center gap-3">
           <JaguarLogo className="h-14 w-14 shrink-0 text-white" />
           <span>
-            <span className="font-title block text-xl font-extrabold italic leading-none tracking-tight text-white sm:text-2xl">
-              {data.brand}
+            <span className="font-title block text-xl font-bold italic leading-none tracking-tight text-white sm:text-2xl">
+              {brandName}
+              {brandTld ? <span className="font-light text-white/80">{brandTld}</span> : null}
             </span>
-            <span className="mt-1 block text-[11px] font-semibold leading-none tracking-[0.12em] text-[var(--color-mb-gold)] sm:text-xs">
+            <span className="mt-1 block text-[10px] font-medium italic leading-none tracking-[0.06em] text-white/75 sm:text-xs">
               {data.tagline}
             </span>
           </span>
@@ -30,7 +33,7 @@ export default function Navbar({ data }) {
             <div key={link.href} className="group relative">
               <Link
                 href={link.href}
-                className="flex items-center gap-1 py-2 transition-colors hover:text-[var(--color-mb-gold)]"
+                className="flex items-center gap-1 py-2 transition-colors hover:text-white/70"
               >
                 {link.label}
                 {link.children?.length ? <Icon name="chevron-down" className="h-3.5 w-3.5" /> : null}
@@ -42,7 +45,7 @@ export default function Navbar({ data }) {
                       <Link
                         key={c.href + c.label}
                         href={c.href}
-                        className="block rounded px-3 py-2 text-xs font-semibold normal-case tracking-normal text-white/80 transition-colors hover:bg-white/10 hover:text-[var(--color-mb-gold)]"
+                        className="block rounded px-3 py-2 text-xs font-semibold normal-case tracking-normal text-white/80 transition-colors hover:bg-white/10 hover:text-white/70"
                       >
                         {c.label}
                       </Link>
@@ -58,7 +61,7 @@ export default function Navbar({ data }) {
           {data.phone ? (
             <a
               href={data.phoneHref}
-              className="hidden whitespace-nowrap text-sm font-bold text-[var(--color-mb-gold)] lg:inline"
+              className="hidden whitespace-nowrap text-sm font-bold text-white/85 lg:inline"
             >
               {data.phone}
             </a>
@@ -66,7 +69,7 @@ export default function Navbar({ data }) {
           {data.cta ? (
             <Link
               href={data.cta.href}
-              className="whitespace-nowrap rounded-md bg-[var(--color-mb-gold)] px-4 py-2 text-xs font-bold uppercase tracking-wide text-black transition-transform hover:scale-[1.03]"
+              className="btn-chrome whitespace-nowrap rounded-md px-4 py-2 text-xs font-bold uppercase tracking-wide transition-transform hover:scale-[1.03]"
             >
               {data.cta.label}
             </Link>
@@ -129,7 +132,7 @@ export default function Navbar({ data }) {
             <Link
               href={data.cta.href}
               onClick={() => setOpen(false)}
-              className="mt-3 rounded-md bg-[var(--color-mb-gold)] px-4 py-2.5 text-center text-xs font-bold uppercase text-black"
+              className="btn-chrome mt-3 rounded-md px-4 py-2.5 text-center text-xs font-bold uppercase"
             >
               {data.cta.label}
             </Link>

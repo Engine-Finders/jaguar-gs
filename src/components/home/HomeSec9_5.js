@@ -3,17 +3,12 @@ import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 const FLOATERS = [
-  { top: "8%", left: "10%", size: 76, rotate: -10, opacity: 0.9, delay: "0s" },
-  { top: "0%", left: "30%", size: 88, rotate: -18, opacity: 0.95, delay: "0.4s" },
-  { top: "0%", right: "30%", size: 74, rotate: 8, opacity: 0.85, delay: "0.8s" },
-  { top: "8%", right: "10%", size: 82, rotate: 20, opacity: 0.9, delay: "1.2s" },
-  { top: "30%", left: "2%", size: 78, rotate: 15, opacity: 0.85, delay: "1.6s" },
-  { top: "48%", left: "0%", size: 82, rotate: 10, opacity: 0.85, delay: "0.2s" },
-  { top: "30%", right: "2%", size: 80, rotate: -8, opacity: 0.9, delay: "0.6s" },
-  { top: "48%", right: "0%", size: 88, rotate: -12, opacity: 0.95, delay: "1.0s" },
-  { bottom: "6%", left: "12%", size: 84, rotate: 30, opacity: 0.9, delay: "1.4s" },
-  { bottom: "0%", left: "40%", size: 68, rotate: -22, opacity: 0.85, delay: "1.8s" },
-  { bottom: "6%", right: "14%", size: 78, rotate: -25, opacity: 0.85, delay: "0.5s" },
+  { top: "6%", left: "8%", size: 84, rotate: -10, opacity: 0.9, delay: "0s" },
+  { top: "0%", right: "22%", size: 80, rotate: 8, opacity: 0.9, delay: "0.8s" },
+  { top: "40%", left: "0%", size: 80, rotate: 15, opacity: 0.85, delay: "1.6s" },
+  { top: "36%", right: "0%", size: 84, rotate: -12, opacity: 0.9, delay: "1.0s" },
+  { bottom: "4%", left: "14%", size: 80, rotate: 30, opacity: 0.9, delay: "1.4s" },
+  { bottom: "2%", right: "16%", size: 76, rotate: -25, opacity: 0.85, delay: "0.5s" },
 ];
 
 export default function HomeSec9_5({ data }) {
@@ -26,11 +21,11 @@ export default function HomeSec9_5({ data }) {
       <div className="pointer-events-none absolute -left-24 bottom-10 h-64 w-64 rounded-full bg-hero-blue/8 blur-3xl" />
       <div className="relative mx-auto grid max-w-6xl grid-cols-1 items-center gap-6 lg:grid-cols-2 lg:gap-8">
         <div>
-          <p className="label-text uppercase tracking-widest text-hero-blue">{data.eyebrow}</p>
+          <p className="label-text uppercase tracking-widest text-[#1a1a1a]">{data.eyebrow}</p>
           <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 mt-2 uppercase text-[#1a1a1a]">
             <span className="block">{line1}</span>
             <span className="block">
-              {line2a} <span className="text-hero-blue">{line2b}</span>
+              {line2a} <span className="text-chrome-ink">{line2b}</span>
             </span>
           </h2>
 
@@ -41,7 +36,7 @@ export default function HomeSec9_5({ data }) {
               <li key={p.name} className="flex items-center gap-4 py-3">
                 <Icon name={p.icon} className="h-12 w-12 shrink-0 text-hero-blue" />
                 <div>
-                  <p className="text-sm font-bold uppercase tracking-wide text-hero-blue">{p.name}</p>
+                  <p className="text-sm font-bold uppercase tracking-wide text-[#111111]">{p.name}</p>
                   <p className="mt-1 text-sm text-[#1a1a1a]">{p.description}</p>
                 </div>
               </li>
@@ -75,7 +70,7 @@ export default function HomeSec9_5({ data }) {
           ))}
 
           <div className="animate-float-core absolute inset-[4%] z-10">
-            <Image src={data.engineImage} alt="Jaguar-AMG engine core" fill className="object-contain" sizes="700px" priority={false} />
+            <Image src={data.engineImage} alt="Jaguar engine" fill className="object-contain" sizes="700px" priority={false} />
           </div>
         </div>
       </div>

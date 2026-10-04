@@ -1,118 +1,110 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import JaguarLogo from "@/components/reusable/JaguarLogo";
+
+// "Meet the Workshop": the photo's left panel is already a pale chrome-edged wedge, so the copy
+// sits straight on it in charcoal; the six service cards overlap the photo's bottom edge.
+function ServiceCard({ s, sizes, compact = false }) {
+  return (
+    <div className="glow-card glow-card--sm relative h-full min-h-40 overflow-hidden border-2! border-white! shadow-[0_10px_24px_-6px_rgba(0,0,0,0.45),0_0_0_1px_rgba(0,0,0,0.06)]">
+      <Image src={s.image} alt={s.label} fill className="object-cover" sizes={sizes} />
+      <div className="absolute inset-0 bg-linear-to-t from-[#101114]/95 via-[#101114]/45 to-transparent" />
+
+      <div className="absolute inset-x-0 bottom-0 flex flex-col gap-1.5 px-2 pb-2.5 pt-6 sm:px-3 sm:pb-3.5">
+        <div className="flex items-center gap-1.5 sm:gap-2">
+          <Icon name={s.icon} className={`shrink-0 text-white ${compact ? "h-4 w-4" : "h-4 w-4 sm:h-7 sm:w-7"}`} />
+          <p className="label-text font-bold uppercase leading-tight tracking-wide text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)] sm:text-sm">
+            {s.label}
+          </p>
+        </div>
+        <span className="block h-px w-1/2 bg-white/70" />
+      </div>
+    </div>
+  );
+}
 
 export default function HomeSec11({ data }) {
   return (
     <section className="theme-light">
       {/* ===== mobile ===== */}
       <div className="md:hidden">
-        {/* mobile-specific crop has the same diagonal split as the desktop photo, just in a
-            portrait aspect — same clip-path'd wedge technique, text in the wedge only (it
-            narrows too much lower down for a cards band, so those go in a plain div below) */}
-        <div className="relative w-full" style={{ aspectRatio: "687 / 820" }}>
-          <Image src={data.mobileImage} alt="Inside the Jaguar Garage workshop" fill className="object-cover" sizes="100vw" />
+        <div className="px-4 pb-5 pt-6">
+          <h2 className="h2 uppercase text-[#111111]">
+            <span className="block">Meet The</span>
+            <span className="block text-chrome-ink">Workshop</span>
+          </h2>
 
-          {/* light-surface wedge (matches the desktop version's fill), text zone ~60% of the
-              width / image visible ~40%, with only a gentle diagonal taper. */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background: "var(--theme-light-bg)",
-              clipPath: "polygon(0 0, 67% 0, 63% 100%, 0 100%)",
-            }}
-          />
-
-          <div className="absolute inset-0 px-4 pt-6">
-            <div className="max-w-[54%] text-[#1a1a1a]">
-              <h2 className="h2">
-                <span className="block">Meet The</span>
-                <span className="block text-hero-blue">Workshop</span>
-              </h2>
-
-              <div className="body-text mt-4 space-y-2 leading-relaxed text-[#1a1a1a]">
-                {data.paragraphs.map((p, i) => (
-                  <p key={i}>{p}</p>
-                ))}
-              </div>
-              <p className="body-text mt-3 italic leading-relaxed text-[#1a1a1a]">{data.note}</p>
-            </div>
+          <div className="body-text mt-3 space-y-2 leading-relaxed text-[#1a1a1a]">
+            {data.paragraphs.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
           </div>
+          <p className="body-text mt-3 leading-relaxed text-[#1a1a1a]">{data.note}</p>
         </div>
 
-        <div className="grid grid-cols-3 gap-2 px-4 py-6" style={{ background: "var(--theme-light-bg)" }}>
-          {data.strip.map((s) => (
-            <div key={s.label} className="glow-card glow-card--sm relative h-40 overflow-hidden">
-              <Image src={data.cardImage} alt={s.label} fill className="object-cover" sizes="140px" />
+        <div className="relative aspect-4/3 w-full">
+          <Image src={data.mobileImage} alt="Inside the Jaguar Garage workshop" fill className="origin-top-right scale-[1.22] object-cover object-right" sizes="100vw" />
+          <div className="absolute inset-x-0 top-0 h-1/4 bg-linear-to-b from-(--color-light-surface) to-transparent" />
+        </div>
 
-              <div className="absolute inset-x-0 bottom-0 flex flex-col justify-center gap-1.5 border-t border-white/15 bg-white/10 px-1.5 py-2 backdrop-blur-lg">
-                <div className="flex items-center gap-1">
-                  <Icon name={s.icon} className="h-4 w-4 shrink-0 text-hero-blue" />
-                  <p className="label-text font-bold uppercase leading-tight tracking-wide text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">
-                    {s.label}
-                  </p>
-                </div>
-                <span className="block h-px w-full bg-hero-blue/60" />
-              </div>
-            </div>
+        <div className="grid grid-cols-3 gap-2 px-4 py-5">
+          {data.strip.map((s) => (
+            <ServiceCard key={s.label} s={s} sizes="140px" compact />
           ))}
+        </div>
+
+        <div className="flex items-center justify-center gap-3 px-4 pb-6">
+          <span className="h-px w-12 bg-black/20" />
+          <JaguarLogo className="h-9 w-9" />
+          <span className="h-px w-12 bg-black/20" />
         </div>
       </div>
 
       {/* ===== desktop ===== */}
       <div className="hidden md:block">
-        {/* One instance of sec11.jpg, sized by its own real aspect ratio (1024/683) — no separate
-            "photo block" + "card block". The text sits in the image's own top-left blank wedge and
-            the cards sit in its own bottom blank band; a clip-path'd #F1EDE8 layer covers exactly
-            those two blank zones (matching the photo's diagonal edge) so they read as the section's
-            solid surface color instead of the source photo's plain white. */}
-        <div className="relative mx-auto w-full max-w-6xl" style={{ aspectRatio: "1024 / 683" }}>
-          <Image src={data.bgImage} alt="Inside the Jaguar Garage workshop" fill className="object-cover" sizes="100vw" />
+        <div className="relative w-full">
+          {/* photo block keeps the source's own 1024:572 aspect ratio */}
+          {/* the photo is pushed right so its pale wedge leaves clear room for the copy */}
+          <div className="relative ml-auto w-[86%]" style={{ aspectRatio: "1024 / 572" }}>
+            <Image src={data.bgImage} alt="Inside the Jaguar Garage workshop" fill className="object-cover" sizes="100vw" />
+            {/* the source's blank bottom band melts into the section surface */}
+            <div className="absolute inset-x-0 bottom-0 h-[26%] bg-linear-to-t from-(--color-light-surface) via-(--color-light-surface)/85 to-transparent" />
+            {/* left edge melts into the section surface */}
+            <div className="absolute inset-y-0 left-0 w-[14%] bg-linear-to-r from-(--color-light-surface) to-transparent" />
+          </div>
 
-          <div
-            className="absolute inset-0"
-            style={{
-              background: "var(--theme-light-bg)",
-              clipPath: "polygon(0 0, 47% 0, 33% 64%, 100% 64%, 100% 100%, 0 100%)",
-            }}
-          />
+          {/* copy, over the pale left area */}
+          <div className="absolute inset-x-0 top-0">
+            <div className="flex items-start px-4 pt-8 sm:px-6 sm:pt-10 lg:pl-[max(2.5rem,calc((100vw-72rem)/2+2.5rem))] lg:pt-14">
+              <div className="max-w-[34%] text-[#1a1a1a] sm:max-w-[32%]">
+                <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
+                  <span className="block text-2xl leading-[1.05] text-[#111111] sm:text-3xl lg:text-5xl">Meet The</span>
+                  <span className="block text-4xl leading-[1.05] text-chrome-ink sm:text-5xl lg:text-7xl">Workshop</span>
+                </h2>
 
-          {/* text, in the top-left wedge — sized up to fill more of the wedge's height, with
-              "Workshop" set noticeably larger than "Meet The" to match the reference weight */}
-          <div className="absolute inset-0 flex items-start px-4 pt-8 sm:px-6 sm:pt-10 lg:px-10 lg:pt-14">
-            <div className="max-w-[36%] text-[#1a1a1a] sm:max-w-[30%]">
-              <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
-                <span className="block text-2xl leading-[1.05] sm:text-3xl lg:text-4xl">Meet The</span>
-                <span className="block text-4xl leading-[1.05] text-hero-blue sm:text-5xl lg:text-7xl">Workshop</span>
-              </h2>
-
-              <div className="mt-5 space-y-3 text-xs leading-relaxed text-[#1a1a1a] sm:mt-7 sm:space-y-4 sm:text-sm lg:text-base">
-                {data.paragraphs.map((p, i) => (
-                  <p key={i}>{p}</p>
-                ))}
+                <div className="mt-5 space-y-3 text-xs leading-relaxed sm:mt-6 sm:text-sm lg:text-[15px]">
+                  {data.paragraphs.map((p, i) => (
+                    <p key={i}>{p}</p>
+                  ))}
+                </div>
+                <p className="mt-4 text-xs leading-relaxed sm:text-sm lg:text-[15px]">{data.note}</p>
               </div>
-              <p className="mt-5 text-xs italic leading-relaxed text-[#1a1a1a] sm:mt-7 sm:text-sm lg:text-base">{data.note}</p>
             </div>
           </div>
 
-          {/* cards, in the bottom band */}
-          <div className="absolute inset-x-0 bottom-0" style={{ top: "64%" }}>
-            <div className="mx-auto grid h-full max-w-6xl grid-cols-3 gap-2 px-4 py-3 sm:grid-cols-6 sm:gap-3 sm:px-6 sm:py-4 lg:px-8">
-              {data.strip.map((s) => (
-                <div key={s.label} className="glow-card glow-card--sm relative h-full overflow-hidden">
-                  <Image src={data.cardImage} alt={s.label} fill className="object-cover" sizes="200px" />
+          {/* service cards overlap the bottom edge of the photo */}
+          <div className="relative z-10 mx-auto -mt-40 grid max-w-6xl grid-cols-6 gap-3 px-4 pb-4 sm:px-6 lg:-mt-56 lg:gap-4 lg:px-8">
+            {data.strip.map((s) => (
+              <div key={s.label} className="h-52 lg:h-64">
+                <ServiceCard s={s} sizes="200px" />
+              </div>
+            ))}
+          </div>
 
-                  <div className="absolute inset-x-0 bottom-0 flex flex-col justify-center gap-1 border-t border-white/15 bg-white/10 px-1.5 py-1.5 backdrop-blur-lg sm:gap-2 sm:px-3 sm:py-3">
-                    <div className="flex items-center gap-1 sm:gap-2">
-                      <Icon name={s.icon} className="h-4 w-4 shrink-0 text-hero-blue sm:h-6 sm:w-6" />
-                      <p className="label-text font-bold uppercase leading-tight tracking-wide text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">
-                        {s.label}
-                      </p>
-                    </div>
-                    <span className="hidden h-px w-full bg-hero-blue/60 sm:block" />
-                  </div>
-                </div>
-              ))}
-            </div>
+          <div className="flex items-center justify-center gap-4 pb-6 pt-2">
+            <span className="h-px w-40 bg-black/20" />
+            <JaguarLogo className="h-9 w-9" />
+            <span className="h-px w-40 bg-black/20" />
           </div>
         </div>
       </div>

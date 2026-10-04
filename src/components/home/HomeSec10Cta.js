@@ -9,14 +9,14 @@ export default function HomeSec10Cta({ data }) {
         style={{ boxShadow: "0 0 40px -8px rgba(255,255,255,0.25), 0 20px 45px -20px rgba(0,0,0,0.6)" }}
       >
         <div className="absolute inset-0 bg-[#0d0d0d]">
-          <Image src={data.bgImage2} alt="Jaguar-AMG driving through the city at night" fill className="object-cover object-right" sizes="100vw" />
+          <Image src={data.bgImage2} alt="Jaguar XE driving through London in the rain" fill className="object-cover object-right" sizes="100vw" />
           <div className="absolute inset-0 bg-linear-to-r from-hero-dark via-hero-dark/70 to-transparent" />
         </div>
 
         {/* diagonal silver/bronze stripe accent, top-left corner */}
         <div
           className="pointer-events-none absolute -left-6 top-0 h-full w-14 -skew-x-12 sm:w-16"
-          style={{ background: "linear-gradient(90deg, #efeeee 0%, #efeeee 40%, #5d4e3a 60%, #5d4e3a 100%)" }}
+          style={{ background: "linear-gradient(90deg, #f4f4f4 0%, #d0d0d0 40%, #4a4a4a 60%, #1c1c1c 100%)" }}
         />
 
         {/* single responsive layout — column on mobile, row on desktop — so both sizes share the
@@ -28,7 +28,7 @@ export default function HomeSec10Cta({ data }) {
           </div>
 
           <div className="w-full lg:w-auto">
-            <RegLookupForm buttonLabel={data.ctaButton} row compact compactButton />
+            <RegLookupForm buttonLabel={data.ctaButton} row compact compactButton darkButton />
             <p className="label-text mt-3 flex items-center justify-center gap-1.5 uppercase tracking-wide text-white lg:justify-start">
               <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
               {data.apiNote}

@@ -11,17 +11,17 @@ export default function HomeSec6({ data }) {
   return (
     <section className="theme-light px-4 py-8 sm:px-6 lg:px-8">
       <div
-        className="theme-light relative mx-auto max-w-6xl rounded-2xl border border-hero-blue/20 px-4 py-6 sm:px-6 sm:py-8"
-        style={{ boxShadow: "0 0 60px -8px rgba(173,135,92,0.25), 0 0 20px rgba(0,0,0,0.06)" }}
+        className="theme-light relative mx-auto max-w-6xl rounded-2xl border border-black/10 px-4 py-6 sm:px-6 sm:py-8"
+        style={{ boxShadow: "0 0 60px -8px rgba(26,26,26,0.12), 0 0 20px rgba(0,0,0,0.06)" }}
       >
         {/* logo sits half on / half off the card's own top edge */}
         <JaguarLogo className="absolute left-1/2 top-0 z-10 h-14 w-14 -translate-x-1/2 -translate-y-1/2" />
 
         <div className="pt-2 text-center">
           <div className="flex items-center justify-center gap-3">
-            <span className="h-px w-20 bg-hero-blue/40" />
+            <span className="h-px w-20 bg-black/20" />
             <h2 className="h2 text-[#1a1a1a]">{data.h2}</h2>
-            <span className="h-px w-20 bg-hero-blue/40" />
+            <span className="h-px w-20 bg-black/20" />
           </div>
         </div>
 

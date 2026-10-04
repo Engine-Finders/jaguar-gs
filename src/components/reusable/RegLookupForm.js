@@ -20,6 +20,7 @@ export default function RegLookupForm({
   bigButtonText = false,
   short = false,
   darkField = false,
+  plateLabel = "UK",
 }) {
   const [reg, setReg] = useState("");
   const [loading, setLoading] = useState(false);
@@ -42,7 +43,7 @@ export default function RegLookupForm({
 
   const buttonHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-9" : compact ? "h-11" : "h-12";
   const fieldHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-16" : compact ? "h-14 sm:h-20" : "h-24 sm:h-28";
-  const fieldBorder = whiteBorder ? "border-white/70" : "border-[var(--color-hero-gold)]";
+  const fieldBorder = whiteBorder ? "border-white/70" : "border-[#8f8f8f]";
 
   return (
     <form
@@ -67,12 +68,12 @@ export default function RegLookupForm({
         }`}
       >
         <span
-          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-1 text-[var(--color-hero-gold)] ${darkField ? "bg-[#232323]" : "bg-[#1a1a1a]"}`}
+          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-0.5 text-white ${darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
         >
-          <span className="flex h-3.5 w-3.5 items-center justify-center rounded-full border border-[var(--color-hero-gold)] text-[10px] leading-none">
-            ★
+          <span className="text-[13px] leading-none" aria-hidden="true">
+            ♛
           </span>
-          <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>GB</span>
+          <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>{plateLabel}</span>
         </span>
         <input
           type="text"
@@ -84,7 +85,7 @@ export default function RegLookupForm({
           className={`min-w-0 flex-1 px-2 text-center tracking-wide outline-none ${
             darkField
               ? "bg-[#232323] text-white placeholder:italic placeholder:text-white/40"
-              : "bg-[#e4e8ec] text-black placeholder:italic placeholder:text-black"
+              : "bg-linear-to-b from-[#f4f4f4] via-[#e0e0e0] to-[#c9c9c9] text-black placeholder:italic placeholder:text-black"
           } ${
             row
               ? compact
@@ -107,12 +108,12 @@ export default function RegLookupForm({
         <button
           type="submit"
           disabled={loading}
-          className={`${buttonHeight} flex shrink-0 items-center justify-center gap-1.5 whitespace-nowrap rounded-sm border-2 border-[var(--color-hero-gold)] font-bold transition-colors disabled:cursor-wait disabled:opacity-70 ${
+          className={`${buttonHeight} flex shrink-0 items-center justify-center gap-1.5 whitespace-nowrap rounded-sm border-2 font-bold transition-colors disabled:cursor-wait disabled:opacity-70 ${
             darkButton ? "italic" : ""
           } ${
             darkButton
-              ? "bg-[#1a1a1a] text-white hover:bg-transparent hover:text-[var(--color-hero-gold)]"
-              : "bg-[var(--color-hero-gold)] text-white hover:bg-transparent hover:text-[var(--color-hero-gold)]"
+              ? "border-white/25 bg-[#111111] text-white hover:bg-white hover:text-[#111111]"
+              : "border-[#1a1a1a] bg-[#1a1a1a] text-white hover:bg-transparent hover:text-[#1a1a1a]"
           } ${compactButton ? "px-2 text-[10px] gap-1 sm:px-2.5 sm:text-xs sm:gap-1.5" : bigButtonText ? "px-6 text-base sm:text-lg" : "px-6 text-sm"} ${
             stacked ? "w-full" : row ? "" : "w-full sm:w-auto"
           }`}

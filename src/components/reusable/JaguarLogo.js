@@ -1,8 +1,9 @@
 import Image from "next/image";
 
-// Real Jaguar tri-star emblem (client-supplied PNG, background removed),
-// replacing the earlier inline-SVG redraw. `className` still controls size
-// (e.g. "h-8 w-8") exactly like before, so every call site is unchanged.
+// Real Jaguar leaper (client-supplied PNG, background removed, 111x60).
+// `className` still controls the HEIGHT (e.g. "h-8 w-8"); the width is
+// derived from the leaper's 111:60 aspect ratio so it is never squashed
+// into the square box the earlier tri-star emblem needed.
 //
 // Image `fill` needs *some* positioning context on this wrapper — normally
 // "relative", but callers that need to position the whole logo themselves
@@ -14,8 +15,11 @@ import Image from "next/image";
 export default function JaguarLogo({ className = "w-10 h-10" }) {
   const hasPosition = /\b(absolute|fixed|sticky|relative|static)\b/.test(className);
   return (
-    <span className={`inline-block shrink-0 ${hasPosition ? "" : "relative"} ${className}`}>
-      <Image src="/jaguar_real_logo.webp" alt="Jaguar" fill className="object-contain" sizes="80px" />
+    <span
+      className={`inline-block shrink-0 ${hasPosition ? "" : "relative"} ${className}`}
+      style={{ width: "auto", aspectRatio: "111 / 60" }}
+    >
+      <Image src="/home/logo.webp" alt="Jaguar" fill className="object-contain" sizes="120px" />
     </span>
   );
 }

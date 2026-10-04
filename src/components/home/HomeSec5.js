@@ -7,11 +7,8 @@ import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 function TopStrip() {
   return (
-    <span className="relative block h-2 w-full overflow-hidden" style={{ background: "#dbd4ce" }}>
-      <span
-        className="absolute inset-y-0 left-1/2 w-1/4 -translate-x-1/2 skew-x-[-20deg]"
-        style={{ background: "#ad875c" }}
-      />
+    <span className="relative block h-2.5 w-full overflow-hidden bg-linear-to-b from-[#4a4a4a] to-[#0f0f0f]">
+      <span className="absolute inset-y-0 left-1/2 w-1/3 -translate-x-1/2 skew-x-[-20deg] bg-linear-to-r from-transparent via-white/75 to-transparent" />
     </span>
   );
 }
@@ -25,8 +22,8 @@ export default function HomeSec5({ data }) {
 
   return (
     <section className="theme-light relative overflow-hidden px-4 py-8 sm:px-6 lg:px-8">
-      <div className="pointer-events-none absolute -left-24 top-1/3 h-80 w-80 rounded-full bg-hero-blue/15 blur-3xl" />
-      <div className="pointer-events-none absolute -right-24 bottom-0 h-80 w-80 rounded-full bg-hero-blue/10 blur-3xl" />
+      <div className="pointer-events-none absolute -left-24 top-1/3 h-80 w-80 rounded-full bg-white blur-3xl" />
+      <div className="pointer-events-none absolute -right-24 bottom-0 h-80 w-80 rounded-full bg-white blur-3xl" />
       <div className="relative mx-auto max-w-6xl">
         <div className="text-center">
           <div className="mx-auto mb-4 flex items-center justify-center">
@@ -35,7 +32,7 @@ export default function HomeSec5({ data }) {
           <h2 className="h2 text-[#1a1a1a]">
             <span className="block">{line1}</span>
             <span className="block">
-              {line2a} <span className="text-hero-blue">{line2b}</span>
+              {line2a} <span className="text-chrome-ink">{line2b}</span>
             </span>
           </h2>
           <p className="body-text mx-auto mt-2 max-w-xl text-[#1a1a1a]">{data.description}</p>

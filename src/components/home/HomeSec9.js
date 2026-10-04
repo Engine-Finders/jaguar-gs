@@ -19,9 +19,12 @@ export default function HomeSec9({ data }) {
 
       {/* ===== mobile ===== */}
       <div className="relative px-4 py-8 md:hidden">
+        <div className="mb-3 flex justify-center">
+          <JaguarLogo className="h-9 w-9" />
+        </div>
         <h2 className="h2 text-center uppercase text-white">
           <span className="block">Recently Completed</span>
-          <span className="block text-hero-blue">Jaguar Rebuilds</span>
+          <span className="block text-chrome-dim">Jaguar Rebuilds</span>
         </h2>
 
         <div className="mt-5 grid grid-cols-3 gap-2">
@@ -35,16 +38,13 @@ export default function HomeSec9({ data }) {
         </div>
 
         <div className="mt-6 flex flex-col items-center gap-3">
-          <div className="w-fit rounded-sm p-0.5" style={{ background: "linear-gradient(90deg, #fff 0%, #ad875c 55%, #8c6c46 100%)" }}>
-            <a
-              href={data.cta.href}
-              className="block whitespace-nowrap rounded-[3px] bg-hero-blue px-8 py-2.5 text-center text-sm font-bold text-white transition-colors hover:bg-hero-dark hover:text-hero-blue"
-            >
-              {data.cta.label} →
-            </a>
-          </div>
+          <a
+            href={data.cta.href}
+            className="block whitespace-nowrap rounded-md border border-white/35 bg-linear-to-b from-[#1c1c1c] to-[#080808] px-8 py-3 text-center text-sm font-bold uppercase tracking-wider text-white transition-colors hover:bg-none hover:bg-white hover:text-[#111111]"
+          >
+            {data.cta.label} →
+          </a>
           <span className="label-text flex items-center gap-2 uppercase tracking-wide text-white/70">
-            <JaguarLogo className="h-6 w-6" />
             {data.footerTagline}
           </span>
         </div>
@@ -52,8 +52,11 @@ export default function HomeSec9({ data }) {
 
       {/* ===== desktop ===== */}
       <div className="relative mx-auto hidden max-w-6xl px-4 py-8 sm:px-6 md:block lg:px-8 lg:py-10">
+        <div className="mb-3 flex justify-center">
+          <JaguarLogo className="h-12 w-12" />
+        </div>
         <h2 className="h2 text-center uppercase text-white">
-          Recently Completed <span className="text-hero-blue">Jaguar</span> Rebuilds
+          Recently Completed <span className="text-chrome-dim">Jaguar</span> Rebuilds
         </h2>
 
         <div className="relative mt-6">
@@ -89,17 +92,14 @@ export default function HomeSec9({ data }) {
         </div>
 
         <div className="mt-8 flex items-center justify-center gap-4">
-          <div className="rounded-sm p-0.5" style={{ background: "linear-gradient(90deg, #fff 0%, #ad875c 55%, #8c6c46 100%)" }}>
-            <a
-              href={data.cta.href}
-              className="block rounded-[3px] bg-hero-blue px-6 py-2.5 text-sm font-bold text-white transition-colors hover:bg-hero-dark hover:text-hero-blue"
-            >
-              {data.cta.label} →
-            </a>
-          </div>
+          <a
+            href={data.cta.href}
+            className="block rounded-md border border-white/35 bg-linear-to-b from-[#1c1c1c] to-[#080808] px-10 py-3 text-sm font-bold uppercase tracking-wider text-white transition-colors hover:bg-none hover:bg-white hover:text-[#111111]"
+          >
+            {data.cta.label} →
+          </a>
           <span className="h-6 w-px bg-white/20" />
           <span className="label-text flex items-center gap-2 uppercase tracking-wide text-white/70">
-            <JaguarLogo className="h-7 w-7" />
             {data.footerTagline}
           </span>
         </div>

@@ -17,13 +17,13 @@ export default function Footer({ data }) {
           <div className="grid grid-cols-3 gap-6 sm:gap-10 md:flex md:gap-16">
             {data.columns.map((col) => (
               <div key={col.title} className="min-w-0 md:w-32">
-                <h3 className="text-[var(--color-mb-gold)] font-semibold mb-3 text-xs sm:text-sm tracking-wide uppercase">
+                <h3 className="text-white font-semibold mb-3 text-xs sm:text-sm tracking-wide uppercase">
                   {col.title}
                 </h3>
                 <ul className="space-y-2 text-xs sm:text-sm">
                   {col.links.map((link) => (
                     <li key={link.href}>
-                      <Link href={link.href} className="hover:text-[var(--color-mb-gold)] transition-colors">
+                      <Link href={link.href} className="hover:text-white/70 transition-colors">
                         {link.label}
                       </Link>
                     </li>
@@ -49,7 +49,7 @@ export default function Footer({ data }) {
                 href={s.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="hover:text-[var(--color-mb-gold)] transition-colors"
+                className="hover:text-white/70 transition-colors"
               >
                 {s.label}
               </a>

@@ -7,6 +7,9 @@ import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 export default function HomeSec8({ data }) {
   const [line1, line2, line3] = data.h2.split("|");
+  const line3Words = line3.split(" ");
+  const line3Last = line3Words[line3Words.length - 1];
+  const line3Lead = line3Words.slice(0, -1).join(" ");
   const [activeStage, setActiveStage] = useState(null);
 
   return (
@@ -15,9 +18,9 @@ export default function HomeSec8({ data }) {
       <div className="theme-dark relative overflow-hidden md:hidden">
         <div className="relative px-4 py-8">
           <h2 className="h2 text-center uppercase text-white">
-            <span className="block">{line1}</span>
-            <span className="block text-hero-blue">{line2}</span>
-            <span className="block">{line3}</span>
+            <span className="block text-chrome">{line1}</span>
+            <span className="block text-chrome-dim">{line2}</span>
+            <span className="block text-chrome">{line3}</span>
           </h2>
 
           <div className="no-scrollbar mt-5 -mx-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4">
@@ -44,43 +47,43 @@ export default function HomeSec8({ data }) {
               <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden p-2 text-center">
                 <Icon name={h.icon} className="mx-auto mb-1.5 h-6 w-6 text-hero-blue" />
                 <p className="label-text leading-tight text-white">{h.label}</p>
-                <span className="mt-2 block h-px w-full bg-hero-blue/60" />
+                <span className="mt-2 flex items-center justify-center gap-1"><JaguarLogo className="h-3 w-3" /><span className="h-px w-5 bg-white/60" /></span>
               </div>
             ))}
-          </div>
-
-          <div className="mt-6 flex items-center justify-center gap-2">
-            <JaguarLogo className="h-7 w-7" />
-            <span className="text-xs font-semibold text-white">Jaguar</span>
           </div>
         </div>
       </div>
 
       {/* ===== desktop ===== */}
-      <div className="theme-dark relative hidden overflow-hidden pb-16 md:block">
+      <div className="theme-dark relative hidden overflow-hidden md:block">
         <div className="absolute inset-0">
           <Image src={data.bgImage} alt="" fill className="object-cover" sizes="100vw" priority={false} />
-          <div className="absolute inset-0 bg-hero-dark/25" />
+          {/* one soft, uneven dark wash over the whole right side — fades in from the left so no edge shows */}
+          <div
+            className="absolute inset-y-0 right-0 w-[74%]"
+            style={{ background: "linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 22%, rgba(0,0,0,0.58) 60%, rgba(0,0,0,0.66) 100%)" }}
+          />
         </div>
 
         <div className="relative flex flex-col gap-8 py-8 lg:flex-row lg:gap-6 lg:py-10">
           {/* left: header + guarantee cards, on its own dark overlay so the diagonal
               gold stripe in the background photo stays clear of the text */}
           <div className="relative shrink-0 px-4 sm:px-6 lg:w-[34%] lg:pl-8">
-            <div className="absolute inset-0 bg-linear-to-r from-hero-dark via-hero-dark/85 to-transparent" />
-            <div className="relative">
-              <h2 className="h2 uppercase text-white">
+            <div className="relative flex h-full flex-col justify-between">
+              <h2 className="h2 uppercase text-[#111111]">
                 <span className="block">{line1}</span>
-                <span className="block text-hero-blue">{line2}</span>
-                <span className="block">{line3}</span>
+                <span className="block text-chrome-ink">{line2}</span>
+                <span className="block">
+                  {line3Lead} <span className="text-chrome-ink">{line3Last}</span>
+                </span>
               </h2>
 
-              <div className="mt-7 grid grid-cols-3 gap-3">
+              <div className="mt-7 grid grid-cols-3 gap-3 lg:mt-10">
                 {data.highlights.map((h) => (
-                  <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden p-3 text-center sm:p-4">
+                  <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden bg-[#1c1d20]! p-3 text-center shadow-[0_14px_28px_-12px_rgba(0,0,0,0.7)] sm:p-4">
                     <Icon name={h.icon} className="mb-4 h-9 w-9 text-hero-blue sm:mb-6" />
                     <p className="text-xs text-white sm:text-sm">{h.label}</p>
-                    <span className="mt-3 block h-px w-full bg-hero-blue/60 sm:mt-4" />
+                    <span className="mt-3 flex items-center justify-center gap-1.5 sm:mt-4"><JaguarLogo className="h-4 w-4" /><span className="h-px w-7 bg-white/60" /></span>
                   </div>
                 ))}
               </div>
@@ -88,13 +91,15 @@ export default function HomeSec8({ data }) {
           </div>
 
           {/* right: step timeline + portrait cards, wall-to-wall to the viewport edge */}
-          <div className="min-w-0 flex-1 pl-4 sm:pl-6 lg:pl-0">
+          <div className="flex min-w-0 flex-1 flex-col justify-end pl-4 sm:pl-6 lg:pl-0">
             <div className="relative">
               <div className="relative flex">
+                {/* dotted connector running behind the number badges */}
+                <span className="pointer-events-none absolute left-[5.5%] right-[5.5%] top-7 border-t-2 border-dotted border-white/45" aria-hidden="true" />
                 {data.stages.map((s) => (
                   <div key={s.step} className="flex min-w-0 flex-1 flex-col items-center text-center">
                     <TimelineBadge step={s.step} active={s.step === 1} />
-                    <span className="label-text mt-2 px-0.5 leading-tight text-white">{s.label}</span>
+                    <span className="label-text mt-2 px-0.5 leading-tight text-white drop-shadow-[0_1px_3px_rgba(0,0,0,0.8)]">{s.label}</span>
                   </div>
                 ))}
               </div>
@@ -116,17 +121,6 @@ export default function HomeSec8({ data }) {
               </div>
             </div>
           </div>
-        </div>
-
-        {/* bottom-centered w.r.t. the whole section, logo vertically centered against the text,
-            flanked by gold lines on both sides */}
-        <div className="absolute inset-x-0 bottom-6 flex items-center justify-center gap-4">
-          <span className="h-px w-16 bg-hero-blue/50" />
-          <div className="flex items-center gap-3">
-            <JaguarLogo className="h-12 w-12" />
-            <span className="text-2xl font-semibold text-white">Jaguar</span>
-          </div>
-          <span className="h-px w-16 bg-hero-blue/50" />
         </div>
       </div>
 
@@ -162,7 +156,7 @@ function TimelineBadge({ step, active, size = "lg" }) {
   const outer = size === "sm" ? "h-10 w-10" : "h-14 w-14";
   const inner = size === "sm" ? "h-6 w-6" : "h-8 w-8";
   return (
-    <div className={`relative flex shrink-0 items-center justify-center ${outer}`}>
+    <div className={`relative z-10 flex shrink-0 items-center justify-center rounded-full ${size === "sm" ? "" : "bg-[#101010]"} ${outer}`}>
       <div className="absolute inset-0 rounded-full bg-hero-blue/25 blur-md" />
       <div className="absolute inset-0 rounded-full border-2 border-dashed border-hero-blue/40" />
       <div className="absolute inset-[3px] rounded-full border border-hero-blue/60" />

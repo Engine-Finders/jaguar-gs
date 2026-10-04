@@ -48,8 +48,18 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: "Jaguar Engine Rebuild Specialists | Jaguar Garage",
   description:
-    "Jaguar engine rebuild specialists. OM651, OM642, AMG V8, V12 & more. Cars, SUVs, AMG and commercial vehicles. Fixed-price quotes from £2,200, 12-month unlimited-mileage warranty.",
+    "Jaguar engine rebuild specialists. AJ133, Ingenium, AJ-V8 & more. Fixed-price quotes, 12-month unlimited-mileage warranty and nationwide recovery.",
   alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    siteName: "Jaguar Garage",
+    locale: "en_GB",
+    title: "Jaguar Engine Rebuild Specialists | Jaguar Garage",
+    description:
+      "Jaguar engine rebuild specialists. AJ133, Ingenium, AJ-V8 & more. Fixed-price quotes, 12-month unlimited-mileage warranty and nationwide recovery.",
+    images: [{ url: "/home/sec1-2.webp", width: 1024, height: 572, alt: "Jaguar engine rebuild workshop" }],
+  },
+  twitter: { card: "summary_large_image" },
   robots: {
     index: true,
     follow: true,
