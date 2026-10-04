@@ -79,7 +79,7 @@ export default function HomeSec4_5({ data }) {
         <Image src={data.bgImage} alt="Jaguar XE driving through London in the rain" fill className="object-cover" sizes="100vw" />
 
         {/* top-left eyebrow over the sky */}
-        <div className="absolute inset-x-0 top-0 mx-auto max-w-6xl px-4 pt-8 sm:px-6 lg:px-8">
+        <div className="absolute inset-x-0 top-0 mx-auto max-w-[76rem] px-4 pt-8 sm:px-6 lg:px-8">
           <div className="flex items-center gap-2.5">
             <JaguarLogo className="h-10 w-10 shrink-0" />
             <span className="h-7 w-px shrink-0 bg-black/30" />
@@ -96,7 +96,7 @@ export default function HomeSec4_5({ data }) {
         </div>
 
         {/* footer tagline — in normal flow below the copy, centred, so it can never overlap the button */}
-        <div className="relative mx-auto max-w-6xl px-4 pb-7 pt-6 sm:px-6 lg:px-8">
+        <div className="relative mx-auto max-w-[76rem] px-4 pb-7 pt-6 sm:px-6 lg:px-8">
           <div className="flex items-center justify-center gap-4">
             <span className="h-px w-20 bg-white/45" />
             <p className="text-xs uppercase tracking-[0.3em] text-white drop-shadow-[0_1px_3px_rgba(0,0,0,0.8)]">{data.footer}</p>
