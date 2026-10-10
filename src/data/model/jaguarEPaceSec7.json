@@ -5,42 +5,42 @@
     {
       "number": "01",
       "title": "Recovery Collection",
-      "image": "/model/sec7.webp"
+      "image": "/home/workshop_1.webp"
     },
     {
       "number": "02",
       "title": "Stripped Engine Block",
-      "image": "/model/sec7.webp"
+      "image": "/home/workshop_2.webp"
     },
     {
       "number": "03",
       "title": "Timing Chain Replacement",
-      "image": "/model/sec7.webp"
+      "image": "/home/sec4_2.webp"
     },
     {
       "number": "04",
       "title": "Technicians At Work",
-      "image": "/model/sec7.webp"
+      "image": "/home/workshop_3.webp"
     },
     {
       "number": "05",
       "title": "Engine Testing Rig",
-      "image": "/model/sec7.webp"
+      "image": "/home/gallery_l4.webp"
     },
     {
       "number": "06",
       "title": "Completed & Ready For Refit",
-      "image": "/model/sec7.webp"
+      "image": "/home/gallery_l5.webp"
     },
     {
       "number": "07",
       "title": "Clean Workshop Bays",
-      "image": "/model/sec7.webp"
+      "image": "/home/gallery_l6.webp"
     },
     {
       "number": "08",
       "title": "Parts & Components",
-      "image": "/model/sec7.webp"
+      "image": "/home/process_5.webp"
     },
     {
       "number": "09",
@@ -50,7 +50,7 @@
     {
       "number": "10",
       "title": "Our Specialist Team",
-      "image": "/model/sec7.webp"
+      "image": "/home/rebuild_8.webp"
     }
   ],
   "viewMoreLabel": "View More",

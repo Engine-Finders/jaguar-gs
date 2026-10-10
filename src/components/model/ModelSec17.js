@@ -18,14 +18,14 @@ export default function ModelSec17({ data }) {
   return (
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-10 md:hidden">
+      <div className="relative px-4 pb-6 pt-2 md:hidden">
         <div className="flex items-center gap-1.5">
           <JaguarStripe className="h-4 w-8 shrink-0" />
-          <p className="label-text whitespace-nowrap font-semibold uppercase leading-none tracking-wide text-[#101828]">{data.kicker}</p>
+          <p className="label-text whitespace-nowrap font-semibold uppercase leading-none tracking-wide text-[#111111]">{data.kicker}</p>
         </div>
 
         <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
-          <span className="block whitespace-nowrap text-[#101828]">{mobileLine1}</span>
+          <span className="block whitespace-nowrap text-[#111111]">{mobileLine1}</span>
           <span className="block whitespace-nowrap text-hero-blue">{mobileLine2}</span>
         </h2>
 
@@ -37,11 +37,11 @@ export default function ModelSec17({ data }) {
                 key={tab}
                 type="button"
                 onClick={() => setActiveTab(i)}
-                className="relative flex flex-col items-center gap-1 rounded-md px-1 py-2.5 text-center"
+                className="theme-dark relative flex flex-col items-center gap-1 rounded-md px-1 py-2.5 text-center"
                 style={{
-                  background: "linear-gradient(135deg, rgba(58,44,26,0.95) 0%, rgba(15,11,7,1) 100%)",
-                  border: "1.5px solid rgba(217,189,140,0.8)",
-                  boxShadow: "inset 0 1px 0 rgba(255,255,255,0.9), 0 0 20px rgba(173,135,92,0.5)",
+                  background: "linear-gradient(135deg, rgba(52,52,56,0.95) 0%, rgba(8,8,8,1) 100%)",
+                  border: "1.5px solid rgba(232,234,238,0.8)",
+                  boxShadow: "inset 0 1px 0 rgba(255,255,255,0.9), 0 0 20px rgba(150,154,160,0.5)",
                 }}
               >
                 <Icon name="car" className="h-5 w-5 shrink-0 text-hero-blue" />
@@ -54,8 +54,8 @@ export default function ModelSec17({ data }) {
                 onClick={() => setActiveTab(i)}
                 className="flex flex-col items-center gap-1 rounded-md border border-black/10 bg-white/70 px-1 py-2.5 text-center transition hover:bg-white"
               >
-                <Icon name="car" className="h-5 w-5 shrink-0 text-[#101828]" />
-                <span className="label-text font-semibold leading-tight text-[#101828]">{tab}</span>
+                <Icon name="car" className="h-5 w-5 shrink-0 text-[#111111]" />
+                <span className="label-text font-semibold leading-tight text-[#111111]">{tab}</span>
               </button>
             )
           )}
@@ -63,10 +63,10 @@ export default function ModelSec17({ data }) {
 
         {/* variant grid */}
         <div
-          className="relative mt-0 rounded-lg p-4"
+          className="theme-dark relative mt-0 rounded-lg p-4"
           style={{
-            background: "linear-gradient(135deg, #1a140c 0%, #0d0a06 100%)",
-            boxShadow: "0 0 0 1px rgba(173,135,92,0.35), 0 25px 60px -25px rgba(173,135,92,0.4)",
+            background: "linear-gradient(135deg, #141416 0%, #080808 100%)",
+            boxShadow: "0 0 0 1px rgba(150,154,160,0.35), 0 25px 60px -25px rgba(150,154,160,0.4)",
           }}
         >
           <div className="grid grid-cols-4 gap-2">
@@ -95,30 +95,30 @@ export default function ModelSec17({ data }) {
         <div className="mt-5 space-y-4">
           <div className="flex items-start gap-3 rounded-lg border border-black/10 bg-white/70 p-5">
             <Icon name="info" className="h-9 w-9 shrink-0 text-hero-blue" />
-            <p className="text-sm text-[#101828]">
-              <span className="block text-base font-extrabold text-[#101828]">{data.notice.title}</span>
+            <p className="text-sm text-[#111111]">
+              <span className="block text-base font-extrabold text-[#111111]">{data.notice.title}</span>
               <span className="mt-1 block">
                 <a href="#quote" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
                   {data.notice.linkText}
                   <Icon name="link" className="h-3.5 w-3.5" />
                 </a>
-                <span className="text-[#101828]">{data.notice.rest}</span>
+                <span className="text-[#111111]">{data.notice.rest}</span>
               </span>
             </p>
           </div>
 
           <a
             href={data.priceCta.href}
-            className="relative flex items-center gap-4 rounded-lg p-5"
+            className="theme-dark relative flex items-center gap-4 rounded-lg p-5"
             style={{
-              background: "linear-gradient(135deg, #1a140c 0%, #0d0a06 100%)",
-              border: "1px solid rgba(173,135,92,0.4)",
-              boxShadow: "0 0 30px -8px rgba(173,135,92,0.6)",
+              background: "linear-gradient(135deg, #141416 0%, #080808 100%)",
+              border: "1px solid rgba(150,154,160,0.4)",
+              boxShadow: "0 0 30px -8px rgba(150,154,160,0.6)",
             }}
           >
             <div className="pointer-events-none absolute inset-y-0 right-0 w-1/4 overflow-hidden rounded-r-lg">
               <Image src={data.priceCta.image} alt="" fill className="object-cover" sizes="25vw" />
-              <div className="absolute inset-0" style={{ background: "linear-gradient(90deg, #1a140c 0%, transparent 70%)" }} />
+              <div className="absolute inset-0" style={{ background: "linear-gradient(90deg, #141416 0%, transparent 70%)" }} />
             </div>
 
             <span className="relative flex h-11 w-11 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-base text-hero-blue">
@@ -137,10 +137,10 @@ export default function ModelSec17({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
           <JaguarStripe className="h-4.5 w-9" />
-          <p className="label-text uppercase tracking-widest text-[#101828]">{data.kicker}</p>
+          <p className="label-text uppercase tracking-widest text-[#111111]">{data.kicker}</p>
         </div>
 
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 text-[#101828] uppercase">
+        <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 text-[#111111] uppercase">
           {data.headline}
         </h2>
 
@@ -152,14 +152,14 @@ export default function ModelSec17({ data }) {
                 key={tab}
                 type="button"
                 onClick={() => setActiveTab(i)}
-                className="relative z-10 flex h-14 w-82.5 items-center gap-3 pl-6 pr-4 text-sm font-bold text-white"
+                className="theme-dark relative z-10 flex h-14 w-82.5 items-center gap-3 pl-6 pr-4 text-sm font-bold text-white"
                 style={{
-                  background: "linear-gradient(135deg, rgba(58,44,26,0.95) 0%, rgba(15,11,7,1) 100%)",
+                  background: "linear-gradient(135deg, rgba(52,52,56,0.95) 0%, rgba(8,8,8,1) 100%)",
                   clipPath:
                     "path('M16,0 H284 Q300,0 300,16 V32 C300,46 310,56 326,56 H0 V16 Q0,0 16,0 Z')",
-                  border: "1.5px solid rgba(217,189,140,0.8)",
+                  border: "1.5px solid rgba(232,234,238,0.8)",
                   borderBottom: "none",
-                  boxShadow: "inset 0 1px 0 rgba(255,255,255,0.9), 0 0 20px rgba(173,135,92,0.5)",
+                  boxShadow: "inset 0 1px 0 rgba(255,255,255,0.9), 0 0 20px rgba(150,154,160,0.5)",
                 }}
               >
                 <Icon name="car" className="h-6 w-6 shrink-0 text-hero-blue" />
@@ -170,11 +170,11 @@ export default function ModelSec17({ data }) {
                 key={tab}
                 type="button"
                 onClick={() => setActiveTab(i)}
-                className={`flex items-center gap-2 rounded-t-xl border border-black/10 bg-white/70 px-5 py-4 text-sm font-semibold text-[#101828] transition hover:bg-white ${
+                className={`flex items-center gap-2 rounded-t-xl border border-black/10 bg-white/70 px-5 py-4 text-sm font-semibold text-[#111111] transition hover:bg-white ${
                   i === activeTab + 1 ? "-ml-2" : "ml-2"
                 }`}
               >
-                <Icon name="car" className="h-6 w-6 shrink-0 text-[#101828]" />
+                <Icon name="car" className="h-6 w-6 shrink-0 text-[#111111]" />
                 {tab}
               </button>
             )
@@ -183,10 +183,10 @@ export default function ModelSec17({ data }) {
 
         {/* variant grid */}
         <div
-          className="relative rounded-2xl rounded-tl-none p-6"
+          className="theme-dark relative rounded-2xl rounded-tl-none p-6"
           style={{
-            background: "linear-gradient(135deg, #1a140c 0%, #0d0a06 100%)",
-            boxShadow: "0 0 0 1px rgba(173,135,92,0.35), 0 25px 60px -25px rgba(173,135,92,0.4)",
+            background: "linear-gradient(135deg, #141416 0%, #080808 100%)",
+            boxShadow: "0 0 0 1px rgba(150,154,160,0.35), 0 25px 60px -25px rgba(150,154,160,0.4)",
           }}
         >
           <div className="flex flex-wrap gap-3">
@@ -215,32 +215,32 @@ export default function ModelSec17({ data }) {
         <div className="mt-5 grid grid-cols-2 gap-5">
           <div className="flex items-center gap-4 rounded-2xl border border-black/10 bg-white/70 p-6">
             <Icon name="info" className="h-10 w-10 shrink-0 text-hero-blue" />
-            <p className="text-sm text-[#101828]">
-              <span className="block text-base font-extrabold text-[#101828]">{data.notice.title}</span>
+            <p className="text-sm text-[#111111]">
+              <span className="block text-base font-extrabold text-[#111111]">{data.notice.title}</span>
               <span className="mt-1 block">
                 <a href="#quote" className="inline-flex items-center gap-1 font-semibold text-hero-blue">
                   {data.notice.linkText}
                   <Icon name="link" className="h-3.5 w-3.5" />
                 </a>
-                <span className="text-[#101828]">{data.notice.rest}</span>
+                <span className="text-[#111111]">{data.notice.rest}</span>
               </span>
             </p>
           </div>
 
           <a
             href={data.priceCta.href}
-            className="relative flex items-center gap-4 rounded-2xl p-6"
+            className="theme-dark relative flex items-center gap-4 rounded-2xl p-6"
             style={{
-              background: "linear-gradient(135deg, #1a140c 0%, #0d0a06 100%)",
-              border: "1px solid rgba(173,135,92,0.4)",
-              boxShadow: "0 0 30px -8px rgba(173,135,92,0.6)",
+              background: "linear-gradient(135deg, #141416 0%, #080808 100%)",
+              border: "1px solid rgba(150,154,160,0.4)",
+              boxShadow: "0 0 30px -8px rgba(150,154,160,0.6)",
             }}
           >
             <div className="pointer-events-none absolute inset-y-0 right-0 w-1/3 overflow-hidden rounded-2xl opacity-40">
               <Image src={data.priceCta.image} alt="" fill className="object-cover" sizes="33vw" />
               <div
                 className="absolute inset-0"
-                style={{ background: "linear-gradient(90deg, #1a140c 0%, transparent 60%)" }}
+                style={{ background: "linear-gradient(90deg, #141416 0%, transparent 60%)" }}
               />
             </div>
 

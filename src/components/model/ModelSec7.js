@@ -10,7 +10,7 @@ export default function ModelSec7({ data }) {
         <div className="flex items-center gap-2">
           <JaguarStripe className="h-6 w-12" />
           <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-            <span className="text-[#101828]">Our </span>
+            <span className="text-[#111111]">Our </span>
             <span className="text-hero-blue">Workshop</span>
           </h2>
         </div>
@@ -51,16 +51,16 @@ export default function ModelSec7({ data }) {
           <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-hero-blue text-white">
             <Icon name="camera" className="h-4 w-4" />
           </span>
-          <p className="relative z-10 text-xs text-[#101828]">{data.footerNote}</p>
+          <p className="relative z-10 text-xs text-[#111111]">{data.footerNote}</p>
 
           <div
             className="pointer-events-none absolute bottom-0 right-0 z-0 flex gap-1"
             style={{ height: "40px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
             aria-hidden="true"
           >
-            <span className="h-full w-3" style={{ background: "var(--color-bmw-blue)" }} />
-            <span className="h-full w-3" style={{ background: "var(--color-bmw-violet)" }} />
-            <span className="h-full w-3" style={{ background: "var(--color-bmw-red)" }} />
+            <span className="h-full w-3 chrome-bar-a" />
+            <span className="h-full w-3 chrome-bar-b" />
+            <span className="h-full w-3 chrome-bar-c" />
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@ export default function ModelSec7({ data }) {
         <div className="flex items-center gap-2.5">
           <JaguarStripe className="h-10 w-16" />
           <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-            <span className="text-[#101828]">Our </span>
+            <span className="text-[#111111]">Our </span>
             <span className="text-hero-blue">Workshop</span>
           </h2>
         </div>
@@ -109,17 +109,17 @@ export default function ModelSec7({ data }) {
 
         <div className="relative mt-6 flex items-center justify-between overflow-hidden border-t border-black/10 pt-5">
           <div className="flex items-center gap-2">
-            <Icon name="camera" className="h-5 w-5 shrink-0 text-[#101828]" />
-            <p className="text-xs text-[#101828]">{data.footerNote}</p>
+            <Icon name="camera" className="h-5 w-5 shrink-0 text-[#111111]" />
+            <p className="text-xs text-[#111111]">{data.footerNote}</p>
           </div>
           <div
             className="pointer-events-none absolute bottom-0 right-0 z-10 flex gap-1.5"
             style={{ height: "50px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
             aria-hidden="true"
           >
-            <span className="h-full w-3.5" style={{ background: "var(--color-bmw-blue)" }} />
-            <span className="h-full w-3.5" style={{ background: "var(--color-bmw-violet)" }} />
-            <span className="h-full w-3.5" style={{ background: "var(--color-bmw-red)" }} />
+            <span className="h-full w-3.5 chrome-bar-a" />
+            <span className="h-full w-3.5 chrome-bar-b" />
+            <span className="h-full w-3.5 chrome-bar-c" />
           </div>
         </div>
       </div>

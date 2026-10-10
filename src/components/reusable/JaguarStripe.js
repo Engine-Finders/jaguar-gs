@@ -5,12 +5,13 @@ const sizes = {
   full: "h-1.5 w-full",
 };
 
-export default function BMWStripe({ className = "", size = "default" }) {
+// three slanted chrome bars (the "///" mark from the reference designs)
+export default function JaguarStripe({ className = "", size = "default" }) {
   return (
     <span className={`inline-flex gap-0.5 ${sizes[size] || sizes.default} ${className}`} aria-hidden="true">
-      <span className="flex-1 skew-x-[-20deg] bg-[var(--color-bmw-blue)]" />
-      <span className="flex-1 skew-x-[-20deg] bg-[var(--color-bmw-violet)]" />
-      <span className="flex-1 skew-x-[-20deg] bg-[var(--color-bmw-red)]" />
+      <span className="chrome-bar-a flex-1 skew-x-[-20deg]" />
+      <span className="chrome-bar-b flex-1 skew-x-[-20deg]" />
+      <span className="chrome-bar-c flex-1 skew-x-[-20deg]" />
     </span>
   );
 }

@@ -2,60 +2,35 @@
   "badge": "10",
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar S-Type Rebuilds",
-  "subhead": "Full variant list below covers every Jaguar S-Type engine we work on — these 10 are simply our most requested.",
-  "image": "/model/sec10.webp",
+  "subhead": "Full variant list below covers every Jaguar S-Type engine we work on.",
+  "image": "/model/sec10_car.webp",
   "viewMoreLabel": "View More",
   "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
-      "model": "Jaguar C180",
-      "spec": "1.6L Petrol (AJD-V6)"
+      "model": "Jaguar S-Type 2.5 V6",
+      "spec": ""
     },
     {
       "number": "02",
-      "model": "Jaguar C200",
-      "spec": "2.0L Petrol (AJD-V6)"
+      "model": "Jaguar S-Type 3.0 V6",
+      "spec": ""
     },
     {
       "number": "03",
-      "model": "Jaguar C220d",
-      "spec": "2.1L Diesel (AJD-V6)"
+      "model": "Jaguar S-Type 2.7d",
+      "spec": ""
     },
     {
       "number": "04",
-      "model": "Jaguar C250",
-      "spec": "1.8L Petrol Turbo (M271)"
+      "model": "Jaguar S-Type 4.2 V8",
+      "spec": ""
     },
     {
       "number": "05",
-      "model": "Jaguar C250d",
-      "spec": "2.1L Diesel (AJD-V6)"
-    },
-    {
-      "number": "06",
-      "model": "Jaguar C300",
-      "spec": "2.0L Petrol Turbo (AJD-V6)"
-    },
-    {
-      "number": "07",
-      "model": "Jaguar C300d",
-      "spec": "2.0L Diesel (AJD-V6)"
-    },
-    {
-      "number": "08",
-      "model": "Jaguar C350",
-      "spec": "3.5L Petrol (AJD-V6)"
-    },
-    {
-      "number": "09",
-      "model": "Jaguar C43 Jaguar",
-      "spec": "3.0L Petrol Twin-Turbo (AJD-V6)"
-    },
-    {
-      "number": "10",
-      "model": "Jaguar C63 Jaguar",
-      "spec": "6.2 / 4.0L Petrol (M156 / AJD-V6)"
+      "model": "Jaguar S-Type R",
+      "spec": ""
     }
   ],
   "variants": [

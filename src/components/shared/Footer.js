@@ -14,7 +14,7 @@ export default function Footer({ data }) {
             <p className="text-sm leading-relaxed">{data.blurb}</p>
           </div>
 
-          <div className="grid grid-cols-3 gap-6 sm:gap-10 md:flex md:gap-16">
+          <div className="grid grid-cols-2 gap-x-6 gap-y-8 sm:gap-x-10 md:flex md:gap-16">
             {data.columns.map((col) => (
               <div key={col.title} className="min-w-0 md:w-32">
                 <h3 className="text-white font-semibold mb-3 text-xs sm:text-sm tracking-wide uppercase">

@@ -24,64 +24,76 @@
   ],
   "cards": [
     {
-      "model": "Jaguar C220d",
+      "model": "Jaguar E-Pace",
       "icon": "truck",
-      "tag": "Recovery"
+      "tag": "Recovery",
+      "image": "/home/gallery_l6.webp"
     },
     {
-      "model": "Jaguar C300d",
+      "model": "Jaguar F-Pace",
       "icon": "search",
-      "tag": "Diagnostics"
+      "tag": "Diagnostics",
+      "image": "/home/rebuild_3.webp"
     },
     {
-      "model": "Jaguar C200",
+      "model": "Jaguar XE",
       "icon": "gear",
-      "tag": "Stripped Engine"
+      "tag": "Stripped Engine",
+      "image": "/home/workshop_2.webp"
     },
     {
-      "model": "Jaguar C63 Jaguar",
-      "icon": "chain",
-      "tag": "Timing Chain Replacement"
+      "model": "Jaguar F-Type",
+      "icon": "link",
+      "tag": "Timing Chain Work",
+      "image": "/home/sec4_2.webp"
     },
     {
-      "model": "Jaguar C180",
+      "model": "Jaguar XF",
       "icon": "wrench",
-      "tag": "In For Rebuild"
+      "tag": "In For Rebuild",
+      "image": "/home/rebuild_9.webp"
     },
     {
-      "model": "Jaguar C250d",
+      "model": "Jaguar E-Pace",
       "icon": "gear",
-      "tag": "Rebuild In Progress"
+      "tag": "Rebuild In Progress",
+      "image": "/home/gallery_l5.webp"
     },
     {
-      "model": "Jaguar C220d",
+      "model": "Jaguar I-Pace",
       "icon": "truck",
-      "tag": "Nationwide Recovery"
+      "tag": "Nationwide Recovery",
+      "image": "/home/workshop_1.webp"
     },
     {
-      "model": "Jaguar C300",
+      "model": "Jaguar XE",
       "icon": "gear",
-      "tag": "Engine Stripped"
+      "tag": "Engine Stripped",
+      "image": "/home/gallery_l2.webp"
     },
     {
-      "model": "Jaguar C350",
-      "icon": "tech",
-      "tag": "Testing & Checks"
+      "model": "Jaguar XF",
+      "icon": "pulse",
+      "tag": "Testing & Checks",
+      "image": "/home/gallery_l4.webp"
     },
     {
-      "model": "Jaguar C43 Jaguar",
+      "model": "Jaguar F-Pace",
       "icon": "check",
-      "tag": "Ready For Collection"
+      "tag": "Ready For Collection",
+      "image": "/home/model_xe_black.webp"
     },
     {
-      "model": "Jaguar C63 Jaguar",
+      "model": "Jaguar F-Type",
       "icon": "gear",
-      "tag": "M156 Rebuild"
+      "tag": "Engine Rebuild",
+      "image": "/home/rebuild_6.webp"
     },
     {
-      "model": "Jaguar C250",
+      "model": "Jaguar XE",
       "icon": "wrench",
-      "tag": "Workshop Bay"
+      "tag": "Workshop Bay",
+      "image": "/home/model_xe_white.webp"
     }
   ]
 }

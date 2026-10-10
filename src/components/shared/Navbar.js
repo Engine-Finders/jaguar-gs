@@ -13,15 +13,15 @@ export default function Navbar({ data }) {
 
   return (
     <header className="relative z-50 bg-black text-white">
-      <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-4 sm:px-6 lg:px-10">
-        <Link href="/" className="flex shrink-0 items-center gap-3">
-          <JaguarLogo className="h-14 w-14 shrink-0 text-white" />
-          <span>
+      <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-4 sm:gap-6 sm:px-6 lg:px-10">
+        <Link href="/" className="flex min-w-0 items-center gap-3 md:shrink-0">
+          <JaguarLogo className="h-9 shrink-0 text-white sm:h-14" />
+          <span className="min-w-0">
             <span className="font-title block text-xl font-bold italic leading-none tracking-tight text-white sm:text-2xl">
               {brandName}
               {brandTld ? <span className="font-light text-white/80">{brandTld}</span> : null}
             </span>
-            <span className="mt-1 block text-[10px] font-medium italic leading-none tracking-[0.06em] text-white/75 sm:text-xs">
+            <span className="mt-1 block whitespace-nowrap text-[9px] font-medium italic leading-none tracking-[0.05em] text-white/75 sm:text-xs sm:tracking-[0.06em]">
               {data.tagline}
             </span>
           </span>

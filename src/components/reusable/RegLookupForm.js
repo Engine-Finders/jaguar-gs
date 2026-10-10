@@ -15,6 +15,7 @@ export default function RegLookupForm({
   hideArrow = false,
   hideButton = false,
   darkButton = false,
+  chromeButton = false,
   whiteBorder = false,
   matchHeight = false,
   bigButtonText = false,
@@ -111,9 +112,11 @@ export default function RegLookupForm({
           className={`${buttonHeight} flex shrink-0 items-center justify-center gap-1.5 whitespace-nowrap rounded-sm border-2 font-bold transition-colors disabled:cursor-wait disabled:opacity-70 ${
             darkButton ? "italic" : ""
           } ${
-            darkButton
-              ? "border-white/25 bg-[#111111] text-white hover:bg-white hover:text-[#111111]"
-              : "border-[#1a1a1a] bg-[#1a1a1a] text-white hover:bg-transparent hover:text-[#1a1a1a]"
+            chromeButton
+              ? "btn-chrome border-white/70 hover:border-white! hover:bg-none! hover:bg-[#111111]! hover:text-white!"
+              : darkButton
+                ? "border-white/25 bg-[#111111] text-white hover:bg-white hover:text-[#111111]"
+                : "border-[#1a1a1a] bg-[#1a1a1a] text-white hover:bg-transparent hover:text-[#1a1a1a]"
           } ${compactButton ? "px-2 text-[10px] gap-1 sm:px-2.5 sm:text-xs sm:gap-1.5" : bigButtonText ? "px-6 text-base sm:text-lg" : "px-6 text-sm"} ${
             stacked ? "w-full" : row ? "" : "w-full sm:w-auto"
           }`}
