@@ -50,7 +50,7 @@ export const metadata = {
 
 export default function JaguarXTypeEnginesPage() {
   return (
-    <>
+    <div className="mono-accent">
       <JsonLd
         data={graphDoc([
           serviceSchema({ name: NAME, description: modelSec1.subhead, path: PATH, price: modelSec1.priceCta?.price }),
@@ -73,9 +73,9 @@ export default function JaguarXTypeEnginesPage() {
       <ModelSec13 data={modelSec13} />
       <ModelSec14 data={modelSec14} />
       <ModelSec15 data={modelSec15} />
-      <ModelSec16 data={modelSec16} />
+      <ModelSec16 data={modelSec16} modelName={modelSec1.h1.split("|")[0]} />
       <ModelSec17 data={modelSec17} />
       <ModelSec18 data={modelSec18} />
-    </>
+    </div>
   );
 }

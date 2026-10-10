@@ -37,11 +37,7 @@ export default function ModelSec14({ data }) {
 
           <a
             href={data.cta.href}
-            className="mt-5 inline-flex items-center gap-2 whitespace-nowrap rounded-lg border border-white/30 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white transition hover:brightness-110"
-            style={{
-              background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
-              boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
-            }}
+            className="mt-5 inline-flex items-center gap-2 whitespace-nowrap card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-white/10"
           >
             {data.cta.label} <span aria-hidden>→</span>
           </a>
@@ -73,11 +69,7 @@ export default function ModelSec14({ data }) {
 
           <a
             href={data.cta.href}
-            className="mt-5 inline-flex items-center gap-2 rounded-lg border border-white/30 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition hover:brightness-110"
-            style={{
-              background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
-              boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
-            }}
+            className="mt-5 inline-flex items-center gap-2 card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-white/10"
           >
             {data.cta.label} <span aria-hidden>→</span>
           </a>

@@ -7,10 +7,10 @@ import JaguarLogo from "@/components/reusable/JaguarLogo";
 function GoogleG({ className = "h-5 w-5" }) {
   return (
     <svg viewBox="0 0 24 24" className={className}>
-      <path fill="var(--color-hero-gold)" d="M23.5 12.27c0-.85-.08-1.66-.22-2.45H12v4.64h6.47a5.53 5.53 0 01-2.4 3.63v3h3.88c2.27-2.09 3.55-5.17 3.55-8.82z" />
-      <path fill="var(--color-hero-gold)" d="M12 24c3.24 0 5.96-1.07 7.95-2.91l-3.88-3c-1.08.72-2.46 1.15-4.07 1.15-3.13 0-5.78-2.11-6.73-4.96H1.27v3.11A12 12 0 0012 24z" />
-      <path fill="var(--color-hero-gold)" d="M5.27 14.28a7.2 7.2 0 010-4.56V6.61H1.27a12 12 0 000 10.78z" />
-      <path fill="var(--color-hero-gold)" d="M12 4.75c1.76 0 3.34.6 4.58 1.79l3.44-3.44C17.95 1.19 15.24 0 12 0A12 12 0 001.27 6.61l4 3.11C6.22 6.86 8.87 4.75 12 4.75z" />
+      <path fill="#4285F4" d="M23.5 12.27c0-.85-.08-1.66-.22-2.45H12v4.64h6.47a5.53 5.53 0 01-2.4 3.63v3h3.88c2.27-2.09 3.55-5.17 3.55-8.82z" />
+      <path fill="#34A853" d="M12 24c3.24 0 5.96-1.07 7.95-2.91l-3.88-3c-1.08.72-2.46 1.15-4.07 1.15-3.13 0-5.78-2.11-6.73-4.96H1.27v3.11A12 12 0 0012 24z" />
+      <path fill="#FBBC05" d="M5.27 14.28a7.2 7.2 0 010-4.56V6.61H1.27a12 12 0 000 10.78z" />
+      <path fill="#EA4335" d="M12 4.75c1.76 0 3.34.6 4.58 1.79l3.44-3.44C17.95 1.19 15.24 0 12 0A12 12 0 001.27 6.61l4 3.11C6.22 6.86 8.87 4.75 12 4.75z" />
     </svg>
   );
 }
@@ -19,7 +19,7 @@ function Stars({ count = 5 }) {
   return (
     <div className="flex gap-0.5">
       {Array.from({ length: count }).map((_, i) => (
-        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-hero-blue text-hero-blue" />
+        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-white text-white" />
       ))}
     </div>
   );
@@ -30,7 +30,7 @@ function renderTitleLine(line, defaultClassName) {
   return parts.map((part, i) => {
     const match = part.match(/^\*\*(.*)\*\*$/);
     return match ? (
-      <span key={i} className="text-hero-blue">
+      <span key={i} className="text-white">
         {match[1]}
       </span>
     ) : (
@@ -64,7 +64,7 @@ export default function ModelSec8({ data }) {
         <div className="relative px-4 pb-8 pt-8">
           <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="block text-white">{renderTitleLine(line1, "text-white")}</span>
-            <span className="block text-white">{renderTitleLine(line2, "text-white")}</span>
+            <span className="block text-hero-blue">{renderTitleLine(line2, "text-hero-blue")}</span>
           </h2>
 
           <div
@@ -77,8 +77,8 @@ export default function ModelSec8({ data }) {
                 key={r.name}
                 className="glow-card--sm relative flex min-h-64 w-[82%] shrink-0 snap-center flex-col overflow-hidden rounded-2xl p-5"
                 style={{
-                  border: "1px solid rgba(173,135,92, 0.75)",
-                  boxShadow: "0 -10px 20px -6px rgba(173,135,92, 0.65), 0 -2px 10px -2px rgba(173,135,92, 0.4)",
+                  border: "1px solid rgba(255,255,255,0.22)",
+                  boxShadow: "0 -8px 18px -8px rgba(255,255,255,0.3), 0 18px 36px -18px rgba(0,0,0,0.9)",
                 }}
               >
                 <div
@@ -93,12 +93,15 @@ export default function ModelSec8({ data }) {
                   {r.platform === "google" ? (
                     <GoogleG className="h-5 w-5" />
                   ) : (
-                    <Icon name="star" className="h-5 w-5 fill-hero-blue text-hero-blue" />
+                    <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
                   )}
                 </div>
                 <p className="mt-4 text-base font-bold text-white">{r.name}</p>
                 <p className="mt-2 text-sm leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-                <p className="label-text mt-auto pt-4 uppercase tracking-wide text-hero-blue">{r.tag}</p>
+                <div className="relative mt-auto flex items-center gap-2 border-t border-white/15 pt-4">
+                <Icon name="shield-check" className="h-4 w-4 shrink-0 text-white" />
+                <p className="label-text tracking-wide text-white/90">{r.tag}</p>
+              </div>
               </div>
             ))}
           </div>
@@ -107,19 +110,19 @@ export default function ModelSec8({ data }) {
             {data.reviews.map((r, i) => (
               <span
                 key={r.name}
-                className={`rounded-full transition-all ${i === activeIndex ? "h-2 w-6 bg-hero-blue" : "h-2 w-2 bg-white/25"}`}
+                className={`rounded-full transition-all ${i === activeIndex ? "h-2 w-6 bg-white" : "h-2 w-2 bg-white/25"}`}
               />
             ))}
           </div>
 
           <div className="mt-6 space-y-3">
-            <button className="btn-text card-glare-light relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 uppercase text-hero-blue">
+            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white">
               <GoogleG className="h-5 w-5" />
-              {data.googleCta} <span aria-hidden className="text-hero-blue">→</span>
+              {data.googleCta} <span aria-hidden className="text-white">→</span>
             </button>
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-hero-blue/50 bg-[#12100a] px-6 py-3.5 uppercase text-white">
-              <Icon name="star" className="h-5 w-5 fill-hero-blue text-hero-blue" />
-              {data.trustpilotCta} <span aria-hidden className="text-hero-blue">→</span>
+            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white">
+              <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
+              {data.trustpilotCta} <span aria-hidden className="text-white">→</span>
             </button>
           </div>
         </div>
@@ -127,22 +130,29 @@ export default function ModelSec8({ data }) {
 
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
-      <JaguarLogo className="absolute right-6 top-6 h-16 w-16 opacity-90" />
+      <div className="pointer-events-none absolute -top-2 right-[18%] flex h-48 gap-3" style={{ transform: "skewX(-24deg)" }} aria-hidden="true">
+        <span className="chrome-bar-b w-3 opacity-70" />
+        <span className="chrome-bar-a w-6" />
+        <span className="chrome-bar-c w-2 opacity-70" />
+      </div>
 
       <div className="relative mx-auto max-w-6xl">
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 pt-8 uppercase">
-          <span className="text-white">{renderTitleLine(line1, "text-white")} </span>
-          <span className="text-white">{renderTitleLine(line2, "text-white")}</span>
-        </h2>
+        <div className="flex items-start gap-5 pt-8">
+          <JaguarLogo className="mt-2 h-14" />
+          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+            <span className="block text-white">{renderTitleLine(line1, "text-white")}</span>
+            <span className="block text-hero-blue">{renderTitleLine(line2, "text-hero-blue")}</span>
+          </h2>
+        </div>
 
-        <div className="mt-6 grid grid-cols-6 gap-3">
+        <div className="mt-6 grid gap-3" style={{ gridTemplateColumns: `repeat(${data.reviews.length}, minmax(0, 1fr))` }}>
           {data.reviews.map((r) => (
             <div
               key={r.name}
               className="glow-card--sm relative flex min-h-72 flex-col overflow-hidden rounded-xl p-5"
               style={{
-                border: "1px solid rgba(173,135,92, 0.75)",
-                boxShadow: "0 -10px 20px -6px rgba(173,135,92, 0.65), 0 -2px 10px -2px rgba(173,135,92, 0.4)",
+                border: "1px solid rgba(255,255,255,0.22)",
+                boxShadow: "0 -8px 18px -8px rgba(255,255,255,0.3), 0 18px 36px -18px rgba(0,0,0,0.9)",
               }}
             >
               <div
@@ -158,24 +168,27 @@ export default function ModelSec8({ data }) {
                 {r.platform === "google" ? (
                   <GoogleG className="h-5 w-5" />
                 ) : (
-                  <Icon name="star" className="h-5 w-5 fill-hero-blue text-hero-blue" />
+                  <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
                 )}
               </div>
               <p className="mt-4 text-base font-bold text-white">{r.name}</p>
               <p className="mt-2 text-sm leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-              <p className="label-text mt-auto pt-4 uppercase tracking-wide text-hero-blue">{r.tag}</p>
+              <div className="relative mt-auto flex items-center gap-2 border-t border-white/15 pt-4">
+                <Icon name="shield-check" className="h-4 w-4 shrink-0 text-white" />
+                <p className="label-text tracking-wide text-white/90">{r.tag}</p>
+              </div>
             </div>
           ))}
         </div>
 
         <div className="mt-5 flex justify-center gap-4">
-          <button className="btn-text card-glare-light relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-hero-blue transition hover:-translate-y-0.5">
+          <button className="btn-text card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-white/25 bg-[#101010] px-6 py-3 text-white transition hover:-translate-y-0.5">
             <GoogleG className="h-5 w-5" />
-            {data.googleCta} <span aria-hidden className="text-hero-blue">→</span>
+            {data.googleCta} <span aria-hidden className="text-white">→</span>
           </button>
-          <button className="btn-text card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-hero-blue/50 bg-[#12100a] px-6 py-3 text-white transition hover:-translate-y-0.5">
-            <Icon name="star" className="h-5 w-5 fill-hero-blue text-hero-blue" />
-            {data.trustpilotCta} <span aria-hidden className="text-hero-blue">→</span>
+          <button className="btn-text card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-white/25 bg-[#101010] px-6 py-3 text-white transition hover:-translate-y-0.5">
+            <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
+            {data.trustpilotCta} <span aria-hidden className="text-white">→</span>
           </button>
         </div>
       </div>

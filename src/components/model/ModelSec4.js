@@ -9,7 +9,7 @@ function withEmphasis(text) {
   const regex = new RegExp(`(${boldPhrases.join("|")})`, "g");
   return text.split(regex).map((part, i) =>
     boldPhrases.includes(part) ? (
-      <strong key={i} className="font-bold text-[#101828]">
+      <strong key={i} className="font-bold text-[#111111]">
         {part}
       </strong>
     ) : (
@@ -42,15 +42,15 @@ export default function ModelSec4({ data }) {
         <div className="relative">
           <div className="flex items-center gap-2">
             <JaguarStripe className="h-4 w-8" />
-            <p className="label-text uppercase tracking-widest text-[#101828]">{data.kicker}</p>
+            <p className="label-text uppercase tracking-widest text-[#111111]">{data.kicker}</p>
           </div>
 
           <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
-            <span className="block text-[#101828]">{data.headlinePre}</span>
+            <span className="block text-[#111111]">{data.headlinePre}</span>
             <span className="block text-hero-blue">{data.headlineHighlight}</span>
           </h2>
 
-          <p className="body-text mt-3 text-[#101828]">{withEmphasis(data.description)}</p>
+          <p className="body-text mt-3 text-[#111111]">{withEmphasis(data.description)}</p>
 
           {/* pricing table */}
           <div className="glass-card mt-5 overflow-hidden rounded-2xl">
@@ -84,15 +84,15 @@ export default function ModelSec4({ data }) {
                 key={r.family}
                 className={`grid ${mobileGridCols} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
               >
-                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#101828]">
+                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#111111]">
                   {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
                 </p>
-                <p className={`label-text px-2 py-2.5 font-semibold leading-tight ${r.fuel === "Petrol" ? "text-bmw-red" : "text-hero-blue"}`}>
+                <p className={`label-text px-2 py-2.5 font-semibold leading-tight ${r.fuel === "Petrol" ? "text-hero-blue" : "text-hero-blue"}`}>
                   {r.fuel}
                 </p>
-                <p className="label-text px-2 py-2.5 leading-tight text-[#101828]">{r.size}</p>
-                {hasChassis && <p className="label-text px-2 py-2.5 leading-tight text-[#101828]">{r.chassis}</p>}
-                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#101828]">{r.range}</p>
+                <p className="label-text px-2 py-2.5 leading-tight text-[#111111]">{r.size}</p>
+                {hasChassis && <p className="label-text px-2 py-2.5 leading-tight text-[#111111]">{r.chassis}</p>}
+                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#111111]">{r.range}</p>
               </div>
             ))}
           </div>
@@ -103,8 +103,8 @@ export default function ModelSec4({ data }) {
               <div key={f.title} className="glass-card flex flex-col items-center gap-2 rounded-2xl p-4 text-center">
                 <Icon name={f.icon} className="h-11 w-11 shrink-0 text-hero-blue" />
                 <div className="min-w-0">
-                  <p className="label-text font-extrabold uppercase leading-tight tracking-wide text-[#101828]">{f.title}</p>
-                  <p className="label-text mt-0.5 leading-snug text-[#101828]">{f.body}</p>
+                  <p className="label-text font-extrabold uppercase leading-tight tracking-wide text-[#111111]">{f.title}</p>
+                  <p className="label-text mt-0.5 leading-snug text-[#111111]">{f.body}</p>
                 </div>
               </div>
             ))}
@@ -115,16 +115,16 @@ export default function ModelSec4({ data }) {
             <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-hero-blue text-[10px] font-black text-white">
               i
             </span>
-            <p className="relative z-10 text-xs leading-relaxed text-[#101828]">{data.disclaimer}</p>
+            <p className="relative z-10 text-xs leading-relaxed text-[#111111]">{data.disclaimer}</p>
 
             <div
               className="pointer-events-none absolute bottom-0 right-0 z-0 flex gap-1 opacity-20"
               style={{ height: "60px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
               aria-hidden="true"
             >
-              <span className="h-full w-4" style={{ background: "var(--color-bmw-blue)" }} />
-              <span className="h-full w-4" style={{ background: "var(--color-bmw-violet)" }} />
-              <span className="h-full w-4" style={{ background: "var(--color-bmw-red)" }} />
+              <span className="h-full w-4 chrome-bar-a" />
+              <span className="h-full w-4 chrome-bar-b" />
+              <span className="h-full w-4 chrome-bar-c" />
             </div>
           </div>
         </div>
@@ -147,15 +147,15 @@ export default function ModelSec4({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
           <JaguarStripe className="h-4.5 w-9" />
-          <p className="label-text uppercase tracking-widest text-[#101828]">{data.kicker}</p>
+          <p className="label-text uppercase tracking-widest text-[#111111]">{data.kicker}</p>
         </div>
 
         <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
-          <span className="text-[#101828]">{data.headlinePre} </span>
+          <span className="text-[#111111]">{data.headlinePre} </span>
           <span className="text-hero-blue">{data.headlineHighlight}</span>
         </h2>
 
-        <p className="body-text mt-2 max-w-3xl text-[#101828]">{data.description}</p>
+        <p className="body-text mt-2 max-w-3xl text-[#111111]">{data.description}</p>
 
         {/* pricing table */}
         <div className="glass-card mt-6 overflow-hidden rounded-2xl">
@@ -189,13 +189,13 @@ export default function ModelSec4({ data }) {
               key={r.family}
               className={`grid ${desktopGridCols} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
             >
-              <p className="px-6 py-3 text-sm font-bold text-[#101828]">
+              <p className="px-6 py-3 text-sm font-bold text-[#111111]">
                 {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
               </p>
-              <p className={`px-6 py-3 text-sm font-semibold ${r.fuel === "Petrol" ? "text-bmw-red" : "text-hero-blue"}`}>{r.fuel}</p>
-              <p className="px-6 py-3 text-sm text-[#101828]">{r.size}</p>
-              {hasChassis && <p className="px-6 py-3 text-sm text-[#101828]">{r.chassis}</p>}
-              <p className="px-6 py-3 text-sm font-bold text-[#101828]">{r.range}</p>
+              <p className={`px-6 py-3 text-sm font-semibold ${r.fuel === "Petrol" ? "text-hero-blue" : "text-hero-blue"}`}>{r.fuel}</p>
+              <p className="px-6 py-3 text-sm text-[#111111]">{r.size}</p>
+              {hasChassis && <p className="px-6 py-3 text-sm text-[#111111]">{r.chassis}</p>}
+              <p className="px-6 py-3 text-sm font-bold text-[#111111]">{r.range}</p>
             </div>
           ))}
         </div>
@@ -207,8 +207,8 @@ export default function ModelSec4({ data }) {
               {i > 0 && <span className="absolute left-0 top-1/2 h-3/4 w-px -translate-y-1/2 bg-black/10" />}
               <Icon name={f.icon} className="h-full w-14 shrink-0 text-hero-blue" />
               <div className="flex min-w-0 flex-col justify-center">
-                <p className="text-xs font-extrabold uppercase tracking-wide text-[#101828]">{f.title}</p>
-                <p className="mt-0.5 text-xs leading-snug text-[#101828]">{f.body}</p>
+                <p className="text-xs font-extrabold uppercase tracking-wide text-[#111111]">{f.title}</p>
+                <p className="mt-0.5 text-xs leading-snug text-[#111111]">{f.body}</p>
               </div>
             </div>
           ))}
@@ -218,7 +218,7 @@ export default function ModelSec4({ data }) {
         <div className="relative mt-5 flex items-center justify-center overflow-hidden rounded-xl border border-black/5 bg-(--color-light-surface) px-6 py-4 shadow-sm">
           <div className="flex items-start gap-2">
             <Icon name="info" className="mt-0.5 h-5 w-5 shrink-0 text-hero-blue" />
-            <p className="text-center text-xs text-[#101828]">
+            <p className="text-center text-xs text-[#111111]">
               {disclaimerLine1}
               <br />
               {disclaimerLine2}
@@ -230,9 +230,9 @@ export default function ModelSec4({ data }) {
             style={{ height: "90px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
             aria-hidden="true"
           >
-            <span className="h-full w-6" style={{ background: "var(--color-bmw-blue)" }} />
-            <span className="h-full w-6" style={{ background: "var(--color-bmw-violet)" }} />
-            <span className="h-full w-6" style={{ background: "var(--color-bmw-red)" }} />
+            <span className="h-full w-6 chrome-bar-a" />
+            <span className="h-full w-6 chrome-bar-b" />
+            <span className="h-full w-6 chrome-bar-c" />
           </div>
         </div>
       </div>

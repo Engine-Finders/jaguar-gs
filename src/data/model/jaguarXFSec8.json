@@ -4,39 +4,33 @@
   "reviews": [
     {
       "platform": "google",
-      "name": "Daniel R.",
-      "text": "Brilliant service from start to finish. My C220d runs better than it ever has. Honest advice, clear pricing and the team know their stuff.",
-      "tag": "C220d Engine Rebuild"
+      "name": "David R.",
+      "text": "Brilliant service from start to finish. My XF runs better than it ever has. Honest advice, fair pricing and a genuine team. Highly recommended.",
+      "tag": "Engine Rebuild"
     },
     {
       "platform": "trustpilot",
-      "name": "Mark T.",
-      "text": "They rebuilt my Ingenium AJ200D engine with all the updated parts. No more injector leaks. Smooth process and great communication.",
-      "tag": "C220d Engine Rebuild"
+      "name": "Sarah L.",
+      "text": "Timing chain issue on my XF sorted quickly and professionally. No more rattling and the engine is smooth and quiet. Brilliant communication throughout.",
+      "tag": "Engine Rebuild"
     },
     {
       "platform": "google",
-      "name": "Ryan P.",
-      "text": "Top lads, top job. Picked up and dropped off, engine rebuilt to an extremely high standard. 100% recommend.",
-      "tag": "C300 Engine Rebuild"
+      "name": "Mark T.",
+      "text": "Took my XF in for timing chain and injector seals. Delighted with the result. Feels like a new engine again and comes with a 12-month warranty. Top service.",
+      "tag": "Engine Rebuild"
     },
     {
       "platform": "trustpilot",
-      "name": "Steve B.",
-      "text": "Saved me thousands compared to a Jaguar dealer quote. Fantastic workmanship and my C250d is running perfectly.",
-      "tag": "C250d Engine Rebuild"
+      "name": "Lisa P.",
+      "text": "Clear, honest and knowledgeable team. They explained everything and kept me updated every step of the way. Wouldn't go anywhere else for my Jaguar.",
+      "tag": "Engine Rebuild"
     },
     {
       "platform": "google",
       "name": "Tom H.",
-      "text": "From quote to collection couldn't fault them. Engine looks brand new inside. Warranty gives great peace of mind.",
-      "tag": "C200 Engine Rebuild"
-    },
-    {
-      "platform": "trustpilot",
-      "name": "James K.",
-      "text": "Professional, reliable and fairly priced. Camshaft adjuster issue on my C63 Jaguar sorted properly and kept me updated throughout.",
-      "tag": "C63 Jaguar Engine Rebuild"
+      "text": "Very happy with the rebuild on my XF. Strong performance, no issues and great fuel economy now. Worth every penny.",
+      "tag": "Engine Rebuild"
     }
   ],
   "googleCta": "See All Reviews On Google",

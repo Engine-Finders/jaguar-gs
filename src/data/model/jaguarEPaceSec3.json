@@ -7,17 +7,31 @@
   "cardImage": "/model/engine_trim.webp",
   "cards": [
     {
-      "titlePre": "3-Cylinder/4-Cylinder Rebuild (Ingenium)",
-      "titleHighlight": "",
-      "code": "",
+      "titlePre": "3-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(Ingenium)",
       "price": "£2,000",
       "featured": false
     },
     {
-      "titlePre": "Nationwide Recovery",
+      "titlePre": "4-Cylinder",
+      "titleHighlight": "Rebuild",
+      "code": "(Ingenium)",
+      "price": "£2,000",
+      "featured": false
+    },
+    {
+      "titlePre": "E-Pace Rebuild",
       "titleHighlight": "",
+      "code": "(Ingenium)",
+      "price": "£2,000",
+      "featured": true
+    },
+    {
+      "titlePre": "Nationwide",
+      "titleHighlight": "Recovery",
       "code": "",
-      "price": "from £70",
+      "price": "£70",
       "featured": false
     }
   ],

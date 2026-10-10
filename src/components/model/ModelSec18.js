@@ -2,22 +2,23 @@
 
 import { useState } from "react";
 import Icon from "@/components/reusable/Icon";
+import JaguarLogo from "@/components/reusable/JaguarLogo";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 function FaqCard({ item, isOpen, onToggle }) {
   return (
-    <div className="rounded-xl border border-black/5 bg-white/80 p-5 shadow-[0_15px_40px_-25px_rgba(16,24,40,0.4)] backdrop-blur-md">
+    <div className="rounded-xl border border-black/5 bg-white/80 p-5 shadow-[0_15px_40px_-25px_rgba(0,0,0,0.4)] backdrop-blur-md">
       <button type="button" onClick={onToggle} className="flex w-full items-start gap-3 text-left">
         <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-hero-blue text-sm font-extrabold text-white">
           ?
         </span>
-        <span className="origin-left scale-y-115 flex-1 text-sm font-extrabold text-[#101828]">{item.q}</span>
+        <span className="origin-left scale-y-115 flex-1 text-sm font-extrabold text-[#111111]">{item.q}</span>
         <Icon
           name="chevron-down"
-          className={`h-4 w-4 shrink-0 text-[#101828] transition-transform ${isOpen ? "rotate-180" : ""}`}
+          className={`h-4 w-4 shrink-0 text-[#111111] transition-transform ${isOpen ? "rotate-180" : ""}`}
         />
       </button>
-      {isOpen && <p className="ml-10 mt-2 text-sm leading-relaxed text-[#101828]">{item.a}</p>}
+      {isOpen && <p className="ml-10 mt-2 text-sm leading-relaxed text-[#111111]">{item.a}</p>}
     </div>
   );
 }
@@ -26,7 +27,7 @@ function Field({ label, placeholder, type = "text" }) {
   return (
     <label className="block">
       <span className="label-text uppercase tracking-wide text-white">
-        {label} <span className="text-bmw-red">*</span>
+        {label} <span className="text-hero-blue">*</span>
       </span>
       <input
         type={type}
@@ -59,11 +60,11 @@ export default function ModelSec18({ data }) {
   return (
     <section id="quote-form" className="theme-light relative scroll-mt-6 overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-10 md:hidden">
+      <div className="relative px-4 pb-10 pt-4 md:hidden">
         <div className="flex items-center gap-2">
-          <JaguarStripe className="h-6 w-12 shrink-0" />
+          <JaguarLogo className="h-8 shrink-0" />
           <h2 className="h2 origin-left scale-y-110 scale-x-90 whitespace-nowrap uppercase">
-            <span className="text-[#101828]">{data.kicker} </span>
+            <span className="text-[#111111]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
           </h2>
         </div>
@@ -77,10 +78,10 @@ export default function ModelSec18({ data }) {
         {/* quote form */}
         <form
           onSubmit={handleSubmit}
-          className="relative mt-8 overflow-hidden rounded-2xl p-5"
+          className="theme-dark relative mt-8 overflow-hidden rounded-2xl p-5"
           style={{
-            background: "linear-gradient(135deg, #15100a 0%, #0a0806 100%)",
-            boxShadow: "0 0 0 1px rgba(173,135,92,0.3), 0 25px 60px -20px rgba(173,135,92,0.4)",
+            background: "linear-gradient(135deg, #101012 0%, #050505 100%)",
+            boxShadow: "0 0 0 1px rgba(150,154,160,0.3), 0 25px 60px -20px rgba(150,154,160,0.4)",
           }}
         >
           <JaguarStripe className="absolute right-5 top-5 h-6 w-12" />
@@ -97,10 +98,10 @@ export default function ModelSec18({ data }) {
           <div className="mt-5 space-y-4">
             <label className="block">
               <span className="label-text uppercase tracking-wide text-white">
-                {data.form.fields.reg.label} <span className="text-bmw-red">*</span>
+                {data.form.fields.reg.label} <span className="text-hero-blue">*</span>
               </span>
               <div className="mt-2 flex h-13 overflow-hidden rounded-lg border border-white/15 bg-white/5">
-                <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-sm font-extrabold text-white">
+                <span className="flex w-14 shrink-0 items-center justify-center bg-linear-to-b from-[#e6e6e6] to-[#a9a9a9] text-sm font-extrabold text-[#111111]">
                   GB
                 </span>
                 <input
@@ -118,7 +119,7 @@ export default function ModelSec18({ data }) {
 
             <label className="block">
               <span className="label-text uppercase tracking-wide text-white">
-                {data.form.fields.enquiry.label} <span className="text-bmw-red">*</span>
+                {data.form.fields.enquiry.label} <span className="text-hero-blue">*</span>
               </span>
               <div className="relative mt-2">
                 <select className="h-13 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
@@ -139,11 +140,7 @@ export default function ModelSec18({ data }) {
 
           <button
             type="submit"
-            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
-            style={{
-              background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
-              boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
-            }}
+            className="mt-6 flex w-full items-center justify-center gap-2 btn-chrome rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide transition hover:brightness-105"
           >
             {data.form.submitLabel} <span aria-hidden>→</span>
           </button>
@@ -159,9 +156,9 @@ export default function ModelSec18({ data }) {
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
-          <JaguarStripe className="h-10 w-16" />
+          <JaguarLogo className="h-10 shrink-0" />
           <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-            <span className="text-[#101828]">{data.kicker} </span>
+            <span className="text-[#111111]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
           </h2>
         </div>
@@ -183,10 +180,10 @@ export default function ModelSec18({ data }) {
         {/* quote form */}
         <form
           onSubmit={handleSubmit}
-          className="relative mt-8 overflow-hidden rounded-2xl p-8"
+          className="theme-dark relative mt-8 overflow-hidden rounded-2xl p-8"
           style={{
-            background: "linear-gradient(135deg, #15100a 0%, #0a0806 100%)",
-            boxShadow: "0 0 0 1px rgba(173,135,92,0.3), 0 25px 60px -20px rgba(173,135,92,0.4)",
+            background: "linear-gradient(135deg, #101012 0%, #050505 100%)",
+            boxShadow: "0 0 0 1px rgba(150,154,160,0.3), 0 25px 60px -20px rgba(150,154,160,0.4)",
           }}
         >
           <JaguarStripe className="absolute right-6 top-6 h-8 w-16" />
@@ -199,10 +196,10 @@ export default function ModelSec18({ data }) {
           <div className="mt-6 grid grid-cols-3 gap-4">
             <label className="block">
               <span className="label-text uppercase tracking-wide text-white">
-                {data.form.fields.reg.label} <span className="text-bmw-red">*</span>
+                {data.form.fields.reg.label} <span className="text-hero-blue">*</span>
               </span>
               <div className="mt-2 flex h-13 overflow-hidden rounded-lg border border-white/15 bg-white/5">
-                <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-sm font-extrabold text-white">
+                <span className="flex w-14 shrink-0 items-center justify-center bg-linear-to-b from-[#e6e6e6] to-[#a9a9a9] text-sm font-extrabold text-[#111111]">
                   GB
                 </span>
                 <input
@@ -220,7 +217,7 @@ export default function ModelSec18({ data }) {
 
             <label className="block">
               <span className="label-text uppercase tracking-wide text-white">
-                {data.form.fields.enquiry.label} <span className="text-bmw-red">*</span>
+                {data.form.fields.enquiry.label} <span className="text-hero-blue">*</span>
               </span>
               <div className="relative mt-2">
                 <select className="h-13 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
@@ -241,11 +238,7 @@ export default function ModelSec18({ data }) {
 
           <button
             type="submit"
-            className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
-            style={{
-              background: "linear-gradient(135deg, var(--color-hero-gold) 0%, #8c6c46 100%)",
-              boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
-            }}
+            className="mt-6 flex w-full items-center justify-center gap-2 btn-chrome rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide transition hover:brightness-105"
           >
             {data.form.submitLabel} <span aria-hidden>→</span>
           </button>
