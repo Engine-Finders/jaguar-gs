@@ -84,13 +84,7 @@ export default function RegLookupForm({
         <span
           className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-0.5 text-white ${lightPlate ? "bg-[#1b1b1d]" : darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
         >
-          {lightPlate ? (
-            <UkFlag />
-          ) : (
-            <span className="text-[13px] leading-none" aria-hidden="true">
-              ♛
-            </span>
-          )}
+          <UkFlag />
           <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>{plateLabel}</span>
         </span>
         <input
