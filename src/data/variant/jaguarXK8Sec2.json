@@ -12,7 +12,7 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "XK"
     },
     {
       "icon": "sliders",
@@ -27,28 +27,27 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ26 or AJ27"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "4.0L V8"
     },
     {
       "icon": "calendar",
-      "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "label": "Generations",
+      "value": "X100 (1996–2006)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£4,500"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XK8 uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XK8 used two different engine codes across its production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

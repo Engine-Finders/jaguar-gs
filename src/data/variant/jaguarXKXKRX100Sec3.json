@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ34",
-      "generation": "",
+      "generation": "X100 (1996–2006)",
       "price": "£5,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XK XKR (X100) Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ34 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XKR Timing Chain Tensioner Wear ",
+    "titleHighlight": "(X100, AJ34)",
     "paragraphs": [
-      "The AJ34 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ34 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ34 rebuild.",
-      "Because the XK XKR (X100) uses a completely different engine family from the V8 M178 fitted to the XK 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XKR is a 1996–2006 model with the AJ34 supercharged 4.0-litre V8 — that's the X100 generation — timing chain tensioner wear is a well-established pattern on these Nikasil-liner-era engines, confirmed in Jaguar specialist circles. We replace the timing chain, tensioners and guides as standard on every AJ34 rebuild."
     ],
-    "source": "Source: Established AJ34 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: established pattern in Jaguar specialist circles, per VRF-jaguar-xk.md. Confirmed specifically for the X100 generation."
+  },
+  "tiles": [
+    {
+      "badge": "AJ34",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£5,500"
+    },
+    {
+      "badge": "X100",
+      "label": "Generation",
+      "big": "1996–2006",
+      "sub": "Jaguar XK XKR (X100)"
+    },
+    {
+      "badge": "XKR",
+      "label": "Variant",
+      "big": "4.0L Petrol Supercharged",
+      "sub": "AJ34"
+    }
+  ]
 }

@@ -7,15 +7,20 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "",
-      "generation": "",
+      "code": "AJ26",
+      "generation": "X100 (1996–1999)",
+      "price": "£4,500"
+    },
+    {
+      "code": "AJ27",
+      "generation": "X100 (1999–2006)",
       "price": "£4,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Both engine codes sit on the same rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -24,13 +29,33 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XK8 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(engine I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XK8 Timing Chain Tensioner Wear ",
+    "titleHighlight": "(X100, AJ26/AJ27)",
     "paragraphs": [
-      "The engine is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older engine V6. We replace timing chains, bearings, water pump and gaskets as standard on every engine rebuild.",
-      "Because the XK8 uses a completely different engine family from the V8 M178 fitted to the Jaguar 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XK8 is a first-generation (X100) model from 1996 to 2006 with the AJ26 or AJ27 V8 — that's the entire production run for the XK8 — timing chain tensioner wear is a well-documented pattern on this engine, established in Jaguar specialist circles. We replace the timing chain, tensioners, and guides as standard on every X100 V8 rebuild.",
+      "The later X150 generation uses a different engine (AJ-V8 Gen III), which doesn't share this specific issue."
     ],
-    "source": "Source: Established engine specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: established pattern in Jaguar specialist circles (per G-BRF and VRF)."
+  },
+  "tiles": [
+    {
+      "badge": "AJ26",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£4,500"
+    },
+    {
+      "badge": "X100",
+      "label": "Generation",
+      "big": "1996–1999",
+      "sub": "Jaguar XK8"
+    },
+    {
+      "badge": "XK8",
+      "label": "Variant",
+      "big": "4.0L Petrol",
+      "sub": "AJ26 or AJ27"
+    }
+  ]
 }

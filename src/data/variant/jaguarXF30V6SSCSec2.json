@@ -12,43 +12,42 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "XF"
     },
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "XF 3.0 V6 S/SC"
+      "value": "3.0 V6 S/SC (supercharged)"
     },
     {
       "icon": "fuel",
       "label": "Fuel",
-      "value": "Petrol"
+      "value": "Petrol Supercharged"
     },
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ126"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "3.0L V6"
     },
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "value": "X250 (2007–2015)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£3,200"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XF 3.0 V6 S/SC uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The X250 generation offered a wide range of engines. Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

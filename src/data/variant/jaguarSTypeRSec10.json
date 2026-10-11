@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar S-Type R ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar S-Type R ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
-        "codeHighlight": "AJ-V8 (supercharged)",
-        "codeRest": "(X200 (1999–2008))",
-        "body": "A 4.2-litre supercharged V8 fitted to the S-Type R from 1999 to 2008 (X200 generation). Known for timing chain stretch between 80,000–150,000km, with tensioners and guide rails wearing alongside the chain — see the callout above. We replace the timing chain, tensioners, and guide rails as standard on every AJ-V8 supercharged rebuild. Check Your AJ-V8 Supercharged S-Type R → [link to quote form]",
-        "cta": "Check Your AJ-V8 (supercharged) S-Type R",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHighlight": "AJ-V8 Supercharged",
+        "codeRest": "(4.2L)",
+        "body": "A 4.2-litre supercharged V8 fitted to the S-Type R from 1999 to 2008 (X200 generation). Known for timing chain stretch between 80,000–150,000km, with tensioners and guide rails wearing alongside the chain — see the callout above. We replace the timing chain, tensioners, and guide rails as standard on every AJ-V8 supercharged rebuild.",
+        "cta": "Check Your AJ-V8 Supercharged S-Type R",
+        "codeHref": "/jaguar-aj-v8-engine"
       }
     ]
   },
@@ -28,15 +28,15 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The S-Type R uses the supercharged AJ-V8 across its entire production run — there's only one engine code for this variant. That said, running changes to components and ECU calibrations occurred during the 1999–2008 period, so we always confirm your exact build details via registration before quoting or supplying any parts. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
-      "title": "AJ-V8 (supercharged)",
+      "title": "AJ-V8 Supercharged",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code"
       },
       {
@@ -44,15 +44,20 @@
         "text": "Your generation (X200)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
         "icon": "code",
         "text": "Any electronics or ECU considerations specific to your exact build"
+      },
+      {
+        "icon": "code",
+        "text": "This protects you from compatibility issues that could arise from assuming all S-Type R engines are identical."
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar S-Type R ",

@@ -4,11 +4,11 @@
   "faqLeft": [
     {
       "q": "What engine does the Jaguar XJ6 use?",
-      "a": "The XJ6 uses the AJ16 — a 3.2‑ to 4.0‑litre inline‑6 petrol engine. It was fitted from 1994 to 2003 across the X300 and X308 generations."
+      "a": "The XJ6 uses the AJ16 — a 3.2- to 4.0-litre inline-6 petrol engine. It was fitted from 1994 to 2003 across the X300 and X308 generations."
     },
     {
       "q": "How much does a Jaguar XJ6 engine rebuild cost?",
-      "a": "Rebuilds start from £3,200 for the AJ16. Exact price depends on condition and parts required — submit your reg for a fixed‑price quote."
+      "a": "Rebuilds start from £3,200 for the AJ16. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     },
     {
       "q": "Which engine code is fitted to my XJ6?",
@@ -16,13 +16,13 @@
     },
     {
       "q": "Do you rebuild AJ16 XJ6 engines?",
-      "a": "Yes. We rebuild the AJ16 to a near‑new standard, replacing worn components with updated OEM parts, and back it with a 12‑month unlimited‑mileage warranty."
+      "a": "Yes. We rebuild the AJ16 to a near-new standard, replacing worn components with updated OEM parts, and back it with a 12-month unlimited-mileage warranty."
     }
   ],
   "faqRight": [
     {
       "q": "Do you supply used XJ6 engines?",
-      "a": "Yes, in some cases a matched low‑mileage used engine is the right option. Our team will advise honestly once we’ve matched your registration and understood your situation."
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we’ve matched your registration and understood your situation."
     },
     {
       "q": "Can you recover my XJ6 if the engine has failed?",
@@ -30,16 +30,16 @@
     },
     {
       "q": "How long does an XJ6 engine rebuild take?",
-      "a": "Most rebuilds are completed within 3‑5 working days from the time your car arrives at our workshop."
+      "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
     },
     {
       "q": "Is rebuilding better than fitting a used engine?",
-      "a": "For most XJ6 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit’s history, and comes with a 12‑month unlimited‑mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+      "a": "For most XJ6 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit’s history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
     }
   ],
   "form": {
     "headlinePre": "GET YOUR",
-    "headlineHighlight": "FREE MERCEDES XJ6",
+    "headlineHighlight": "FREE Jaguar XJ6",
     "headlinePost": "FIXED-PRICE QUOTE",
     "fields": {
       "reg": {

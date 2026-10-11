@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ133",
-      "generation": "",
+      "generation": "X150 (2005–2014)",
       "price": "£5,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XKR-S Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XKR-S Timing Chain Tensioner Issue ",
+    "titleHighlight": "(AJ133 V8)",
     "paragraphs": [
-      "The AJ133 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 rebuild.",
-      "Because the XKR-S uses a completely different engine family from the V8 M178 fitted to the XK 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "XKR-S engines with the 5.0-litre supercharged AJ133 V8 commonly show timing chain tensioner and guide wear — a design flaw that's particularly prevalent on 2012–2014 models. This issue is part of the same class-action lawsuit scope that covers this engine across multiple JLR models. We replace timing chain assemblies, tensioners, guides and the water pump as standard on every AJ133 rebuild."
     ],
-    "source": "Source: Established AJ133 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via multiple independent sources (au7o.io, rrsport.co.uk lawsuit list, per VRF-jaguar-xk.md). Applies to all AJ133 applications, including the XKR-S."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£5,500"
+    },
+    {
+      "badge": "X150",
+      "label": "Generation",
+      "big": "2005–2014",
+      "sub": "Jaguar XKR-S"
+    },
+    {
+      "badge": "XKR-S",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133"
+    }
+  ]
 }

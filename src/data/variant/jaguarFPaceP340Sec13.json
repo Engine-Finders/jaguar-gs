@@ -4,11 +4,11 @@
   "faqLeft": [
     {
       "q": "What engine does the Jaguar F-Pace P340 use?",
-      "a": "The F‑Pace P340 uses the AJ300P — a 3.0‑litre inline‑six petrol engine from the Ingenium family."
+      "a": "The F-Pace P340 uses the AJ300P — a 3.0-litre inline-six petrol engine from the Ingenium family."
     },
     {
       "q": "How much does a Jaguar F-Pace P340 engine rebuild cost?",
-      "a": "Rebuilds start from £3,600. Exact price depends on condition and parts required — submit your reg for a fixed‑price quote."
+      "a": "Rebuilds start from £3,600. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     },
     {
       "q": "Which engine code is fitted to my P340?",
@@ -22,7 +22,7 @@
   "faqRight": [
     {
       "q": "Do you supply used P340 engines?",
-      "a": "Yes, in some cases a matched low‑mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+      "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
     },
     {
       "q": "Can you recover my P340 if the engine has failed?",
@@ -30,16 +30,16 @@
     },
     {
       "q": "How long does an F-Pace P340 engine rebuild take?",
-      "a": "Most rebuilds are completed within 3‑5 working days from the time your car arrives at our workshop."
+      "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
     },
     {
       "q": "Is rebuilding better than fitting a used engine?",
-      "a": "For most F‑Pace owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12‑month unlimited‑mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+      "a": "For most F-Pace owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
     }
   ],
   "form": {
     "headlinePre": "GET YOUR",
-    "headlineHighlight": "FREE MERCEDES F-Pace P340",
+    "headlineHighlight": "FREE Jaguar F-Pace P340",
     "headlinePost": "FIXED-PRICE QUOTE",
     "fields": {
       "reg": {

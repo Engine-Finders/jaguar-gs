@@ -107,5 +107,16 @@
   "notice": {
     "highlight": "The AJD-V6",
     "rest": " has been fitted to every XJ 3.0d since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XJ 3.0d Model Year:",
+    "items": [
+      "Jaguar XJ 3.0d 2009 Engine Rebuild",
+      "Jaguar XJ 3.0d 2012 Engine Rebuild",
+      "Jaguar XJ 3.0d 2015 Engine Rebuild",
+      "Jaguar XJ 3.0d 2018 Engine Rebuild",
+      "Jaguar XJ 3.0d 2019 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

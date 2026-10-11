@@ -1,69 +1,81 @@
 {
   "gallery": {
     "titlePre": "OUR MOST RECENT",
-    "titleHighlight": "MERCEDES RECOVERIES & REBUILDS",
+    "titleHighlight": "JAGUAR RECOVERIES & REBUILDS",
     "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
     "image": "/model/sec12.webp",
     "items": [
       {
         "icon": "truck",
         "model": "Jaguar XF 300 Sport",
-        "status": "RECOVERY"
+        "status": "RECOVERY",
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
         "model": "Jaguar XF 300 Sport",
-        "status": "DIAGNOSTICS"
+        "status": "DIAGNOSTICS",
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar XF 300 Sport",
-        "status": "STRIPPED ENGINE"
+        "status": "STRIPPED ENGINE",
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
         "model": "Jaguar XF 300 Sport",
-        "status": "TIMING CHAIN REPLACEMENT"
+        "status": "TIMING CHAIN REPLACEMENT",
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
         "model": "Jaguar XF 300 Sport",
-        "status": "IN FOR REBUILD"
+        "status": "IN FOR REBUILD",
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar XF 300 Sport",
-        "status": "REBUILD IN PROGRESS"
+        "status": "REBUILD IN PROGRESS",
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
         "model": "Jaguar XF 300 Sport",
-        "status": "NATIONWIDE RECOVERY"
+        "status": "NATIONWIDE RECOVERY",
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar XF 300 Sport",
-        "status": "ENGINE STRIPPED"
+        "status": "ENGINE STRIPPED",
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
         "model": "Jaguar XF 300 Sport",
-        "status": "TESTING & CHECKS"
+        "status": "TESTING & CHECKS",
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
         "model": "Jaguar XF 300 Sport",
-        "status": "READY FOR COLLECTION"
+        "status": "READY FOR COLLECTION",
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar XF 300 Sport",
-        "status": "AJ200 REBUILD"
+        "status": "AJ200 REBUILD",
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
         "model": "Jaguar XF 300 Sport",
-        "status": "WORKSHOP BAY"
+        "status": "WORKSHOP BAY",
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },

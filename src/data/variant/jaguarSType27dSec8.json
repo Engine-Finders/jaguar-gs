@@ -1,69 +1,81 @@
 {
   "gallery": {
     "titlePre": "OUR MOST RECENT",
-    "titleHighlight": "MERCEDES RECOVERIES & REBUILDS",
+    "titleHighlight": "JAGUAR RECOVERIES & REBUILDS",
     "description": "Real vehicles brought into our workshop. Open bonnets, stripped blocks, and cars ready for collection — this is what genuine engine work looks like.",
     "image": "/model/sec12.webp",
     "items": [
       {
         "icon": "truck",
         "model": "Jaguar S-Type 2.7d",
-        "status": "RECOVERY"
+        "status": "RECOVERY",
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
         "model": "Jaguar S-Type 2.7d",
-        "status": "DIAGNOSTICS"
+        "status": "DIAGNOSTICS",
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar S-Type 2.7d",
-        "status": "STRIPPED ENGINE"
+        "status": "STRIPPED ENGINE",
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
         "model": "Jaguar S-Type 2.7d",
-        "status": "TIMING CHAIN REPLACEMENT"
+        "status": "TIMING CHAIN REPLACEMENT",
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
         "model": "Jaguar S-Type 2.7d",
-        "status": "IN FOR REBUILD"
+        "status": "IN FOR REBUILD",
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar S-Type 2.7d",
-        "status": "REBUILD IN PROGRESS"
+        "status": "REBUILD IN PROGRESS",
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
         "model": "Jaguar S-Type 2.7d",
-        "status": "NATIONWIDE RECOVERY"
+        "status": "NATIONWIDE RECOVERY",
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar S-Type 2.7d",
-        "status": "ENGINE STRIPPED"
+        "status": "ENGINE STRIPPED",
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
         "model": "Jaguar S-Type 2.7d",
-        "status": "TESTING & CHECKS"
+        "status": "TESTING & CHECKS",
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
         "model": "Jaguar S-Type 2.7d",
-        "status": "READY FOR COLLECTION"
+        "status": "READY FOR COLLECTION",
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
         "model": "Jaguar S-Type 2.7d",
-        "status": "engine REBUILD"
+        "status": "engine REBUILD",
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
         "model": "Jaguar S-Type 2.7d",
-        "status": "WORKSHOP BAY"
+        "status": "WORKSHOP BAY",
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },
@@ -95,7 +107,7 @@
     "summary": {
       "timeframe": {
         "icon": "clock",
-        "text": "Most Jaguar models are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days."
+        "text": "Most S-Type models are recovered within a few hours of booking. Most rebuilds are completed within 3-5 working days."
       },
       "urgency": {
         "icon": "calendar",

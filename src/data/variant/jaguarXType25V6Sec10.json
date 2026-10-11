@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar X-Type 2.5 V6 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar X-Type 2.5 V6 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ25",
         "codeRest": "",
-        "body": "A 2.5-litre V6 petrol engine fitted to the X-Type from 2001 to 2009 (X400). Known for coil-on-plug ignition coil degradation, often accelerated by oil contamination from leaking valve cover gaskets — see the callout above. We replace ignition coils and valve cover gaskets as standard on every AJ25 rebuild, along with timing chain components and bearings where worn. Check Your AJ25 X-Type 2.5 V6 → [link to quote form]",
+        "body": "A 2.5-litre V6 petrol engine fitted to the X-Type from 2001 to 2009 (X400). Known for coil-on-plug ignition coil degradation, often accelerated by oil contamination from leaking valve cover gaskets — see the callout above. We replace ignition coils and valve cover gaskets as standard on every AJ25 rebuild, along with timing chain components and bearings where worn.",
         "cta": "Check Your AJ25 X-Type 2.5 V6",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj25-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "Because the X-Type's V6 engines (AJ20, AJ25, AJ30) share the same Duratec-derived architecture but differ in capacity, confirming your exact engine code matters for correct component sourcing — particularly for parts like ignition coils, valve cover gaskets, and timing chain components. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ25",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ25) via registration or VIN"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your generation (X400)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar X-Type 2.5 V6 ",

@@ -19,12 +19,12 @@
     "vehicleLabel": "Jaguar XK 5.0 V8"
   },
   "costs": {
-    "titlePre": "Jaguar XK 5.0 V8 ENGINE ",
+    "titlePre": "Jaguar XK 5.0 V8 Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar XK 5.0 V8 engine rebuild starts from",
     "price": "£4,500",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -33,13 +33,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES XK 5.0 V8 ENGINE SIZES",
-        "item": "Jaguar XK 5.0 V8 3.0 Litre Engine (AJ133, I6)"
+        "title": "JAGUAR XK 5.0 V8 ENGINE SIZES",
+        "item": "Jaguar XK 5.0 V8 5.0 Litre Engine (AJ133)",
+        "items": [
+          "Jaguar XK 5.0 V8 5.0 Litre Engine (AJ133)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES XK 5.0 V8 FUEL TYPES",
-        "item": "Jaguar XK 5.0 V8 Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR XK 5.0 V8 FUEL TYPES",
+        "item": "Jaguar XK 5.0 V8 Petrol Engine Rebuilds",
+        "items": [
+          "Jaguar XK 5.0 V8 Petrol Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -54,9 +60,31 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR XK VARIANTS",
+    "intro": "Looking for a different XK engine? We also cover:",
+    "links": [
+      {
+        "label": "XK 4.2 V8 Engine",
+        "href": "/jaguar-xk-4-2-v8-engines"
+      },
+      {
+        "label": "XK XKR (X100) Engine",
+        "href": "/jaguar-xk-xkr-x100-engines"
+      },
+      {
+        "label": "XK8 Engine",
+        "href": "/jaguar-xk8-engines"
+      },
+      {
+        "label": "XKR-S Engine",
+        "href": "/jaguar-xkr-s-engines"
+      },
+      {
+        "label": "XKR (X150) Engine",
+        "href": "/jaguar-xkr-x150-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar XK Engines",
+    "viewAllHref": "/jaguar-xk-engines"
   }
 }

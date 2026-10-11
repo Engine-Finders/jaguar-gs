@@ -107,5 +107,15 @@
   "notice": {
     "highlight": "The AJ34",
     "rest": " has been fitted to every XK XKR (X100) since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XKR Model Year:",
+    "items": [
+      "Jaguar XKR 1996 Engine Rebuild",
+      "Jaguar XKR 2001 Engine Rebuild",
+      "Jaguar XKR 2004 Engine Rebuild",
+      "Jaguar XKR 2006 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

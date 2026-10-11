@@ -29,70 +29,70 @@
     {
       "year": "1999",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2000",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2001",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2002",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2003",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2004",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2005",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2006",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2007",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2008",
       "generation": "X200",
-      "engineCode": "AJ‑V6",
+      "engineCode": "AJ-V6",
       "fuel": "Petrol",
       "service": "Rebuild / Replacement"
     }
@@ -100,5 +100,15 @@
   "notice": {
     "highlight": "The AJ‑V6",
     "rest": " has been fitted to every S-Type 3.0 V6 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar S-Type 3.0 V6 Model Year:",
+    "items": [
+      "Jaguar S-Type 3.0 V6 1999 Engine Rebuild",
+      "Jaguar S-Type 3.0 V6 2002 Engine Rebuild",
+      "Jaguar S-Type 3.0 V6 2005 Engine Rebuild",
+      "Jaguar S-Type 3.0 V6 2008 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn’t listed above, get in touch — we’ll confirm availability directly against your reg."
   }
 }

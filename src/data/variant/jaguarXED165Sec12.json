@@ -15,12 +15,12 @@
     "vehicleLabel": "Jaguar XE D165"
   },
   "costs": {
-    "titlePre": "Jaguar XE D165 ENGINE ",
+    "titlePre": "Jaguar XE D165 Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar XE D165 engine rebuild starts from",
     "price": "£2,000",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -29,13 +29,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES XE D165 ENGINE SIZES",
-        "item": "Jaguar XE D165 3.0 Litre Engine (AJ200D (Ingenium), I6)"
+        "title": "JAGUAR XE D165 ENGINE SIZES",
+        "item": "Jaguar XE D165 2.0 Litre Engine (AJ200D Ingenium Diesel)",
+        "items": [
+          "Jaguar XE D165 2.0 Litre Engine (AJ200D Ingenium Diesel)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES XE D165 FUEL TYPES",
-        "item": "Jaguar XE D165 Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR XE D165 FUEL TYPES",
+        "item": "Jaguar XE D165 Diesel Engine Rebuilds",
+        "items": [
+          "Jaguar XE D165 Diesel Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -50,9 +56,51 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR XE VARIANTS",
+    "intro": "Looking for a different XE engine? We also cover:",
+    "links": [
+      {
+        "label": "XE 2.0d Engine",
+        "href": "/jaguar-xe-2-0d-engines"
+      },
+      {
+        "label": "XE 3.0 V6 S / SC Engine",
+        "href": "/jaguar-xe-3-0-v6-s-sc-engines"
+      },
+      {
+        "label": "XE 300 Sport Engine",
+        "href": "/jaguar-xe-300-sport-engines"
+      },
+      {
+        "label": "XE D150 Engine",
+        "href": "/jaguar-xe-d150-engines"
+      },
+      {
+        "label": "XE D180 Engine",
+        "href": "/jaguar-xe-d180-engines"
+      },
+      {
+        "label": "XE D200 Engine",
+        "href": "/jaguar-xe-d200-engines"
+      },
+      {
+        "label": "XE D240 Engine",
+        "href": "/jaguar-xe-d240-engines"
+      },
+      {
+        "label": "XE P200 Engine",
+        "href": "/jaguar-xe-p200-engines"
+      },
+      {
+        "label": "XE P250 Engine",
+        "href": "/jaguar-xe-p250-engines"
+      },
+      {
+        "label": "XE P300 Engine",
+        "href": "/jaguar-xe-p300-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar XE Engines",
+    "viewAllHref": "/jaguar-xe-engines"
   }
 }

@@ -27,37 +27,44 @@
   ],
   "rows": [
     {
+      "year": "Year",
+      "generation": "Generation",
+      "engineCode": "Engine Code",
+      "fuel": "Fuel",
+      "service": "Service"
+    },
+    {
       "year": "2004",
       "generation": "X200",
-      "engineCode": "AJD‑V6",
+      "engineCode": "AJD-V6",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2005",
       "generation": "X200",
-      "engineCode": "AJD‑V6",
+      "engineCode": "AJD-V6",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2006",
       "generation": "X200",
-      "engineCode": "AJD‑V6",
+      "engineCode": "AJD-V6",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2007",
       "generation": "X200",
-      "engineCode": "AJD‑V6",
+      "engineCode": "AJD-V6",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement"
     },
     {
       "year": "2008",
       "generation": "X200",
-      "engineCode": "AJD‑V6",
+      "engineCode": "AJD-V6",
       "fuel": "Diesel",
       "service": "Rebuild / Replacement"
     }
@@ -65,5 +72,14 @@
   "notice": {
     "highlight": "The engine",
     "rest": " has been fitted to every S-Type 2.7d since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar S-Type 2.7d Model Year:",
+    "items": [
+      "Jaguar S-Type 2.7d 2004 Engine Rebuild",
+      "Jaguar S-Type 2.7d 2006 Engine Rebuild",
+      "Jaguar S-Type 2.7d 2008 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "What engine does the Jaguar S-Type 2.7d use?",
-      "a": "It uses the AJD‑V6 — a 2.7‑litre V6 diesel engine sourced from PSA, fitted to the X200‑generation S‑Type from 2004 to 2008. Send us your registration and we'll confirm your exact spec."
+      "a": "It uses the AJD-V6 — a 2.7-litre V6 diesel engine sourced from PSA, fitted to the X200-generation S-Type from 2004 to 2008. Send us your registration and we'll confirm your exact spec."
     },
     {
       "q": "How much does a Jaguar S-Type 2.7d engine rebuild cost?",
@@ -12,11 +12,11 @@
     },
     {
       "q": "Which engine code is fitted to my S-Type 2.7d?",
-      "a": "Enter your registration on this page and we'll confirm your engine code (it should be AJD‑V6) before you're quoted anything."
+      "a": "Enter your registration on this page and we'll confirm your engine code (it should be AJD-V6) before you're quoted anything."
     },
     {
-      "q": "Do you rebuild AJD‑V6 S-Type 2.7d engines?",
-      "a": "Yes. We rebuild the AJD‑V6 diesel to original specification with updated components."
+      "q": "Do you rebuild AJD-V6 S-Type 2.7d engines?",
+      "a": "Yes. We rebuild the AJD-V6 diesel to original specification with updated components."
     }
   ],
   "faqRight": [
@@ -34,12 +34,12 @@
     },
     {
       "q": "Is rebuilding better than fitting a used engine?",
-      "a": "For most S-Type 2.7d owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12‑month unlimited‑mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
+      "a": "For most S-Type 2.7d owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history, and comes with a 12-month unlimited-mileage warranty — often longer and more comprehensive than what a used engine supplier offers."
     }
   ],
   "form": {
     "headlinePre": "GET YOUR",
-    "headlineHighlight": "FREE MERCEDES S-Type 2.7d",
+    "headlineHighlight": "FREE Jaguar S-Type 2.7d",
     "headlinePost": "FIXED-PRICE QUOTE",
     "fields": {
       "reg": {

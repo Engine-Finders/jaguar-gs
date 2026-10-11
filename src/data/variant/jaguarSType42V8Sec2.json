@@ -12,7 +12,7 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "S-Type"
     },
     {
       "icon": "sliders",
@@ -27,28 +27,27 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ-V8 (Naturally Aspirated)"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "4.2L V8"
     },
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "value": "X200 (1999–2008)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£4,500"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The S-Type 4.2 V8 uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

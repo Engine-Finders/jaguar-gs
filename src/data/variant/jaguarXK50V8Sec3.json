@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ133",
-      "generation": "",
+      "generation": "X150 (2005–2014)",
       "price": "£4,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XK 5.0 V8 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XK 5.0 V8 Timing Chain Tensioner Wear ",
+    "titleHighlight": "(X150, AJ133)",
     "paragraphs": [
-      "The AJ133 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 rebuild.",
-      "Because the XK 5.0 V8 uses a completely different engine family from the V8 M178 fitted to the XK 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XK 5.0 V8 is an X150-generation model with the AJ133 — that's the 5.0-litre V8 fitted from 2005 to 2014, particularly 2012–2014 models — timing chain tensioner failure is the single most frequently reported issue on this engine, based on independent analysis of 2,500+ owner reports. We replace the timing chain, tensioners and guides as standard on every AJ133 rebuild."
     ],
-    "source": "Source: Established AJ133 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via multiple independent sources (au7o.io, rrsport.co.uk lawsuit list), per G-BRF-Jaguar.md and VRF-jaguar-xk.md. This is the same class-action lawsuit scope covering this exact engine across multiple JLR models."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£4,500"
+    },
+    {
+      "badge": "X150",
+      "label": "Generation",
+      "big": "2005–2014",
+      "sub": "Jaguar XK 5.0 V8"
+    },
+    {
+      "badge": "XK 5.0 V8",
+      "label": "Variant",
+      "big": "5.0L Petrol",
+      "sub": "AJ133"
+    }
+  ]
 }

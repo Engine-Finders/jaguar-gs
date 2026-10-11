@@ -22,12 +22,12 @@
     "vehicleLabel": "Jaguar F-Type V6"
   },
   "costs": {
-    "titlePre": "Jaguar F-Type V6 ENGINE ",
+    "titlePre": "Jaguar F-Type V6 Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar F-Type V6 engine rebuild starts from",
     "price": "£3,600",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": "for the AJ126. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -36,13 +36,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES F-Type V6 ENGINE SIZES",
-        "item": "Jaguar F-Type V6 3.0 Litre Engine (AJ126, I6)"
+        "title": "JAGUAR F-Type V6 ENGINE SIZES",
+        "item": "Jaguar F-Type V6 3.0 Litre Engine (AJ126)",
+        "items": [
+          "Jaguar F-Type V6 3.0 Litre Engine (AJ126)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES F-Type V6 FUEL TYPES",
-        "item": "Jaguar F-Type V6 Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR F-Type V6 FUEL TYPES",
+        "item": "Jaguar F-Type V6 Petrol Supercharged Engine Rebuilds",
+        "items": [
+          "Jaguar F-Type V6 Petrol Supercharged Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -57,9 +63,35 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR F-TYPE VARIANTS",
+    "intro": "Looking for a different F-Type engine? We also cover:",
+    "links": [
+      {
+        "label": "F-Type 2.0i (Ingenium) Engine",
+        "href": "/jaguar-f-type-2-0i-ingenium-engines"
+      },
+      {
+        "label": "F-Type P450 Engine",
+        "href": "/jaguar-f-type-p450-engines"
+      },
+      {
+        "label": "F-Type R Engine",
+        "href": "/jaguar-f-type-r-engines"
+      },
+      {
+        "label": "F-Type R575 Engine",
+        "href": "/jaguar-f-type-r575-engines"
+      },
+      {
+        "label": "F-Type SVR Engine",
+        "href": "/jaguar-f-type-svr-engines"
+      },
+      {
+        "label": "F-Type V6 S Engine",
+        "href": "/jaguar-f-type-v6-s-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar F-Type Engines",
+    "viewAllHref": "/jaguar-f-type-engines"
   }
 }

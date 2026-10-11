@@ -24,85 +24,13 @@
   ],
   "rows": [
     {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2019–present",
+      "model": "XF",
+      "variant": "2.0i",
+      "generation": "X250",
+      "chassis": "X250",
+      "years": "2012–2015",
       "powertrain": "Petrol",
-      "modelHref": "/jaguar-a-class-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-a-class-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-c-class-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-cla-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-cla-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2020–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-gla-class-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2020–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-gla-class-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-glc-class-engines"
-    },
-    {
-      "model": "Ford EcoBoost",
-      "variant": "Ford EcoBoost",
-      "generation": "Ford EcoBoost",
-      "chassis": "Ford EcoBoost",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-sl-engines"
+      "modelHref": "/jaguar-xf-2-0i-engines"
     }
   ],
   "prompt": {

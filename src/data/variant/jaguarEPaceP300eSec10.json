@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar E-Pace P300e ENGINE",
     "paragraphs": [
@@ -12,14 +12,13 @@
   "codes": {
     "titlePre": "Jaguar E-Pace P300e ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
-        "codeHighlight": "Ingenium AJ150 (1.5L I3) + Electric",
+        "codeHighlight": "Ingenium AJ150 + Electric",
         "codeRest": "",
-        "body": "A 1.5-litre three-cylinder petrol engine fitted to the E-Pace P300e, paired with an electric motor. We service the combustion engine to the same standard as our other Ingenium rebuilds. Check Your E-Pace P300e Engine → [link to quote form]",
-        "cta": "Check Your Ingenium AJ150 (1.5L I3) + Electric E-Pace P300e",
-        "codeHref": "/jaguar-m256-engine"
+        "body": "A 1.5-litre three-cylinder petrol engine fitted to the E-Pace P300e, paired with an electric motor. We service the combustion engine to the same standard as our other Ingenium rebuilds.",
+        "cta": "Check Your E-Pace P300e Engine"
       }
     ]
   },
@@ -28,15 +27,15 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
-      "title": "Ingenium AJ150 (1.5L I3) + Electric",
+      "title": "Ingenium AJ150 + Electric",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact hybrid specification"
       },
       {
@@ -44,7 +43,7 @@
         "text": "Your generation (X540)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +51,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic E-Pace quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic E-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar E-Pace P300e ",

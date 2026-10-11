@@ -114,5 +114,17 @@
   "notice": {
     "highlight": "The Ingenium AJ200",
     "rest": " has been fitted to every XF P250 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XF P250 Model Year:",
+    "items": [
+      "Jaguar XF P250 2016 Engine Rebuild",
+      "Jaguar XF P250 2018 Engine Rebuild",
+      "Jaguar XF P250 2020 Engine Rebuild",
+      "Jaguar XF P250 2022 Engine Rebuild",
+      "Jaguar XF P250 2024 Engine Rebuild",
+      "Jaguar XF P250 2026 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

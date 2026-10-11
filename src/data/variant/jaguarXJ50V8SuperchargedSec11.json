@@ -107,5 +107,15 @@
   "notice": {
     "highlight": "The AJ133S",
     "rest": " has been fitted to every XJ 5.0 V8 Supercharged since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XJ 5.0 V8 Supercharged Model Year:",
+    "items": [
+      "Jaguar XJ 5.0 V8 Supercharged 2012 Engine Rebuild",
+      "Jaguar XJ 5.0 V8 Supercharged 2014 Engine Rebuild",
+      "Jaguar XJ 5.0 V8 Supercharged 2016 Engine Rebuild",
+      "Jaguar XJ 5.0 V8 Supercharged 2018 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

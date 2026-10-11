@@ -1,25 +1,25 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar X-Type 3.0 V6 ENGINE",
     "paragraphs": [
-      "The X-Type 3.0 V6 uses the AJ30 — a 3.0-litre petrol V6, part of the AJ-series engine family developed with Ford and derived from the Duratec V6. It was fitted from 2001 to 2009 across the entire X400 generation, making it the flagship petrol engine in the X-Type range. The AJ30 shares its fundamental architecture with the 2.0 and 2.5 V6 variants, so the known ignition coil degradation pattern applies across all three displacements.\n\nThe X-Type 3.0 V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The X-Type 3.0 V6 uses the AJ30 — a 3.0-litre petrol V6, part of the AJ-series engine family developed with Ford and derived from the Duratec V6. It was fitted from 2001 to 2009 across the entire X400 generation, making it the flagship petrol engine in the X-Type range. The AJ30 shares its fundamental architecture with the 2.0 and 2.5 V6 variants, so the known ignition coil degradation pattern applies across all three displacements."
     ],
-    "boldParagraph": "We continue to rebuild and replace AJ30 engines for every X-Type 3.0 V6 on the road."
+    "boldParagraph": "The X-Type 3.0 V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
   "codes": {
     "titlePre": "Jaguar X-Type 3.0 V6 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ30",
         "codeRest": "",
-        "body": "A 3.0-litre V6 petrol fitted to the X-Type 3.0 V6 from 2001 to 2009 (X400). Known for coil-on-plug ignition coil degradation, often accelerated by leaking valve cover gaskets — see the callout above. We replace ignition coils, valve cover gaskets, timing chain components and bearings as standard on every AJ30 rebuild. Check Your AJ30 X-Type 3.0 V6 → [link to quote form]",
+        "body": "A 3.0-litre V6 petrol fitted to the X-Type 3.0 V6 from 2001 to 2009 (X400). Known for coil-on-plug ignition coil degradation, often accelerated by leaking valve cover gaskets — see the callout above. We replace ignition coils, valve cover gaskets, timing chain components and bearings as standard on every AJ30 rebuild.",
         "cta": "Check Your AJ30 X-Type 3.0 V6",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj30-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The AJ30 shares its architecture with the rest of the X-Type V6 range, but the 3.0-litre displacement means different internal components, mapping and ancillaries compared to the 2.0 or 2.5 V6 variants. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ30",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ30) via registration or VIN"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your generation (X400 — the only generation for X-Type)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic X-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar X-Type 3.0 V6 ",

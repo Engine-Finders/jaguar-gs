@@ -1,25 +1,25 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE D180 ENGINE",
     "paragraphs": [
-      "The XE D180 is part of the diesel range for the X760 generation of the Jaguar XE, produced from 2015 until roughly 2020 when Jaguar phased out diesel options for the XE in UK and North American markets. It uses the Ingenium AJ200D — a 2.0-litre, four-cylinder diesel engine. This engine is distinct from the petrol Ingenium units (AJ200P) also found in the XE range, and the AJ126 supercharged V6 and AJ133 V8 found in other variants. The D180 designation signifies a specific power output tier within the Ingenium diesel family, sitting above the D150 and D165, and below the D200 and D240.\n\nThe XE D180 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XE D180 is part of the diesel range for the X760 generation of the Jaguar XE, produced from 2015 until roughly 2020 when Jaguar phased out diesel options for the XE in UK and North American markets. It uses the Ingenium AJ200D — a 2.0-litre, four-cylinder diesel engine. This engine is distinct from the petrol Ingenium units (AJ200P) also found in the XE range, and the AJ126 supercharged V6 and AJ133 V8 found in other variants. The D180 designation signifies a specific power output tier within the Ingenium diesel family, sitting above the D150 and D165, and below the D200 and D240."
     ],
-    "boldParagraph": "We continue to rebuild and replace engine engines for every XE D180 on the road."
+    "boldParagraph": "The XE D180 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
   "codes": {
     "titlePre": "Jaguar XE D180 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
-        "codeHighlight": "—",
+        "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the XE D180 from 2015 to ~2020 (X760 generation). Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, injectors, EGR, and gaskets as standard on every AJ200D rebuild. Check Your AJ200D XE D180 → [link to quote form]",
-        "cta": "Check Your engine XE D180",
-        "codeHref": "/jaguar-m256-engine"
+        "body": "A 2.0-litre four-cylinder diesel fitted to the XE D180 from 2015 to ~2020 (X760 generation). Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, injectors, EGR, and gaskets as standard on every AJ200D rebuild.",
+        "cta": "Check Your AJ200D XE D180",
+        "codeHref": "/jaguar-aj200d-engine"
       }
     ]
   },
@@ -28,31 +28,15 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The XE D180 uses the Ingenium AJ200D engine. Because the same 2.0-litre Ingenium platform was used for both petrol (AJ200P) and diesel (AJ200D) applications, and because the diesel engine itself had multiple output tiers (D150, D165, D180, D200, D240), it's essential to confirm the exact engine code for your car before any work begins. We verify your engine by registration or VIN, ensuring that the components and rebuild process are exactly matched to your AJ200D.",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
-      "title": "engine",
+      "title": "AJ200D",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
-    "points": [
-      {
-        "icon": "piston",
-        "text": "Your exact engine code (engine) via registration or VIN"
-      },
-      {
-        "icon": "car",
-        "text": "Your generation (generation)"
-      },
-      {
-        "icon": "gears",
-        "text": "Drivetrain and ancillary specification"
-      },
-      {
-        "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
-      }
-    ],
-    "footer": "This is why we always start with your registration rather than a generic Jaguar quote — it protects you from paying for parts that don't fit your actual car."
+    "points": [],
+    "footer": "",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XE D180 ",
@@ -66,6 +50,13 @@
       "Fuel"
     ],
     "rows": [
+      {
+        "generation": "Generation",
+        "chassis": "Chassis",
+        "years": "Years",
+        "engineCode": "Engine Code",
+        "fuel": "Fuel"
+      },
       {
         "generation": "X760",
         "chassis": "X760",

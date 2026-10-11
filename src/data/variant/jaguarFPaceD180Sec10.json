@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace D180 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar F-Pace D180 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
-        "codeHighlight": "—",
+        "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the F-Pace D180 from 2016 to 2025 (X761 generation). Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, injector seals, EGR components, and gaskets as standard on every AJ200D rebuild. Check Your AJ200D F-Pace D180 → [link to quote form]",
-        "cta": "Check Your engine F-Pace D180",
-        "codeHref": "/jaguar-m256-engine"
+        "body": "A 2.0-litre four-cylinder diesel fitted to the F-Pace D180 from 2016 to 2025 (X761 generation). Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, injector seals, EGR components, and gaskets as standard on every AJ200D rebuild.",
+        "cta": "Check Your AJ200D F-Pace D180",
+        "codeHref": "/jaguar-aj200d-engine"
       }
     ]
   },
@@ -28,31 +28,32 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The F-Pace D180 uses a single engine code, the Ingenium AJ200D, throughout its entire production run. This makes the rebuild process straightforward, as there are no generation-based engine changes for this specific variant. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
-      "title": "engine",
+      "title": "AJ200D",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
-        "icon": "piston",
-        "text": "- Your exact engine code (AJ200D) via registration or VIN"
+        "icon": "engine",
+        "text": "Your exact engine code (AJ200D) via registration or VIN"
       },
       {
         "icon": "car",
-        "text": "- Your generation (X761)"
+        "text": "Your generation (X761)"
       },
       {
-        "icon": "gears",
-        "text": "- Drivetrain and ancillary specification"
+        "icon": "gear",
+        "text": "Drivetrain and ancillary specification"
       },
       {
         "icon": "code",
-        "text": "- Any electronics or ECU considerations specific to your exact build"
+        "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Jaguar quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic F-Pace D180 quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace D180 ",
@@ -66,6 +67,13 @@
       "Fuel"
     ],
     "rows": [
+      {
+        "generation": "Generation",
+        "chassis": "Chassis",
+        "years": "Years",
+        "engineCode": "Engine Code",
+        "fuel": "Fuel"
+      },
       {
         "generation": "X761",
         "chassis": "X761",

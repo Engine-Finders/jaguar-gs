@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJD-V6",
-      "generation": "",
+      "generation": "X351 (2009–2019)",
       "price": "£2,600"
     }
   ],
@@ -23,14 +23,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XJ 3.0d Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJD-V6 I6)",
-    "paragraphs": [
-      "The AJD-V6 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJD-V6 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJD-V6 rebuild.",
-      "Because the XJ 3.0d uses a completely different engine family from the V8 M178 fitted to the XJ 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established AJD-V6 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJD-V6",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,600"
+    },
+    {
+      "badge": "X351",
+      "label": "Generation",
+      "big": "2009–2019",
+      "sub": "Jaguar XJ 3.0d"
+    },
+    {
+      "badge": "3.0d",
+      "label": "Variant",
+      "big": "3.0L Diesel",
+      "sub": "AJD-V6"
+    }
+  ]
 }

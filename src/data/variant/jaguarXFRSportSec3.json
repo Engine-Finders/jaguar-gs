@@ -7,15 +7,62 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "Varies (AJ200, AJ200D, and other X260‑era units)",
-      "generation": "X260 (2015 – present)",
+      "code": "Engine Family",
+      "generation": "Typical Fitment",
+      "price": "Rebuild From"
+    },
+    {
+      "code": "Ingenium 2.0L Petrol (AJ200)",
+      "generation": "X260 (2015-on)",
       "price": "£2,000"
+    },
+    {
+      "code": "Ingenium 2.0L Diesel (AJ200D)",
+      "generation": "X260 (2015-on)",
+      "price": "£2,000"
+    },
+    {
+      "code": "AJ126 3.0L Supercharged V6",
+      "generation": "X260 (2015-2019, where fitted)",
+      "price": "£3,200"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Jaguar XF R-Sport Engine Rebuild — From £2,000"
+    },
+    {
+      "icon": "price",
+      "text": "Specialist Jaguar XF R-Sport engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty"
+    },
+    {
+      "icon": "price",
+      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Specialist technicians with 10-15 years of experience"
+    },
+    {
+      "icon": "price",
+      "text": "✔ 12-Month Unlimited-Mileage Warranty"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Nationwide Recovery from £70"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Free Engine Matching by Registration"
+    },
+    {
+      "icon": "price",
+      "text": "✔ XF R-Sport Specialists"
+    },
+    {
+      "icon": "price",
+      "text": "Starting from £2,000 — Get a Fixed-Price Quote →   [Call Our Specialists: 01268 944 234]"
     }
   ],
   "cta": {
@@ -24,13 +71,34 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XF R-Sport Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(Varies (AJ200, AJ200D, and other X260‑era units) I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "XF R-Sport Known Issues – By Engine",
+    "titleHighlight": "",
     "paragraphs": [
-      "The Varies (AJ200, AJ200D, and other X260‑era units) is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older Varies (AJ200, AJ200D, and other X260‑era units) V6. We replace timing chains, bearings, water pump and gaskets as standard on every Varies (AJ200, AJ200D, and other X260‑era units) rebuild.",
-      "Because the XF R-Sport uses a completely different engine family from the V8 M178 fitted to the XF 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XF R-Sport is fitted with the Ingenium 2.0L diesel (AJ200D) – common on many X260-era cars – it shares the timing-chain wear pattern documented across the Ingenium diesel family. We replace timing chains, tensioners, injector seals and gaskets as standard on every diesel rebuild.",
+      "If your car has the Ingenium 2.0L petrol (AJ200) or the AJ126 3.0L V6, no independently confirmed widespread issue pattern is currently documented for these engines in the XF R-Sport application. We still strip, inspect and replace any worn components during every rebuild.",
+      "Not sure which engine you have? Enter your registration and we’ll confirm before we quote."
     ],
-    "source": "Source: Established Varies (AJ200, AJ200D, and other X260‑era units) specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": ""
+  },
+  "tiles": [
+    {
+      "badge": "Engine Family",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "Rebuild From"
+    },
+    {
+      "badge": "Gen",
+      "label": "Generation",
+      "big": "Typical Fitment",
+      "sub": "Jaguar XF R-Sport"
+    },
+    {
+      "badge": "R-Sport",
+      "label": "Variant",
+      "big": "2.0L Petrol / Diesel (depends on engine)",
+      "sub": "Varies (AJ200, AJ200D, and other X260-era units)"
+    }
+  ]
 }

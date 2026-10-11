@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace D300 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar F-Pace D300 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
-        "codeHighlight": "AJ300D (Ingenium)",
-        "codeRest": "(X761 (2016–present))",
-        "body": "A 3.0-litre inline-six diesel MHEV fitted to the F-Pace D300 from 2016 to present across the X761 generation. Known for timing chain wear as part of the broader Ingenium diesel pattern — see the callout above. We replace the timing chain, tensioners, guides, injector seals, bearings and gaskets as standard on every AJ300D rebuild. Check Your AJ300D F-Pace D300 → [link to quote form]",
-        "cta": "Check Your AJ300D (Ingenium) F-Pace D300",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHighlight": "AJ300D",
+        "codeRest": "(Ingenium)",
+        "body": "A 3.0-litre inline-six diesel MHEV fitted to the F-Pace D300 from 2016 to present across the X761 generation. Known for timing chain wear as part of the broader Ingenium diesel pattern — see the callout above. We replace the timing chain, tensioners, guides, injector seals, bearings and gaskets as standard on every AJ300D rebuild.",
+        "cta": "Check Your AJ300D F-Pace D300",
+        "codeHref": "/jaguar-aj300d-engine"
       }
     ]
   },
@@ -28,15 +28,15 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The F-Pace D300 uses a single engine family — the Ingenium AJ300D — across the X761 generation. However, the 3.0-litre inline-six diesel fitted to the D300 is a different unit from the earlier 3.0-litre V6 diesel used in pre-2019 F-Pace models. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
-      "title": "AJ300D (Ingenium)",
+      "title": "AJ300D",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ300D)"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your generation (X761)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace D300 ",

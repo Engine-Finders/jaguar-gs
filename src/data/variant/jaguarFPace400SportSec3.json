@@ -7,8 +7,8 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "",
-      "generation": "",
+      "code": "AJ300P",
+      "generation": "X761 (2022–present)",
       "price": "£3,600"
     }
   ],
@@ -23,14 +23,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Pace 400 Sport Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(engine I6)",
-    "paragraphs": [
-      "The engine is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older engine V6. We replace timing chains, bearings, water pump and gaskets as standard on every engine rebuild.",
-      "Because the F-Pace 400 Sport uses a completely different engine family from the V8 M178 fitted to the Jaguar 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established engine specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJ300P",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£3,600"
+    },
+    {
+      "badge": "X761",
+      "label": "Generation",
+      "big": "2022–present",
+      "sub": "Jaguar F-Pace 400 Sport"
+    },
+    {
+      "badge": "400 Sport",
+      "label": "Variant",
+      "big": "3.0L Petrol MHEV",
+      "sub": "AJ300P"
+    }
+  ]
 }

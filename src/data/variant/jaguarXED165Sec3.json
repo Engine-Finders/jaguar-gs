@@ -24,13 +24,33 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XE D165 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ200D (Ingenium) I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XE D165 Timing Chain & Injector Seal Wear ",
+    "titleHighlight": "(Ingenium AJ200D)",
     "paragraphs": [
-      "The AJ200D (Ingenium) is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ200D (Ingenium) V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ200D (Ingenium) rebuild.",
-      "Because the XE D165 uses a completely different engine family from the V8 M178 fitted to the XE 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XE D165 has the Ingenium AJ200D diesel engine — that's the 2.0-litre four-cylinder unit fitted to the X760 generation — timing chain and injector seal wear is a well-documented pattern on this engine, widely corroborated across JLR specialist forums and independent garages. We replace the timing chain, injectors, EGR and gaskets as standard on every AJ200D rebuild.",
+      "The petrol XE variants use different engines (the AJ200 petrol Ingenium), which don't share this specific diesel timing chain issue — they're a separate fuel system with their own characteristics."
     ],
-    "source": "Source: Established AJ200D (Ingenium) specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: widely corroborated across JLR specialist forums and independent garages, per VRF-jaguar-xe.md. Petrol Ingenium variants explicitly excluded from this claim per VRF, correctly scoped to diesel application."
+  },
+  "tiles": [
+    {
+      "badge": "AJ200D (Ingenium)",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,000"
+    },
+    {
+      "badge": "X760",
+      "label": "Generation",
+      "big": "2015–~2020",
+      "sub": "Jaguar XE D165"
+    },
+    {
+      "badge": "D165",
+      "label": "Variant",
+      "big": "2.0L Diesel",
+      "sub": "AJ200D (Ingenium)"
+    }
+  ]
 }

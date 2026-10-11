@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ34",
-      "generation": "",
+      "generation": "X250 (2007–~2011)",
       "price": "£4,500"
     }
   ],
@@ -23,14 +23,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XF 4.2 V8 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ34 I6)",
-    "paragraphs": [
-      "The AJ34 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ34 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ34 rebuild.",
-      "Because the XF 4.2 V8 uses a completely different engine family from the V8 M178 fitted to the XF 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established AJ34 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJ34",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£4,500"
+    },
+    {
+      "badge": "X250",
+      "label": "Generation",
+      "big": "2007–~2011",
+      "sub": "Jaguar XF 4.2 V8"
+    },
+    {
+      "badge": "4.2 V8",
+      "label": "Variant",
+      "big": "4.2L Petrol",
+      "sub": "AJ34"
+    }
+  ]
 }

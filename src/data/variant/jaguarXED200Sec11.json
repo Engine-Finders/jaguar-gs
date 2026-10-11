@@ -72,5 +72,17 @@
   "notice": {
     "highlight": "The AJ200D",
     "rest": " has been fitted to every XE D200 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XE D200 Model Year:",
+    "items": [
+      "Jaguar XE D200 2015 Engine Rebuild",
+      "Jaguar XE D200 2016 Engine Rebuild",
+      "Jaguar XE D200 2017 Engine Rebuild",
+      "Jaguar XE D200 2018 Engine Rebuild",
+      "Jaguar XE D200 2019 Engine Rebuild",
+      "Jaguar XE D200 2020 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

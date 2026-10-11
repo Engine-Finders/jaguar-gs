@@ -40,7 +40,7 @@ export const metadata = {
 
 export default function JaguarFTypeSVREnginesPage() {
   return (
-    <>
+    <div className="mono-accent">
       <JsonLd data={graphDoc([
         serviceSchema({ name: NAME, description: variantSec1.subhead, path: PATH, price: (variantSec1.priceCta?.kicker || variantSec1.h1) }),
         faqSchema(FAQ, PATH),
@@ -59,6 +59,6 @@ export default function JaguarFTypeSVREnginesPage() {
       <VariantSec11 data={variantSec11} />
       <VariantSec12 data={variantSec12} />
       <VariantSec13 data={variantSec13} />
-    </>
+    </div>
   );
 }

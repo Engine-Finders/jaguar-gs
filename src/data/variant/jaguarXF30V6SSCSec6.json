@@ -20,7 +20,7 @@
     {
       "icon": "clipboard",
       "title": "Inspection",
-      "body": "Crankshaft, cylinder head, timing chain, bearings, water pump and gaskets are all checked."
+      "body": "The supercharger, timing chain, bearings, and cylinder head are all checked."
     },
     {
       "icon": "piston",
@@ -45,7 +45,7 @@
     {
       "icon": "car",
       "title": "Refit",
-      "body": "Your engine goes back into your XF 3.0 V6 S/SC."
+      "body": "Your engine goes back into your XF."
     },
     {
       "icon": "flag",

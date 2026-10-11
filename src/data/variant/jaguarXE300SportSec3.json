@@ -7,8 +7,8 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "AJ126 (3.0L V6 supercharged)",
-      "generation": "",
+      "code": "AJ126",
+      "generation": "X760 (2015–2019/2020)",
       "price": "£3,200"
     }
   ],
@@ -23,14 +23,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XE 300 Sport Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ126 (3.0L V6 supercharged) I6)",
-    "paragraphs": [
-      "The AJ126 (3.0L V6 supercharged) is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ126 (3.0L V6 supercharged) V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ126 (3.0L V6 supercharged) rebuild.",
-      "Because the XE 300 Sport uses a completely different engine family from the V8 M178 fitted to the XE 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established AJ126 (3.0L V6 supercharged) specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJ126",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£3,200"
+    },
+    {
+      "badge": "X760",
+      "label": "Generation",
+      "big": "2015–2019/2020",
+      "sub": "Jaguar XE 300 Sport"
+    },
+    {
+      "badge": "300 Sport",
+      "label": "Variant",
+      "big": "3.0L Petrol Supercharged",
+      "sub": "AJ126 (3.0L V6 supercharged)"
+    }
+  ]
 }
