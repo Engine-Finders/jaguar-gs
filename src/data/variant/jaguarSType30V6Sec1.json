@@ -1,7 +1,7 @@
 {
   "kicker": "Jaguar S-Type 3.0 V6 Specialists",
   "h1": "Jaguar S-Type 3.0 V6|Engine Rebuild —|From £2,600",
-  "subhead": "Specialist Jaguar S-Type 3.0 V6 engine rebuilds and replacements, with registration‑based engine matching, nationwide recovery and a 12‑month unlimited‑mileage warranty",
+  "subhead": "Specialist Jaguar S-Type 3.0 V6 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
     "label": "Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
@@ -9,11 +9,11 @@
   "trustBar": [
     {
       "icon": "tech",
-      "label": "Specialist technicians with 10‑15 years of experience"
+      "label": "Specialist technicians with 10-15 years of experience"
     },
     {
       "icon": "shield-check",
-      "label": "12‑Month Unlimited‑Mileage Warranty"
+      "label": "12-Month Unlimited-Mileage Warranty"
     },
     {
       "icon": "truck",
@@ -25,7 +25,7 @@
     },
     {
       "icon": "engine",
-      "label": "AJ‑V6 Specialists"
+      "label": "AJ-V6 Specialists"
     }
   ],
   "priceCta": {

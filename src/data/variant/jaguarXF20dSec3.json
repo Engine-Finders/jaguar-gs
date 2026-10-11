@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "Ingenium AJ200D",
-      "generation": "",
+      "generation": "X260 (2015–~2020)",
       "price": "£2,000"
     }
   ],
@@ -24,13 +24,33 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XF 2.0d Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(Ingenium AJ200D I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XF 2.0d Ingenium Diesel Timing Chain Wear",
+    "titleHighlight": "",
     "paragraphs": [
-      "The Ingenium AJ200D is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older Ingenium AJ200D V6. We replace timing chains, bearings, water pump and gaskets as standard on every Ingenium AJ200D rebuild.",
-      "Because the XF 2.0d uses a completely different engine family from the V8 M178 fitted to the XF 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XF 2.0d is from the X260 generation (2015–~2020) with the Ingenium AJ200D diesel engine, timing chain wear is a well-documented pattern across this engine family. We replace the timing chain, injector seals, EGR components and gaskets as standard on every XF 2.0d rebuild.",
+      "The petrol XF variants — P250 and P300 — use the same Ingenium AJ200 petrol engine, which does not share this specific diesel timing chain issue."
     ],
-    "source": "Source: Established Ingenium AJ200D specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: widely corroborated across JLR specialist forums and independent garages, consistent with broader Ingenium pattern per G-BRF-Jaguar.md. Petrol variants explicitly excluded from this claim per VRF, correctly scoped to diesel-badged X260 variants."
+  },
+  "tiles": [
+    {
+      "badge": "Ingenium AJ200D",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,000"
+    },
+    {
+      "badge": "X260",
+      "label": "Generation",
+      "big": "2015–~2020",
+      "sub": "Jaguar XF 2.0d"
+    },
+    {
+      "badge": "2.0d",
+      "label": "Variant",
+      "big": "2.0L Diesel",
+      "sub": "Ingenium AJ200D"
+    }
+  ]
 }

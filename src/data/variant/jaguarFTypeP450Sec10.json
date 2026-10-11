@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type P450 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar F-Type P450 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ133",
         "codeRest": "",
-        "body": "A 5.0-litre supercharged V8 fitted to the F-Type P450 across the entire X152 generation (2013–2024). The AJ133 is a member of Jaguar's Gen III AJ-V8 family, using a cross-plane crankshaft and Eaton TVS supercharger. Timing chain tensioner and guide wear is a documented pattern on this engine family — particularly on earlier 2012–2014 examples, which were explicitly named in a US class-action lawsuit scope covering the same engine across multiple JLR models. We replace timing chains, tensioners and guides as standard on every AJ133 rebuild. Check Your AJ133 F-Type P450 → [link to quote form]",
+        "body": "A 5.0-litre supercharged V8 fitted to the F-Type P450 across the entire X152 generation (2013–2024). The AJ133 is a member of Jaguar's Gen III AJ-V8 family, using a cross-plane crankshaft and Eaton TVS supercharger. Timing chain tensioner and guide wear is a documented pattern on this engine family — particularly on earlier 2012–2014 examples, which were explicitly named in a US class-action lawsuit scope covering the same engine across multiple JLR models. We replace timing chains, tensioners and guides as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 F-Type P450",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj133-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The F-Type P450 uses the AJ133 V8 across its entire production run — no engine code changes occurred during this variant's life. That means compatibility for replacement or rebuild work is consistent, but sourcing a used unit still requires VIN matching to ensure the correct ECU calibration and ancillaries. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ133",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ133)"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your generation (X152)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type P450 ",

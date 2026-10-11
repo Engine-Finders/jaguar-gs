@@ -20,7 +20,7 @@
     {
       "icon": "clipboard",
       "title": "Inspection",
-      "body": "Crankshaft, cylinder head, timing chain, bearings, water pump and gaskets are all checked."
+      "body": "Crankshaft, cylinder head, timing chain, injectors, EGR components and gaskets are all checked."
     },
     {
       "icon": "piston",
@@ -50,7 +50,7 @@
     {
       "icon": "flag",
       "title": "Road Test",
-      "body": "A full road test confirms everything's right before we hand your car back."
+      "body": "A full road test confirms everything's right before we hand your vehicle back."
     }
   ]
 }

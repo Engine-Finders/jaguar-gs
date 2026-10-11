@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ200D",
-      "generation": "",
+      "generation": "X761 (2016–present)",
       "price": "£2,200"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Pace D200 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ200D I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar F-Pace D200 Timing Chain & Injector Wear ",
+    "titleHighlight": "(Ingenium AJ200D)",
     "paragraphs": [
-      "The AJ200D is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ200D V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ200D rebuild.",
-      "Because the F-Pace D200 uses a completely different engine family from the V8 M178 fitted to the F-Pace 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "F-Pace D200 models with the Ingenium AJ200D 2.0-litre diesel engine commonly show timing chain stretch and injector seal wear over time. This is a well-documented pattern across the Ingenium diesel family, shared with F-Pace's platform siblings including the XE, XF and Velar. We replace the timing chain components, injector seals, EGR and gaskets as standard on every AJ200D rebuild."
     ],
-    "source": "Source: Established AJ200D specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: established Ingenium diesel pattern, per VRF-jaguar-f-pace.md and G-BRF-Jaguar.md."
+  },
+  "tiles": [
+    {
+      "badge": "AJ200D",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,200"
+    },
+    {
+      "badge": "X761",
+      "label": "Generation",
+      "big": "2016–present",
+      "sub": "Jaguar F-Pace D200"
+    },
+    {
+      "badge": "F-Pace D200",
+      "label": "Variant",
+      "big": "2.0L Diesel",
+      "sub": "AJ200D"
+    }
+  ]
 }

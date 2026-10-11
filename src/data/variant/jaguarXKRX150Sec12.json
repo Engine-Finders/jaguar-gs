@@ -19,12 +19,12 @@
     "vehicleLabel": "Jaguar XKR (X150)"
   },
   "costs": {
-    "titlePre": "Jaguar XKR (X150) ENGINE ",
+    "titlePre": "Jaguar XKR Engine ",
     "titleHighlight": "COSTS",
-    "intro": "A Jaguar XKR (X150) engine rebuild starts from",
+    "intro": "A Jaguar XKR engine rebuild starts from",
     "price": "£5,500",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -33,13 +33,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES XKR (X150) ENGINE SIZES",
-        "item": "Jaguar XKR (X150) 3.0 Litre Engine (AJ133, I6)"
+        "title": "JAGUAR XKR (X150) ENGINE SIZES",
+        "item": "Jaguar XKR 5.0 Litre Engine (AJ133, Supercharged V8)",
+        "items": [
+          "Jaguar XKR 5.0 Litre Engine (AJ133, Supercharged V8)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES XKR (X150) FUEL TYPES",
-        "item": "Jaguar XKR (X150) Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR XKR (X150) FUEL TYPES",
+        "item": "Jaguar XKR Petrol Supercharged Engine Rebuilds",
+        "items": [
+          "Jaguar XKR Petrol Supercharged Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -54,9 +60,31 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR XK VARIANTS",
+    "intro": "Looking for a different XK engine? We also cover:",
+    "links": [
+      {
+        "label": "XK 4.2 V8 Engine",
+        "href": "/jaguar-xk-4-2-v8-engines"
+      },
+      {
+        "label": "XK 5.0 V8 Engine",
+        "href": "/jaguar-xk-5-0-v8-engines"
+      },
+      {
+        "label": "XK XKR (X100) Engine",
+        "href": "/jaguar-xk-xkr-x100-engines"
+      },
+      {
+        "label": "XK8 Engine",
+        "href": "/jaguar-xk8-engines"
+      },
+      {
+        "label": "XKR-S Engine",
+        "href": "/jaguar-xkr-s-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar XK Engines",
+    "viewAllHref": "/jaguar-xk-engines"
   }
 }

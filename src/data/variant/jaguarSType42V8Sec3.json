@@ -7,8 +7,8 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "",
-      "generation": "",
+      "code": "AJ-V8",
+      "generation": "X200 (1999–2008)",
       "price": "£4,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar S-Type 4.2 V8 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(engine I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar S-Type 4.2 V8 Timing Chain Stretch",
+    "titleHighlight": "",
     "paragraphs": [
-      "The engine is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older engine V6. We replace timing chains, bearings, water pump and gaskets as standard on every engine rebuild.",
-      "Because the S-Type 4.2 V8 uses a completely different engine family from the V8 M178 fitted to the Jaguar 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "The S-Type 4.2 V8 uses the AJ-V8 engine. Across its production run, this engine is known for timing chain stretch, typically between 80,000–150,000km, signalled by a cold-start rattle. The chain tensioners and guide rails wear alongside the chain. We replace the timing chain, tensioners, guide rails, and gaskets as standard on every AJ-V8 rebuild."
     ],
-    "source": "Source: Established engine specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via multiple independent sources (AutoDoc, LR Engine Specialists), per VRF-jaguar-s-type.md. This claim applies to the AJ-V8 4.2L engine."
+  },
+  "tiles": [
+    {
+      "badge": "AJ-V8",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£4,500"
+    },
+    {
+      "badge": "X200",
+      "label": "Generation",
+      "big": "1999–2008",
+      "sub": "Jaguar S-Type 4.2 V8"
+    },
+    {
+      "badge": "S-Type 4.2 V8",
+      "label": "Variant",
+      "big": "4.2L Petrol",
+      "sub": "AJ-V8 (Naturally Aspirated)"
+    }
+  ]
 }

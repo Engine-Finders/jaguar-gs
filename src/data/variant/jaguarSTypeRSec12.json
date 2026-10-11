@@ -19,12 +19,12 @@
     "vehicleLabel": "Jaguar S-Type R"
   },
   "costs": {
-    "titlePre": "Jaguar S-Type R ENGINE ",
+    "titlePre": "Jaguar S-Type R Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar S-Type R engine rebuild starts from",
     "price": "£5,500",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -33,13 +33,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES S-Type R ENGINE SIZES",
-        "item": "Jaguar S-Type R 3.0 Litre Engine (AJ-V8 (supercharged), I6)"
+        "title": "JAGUAR S-Type R ENGINE SIZES",
+        "item": "Jaguar S-Type R 4.2 Litre Engine (AJ-V8 Supercharged)",
+        "items": [
+          "Jaguar S-Type R 4.2 Litre Engine (AJ-V8 Supercharged)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES S-Type R FUEL TYPES",
-        "item": "Jaguar S-Type R Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR S-Type R FUEL TYPES",
+        "item": "Jaguar S-Type R Petrol Supercharged Engine Rebuilds",
+        "items": [
+          "Jaguar S-Type R Petrol Supercharged Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -54,9 +60,27 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR S-TYPE VARIANTS",
+    "intro": "Looking for a different S-Type engine? We also cover:",
+    "links": [
+      {
+        "label": "S-Type 2.5 V6 Engine",
+        "href": "/jaguar-s-type-2-5-v6-engines"
+      },
+      {
+        "label": "S-Type 2.7d Engine",
+        "href": "/jaguar-s-type-2-7d-engines"
+      },
+      {
+        "label": "S-Type 3.0 V6 Engine",
+        "href": "/jaguar-s-type-3-0-v6-engines"
+      },
+      {
+        "label": "S-Type 4.2 V8 Engine",
+        "href": "/jaguar-s-type-4-2-v8-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar S-Type Engines",
+    "viewAllHref": "/jaguar-s-type-engines"
   }
 }

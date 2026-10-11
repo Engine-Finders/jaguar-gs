@@ -12,7 +12,7 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "X-Type"
     },
     {
       "icon": "sliders",
@@ -27,28 +27,27 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ20, AJ25, AJ30"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "2.0L V6"
     },
     {
       "icon": "calendar",
-      "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "label": "Generations",
+      "value": "X400 (2001–2009)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£2,600"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The X-Type 2.0 V6 uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The X-Type used a family of V6 engines. Enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

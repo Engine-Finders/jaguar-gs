@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ133",
-      "generation": "",
+      "generation": "X152 (2013–2024)",
       "price": "£6,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Type SVR Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar F-Type SVR Timing Chain Tensioner ",
+    "titleHighlight": "(AJ133)",
     "paragraphs": [
-      "The AJ133 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 rebuild.",
-      "Because the F-Type SVR uses a completely different engine family from the V8 M178 fitted to the F-Type 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "The AJ133 5.0-litre supercharged V8 in the F-Type SVR is covered by the same timing chain tensioner design pattern as the wider Jaguar V8 family — an issue that has been documented extensively across JLR models. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild, ensuring your engine gets the updated specification components needed for long-term reliability."
     ],
-    "source": "Source: Established AJ133 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via rrsport.co.uk lawsuit reference, per G-BRF-Jaguar.md. The class-action lawsuit covers 2012–2014 models specifically; the SVR was introduced later, but the AJ133 engine family design principle applies. For exact year coverage, confirm via registration."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£6,500"
+    },
+    {
+      "badge": "X152",
+      "label": "Generation",
+      "big": "2013–2024",
+      "sub": "Jaguar F-Type SVR"
+    },
+    {
+      "badge": "SVR",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133"
+    }
+  ]
 }

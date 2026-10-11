@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XKR (X150) Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XKR Timing Chain Tensioner Wear ",
+    "titleHighlight": "(X150, AJ133)",
     "paragraphs": [
-      "The AJ133 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 rebuild.",
-      "Because the XKR (X150) uses a completely different engine family from the V8 M178 fitted to the XK 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XKR is an X150-generation model with the AJ133 supercharged 5.0-litre V8 — that's the 2005–2014 generation — the timing chain tensioner and guide design flaw is a well-documented pattern on this engine. The hardened steel tensioner piston wears an aluminium guide button over time and can fail with no warning. This exact engine was part of a US class-action lawsuit covering multiple JLR models. We replace the timing chain, tensioners, and guide rails as standard on every AJ133 rebuild."
     ],
-    "source": "Source: Established AJ133 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via multiple independent sources (au7o.io, rrsport.co.uk lawsuit list), per VRF-jaguar-xk.md."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£5,500"
+    },
+    {
+      "badge": "X150",
+      "label": "Generation",
+      "big": "2005–2014",
+      "sub": "Jaguar XKR (X150)"
+    },
+    {
+      "badge": "XKR (X150)",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133"
+    }
+  ]
 }

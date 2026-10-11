@@ -51,14 +51,22 @@ export default function VariantSec11({ data }) {
             </div>
           </div>
 
-          <div className="glass-card-dark mt-4 flex items-start gap-3 rounded-xl px-4 py-3.5">
-            <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-xs font-bold text-hero-blue">
-              i
-            </span>
-            <p className="text-xs leading-snug text-white">
-              <span className="font-bold text-hero-blue">{data.notice.highlight}</span>
-              {data.notice.rest}
-            </p>
+          <div className="glass-card-dark mt-4 rounded-xl px-4 py-3.5">
+            <div className="flex items-start gap-3">
+              <span className="flex h-6 w-6 text-xs shrink-0 items-center justify-center rounded-full border-2 border-white/70 font-bold text-white">i</span>
+              <div className="min-w-0">
+                <p className="text-sm font-extrabold text-white">{data.coverNote.title}</p>
+                <ul className="mt-1.5 flex flex-wrap gap-x-5 gap-y-1">
+                  {data.coverNote.items.map((it) => (
+                    <li key={it} className="flex items-center gap-1.5 text-xs text-white">
+                      <Icon name="check" className="h-3.5 w-3.5 shrink-0" />
+                      {it}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+            <p className="mt-2.5 text-xs leading-snug text-white">{data.coverNote.footer}</p>
           </div>
         </div>
       </div>
@@ -66,21 +74,24 @@ export default function VariantSec11({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden overflow-hidden md:block">
         <div className="absolute inset-0">
-          <Image src={data.image} alt="Jaguar AMG GT 53 engine and sedan" fill className="object-cover" sizes="100vw" />
+          <Image src={data.image} alt="Jaguar E-Pace and Ingenium engine" fill className="object-cover object-right" sizes="100vw" />
         </div>
 
-        <div className="relative mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-          <div className="max-w-2xl">
-            <h2 className="h2 uppercase">
-              <span className="text-white">{data.titlePre}</span>
-              <span className="text-hero-blue">{data.titleHighlight}</span>
-            </h2>
-            <p className="mt-3 text-sm leading-relaxed text-white">{data.description}</p>
+        <div className="relative mx-auto w-[min(72rem,calc(100%-2rem))] sm:w-[min(72rem,calc(100%-3rem))] lg:w-[min(72rem,calc(100%-4rem))] py-8">
+          <div className="max-w-4xl">
+            <div className="flex items-center gap-3">
+              <JaguarStripe className="h-10 w-16 shrink-0" />
+              <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase" style={{ whiteSpace: "nowrap" }}>
+                <span className="text-white">{data.titlePre}</span>
+                <span className="text-hero-blue">{data.titleHighlight}</span>
+              </h2>
+            </div>
+            <p className="mt-3 max-w-2xl text-sm leading-relaxed text-white">{data.description}</p>
           </div>
 
           <div
             className="glass-card-dark mt-6 max-w-3xl overflow-hidden rounded-2xl"
-            style={{ background: "rgba(10,10,12,0.96)", boxShadow: "0 25px 60px -30px rgba(173,135,92,0.5)" }}
+            style={{ background: "rgba(10,10,12,0.96)", boxShadow: "0 25px 60px -30px rgba(150,154,160,0.5)" }}
           >
             <div className="grid grid-cols-[minmax(0,0.8fr)_minmax(0,1.4fr)_minmax(0,1fr)_minmax(0,0.9fr)_minmax(0,1.6fr)] border-b border-white/10">
               {data.columns.map((c) => (
@@ -123,14 +134,22 @@ export default function VariantSec11({ data }) {
             </div>
           </div>
 
-          <div className="glass-card-dark mt-5 flex max-w-3xl items-start gap-3 rounded-xl px-6 py-4">
-            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-sm font-bold text-hero-blue">
-              i
-            </span>
-            <p className="text-sm leading-relaxed text-white">
-              <span className="font-bold text-hero-blue">{data.notice.highlight}</span>
-              {data.notice.rest}
-            </p>
+          <div className="glass-card-dark mt-5 max-w-3xl rounded-xl px-6 py-4">
+            <div className="flex items-start gap-3">
+              <span className="flex h-7 w-7 text-sm shrink-0 items-center justify-center rounded-full border-2 border-white/70 font-bold text-white">i</span>
+              <div className="min-w-0">
+                <p className="text-lg font-extrabold text-white">{data.coverNote.title}</p>
+                <ul className="mt-1.5 flex flex-wrap gap-x-5 gap-y-1">
+                  {data.coverNote.items.map((it) => (
+                    <li key={it} className="flex items-center gap-1.5 text-sm text-white">
+                      <Icon name="check" className="h-3.5 w-3.5 shrink-0" />
+                      {it}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+            <p className="mt-2.5 text-sm leading-snug text-white">{data.coverNote.footer}</p>
           </div>
         </div>
       </div>

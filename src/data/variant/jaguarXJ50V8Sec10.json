@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XJ 5.0 V8 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar XJ 5.0 V8 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ133",
-        "codeRest": "(X351 (2009–2019))",
-        "body": "A 5.0-litre naturally aspirated V8 petrol engine fitted to the XJ from 2009 to 2019 (X351 generation). Known for timing chain tensioner and guide wear, and water pump bearing/seal failure — see the callout above. We replace timing chain components and inspect the water pump as standard on every AJ133 rebuild. Check Your AJ133 XJ 5.0 V8 → [link to quote form]",
+        "codeRest": "(X351)",
+        "body": "A 5.0-litre naturally aspirated V8 petrol engine fitted to the XJ from 2009 to 2019 (X351 generation). Known for timing chain tensioner and guide wear, and water pump bearing/seal failure — see the callout above. We replace timing chain components and inspect the water pump as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 XJ 5.0 V8",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj133-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The XJ 5.0 V8 uses the AJ133 engine exclusively across its entire X351 production run. However, fitting the wrong replacement — or assuming an AJ133 part from a different model will work on an XJ — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ133",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ133) via registration or VIN"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your generation (X351)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XJ quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic XJ 5.0 V8 quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XJ 5.0 V8 ",

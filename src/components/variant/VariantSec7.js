@@ -21,7 +21,7 @@ function Stars() {
   return (
     <div className="flex gap-0.5">
       {Array.from({ length: 5 }).map((_, i) => (
-        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-[#f5c518] text-[#f5c518]" />
+        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-white text-white" />
       ))}
     </div>
   );
@@ -66,8 +66,7 @@ export default function VariantSec7({ data }) {
             {reviews.items.map((r) => (
               <div
                 key={r.name}
-                className="glow-card--sm relative flex min-h-56 w-[82%] shrink-0 snap-center flex-col overflow-hidden rounded-2xl p-5"
-                style={{ border: "1px solid rgba(173,135,92,0.6)" }}
+                className="glass-card-dark relative flex min-h-56 w-[82%] shrink-0 snap-center flex-col overflow-hidden rounded-2xl p-5"
               >
                 <div className="relative flex items-center justify-between">
                   <Stars />
@@ -75,7 +74,7 @@ export default function VariantSec7({ data }) {
                 </div>
                 <p className="mt-3 text-base font-bold text-white">{r.name}</p>
                 <p className="mt-2 text-sm leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-                <p className="label-text mt-auto pt-3 font-bold uppercase tracking-wide text-hero-blue">{r.tag}</p>
+                <p className="label-text mt-auto pt-3 font-semibold text-white">{r.platform === "google" ? "See on Google" : "See on Trustpilot"} <span aria-hidden>→</span></p>
               </div>
             ))}
           </div>
@@ -90,11 +89,11 @@ export default function VariantSec7({ data }) {
           </div>
 
           <div className="mt-6 space-y-3">
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-hero-blue/50 bg-[#0d0c0a] px-6 py-3.5 uppercase tracking-wide text-hero-blue transition hover:-translate-y-0.5">
+            <button className="btn-text relative flex w-full items-center justify-center gap-2 rounded-lg border glass-card-dark px-6 py-3.5 uppercase tracking-wide text-white transition hover:-translate-y-0.5">
               <GoogleG className="h-5 w-5" />
               {reviews.googleCta} <span aria-hidden>→</span>
             </button>
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-hero-blue/50 bg-[#0d0c0a] px-6 py-3.5 uppercase tracking-wide text-hero-blue transition hover:-translate-y-0.5">
+            <button className="btn-text relative flex w-full items-center justify-center gap-2 rounded-lg border glass-card-dark px-6 py-3.5 uppercase tracking-wide text-white transition hover:-translate-y-0.5">
               <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
               {reviews.trustpilotCta} <span aria-hidden>→</span>
             </button>
@@ -109,8 +108,8 @@ export default function VariantSec7({ data }) {
             style={{ transform: "skewX(-18deg)", transformOrigin: "top right" }}
             aria-hidden="true"
           >
-            <span className="h-full w-5" style={{ background: "linear-gradient(180deg, transparent, #d9d9d9)" }} />
-            <span className="h-full w-5" style={{ background: "linear-gradient(180deg, transparent, var(--color-hero-gold))" }} />
+            <span className="chrome-bar-a h-full w-5 opacity-50" />
+            <span className="chrome-bar-b h-full w-5 opacity-50" />
           </div>
 
           <div className="relative mx-auto max-w-6xl">
@@ -122,18 +121,18 @@ export default function VariantSec7({ data }) {
               </h2>
             </div>
 
-            <div className="relative mt-6 px-11">
+            <div className="relative mt-6">
             <button
               type="button"
               aria-label="Previous reviews"
-              className="absolute left-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-white/15 bg-[#0d0c0a] text-white shadow-lg transition hover:bg-hero-blue"
+              className="absolute -left-4 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-white/15 bg-[#0d0d0d] text-white shadow-lg transition hover:bg-hero-blue"
             >
               <Icon name="chevron-left" className="h-4 w-4" />
             </button>
             <button
               type="button"
               aria-label="Next reviews"
-              className="absolute right-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-white/15 bg-[#0d0c0a] text-white shadow-lg transition hover:bg-hero-blue"
+              className="absolute -right-4 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-white/15 bg-[#0d0d0d] text-white shadow-lg transition hover:bg-hero-blue"
             >
               <Icon name="chevron-right" className="h-4 w-4" />
             </button>
@@ -141,8 +140,7 @@ export default function VariantSec7({ data }) {
               {reviews.items.map((r) => (
                 <div
                   key={r.name}
-                  className="glow-card--sm relative flex min-h-64 flex-col overflow-hidden rounded-xl p-4"
-                  style={{ border: "1px solid rgba(173,135,92,0.6)" }}
+                  className="glass-card-dark relative flex min-h-64 flex-col overflow-hidden rounded-xl p-4"
                 >
                   <div className="relative flex items-center justify-between">
                     <Stars />
@@ -150,18 +148,18 @@ export default function VariantSec7({ data }) {
                   </div>
                   <p className="mt-3 text-sm font-bold text-white">{r.name}</p>
                   <p className="mt-2 text-xs leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-                  <p className="label-text mt-auto pt-3 font-bold uppercase tracking-wide text-hero-blue">{r.tag}</p>
+                  <p className="label-text mt-auto pt-3 font-semibold text-white">{r.platform === "google" ? "See on Google" : "See on Trustpilot"} <span aria-hidden>→</span></p>
                 </div>
               ))}
             </div>
             </div>
 
             <div className="mt-5 flex justify-center gap-4">
-              <button className="card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-hero-blue/50 bg-[#0d0c0a] px-6 py-3 text-sm font-bold text-hero-blue transition hover:-translate-y-0.5">
+              <button className="glass-card-dark relative flex items-center justify-center gap-2 rounded-lg px-6 py-3 text-sm font-bold text-white uppercase transition hover:-translate-y-0.5">
                 <GoogleG className="h-5 w-5" />
                 {reviews.googleCta} <span aria-hidden>→</span>
               </button>
-              <button className="card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-[#00b67a]/50 bg-[#0d0c0a] px-6 py-3 text-sm font-bold text-hero-blue transition hover:-translate-y-0.5">
+              <button className="glass-card-dark relative flex items-center justify-center gap-2 rounded-lg px-6 py-3 text-sm font-bold text-white uppercase transition hover:-translate-y-0.5">
                 <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
                 {reviews.trustpilotCta} <span aria-hidden>→</span>
               </button>
@@ -173,7 +171,7 @@ export default function VariantSec7({ data }) {
       {/* ============ coverage banner ============ */}
       <section
         className="theme-light relative z-10 border-y border-black/10"
-        style={{ boxShadow: "0 25px 45px -15px rgba(16,24,40,0.55), 0 -25px 45px -15px rgba(16,24,40,0.55)" }}
+        style={{ boxShadow: "0 25px 45px -15px rgba(0,0,0,0.55), 0 -25px 45px -15px rgba(0,0,0,0.55)" }}
       >
         {/* ===== mobile ===== */}
         <div className="relative px-4 pb-8 pt-6 md:hidden">
@@ -182,12 +180,12 @@ export default function VariantSec7({ data }) {
               <Icon name={coverage.icon} className="h-6 w-6 text-hero-blue" />
             </span>
             <h2 className="h2 uppercase">
-              <span className="block text-[#101828]">{coverage.titlePre}</span>
+              <span className="block text-[#111111]">{coverage.titlePre}</span>
               <span className="block text-hero-blue">{coverage.titleHighlight}</span>
             </h2>
           </div>
 
-          <p className="mt-3 text-xs text-[#101828]">{coverage.body}</p>
+          <p className="mt-3 text-xs text-[#111111]">{coverage.body}</p>
 
           <div className="mt-4">
             <RegLookupForm buttonLabel={coverage.buttonLabel} stacked hideButton />
@@ -201,7 +199,7 @@ export default function VariantSec7({ data }) {
 
           <div className="mt-3 flex items-center justify-center gap-3">
             {coverage.ticks.map((t) => (
-              <span key={t} className="flex items-center gap-1.5 whitespace-nowrap text-xs font-medium text-[#101828]">
+              <span key={t} className="flex items-center gap-1.5 whitespace-nowrap text-xs font-medium text-[#111111]">
                 <Icon name="check" className="h-4 w-4 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
                 {t}
               </span>
@@ -213,28 +211,28 @@ export default function VariantSec7({ data }) {
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
             <Image src={coverage.image} alt="Jaguar front grille" fill className="object-cover object-right" sizes="100vw" />
-            <div className="absolute inset-0 bg-linear-to-r from-white via-white/95 to-transparent" />
+            <div className="absolute inset-0 bg-linear-to-r from-white via-white/70 to-transparent" />
           </div>
 
-          <div className="relative mx-auto flex max-w-6xl items-center gap-8 px-4 py-10 sm:px-6 lg:px-8">
+          <div className="relative mx-auto flex items-center gap-8 w-[min(72rem,calc(100%-2rem))] sm:w-[min(72rem,calc(100%-3rem))] lg:w-[min(72rem,calc(100%-4rem))] py-10">
             <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-black/10 bg-white shadow-sm">
               <Icon name={coverage.icon} className="h-8 w-8 text-hero-blue" />
             </span>
 
             <div className="shrink-0 border-r border-black/10 pr-8">
               <h2 className="h2 uppercase">
-                <span className="block text-[#101828]">{coverage.titlePre}</span>
+                <span className="block text-[#111111]">{coverage.titlePre}</span>
                 <span className="block text-hero-blue">{coverage.titleHighlight}</span>
               </h2>
-              <p className="mt-2 max-w-xs text-sm text-[#101828]">{coverage.body}</p>
+              <p className="mt-2 max-w-xs text-sm text-[#111111]">{coverage.body}</p>
             </div>
 
             <div className="max-w-md flex-1">
               <RegLookupForm buttonLabel={coverage.buttonLabel} row />
               <div className="mt-3 flex items-center gap-4">
                 {coverage.ticks.map((t, i) => (
-                  <span key={t} className="flex items-center gap-3 text-sm font-medium text-[#101828]">
-                    {i > 0 && <span className="h-1 w-1 rounded-full bg-[#101828]/30" aria-hidden="true" />}
+                  <span key={t} className="flex items-center gap-3 text-sm font-medium text-[#111111]">
+                    {i > 0 && <span className="h-1 w-1 rounded-full bg-[#111111]/30" aria-hidden="true" />}
                     <span className="flex items-center gap-1.5">
                       <Icon name="check" className="h-4 w-4 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
                       {t}
@@ -254,7 +252,7 @@ export default function VariantSec7({ data }) {
           <h2 className="h2 uppercase">
             <JaguarStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
             {whyChooseWords.map((t, i) => (
-              <span key={i} className={t.highlight ? "text-hero-blue" : "text-[#101828]"}>
+              <span key={i} className={t.highlight ? "text-hero-blue" : "text-[#111111]"}>
                 {t.w}
                 {i < whyChooseWords.length - 1 ? " " : ""}
               </span>
@@ -265,7 +263,7 @@ export default function VariantSec7({ data }) {
             {whyChoose.items.map((item) => (
               <div key={item} className="flex items-start gap-2.5">
                 <Icon name="check" className="mt-0.5 h-4 w-4 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
-                <p className="text-xs leading-snug text-[#101828]">{item}</p>
+                <p className="text-xs leading-snug text-[#111111]">{item}</p>
               </div>
             ))}
           </div>
@@ -277,7 +275,7 @@ export default function VariantSec7({ data }) {
             <div className="flex items-center gap-3">
               <JaguarStripe className="h-10 w-16 shrink-0" />
               <h2 className="h2 uppercase">
-                <span className="text-[#101828]">{whyChoose.titlePre}</span>
+                <span className="text-[#111111]">{whyChoose.titlePre}</span>
                 <span className="text-hero-blue">{whyChoose.titleHighlight}</span>
               </h2>
             </div>
@@ -286,7 +284,7 @@ export default function VariantSec7({ data }) {
               {whyChoose.items.map((item) => (
                 <div key={item} className="flex min-w-0 items-start gap-3">
                   <Icon name="check" className="mt-0.5 h-5 w-5 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
-                  <p className="min-w-0 text-sm leading-snug text-[#101828]">{item}</p>
+                  <p className="min-w-0 text-sm leading-snug text-[#111111]">{item}</p>
                 </div>
               ))}
             </div>

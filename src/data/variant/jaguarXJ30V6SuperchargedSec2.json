@@ -12,43 +12,42 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "XJ"
     },
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "XJ 3.0 V6 Supercharged"
+      "value": "XJ 3.0 V6 Supercharged (AJ126)"
     },
     {
       "icon": "fuel",
       "label": "Fuel",
-      "value": "Petrol"
+      "value": "Petrol Supercharged"
     },
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ126"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "3.0L V6"
     },
     {
       "icon": "calendar",
-      "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "label": "Generations",
+      "value": "X351 (2013–2019)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£3,200"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XJ 3.0 V6 Supercharged uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XJ 3.0 V6 uses the AJ126 supercharged V6 — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

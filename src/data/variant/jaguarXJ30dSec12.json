@@ -20,12 +20,12 @@
     "vehicleLabel": "Jaguar XJ 3.0d"
   },
   "costs": {
-    "titlePre": "Jaguar XJ 3.0d ENGINE ",
+    "titlePre": "Jaguar XJ 3.0d Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar XJ 3.0d engine rebuild starts from",
     "price": "£2,600",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -34,13 +34,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES XJ 3.0d ENGINE SIZES",
-        "item": "Jaguar XJ 3.0d 3.0 Litre Engine (AJD-V6, I6)"
+        "title": "JAGUAR XJ 3.0d ENGINE SIZES",
+        "item": "Jaguar XJ 3.0d 3.0 Litre Engine (AJD-V6, V6 Diesel)",
+        "items": [
+          "Jaguar XJ 3.0d 3.0 Litre Engine (AJD-V6, V6 Diesel)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES XJ 3.0d FUEL TYPES",
-        "item": "Jaguar XJ 3.0d Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR XJ 3.0d FUEL TYPES",
+        "item": "Jaguar XJ 3.0d Diesel Engine Rebuilds",
+        "items": [
+          "Jaguar XJ 3.0d Diesel Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -55,9 +61,39 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR XJ VARIANTS",
+    "intro": "Looking for a different XJ engine? We also cover:",
+    "links": [
+      {
+        "label": "XJ 3.0 V6 Supercharged Engine",
+        "href": "/jaguar-xj-3-0-v6-supercharged-engines"
+      },
+      {
+        "label": "XJ 5.0 V8 Engine",
+        "href": "/jaguar-xj-5-0-v8-engines"
+      },
+      {
+        "label": "XJ 5.0 V8 Supercharged Engine",
+        "href": "/jaguar-xj-5-0-v8-supercharged-engines"
+      },
+      {
+        "label": "XJ Super V8 Engine",
+        "href": "/jaguar-xj-super-v8-engines"
+      },
+      {
+        "label": "XJ6 Engine",
+        "href": "/jaguar-xj6-engines"
+      },
+      {
+        "label": "XJ8 Engine",
+        "href": "/jaguar-xj8-engines"
+      },
+      {
+        "label": "XJR Engine",
+        "href": "/jaguar-xjr-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar XJ Engines",
+    "viewAllHref": "/jaguar-xj-engines"
   }
 }

@@ -4,6 +4,18 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { lookupVrm, buildQuoteUrl } from "@/lib/vrmLookup";
 
+// monochrome Union Jack for the plate's UK tab
+function UkFlag({ className = "h-4 w-6" }) {
+  return (
+    <svg viewBox="0 0 30 20" className={className} fill="none" stroke="#f2f2f2" aria-hidden="true">
+      <rect x="0.75" y="0.75" width="28.5" height="18.5" strokeWidth="1.2" />
+      <path d="M0.75 0.75 29.25 19.25M29.25 0.75 0.75 19.25" strokeWidth="3" />
+      <path d="M15 0.75v18.5M0.75 10h28.5" strokeWidth="5" />
+      <path d="M15 0.75v18.5M0.75 10h28.5" stroke="#1b1b1d" strokeWidth="2" />
+    </svg>
+  );
+}
+
 export default function RegLookupForm({
   buttonLabel = "Find My Jaguar",
   left = null,
@@ -21,6 +33,7 @@ export default function RegLookupForm({
   bigButtonText = false,
   short = false,
   darkField = false,
+  lightPlate = false,
   plateLabel = "UK",
 }) {
   const [reg, setReg] = useState("");
@@ -44,7 +57,7 @@ export default function RegLookupForm({
 
   const buttonHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-9" : compact ? "h-11" : "h-12";
   const fieldHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-16" : compact ? "h-14 sm:h-20" : "h-24 sm:h-28";
-  const fieldBorder = whiteBorder ? "border-white/70" : "border-[#8f8f8f]";
+  const fieldBorder = lightPlate ? "border-[#d6d6da]" : whiteBorder ? "border-white/70" : "border-[#8f8f8f]";
 
   return (
     <form
@@ -64,16 +77,20 @@ export default function RegLookupForm({
       )}
 
       <div
-        className={`flex ${fieldHeight} w-full min-w-0 ${row ? "flex-1" : "shrink-0"} overflow-hidden rounded-sm border-2 ${fieldBorder} shadow-sm ${
+        className={`flex ${fieldHeight} w-full min-w-0 ${row ? "flex-1" : "shrink-0"} overflow-hidden ${lightPlate ? "rounded-lg shadow-[0_0_0_1px_rgba(255,255,255,0.35),0_6px_18px_-6px_rgba(0,0,0,0.6)]" : "rounded-sm shadow-sm"} border-2 ${fieldBorder} ${
           row || stacked ? "" : "sm:flex-1 sm:w-auto"
         }`}
       >
         <span
-          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-0.5 text-white ${darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
+          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-0.5 text-white ${lightPlate ? "bg-[#1b1b1d]" : darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
         >
-          <span className="text-[13px] leading-none" aria-hidden="true">
-            ♛
-          </span>
+          {lightPlate ? (
+            <UkFlag />
+          ) : (
+            <span className="text-[13px] leading-none" aria-hidden="true">
+              ♛
+            </span>
+          )}
           <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>{plateLabel}</span>
         </span>
         <input
@@ -82,9 +99,11 @@ export default function RegLookupForm({
           onChange={(e) => setReg(e.target.value.toUpperCase())}
           placeholder="AB12 CDE"
           maxLength={8}
-          style={{ fontFamily: '"Charles Wright", sans-serif' }}
+          style={lightPlate ? undefined : { fontFamily: '"Charles Wright", sans-serif' }}
           className={`min-w-0 flex-1 px-2 text-center tracking-wide outline-none ${
-            darkField
+            lightPlate
+              ? "bg-linear-to-b from-[#ffffff] to-[#e4e4e7] font-medium tracking-[0.2em] text-[#1b1b1d] placeholder:text-[#2a2a2c]"
+              : darkField
               ? "bg-[#232323] text-white placeholder:italic placeholder:text-white/40"
               : "bg-linear-to-b from-[#f4f4f4] via-[#e0e0e0] to-[#c9c9c9] text-black placeholder:italic placeholder:text-black"
           } ${

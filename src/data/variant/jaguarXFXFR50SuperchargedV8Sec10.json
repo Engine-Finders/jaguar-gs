@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF XFR 5.0 Supercharged V8 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar XF XFR 5.0 Supercharged V8 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ133S",
         "codeRest": "",
-        "body": "A 5.0-litre supercharged V8 fitted to the XFR from 2011 to 2015 (X250 generation). Known for timing chain tensioner and guide wear — see the callout above. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild. Check Your AJ133S XFR → [link to quote form]",
-        "cta": "Check Your AJ133S XF XFR 5.0 Supercharged V8",
-        "codeHref": "/jaguar-m256-engine"
+        "body": "A 5.0-litre supercharged V8 fitted to the XFR from 2011 to 2015 (X250 generation). Known for timing chain tensioner and guide wear — see the callout above. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild.",
+        "cta": "Check Your AJ133S XFR",
+        "codeHref": "/jaguar-aj133s-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The XFR's AJ133S is a supercharged variant of the AJ133 V8 family, shared with the XJ Supersport, XKR-S and F-Type R of the same era. Timing chain and tensioner components are specific to the 5.0-litre supercharged application, and proper compatibility requires:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ133S",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Exact engine code confirmation (AJ133S)"
       },
       {
@@ -44,15 +44,16 @@
         "text": "Generation and year (X250, 2011–2015)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Ancillary and ECU specification specific to the XFR"
       },
       {
         "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "We always start with your registration rather than a generic quote — it protects you from paying for parts that don't fit your actual car."
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF XFR 5.0 Supercharged V8 ",

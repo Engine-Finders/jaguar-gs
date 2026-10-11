@@ -12,7 +12,7 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "XE"
     },
     {
       "icon": "sliders",
@@ -22,33 +22,32 @@
     {
       "icon": "fuel",
       "label": "Fuel",
-      "value": "Petrol"
+      "value": "Diesel"
     },
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ200D"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "2.0L I4"
     },
     {
       "icon": "calendar",
-      "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "label": "Generations",
+      "value": "X760 (2015–~2020)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£2,000"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XE D180 uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Enter your registration below and we'll identify it for you.",
     "badges": [
       {
         "icon": "shield-check",

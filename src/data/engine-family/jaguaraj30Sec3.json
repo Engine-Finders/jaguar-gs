@@ -24,85 +24,22 @@
   ],
   "rows": [
     {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2019–present",
+      "model": "X-Type",
+      "variant": "3.0 V6",
+      "generation": "X400",
+      "chassis": "X400",
+      "years": "2001–2009",
       "powertrain": "Petrol",
-      "modelHref": "/jaguar-a-class-engines"
+      "modelHref": "/jaguar-x-type-3-0-v6-engines"
     },
     {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2019–present",
+      "model": "XF",
+      "variant": "3.0 V6",
+      "generation": "X250",
+      "chassis": "X250",
+      "years": "2008–2012",
       "powertrain": "Petrol",
-      "modelHref": "/jaguar-a-class-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-c-class-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-cla-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-cla-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2020–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-gla-class-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2020–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-gla-class-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-glc-class-engines"
-    },
-    {
-      "model": "AJ30",
-      "variant": "AJ30",
-      "generation": "AJ30",
-      "chassis": "AJ30",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-sl-engines"
+      "modelHref": "/jaguar-xf-3-0-v6-engines"
     }
   ],
   "prompt": {

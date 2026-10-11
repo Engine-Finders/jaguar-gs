@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ133S",
-      "generation": "",
+      "generation": "X250 (2011–2015)",
       "price": "£5,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XF XFR 5.0 Supercharged V8 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133S I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XFR Timing Chain Tensioner Wear ",
+    "titleHighlight": "(X250, AJ133S)",
     "paragraphs": [
-      "The AJ133S is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133S V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133S rebuild.",
-      "Because the XF XFR 5.0 Supercharged V8 uses a completely different engine family from the V8 M178 fitted to the XF 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XFR is a 2011–2015 model with the AJ133S supercharged 5.0-litre V8 — that's the X250 generation — timing chain tensioner and guide wear is a well-documented design flaw on this engine, subject to a US class-action lawsuit covering this exact engine across multiple JLR models of the era (2012–2014 in particular). We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild."
     ],
-    "source": "Source: Established AJ133S specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via rrsport.co.uk lawsuit reference and multiple independent sources (kmotors.co.uk, au7o.io, TopSpeed reliability ranking), per G-BRF-Jaguar.md and VRF-jaguar-xf.md. AJ133S explicitly confirmed as affected for X250 XFR, 2011–2015."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133S",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£5,500"
+    },
+    {
+      "badge": "X250",
+      "label": "Generation",
+      "big": "2011–2015",
+      "sub": "Jaguar XF XFR 5.0 Supercharged V8"
+    },
+    {
+      "badge": "XFR (5.0 V8 Supercharged)",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133S"
+    }
+  ]
 }

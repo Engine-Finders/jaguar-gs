@@ -7,17 +7,17 @@
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "Jaguar S‑Type 3.0 V6"
+      "value": "Jaguar S-Type 3.0 V6"
     },
     {
       "icon": "layers",
       "label": "Model",
-      "value": "S‑Type"
+      "value": "S-Type"
     },
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "S‑Type 3.0 V6"
+      "value": "S-Type 3.0 V6"
     },
     {
       "icon": "fuel",
@@ -27,7 +27,7 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "AJ‑V6"
+      "value": "AJ-V6"
     },
     {
       "icon": "gauge",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The S-Type 3.0 V6 uses the AJ‑V6 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Enter your registration below and we’ll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

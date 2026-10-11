@@ -5,43 +5,63 @@
   "items": [
     {
       "number": "01",
-      "label": "RECOVERY COLLECTION"
+      "label": "RECOVERY COLLECTION",
+      "caption": "Jaguar XE 2.0d recovered nationwide.",
+      "image": "/home/workshop_1.webp"
     },
     {
       "number": "02",
-      "label": "engine ENGINE STRIPPED FOR REBUILD INSPECTION"
+      "label": "STRIPPED ENGINE BLOCK",
+      "caption": "Jaguar XE 2.0d [MISSING: engine code not independently confirmed in VRF] engine stripped for inspection.",
+      "image": "/home/workshop_2.webp"
     },
     {
       "number": "03",
-      "label": "VALVE COVERS & COOLANT COMPONENT WORK"
+      "label": "TIMING CHAIN REPLACEMENT",
+      "caption": "Jaguar XE 2.0d timing chain and guides replaced.",
+      "image": "/home/sec4_2.webp"
     },
     {
       "number": "04",
-      "label": "TECHNICIANS AT WORK"
+      "label": "TECHNICIANS AT WORK",
+      "caption": "Jaguar XE 2.0d engine rebuild in progress.",
+      "image": "/home/workshop_3.webp"
     },
     {
       "number": "05",
-      "label": "ENGINE TESTING (RIG)"
+      "label": "ENGINE TESTING (RIG)",
+      "caption": "Jaguar XE 2.0d [MISSING: engine code not independently confirmed in VRF] tested before dispatch.",
+      "image": "/home/gallery_l4.webp"
     },
     {
       "number": "06",
-      "label": "COMPLETED & READY FOR REFIT"
+      "label": "COMPLETED & READY FOR REFIT",
+      "caption": "Jaguar XE 2.0d engine rebuilt to OEM specification.",
+      "image": "/home/gallery_l5.webp"
     },
     {
       "number": "07",
-      "label": "CLEAN WORKSHOP BAYS"
+      "label": "CLEAN WORKSHOP BAYS",
+      "caption": "Purpose-built facilities for precision engine rebuilds.",
+      "image": "/home/gallery_l6.webp"
     },
     {
       "number": "08",
-      "label": "PARTS & COMPONENTS"
+      "label": "PARTS & COMPONENTS",
+      "caption": "Genuine and OEM-quality parts used on every rebuild.",
+      "image": "/home/process_5.webp"
     },
     {
       "number": "09",
-      "label": "BEFORE / AFTER COMPARISON"
+      "label": "BEFORE / AFTER COMPARISON",
+      "caption": "Jaguar XE 2.0d [MISSING: engine code not independently confirmed in VRF] rebuild transformation.",
+      "image": "/model/sec7.webp"
     },
     {
       "number": "10",
-      "label": "OUR SPECIALIST TEAM"
+      "label": "OUR SPECIALIST TEAM",
+      "caption": "Jaguar XE 2.0d engine specialists you can trust.",
+      "image": "/home/rebuild_8.webp"
     }
   ],
   "viewMoreLabel": "View More",

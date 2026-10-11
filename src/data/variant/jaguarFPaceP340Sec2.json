@@ -12,12 +12,12 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "F-Pace"
     },
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "F-Pace P340"
+      "value": "P340"
     },
     {
       "icon": "fuel",
@@ -27,28 +27,27 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ300P (3.0L I6)"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "3.0L"
     },
     {
       "icon": "calendar",
-      "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "label": "Generations",
+      "value": "X761 (2016–present)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£3,600"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The F-Pace P340 uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The P340 uses the 3.0-litre AJ300P petrol engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

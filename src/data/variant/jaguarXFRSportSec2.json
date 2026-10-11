@@ -7,7 +7,7 @@
     {
       "icon": "car",
       "label": "Vehicle",
-      "value": "Jaguar XF R‑Sport"
+      "value": "Jaguar XF R-Sport"
     },
     {
       "icon": "layers",
@@ -17,7 +17,7 @@
     {
       "icon": "sliders",
       "label": "Variant",
-      "value": "R‑Sport"
+      "value": "R-Sport"
     },
     {
       "icon": "fuel",
@@ -27,7 +27,7 @@
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "Varies (AJ200, AJ200D, and other X260‑era units)"
+      "value": "Varies (AJ200, AJ200D, and other X260-era units)"
     },
     {
       "icon": "gauge",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XF R-Sport uses the Varies (AJ200, AJ200D, and other X260‑era units) 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "Not sure which engine your XF R-Sport has? The R-Sport trim was offered with a range of engines across its production life. Enter your registration below and we’ll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

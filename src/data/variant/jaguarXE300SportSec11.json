@@ -44,5 +44,13 @@
   "notice": {
     "highlight": "The AJ126 (3.0L V6 supercharged)",
     "rest": " has been fitted to every XE 300 Sport since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XE 300 Sport Model Year:",
+    "items": [
+      "Jaguar XE 300 Sport 2018 Engine Rebuild",
+      "Jaguar XE 300 Sport 2019 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

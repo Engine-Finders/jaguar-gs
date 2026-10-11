@@ -16,12 +16,12 @@
     "vehicleLabel": "Jaguar X-Type 2.0d"
   },
   "costs": {
-    "titlePre": "Jaguar X-Type 2.0d ENGINE ",
+    "titlePre": "Jaguar X-Type 2.0d Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar X-Type 2.0d engine rebuild starts from",
     "price": "£1,900",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -30,13 +30,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES X-Type 2.0d ENGINE SIZES",
-        "item": "Jaguar X-Type 2.0d 3.0 Litre Engine (engine, I6)"
+        "title": "JAGUAR X-Type 2.0d ENGINE SIZES",
+        "item": "Jaguar X-Type 2.0d 2.0 Litre Engine (ZSD-420, I4)",
+        "items": [
+          "Jaguar X-Type 2.0d 2.0 Litre Engine (ZSD-420, I4)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES X-Type 2.0d FUEL TYPES",
-        "item": "Jaguar X-Type 2.0d Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR X-Type 2.0d FUEL TYPES",
+        "item": "Jaguar X-Type 2.0d Diesel Engine Rebuilds",
+        "items": [
+          "Jaguar X-Type 2.0d Diesel Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -51,9 +57,27 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR X-TYPE VARIANTS",
+    "intro": "Looking for a different X-Type engine? We also cover:",
+    "links": [
+      {
+        "label": "X-Type 2.0 V6 Engine",
+        "href": "/jaguar-x-type-2-0-v6-engines"
+      },
+      {
+        "label": "X-Type 2.1 V6 Engine",
+        "href": "/jaguar-x-type-2-1-v6-engines"
+      },
+      {
+        "label": "X-Type 2.5 V6 Engine",
+        "href": "/jaguar-x-type-2-5-v6-engines"
+      },
+      {
+        "label": "X-Type 3.0 V6 Engine",
+        "href": "/jaguar-x-type-3-0-v6-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar X-Type Engines",
+    "viewAllHref": "/jaguar-x-type-engines"
   }
 }

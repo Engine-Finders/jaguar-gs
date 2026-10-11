@@ -14,12 +14,12 @@
     "vehicleLabel": "Jaguar S-Type 2.7d"
   },
   "costs": {
-    "titlePre": "Jaguar S-Type 2.7d ENGINE ",
+    "titlePre": "Jaguar S-Type 2.7d Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar S-Type 2.7d engine rebuild starts from",
     "price": "£2,900",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -28,13 +28,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES S-Type 2.7d ENGINE SIZES",
-        "item": "Jaguar S-Type 2.7d 3.0 Litre Engine (engine, I6)"
+        "title": "JAGUAR S-Type 2.7d ENGINE SIZES",
+        "item": "Jaguar S-Type 2.7 Litre Engine",
+        "items": [
+          "Jaguar S-Type 2.7 Litre Engine"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES S-Type 2.7d FUEL TYPES",
-        "item": "Jaguar S-Type 2.7d Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR S-Type 2.7d FUEL TYPES",
+        "item": "Jaguar S-Type Diesel Engine Rebuilds",
+        "items": [
+          "Jaguar S-Type Diesel Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -49,9 +55,27 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR S-TYPE VARIANTS",
+    "intro": "Looking for a different S-Type engine? We also cover:",
+    "links": [
+      {
+        "label": "S-Type 2.5 V6 Engine",
+        "href": "/jaguar-s-type-2-5-v6-engines"
+      },
+      {
+        "label": "S-Type 3.0 V6 Engine",
+        "href": "/jaguar-s-type-3-0-v6-engines"
+      },
+      {
+        "label": "S-Type 4.2 V8 Engine",
+        "href": "/jaguar-s-type-4-2-v8-engines"
+      },
+      {
+        "label": "S-Type R Engine",
+        "href": "/jaguar-s-type-r-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar S-Type Engines",
+    "viewAllHref": "/jaguar-s-type-engines"
   }
 }

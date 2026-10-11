@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type V6 ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar F-Type V6 ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ126",
         "codeRest": "",
-        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 from 2012 to 2024 (X152 generation). No specific known issue confirmed for this variant's application beyond the general wear pattern common to AJ-family timing chain components — which is why we replace the timing chain, tensioners and guides as standard on every AJ126 rebuild. Check Your AJ126 F-Type V6 → [link to quote form]",
+        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 from 2012 to 2024 (X152 generation). No specific known issue confirmed for this variant's application beyond the general wear pattern common to AJ-family timing chain components — which is why we replace the timing chain, tensioners and guides as standard on every AJ126 rebuild.",
         "cta": "Check Your AJ126 F-Type V6",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj126-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The F-Type uses a single X152 chassis across its entire production run, but engine fitment varies by variant. The AJ126 3.0-litre supercharged V6 is specific to the V6 and V6 S models — it's a different unit from the 2.0-litre Ingenium in the four-cylinder cars and the 5.0-litre AJ133 in the V8 models. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ126",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ126) via registration or VIN"
       },
       {
@@ -44,15 +44,16 @@
         "text": "Your generation (X152)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
         "icon": "code",
-        "text": "Any electronics or ECU considerations specific to your exact build"
+        "text": "Whether your car is the standard V6 or V6 S (which affects power output but shares the same base engine)"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type V6 ",

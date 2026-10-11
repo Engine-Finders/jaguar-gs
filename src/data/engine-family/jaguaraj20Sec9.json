@@ -11,7 +11,7 @@
   "byModel": {
     "image": "/engine/sec9_middle.webp",
     "imageMobile": "/engine/sec9_middle_mobile.webp",
-    "kicker": "MERCEDES-BENZ AJ20",
+    "kicker": "JAGUAR AJ20",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
@@ -46,7 +46,7 @@
   "compatibility": {
     "image": "/engine/sec9_bottom.webp",
     "imageMobile": "/engine/sec9_bottom_mobile.webp",
-    "kicker": "MERCEDES-BENZ AJ20",
+    "kicker": "JAGUAR AJ20",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",

@@ -24,85 +24,13 @@
   ],
   "rows": [
     {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-a-class-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-a-class-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-c-class-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-cla-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2019–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-cla-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2020–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-gla-class-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2020–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-gla-class-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-glc-class-engines"
-    },
-    {
-      "model": "ZSD-420",
-      "variant": "ZSD-420",
-      "generation": "ZSD-420",
-      "chassis": "ZSD-420",
-      "years": "2023–present",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-sl-engines"
+      "model": "X-Type",
+      "variant": "2.2D",
+      "generation": "X400",
+      "chassis": "X400",
+      "years": "2008–2010",
+      "powertrain": "Diesel",
+      "modelHref": "/jaguar-x-type-engines"
     }
   ],
   "prompt": {

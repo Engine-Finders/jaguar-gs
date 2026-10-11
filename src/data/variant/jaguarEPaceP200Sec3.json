@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ200",
-      "generation": "",
+      "generation": "X540 (2017–present)",
       "price": "£2,000"
     }
   ],
@@ -23,14 +23,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar E-Pace P200 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ200 I6)",
-    "paragraphs": [
-      "The AJ200 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ200 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ200 rebuild.",
-      "Because the E-Pace P200 uses a completely different engine family from the V8 M178 fitted to the E-Pace 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established AJ200 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJ200",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,000"
+    },
+    {
+      "badge": "X540",
+      "label": "Generation",
+      "big": "2017–present",
+      "sub": "Jaguar E-Pace P200"
+    },
+    {
+      "badge": "P200",
+      "label": "Variant",
+      "big": "2.0L Petrol",
+      "sub": "AJ200"
+    }
+  ]
 }

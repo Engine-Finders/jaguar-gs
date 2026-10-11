@@ -1,6 +1,6 @@
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
-export default function MobileSplitTitle({ titlePre, titleHighlight, className = "", baseColorClass = "text-[#101828]", stripeVariant = "right" }) {
+export default function MobileSplitTitle({ titlePre, titleHighlight, className = "", baseColorClass = "text-[#111111]", stripeVariant = "right" }) {
   const words = [
     ...titlePre.trim().split(/\s+/).filter(Boolean).map((w) => ({ w, highlight: false })),
     ...titleHighlight.trim().split(/\s+/).filter(Boolean).map((w) => ({ w, highlight: true })),
@@ -39,9 +39,9 @@ export default function MobileSplitTitle({ titlePre, titleHighlight, className =
         style={{ transform: "skewX(-20deg)", transformOrigin: "top right" }}
         aria-hidden="true"
       >
-        <span className="h-full w-2.5" style={{ background: "var(--color-bmw-blue)" }} />
-        <span className="h-full w-2.5" style={{ background: "var(--color-bmw-violet)" }} />
-        <span className="h-full w-2.5" style={{ background: "var(--color-bmw-red)" }} />
+        <span className="h-full w-2.5 chrome-bar-a" />
+        <span className="h-full w-2.5 chrome-bar-b" />
+        <span className="h-full w-2.5 chrome-bar-c" />
       </div>
     </div>
   );

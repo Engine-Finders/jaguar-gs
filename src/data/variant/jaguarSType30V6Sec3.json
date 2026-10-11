@@ -15,7 +15,23 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Jaguar S-Type 3.0 V6 Engine Rebuild — From £2,600"
+    },
+    {
+      "icon": "price",
+      "text": "Specialist Jaguar S-Type 3.0 V6 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty"
+    },
+    {
+      "icon": "price",
+      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Specialist technicians with 10-15 years of experience   ✔ 12-Month Unlimited-Mileage Warranty   ✔ Nationwide Recovery   ✔ Free Engine Matching by Registration   ✔ AJ-V6 Specialists"
+    },
+    {
+      "icon": "price",
+      "text": "Starting from £2,600 — Get a Fixed-Price Quote →   [Call Our Specialists: +44 01268 944 234]"
     }
   ],
   "cta": {
@@ -24,13 +40,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar S-Type 3.0 V6 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ‑V6 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar S-Type 3.0 V6 Timing Chain Tensioner Failure",
+    "titleHighlight": "",
     "paragraphs": [
-      "The AJ‑V6 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ‑V6 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ‑V6 rebuild.",
-      "Because the S-Type 3.0 V6 uses a completely different engine family from the V8 M178 fitted to the S‑Type 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your S-Type 3.0 V6 has the AJ-V6 engine (all models from 1999–2008), timing chain tensioner failure is a documented pattern on this engine. We replace timing chain, tensioners, and gaskets as standard on every AJ-V6 rebuild."
     ],
-    "source": "Source: Established AJ‑V6 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: LR Engine Specialists, per VRF-jaguar-s-type.md"
+  },
+  "tiles": [
+    {
+      "badge": "AJ‑V6",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,600"
+    },
+    {
+      "badge": "X200",
+      "label": "Generation",
+      "big": "1999–2008",
+      "sub": "Jaguar S-Type 3.0 V6"
+    },
+    {
+      "badge": "S-Type 3.0 V6",
+      "label": "Variant",
+      "big": "3.0L Petrol",
+      "sub": "AJ-V6"
+    }
+  ]
 }

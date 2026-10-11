@@ -7,8 +7,8 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "Ingenium AJ150 (1.5L I3) + Electric",
-      "generation": "",
+      "code": "Ingenium AJ150 + Electric",
+      "generation": "X540 (2017–present)",
       "price": "£2,000"
     }
   ],
@@ -23,14 +23,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar E-Pace P300e Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(Ingenium AJ150 (1.5L I3) + Electric I6)",
-    "paragraphs": [
-      "The Ingenium AJ150 (1.5L I3) + Electric is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older Ingenium AJ150 (1.5L I3) + Electric V6. We replace timing chains, bearings, water pump and gaskets as standard on every Ingenium AJ150 (1.5L I3) + Electric rebuild.",
-      "Because the E-Pace P300e uses a completely different engine family from the V8 M178 fitted to the E-Pace 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established Ingenium AJ150 (1.5L I3) + Electric specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "Ingenium AJ150 + Electric",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,000"
+    },
+    {
+      "badge": "X540",
+      "label": "Generation",
+      "big": "2017–present",
+      "sub": "Jaguar E-Pace P300e"
+    },
+    {
+      "badge": "P300e",
+      "label": "Variant",
+      "big": "1.5L Petrol Plug-in Hybrid",
+      "sub": "Ingenium AJ150 (1.5L I3) + Electric"
+    }
+  ]
 }

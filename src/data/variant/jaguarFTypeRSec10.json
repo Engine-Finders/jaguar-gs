@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type R ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar F-Type R ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ133",
         "codeRest": "",
-        "body": "A 5.0-litre supercharged V8 fitted to the F-Type R from 2013 to 2024 (X152). Known for timing chain tensioner and guide wear on 2012–2014 models — see the callout above. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild. Check Your AJ133 F-Type R → [link to quote form]",
+        "body": "A 5.0-litre supercharged V8 fitted to the F-Type R from 2013 to 2024 (X152). Known for timing chain tensioner and guide wear on 2012–2014 models — see the callout above. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 F-Type R",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj133-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The F-Type R uses the AJ133 supercharged V8 across its entire production run, but there's a parts-revision split between early and late cars. Pre-2015 cars have the earlier tensioner and guide design that's prone to wear — the same units covered by the US class-action. From 2015 onward, the engine received updated components. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ133",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact build year (2013–2014 vs 2015–2024)"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your chassis (X152)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic F-Type R quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type R ",

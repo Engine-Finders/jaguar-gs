@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ133",
-      "generation": "",
+      "generation": "X152 (2013–2024)",
       "price": "£6,500"
     }
   ],
@@ -24,13 +24,33 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Type R575 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar F-Type R575 Timing Chain Tensioner Design Flaw ",
+    "titleHighlight": "(AJ133, 2012–2014)",
     "paragraphs": [
-      "The AJ133 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 rebuild.",
-      "Because the F-Type R575 uses a completely different engine family from the V8 M178 fitted to the F-Type 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your F-Type R575 is a 2012–2014 model with the AJ133 supercharged V8, the timing chain tensioner and guide design has a documented weakness — a hardened steel tensioner piston wears an aluminium guide button over time, which can fail without warning. This exact engine was subject to a US class-action lawsuit covering multiple JLR models, including the F-Type. We replace timing chains, tensioners, guides and the water pump as standard on every AJ133 rebuild.",
+      "The F-Type R575 was introduced later in the F-Type's lifecycle (2021–2024) as an extremely limited-run variant, and these later cars use a revision of the AJ133 that addressed some earlier concerns. However, if your R575 is from the earliest part of the production run, the pattern applies — we'll confirm your specific build year by registration before quoting."
     ],
-    "source": "Source: Established AJ133 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via rrsport.co.uk lawsuit reference, per VRF-jaguar-f-type.md and G-BRF-Jaguar.md. Later production years outside the lawsuit scope flagged for registration verification."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£6,500"
+    },
+    {
+      "badge": "X152",
+      "label": "Generation",
+      "big": "2013–2024",
+      "sub": "Jaguar F-Type R575"
+    },
+    {
+      "badge": "R575",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133"
+    }
+  ]
 }

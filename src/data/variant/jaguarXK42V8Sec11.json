@@ -100,5 +100,15 @@
   "notice": {
     "highlight": "The AJ-V8 Gen III",
     "rest": " has been fitted to every XK 4.2 V8 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XK 4.2 V8 Model Year:",
+    "items": [
+      "Jaguar XK 4.2 V8 2005 Engine Rebuild",
+      "Jaguar XK 4.2 V8 2008 Engine Rebuild",
+      "Jaguar XK 4.2 V8 2012 Engine Rebuild",
+      "Jaguar XK 4.2 V8 2014 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

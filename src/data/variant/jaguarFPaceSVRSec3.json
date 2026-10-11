@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ133",
-      "generation": "",
+      "generation": "X761 (2018–present)",
       "price": "£6,500"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Pace SVR Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar F-Pace SVR Timing Chain & Cooling System Wear ",
+    "titleHighlight": "(AJ133)",
     "paragraphs": [
-      "The AJ133 is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 rebuild.",
-      "Because the F-Pace SVR uses a completely different engine family from the V8 M178 fitted to the F-Pace 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your F-Pace SVR has the AJ133 5.0-litre supercharged V8 — that's every X761-generation car since 2018 — timing chain wear and cooling system leaks are established patterns on this engine, shared across Jaguar and Land Rover models using the same V8. We replace timing chains, valve seals, coolant components and bearings as standard on every AJ133 rebuild."
     ],
-    "source": "Source: Established AJ133 specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: established pattern, cross-applicable from Jaguar/Land Rover supercharged V8 family, per VRF-Jaguar-F-Pace.md. Applies to all F-Pace SVR models, 2018–present."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£6,500"
+    },
+    {
+      "badge": "X761",
+      "label": "Generation",
+      "big": "2018–present",
+      "sub": "Jaguar F-Pace SVR"
+    },
+    {
+      "badge": "F-Pace SVR",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133"
+    }
+  ]
 }

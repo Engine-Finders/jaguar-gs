@@ -4,22 +4,21 @@ import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
-import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 function FaqCard({ item, isOpen, onToggle, compact = false }) {
   return (
     <div className={`glass-card rounded-xl ${compact ? "p-3.5" : "p-5"}`}>
       <button type="button" onClick={onToggle} className="flex w-full items-start gap-3 text-left">
-        <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-black text-sm font-extrabold text-hero-blue">
+        <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-black text-sm font-extrabold text-white">
           ?
         </span>
-        <span className="origin-left scale-y-115 flex-1 text-sm font-extrabold text-[#101828]">{item.q}</span>
+        <span className="origin-left scale-y-115 flex-1 text-sm font-extrabold text-[#111111]">{item.q}</span>
         <Icon
           name="chevron-down"
-          className={`h-4 w-4 shrink-0 text-[#101828] transition-transform ${isOpen ? "rotate-180" : ""}`}
+          className={`h-4 w-4 shrink-0 text-[#111111] transition-transform ${isOpen ? "rotate-180" : ""}`}
         />
       </button>
-      {isOpen && <p className="ml-10 mt-2 text-sm leading-relaxed text-[#101828]">{item.a}</p>}
+      {isOpen && <p className="ml-10 mt-2 text-sm leading-relaxed text-[#111111]">{item.a}</p>}
     </div>
   );
 }
@@ -42,7 +41,7 @@ function Field({ label, placeholder, type = "text", compact = false }) {
 }
 
 export default function VariantSec13({ data }) {
-  const [openIndex, setOpenIndex] = useState(new Set());
+  const [openIndex, setOpenIndex] = useState(() => new Set());
 
   function toggle(i) {
     setOpenIndex((prev) => {
@@ -63,7 +62,7 @@ export default function VariantSec13({ data }) {
       <div className="relative px-4 pb-7 pt-5 md:hidden">
         <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
           <JaguarStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
-          <span className="text-[#101828]">{data.kicker} </span>
+          <span className="text-[#111111]">{data.kicker} </span>
           <span className="text-hero-blue">{data.kickerHighlight}</span>
         </h2>
 
@@ -76,17 +75,17 @@ export default function VariantSec13({ data }) {
         {/* quote form */}
         <form
           onSubmit={handleSubmit}
-          className="relative mt-6 overflow-hidden rounded-2xl p-4"
-          style={{ boxShadow: "0 0 0 1px rgba(173,135,92,0.3), 0 25px 60px -20px rgba(173,135,92,0.4)" }}
+          className="theme-dark relative mt-6 overflow-hidden rounded-2xl p-4"
+          style={{ boxShadow: "0 0 0 1px rgba(150,154,160,0.3), 0 25px 60px -20px rgba(150,154,160,0.4)" }}
         >
           <div className="absolute inset-0">
-            <Image src="/variant/sec13.webp" alt="Jaguar AMG GT in a dark showroom" fill className="object-cover" sizes="100vw" />
-            <div className="absolute inset-0 bg-black/70" />
+            <Image src="/variant/sec13.webp" alt="Black Jaguar E-Pace in a dark showroom" fill className="object-cover" sizes="100vw" />
+            <div className="absolute inset-0 bg-black/25" />
           </div>
 
           <div className="relative">
             <h3 className="h3 origin-left scale-y-110 scale-x-90 uppercase">
-              <JaguarLogo className="float-left mr-2 mt-0.5 h-8 w-8 shrink-0" />
+              <JaguarStripe className="float-left mr-2 mt-0.5 h-5 w-10 shrink-0" />
               <span className="text-white">{data.form.headlinePre} </span>
               <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
               <span className="text-white">{data.form.headlinePost}</span>
@@ -98,7 +97,7 @@ export default function VariantSec13({ data }) {
                   {data.form.fields.reg.label} <span className="text-bmw-red">*</span>
                 </span>
                 <div className="mt-1.5 flex h-11 overflow-hidden rounded-lg border border-white/15 bg-white/5">
-                  <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-sm font-extrabold text-white">
+                  <span className="flex w-14 shrink-0 items-center justify-center bg-white/15 text-sm font-extrabold text-white">
                     GB
                   </span>
                   <input
@@ -133,10 +132,7 @@ export default function VariantSec13({ data }) {
             <button
               type="submit"
               className="mt-4 flex w-full items-center justify-center gap-2 rounded-lg py-3 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
-              style={{
-                background: "linear-gradient(135deg, #ad875c 0%, #8c6c46 100%)",
-                boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
-              }}
+              style={{ background: "linear-gradient(180deg, rgba(40,44,52,0.9) 0%, rgba(14,16,20,0.95) 100%)", border: "1px solid rgba(214,218,224,0.55)", boxShadow: "0 8px 20px rgba(0,0,0,0.5)" }}
             >
               {data.form.submitLabel} <span aria-hidden>→</span>
             </button>
@@ -153,7 +149,7 @@ export default function VariantSec13({ data }) {
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
         <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-          <span className="text-[#101828]">{data.kicker} </span>
+          <span className="text-[#111111]">{data.kicker} </span>
           <span className="text-hero-blue">{data.kickerHighlight}</span>
         </h2>
 
@@ -174,28 +170,31 @@ export default function VariantSec13({ data }) {
         {/* quote form */}
         <form
           onSubmit={handleSubmit}
-          className="relative mt-8 overflow-hidden rounded-2xl p-8"
-          style={{ boxShadow: "0 0 0 1px rgba(173,135,92,0.3), 0 25px 60px -20px rgba(173,135,92,0.4)" }}
+          className="theme-dark relative mt-8 overflow-hidden rounded-2xl p-8"
+          style={{ backgroundColor: "#030a10", boxShadow: "0 0 0 1px rgba(150,154,160,0.3), 0 25px 60px -20px rgba(150,154,160,0.4)" }}
         >
-          <div className="absolute inset-0">
-            <Image src="/variant/sec13.webp" alt="Jaguar AMG GT in a dark showroom" fill className="object-cover" sizes="1152px" />
-            <div className="absolute inset-0 bg-black/70" />
+          {/* artwork edge to edge at its natural proportions; the car sits right of the fields, the bottom feathers into the card colour */}
+          <div
+            className="pointer-events-none absolute inset-x-0 top-0"
+            style={{ maskImage: "linear-gradient(to bottom, black 70%, transparent 100%)", WebkitMaskImage: "linear-gradient(to bottom, black 70%, transparent 100%)" }}
+          >
+            <Image src="/variant/sec13.webp" alt="Black Jaguar E-Pace in a dark showroom" width={1024} height={285} className="block h-auto w-full" sizes="1152px" />
           </div>
 
           <div className="relative">
-            <JaguarLogo className="mb-2 h-10 w-10" />
+            <JaguarStripe className="mb-2 h-5 w-10" />
             <h3 className="h3 origin-left scale-y-110 scale-x-90 whitespace-nowrap text-white uppercase">
               {data.form.headlinePre} <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
               {data.form.headlinePost}
             </h3>
 
-            <div className="mt-6 grid grid-cols-3 gap-4">
+            <div className="mt-6 grid max-w-[66%] grid-cols-3 gap-4">
               <label className="block">
                 <span className="label-text uppercase tracking-wide text-white">
                   {data.form.fields.reg.label} <span className="text-bmw-red">*</span>
                 </span>
                 <div className="mt-2 flex h-13 overflow-hidden rounded-lg border border-white/15 bg-white/5">
-                  <span className="flex w-14 shrink-0 items-center justify-center bg-hero-blue text-sm font-extrabold text-white">
+                  <span className="flex w-14 shrink-0 items-center justify-center bg-white/15 text-sm font-extrabold text-white">
                     GB
                   </span>
                   <input
@@ -229,16 +228,13 @@ export default function VariantSec13({ data }) {
 
             <button
               type="submit"
-              className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
-              style={{
-                background: "linear-gradient(135deg, #ad875c 0%, #8c6c46 100%)",
-                boxShadow: "0 8px 20px rgba(173,135,92,0.4)",
-              }}
+              className="mt-6 flex w-full max-w-[66%] items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
+              style={{ background: "linear-gradient(180deg, rgba(40,44,52,0.9) 0%, rgba(14,16,20,0.95) 100%)", border: "1px solid rgba(214,218,224,0.55)", boxShadow: "0 8px 20px rgba(0,0,0,0.5)" }}
             >
               {data.form.submitLabel} <span aria-hidden>→</span>
             </button>
 
-            <p className="mt-4 flex items-center justify-center gap-2 text-xs text-white">
+            <p className="mt-4 flex max-w-[66%] items-center justify-center gap-2 text-xs text-white">
               <Icon name="shield-check" className="h-4 w-4 shrink-0 text-hero-blue" />
               {data.form.guarantee}
             </p>

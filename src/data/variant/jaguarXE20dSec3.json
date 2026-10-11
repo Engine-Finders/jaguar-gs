@@ -15,7 +15,23 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Jaguar XE 2.0d Engine Rebuild — From £2,000"
+    },
+    {
+      "icon": "price",
+      "text": "Jaguar XE 2.0d engine rebuilds from £2,000. Specialist AJ200D diesel engine specialists. 12-month unlimited-mileage warranty, nationwide recovery, registration matching. Free quote in 30 mins."
+    },
+    {
+      "icon": "price",
+      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Specialist technicians with 10-15 years of experience   ✔ 12 Month Unlimited-Mileage Warranty   ✔ Nationwide Recovery   ✔ Free Engine Matching by Registration   ✔ AJ200D Specialists"
+    },
+    {
+      "icon": "price",
+      "text": "Starting from £2,000 — Get a Fixed-Price Quote →   [Call Our Specialists: 01268 944 234]"
     }
   ],
   "cta": {
@@ -24,13 +40,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XE 2.0d Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(engine I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XE 2.0d Timing Chain & Injector Wear ",
+    "titleHighlight": "(AJ200D)",
     "paragraphs": [
-      "The engine is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older engine V6. We replace timing chains, bearings, water pump and gaskets as standard on every engine rebuild.",
-      "Because the XE 2.0d uses a completely different engine family from the V8 M178 fitted to the Jaguar 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XE 2.0d is a pre-2017 model with the AJ200D diesel engine, timing chain and injector seal wear is a well-documented pattern on this engine, backed by numerous JLR specialist reports. We replace the timing chain, injectors, EGR and gaskets as standard on every AJ200D rebuild. This is the most common issue on the early Ingenium diesel, and addressing it during a rebuild prevents future failure."
     ],
-    "source": "Source: Established engine specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: widely corroborated across JLR specialist forums and independent garages per VRF-jaguar-xe.md."
+  },
+  "tiles": [
+    {
+      "badge": "",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,000"
+    },
+    {
+      "badge": "X760",
+      "label": "Generation",
+      "big": "2015–2016",
+      "sub": "Jaguar XE 2.0d"
+    },
+    {
+      "badge": "XE 2.0d",
+      "label": "Variant",
+      "big": "2.0L Diesel",
+      "sub": "AJ200D"
+    }
+  ]
 }

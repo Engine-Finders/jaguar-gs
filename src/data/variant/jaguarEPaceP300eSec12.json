@@ -19,12 +19,12 @@
     "vehicleLabel": "Jaguar E-Pace P300e"
   },
   "costs": {
-    "titlePre": "Jaguar E-Pace P300e ENGINE ",
+    "titlePre": "Jaguar E-Pace P300e Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar E-Pace P300e engine rebuild starts from",
     "price": "£2,000",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -33,13 +33,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES E-Pace P300e ENGINE SIZES",
-        "item": "Jaguar E-Pace P300e 3.0 Litre Engine (Ingenium AJ150 (1.5L I3) + Electric, I6)"
+        "title": "JAGUAR E-Pace P300e ENGINE SIZES",
+        "item": "Jaguar E-Pace P300e 1.5 Litre Engine (Ingenium AJ150, I3)",
+        "items": [
+          "Jaguar E-Pace P300e 1.5 Litre Engine (Ingenium AJ150, I3)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES E-Pace P300e FUEL TYPES",
-        "item": "Jaguar E-Pace P300e Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR E-Pace P300e FUEL TYPES",
+        "item": "Jaguar E-Pace P300e Petrol Plug-in Hybrid Engine Rebuilds",
+        "items": [
+          "Jaguar E-Pace P300e Petrol Plug-in Hybrid Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -54,9 +60,31 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR E-PACE VARIANTS",
+    "intro": "Looking for a different E-Pace engine? We also cover:",
+    "links": [
+      {
+        "label": "E-Pace D165 Engine",
+        "href": "/jaguar-e-pace-d165-engines"
+      },
+      {
+        "label": "E-Pace D200 Engine",
+        "href": "/jaguar-e-pace-d200-engines"
+      },
+      {
+        "label": "E-Pace P160 Engine",
+        "href": "/jaguar-e-pace-p160-engines"
+      },
+      {
+        "label": "E-Pace P200 Engine",
+        "href": "/jaguar-e-pace-p200-engines"
+      },
+      {
+        "label": "E-Pace P250 Engine",
+        "href": "/jaguar-e-pace-p250-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar E-Pace Engines",
+    "viewAllHref": "/jaguar-e-pace-engines"
   }
 }

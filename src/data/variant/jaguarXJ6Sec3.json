@@ -7,8 +7,13 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "",
-      "generation": "",
+      "code": "AJ16",
+      "generation": "X300 (1994-1997)",
+      "price": "£3,200"
+    },
+    {
+      "code": "AJ16",
+      "generation": "X308 (1997-2003)",
       "price": "£3,200"
     }
   ],
@@ -23,14 +28,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XJ6 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(engine I6)",
-    "paragraphs": [
-      "The engine is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older engine V6. We replace timing chains, bearings, water pump and gaskets as standard on every engine rebuild.",
-      "Because the XJ6 uses a completely different engine family from the V8 M178 fitted to the Jaguar 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established engine specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJ16",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£3,200"
+    },
+    {
+      "badge": "X300",
+      "label": "Generation",
+      "big": "1994-1997",
+      "sub": "Jaguar XJ6"
+    },
+    {
+      "badge": "XJ6",
+      "label": "Variant",
+      "big": "3.2L–4.0L Petrol",
+      "sub": "AJ16"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 3.0 V6 S/SC ENGINE",
     "paragraphs": [
@@ -12,14 +12,14 @@
   "codes": {
     "titlePre": "Jaguar XF 3.0 V6 S/SC ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
-        "codeHighlight": "—",
+        "codeHighlight": "AJ126",
         "codeRest": "",
-        "body": "A 3.0-litre supercharged V6 petrol engine fitted to the XF 3.0 V6 S/SC from 2007 to 2015 (X250 generation). This is a performance-focused engine delivering a significant power uplift over the naturally aspirated 3.0 V6. Check Your AJ126 XF → [link to quote form]",
-        "cta": "Check Your engine XF 3.0 V6 S/SC",
-        "codeHref": "/jaguar-m256-engine"
+        "body": "A 3.0-litre supercharged V6 petrol engine fitted to the XF 3.0 V6 S/SC from 2007 to 2015 (X250 generation). This is a performance-focused engine delivering a significant power uplift over the naturally aspirated 3.0 V6.",
+        "cta": "Check Your AJ126 XF",
+        "codeHref": "/jaguar-aj126-engine"
       }
     ]
   },
@@ -28,31 +28,32 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "Because the X250 generation offered such a wide range of engines — from diesel I4s and V6s to naturally aspirated and supercharged V6s and V8s — parts are not interchangeable across the board. Fitting a replacement or assuming a part from another engine will work on your AJ126 risks a compatibility problem. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
-      "title": "engine",
+      "title": "AJ126",
       "line1": "Confirmed by VIN",
       "line2": "Match Guaranteed"
     },
     "points": [
       {
-        "icon": "piston",
-        "text": "- Your exact engine code (AJ126)"
+        "icon": "engine",
+        "text": "Your exact engine code (AJ126)"
       },
       {
         "icon": "car",
-        "text": "- Your generation (X250)"
+        "text": "Your generation (X250)"
       },
       {
-        "icon": "gears",
-        "text": "- Drivetrain and ancillary specification"
+        "icon": "gear",
+        "text": "Drivetrain and ancillary specification"
       },
       {
         "icon": "code",
-        "text": "- Any electronics or ECU considerations specific to your exact build"
+        "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic Jaguar quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 3.0 V6 S/SC ",
@@ -66,6 +67,13 @@
       "Fuel"
     ],
     "rows": [
+      {
+        "generation": "Generation",
+        "chassis": "Chassis",
+        "years": "Years",
+        "engineCode": "Engine Code",
+        "fuel": "Fuel"
+      },
       {
         "generation": "X250",
         "chassis": "X250",

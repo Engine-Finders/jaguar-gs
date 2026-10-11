@@ -12,7 +12,7 @@
     {
       "icon": "layers",
       "label": "Model",
-      "value": "Jaguar"
+      "value": "XJ"
     },
     {
       "icon": "sliders",
@@ -22,33 +22,32 @@
     {
       "icon": "fuel",
       "label": "Fuel",
-      "value": "Petrol"
+      "value": "Petrol Supercharged"
     },
     {
       "icon": "engine",
       "label": "Engine",
-      "value": "[MISSING: engine code not independently confirmed in VRF]"
+      "value": "AJ16, AJ-V8, AJ133S"
     },
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "[MISSING: capacity not independently confirmed in VRF]"
+      "value": "4.0L – 5.0L"
     },
     {
       "icon": "calendar",
-      "label": "Generation",
-      "value": "generation (2014–2025, discontinued)"
+      "label": "Generations",
+      "value": "X300 (1994–1997) · X308 (1997–2003) · X350 (2002–2009) · X351 (2009–2019)"
     },
     {
       "icon": "price",
       "label": "Rebuild From",
-      "value": "£3,200",
-      "highlight": true
+      "value": "£5,500"
     }
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XJR uses the engine 3.0-litre inline-six mild-hybrid engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XJR used different supercharged engines across its generations — enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

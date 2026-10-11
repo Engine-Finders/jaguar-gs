@@ -72,5 +72,17 @@
   "notice": {
     "highlight": "The AJ126",
     "rest": " has been fitted to every XE 3.0 V6 S / SC since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XE 3.0 V6 S / SC Model Year:",
+    "items": [
+      "Jaguar XE 3.0 V6 S / SC 2015 Engine Rebuild",
+      "Jaguar XE 3.0 V6 S / SC 2016 Engine Rebuild",
+      "Jaguar XE 3.0 V6 S / SC 2017 Engine Rebuild",
+      "Jaguar XE 3.0 V6 S / SC 2018 Engine Rebuild",
+      "Jaguar XE 3.0 V6 S / SC 2019 Engine Rebuild",
+      "Jaguar XE 3.0 V6 S / SC 2020 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

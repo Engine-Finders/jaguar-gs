@@ -14,12 +14,12 @@
     "vehicleLabel": "Jaguar XF XFR 5.0 Supercharged V8"
   },
   "costs": {
-    "titlePre": "Jaguar XF XFR 5.0 Supercharged V8 ENGINE ",
+    "titlePre": "Jaguar XFR Engine ",
     "titleHighlight": "COSTS",
-    "intro": "A Jaguar XF XFR 5.0 Supercharged V8 engine rebuild starts from",
+    "intro": "A Jaguar XFR engine rebuild starts from",
     "price": "£5,500",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": "for the AJ133S supercharged V8. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -28,13 +28,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES XF XFR 5.0 Supercharged V8 ENGINE SIZES",
-        "item": "Jaguar XF XFR 5.0 Supercharged V8 3.0 Litre Engine (AJ133S, I6)"
+        "title": "JAGUAR XF XFR 5.0 Supercharged V8 ENGINE SIZES",
+        "item": "Jaguar XFR 5.0 Litre Engine (AJ133S, Supercharged V8)",
+        "items": [
+          "Jaguar XFR 5.0 Litre Engine (AJ133S, Supercharged V8)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES XF XFR 5.0 Supercharged V8 FUEL TYPES",
-        "item": "Jaguar XF XFR 5.0 Supercharged V8 Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR XF XFR 5.0 Supercharged V8 FUEL TYPES",
+        "item": "Jaguar XFR Petrol Supercharged Engine Rebuilds",
+        "items": [
+          "Jaguar XFR Petrol Supercharged Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -49,9 +55,67 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR XF VARIANTS",
+    "intro": "Looking for a different XF engine? We also cover:",
+    "links": [
+      {
+        "label": "XF 2.0 Engine",
+        "href": "/jaguar-xf-2-0-engines"
+      },
+      {
+        "label": "XF 2.0d Engine",
+        "href": "/jaguar-xf-2-0d-engines"
+      },
+      {
+        "label": "XF 2.0i Engine",
+        "href": "/jaguar-xf-2-0i-engines"
+      },
+      {
+        "label": "XF 2.2 Diesel Engine",
+        "href": "/jaguar-xf-2-2-diesel-engines"
+      },
+      {
+        "label": "XF 2.7d Engine",
+        "href": "/jaguar-xf-2-7d-engines"
+      },
+      {
+        "label": "XF 3.0 V6 Engine",
+        "href": "/jaguar-xf-3-0-v6-engines"
+      },
+      {
+        "label": "XF 3.0 V6 S/SC Engine",
+        "href": "/jaguar-xf-3-0-v6-s-sc-engines"
+      },
+      {
+        "label": "XF 3.0d Engine",
+        "href": "/jaguar-xf-3-0d-engines"
+      },
+      {
+        "label": "XF 300 Sport Engine",
+        "href": "/jaguar-xf-300-sport-engines"
+      },
+      {
+        "label": "XF 4.2 V8 Engine",
+        "href": "/jaguar-xf-4-2-v8-engines"
+      },
+      {
+        "label": "XF 5.0 V8 (AJ133) Engine",
+        "href": "/jaguar-xf-5-0-v8-aj133-engines"
+      },
+      {
+        "label": "XF P250 Engine",
+        "href": "/jaguar-xf-p250-engines"
+      },
+      {
+        "label": "XF P300 Engine",
+        "href": "/jaguar-xf-p300-engines"
+      },
+      {
+        "label": "XF R-Sport Engine",
+        "href": "/jaguar-xf-r-sport-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar XF Engines",
+    "viewAllHref": "/jaguar-xf-engines"
   }
 }

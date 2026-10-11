@@ -15,7 +15,23 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Jaguar XJ8 Engine Rebuild — From £4,500"
+    },
+    {
+      "icon": "price",
+      "text": "Specialist Jaguar XJ8 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty"
+    },
+    {
+      "icon": "price",
+      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Specialist technicians with 10-15 years of experience   ✔ 12 Month Unlimited-Mileage Warranty   ✔ Nationwide Recovery   ✔ Free Engine Matching by Registration   ✔ AJ-V8 Specialists"
+    },
+    {
+      "icon": "price",
+      "text": "Starting from £4,500 — Get a Fixed-Price Quote →   [Call Our Specialists: 01268 944 234]"
     }
   ],
   "cta": {
@@ -23,14 +39,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XJ8 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ-V8 (naturally aspirated) I6)",
-    "paragraphs": [
-      "The AJ-V8 (naturally aspirated) is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ-V8 (naturally aspirated) V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ-V8 (naturally aspirated) rebuild.",
-      "Because the XJ8 uses a completely different engine family from the V8 M178 fitted to the XJ 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established AJ-V8 (naturally aspirated) specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "AJ-V8 (naturally aspirated)",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£4,500"
+    },
+    {
+      "badge": "X308",
+      "label": "Generation",
+      "big": "1997–2003) · X350 (2002–2009",
+      "sub": "Jaguar XJ8"
+    },
+    {
+      "badge": "XJ8",
+      "label": "Variant",
+      "big": "3.2L–4.0L Petrol",
+      "sub": "AJ-V8 (naturally aspirated)"
+    }
+  ]
 }

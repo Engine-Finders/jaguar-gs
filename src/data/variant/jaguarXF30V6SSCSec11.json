@@ -27,6 +27,13 @@
   ],
   "rows": [
     {
+      "year": "Year",
+      "generation": "Generation",
+      "engineCode": "Engine Code",
+      "fuel": "Fuel",
+      "service": "Service"
+    },
+    {
       "year": "2007",
       "generation": "X250",
       "engineCode": "AJ126",
@@ -93,5 +100,15 @@
   "notice": {
     "highlight": "The engine",
     "rest": " has been fitted to every XF 3.0 V6 S/SC since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XF 3.0 V6 S/SC Model Year:",
+    "items": [
+      "Jaguar XF 3.0 V6 S/SC 2007 Engine Rebuild",
+      "Jaguar XF 3.0 V6 S/SC 2010 Engine Rebuild",
+      "Jaguar XF 3.0 V6 S/SC 2012 Engine Rebuild",
+      "Jaguar XF 3.0 V6 S/SC 2015 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

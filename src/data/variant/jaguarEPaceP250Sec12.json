@@ -17,12 +17,12 @@
     "vehicleLabel": "Jaguar E-Pace P250"
   },
   "costs": {
-    "titlePre": "Jaguar E-Pace P250 ENGINE ",
+    "titlePre": "Jaguar E-Pace P250 Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar E-Pace P250 engine rebuild starts from",
     "price": "£2,000",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -31,13 +31,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES E-Pace P250 ENGINE SIZES",
-        "item": "Jaguar E-Pace P250 3.0 Litre Engine (AJ200, I6)"
+        "title": "JAGUAR E-Pace P250 ENGINE SIZES",
+        "item": "Jaguar E-Pace P250 2.0 Litre Engine (AJ200, I4)",
+        "items": [
+          "Jaguar E-Pace P250 2.0 Litre Engine (AJ200, I4)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES E-Pace P250 FUEL TYPES",
-        "item": "Jaguar E-Pace P250 Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR E-Pace P250 FUEL TYPES",
+        "item": "Jaguar E-Pace P250 Petrol Engine Rebuilds",
+        "items": [
+          "Jaguar E-Pace P250 Petrol Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -52,9 +58,31 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR E-PACE VARIANTS",
+    "intro": "Looking for a different E-Pace engine? We also cover:",
+    "links": [
+      {
+        "label": "E-Pace D165 Engine",
+        "href": "/jaguar-e-pace-d165-engines"
+      },
+      {
+        "label": "E-Pace D200 Engine",
+        "href": "/jaguar-e-pace-d200-engines"
+      },
+      {
+        "label": "E-Pace P160 Engine",
+        "href": "/jaguar-e-pace-p160-engines"
+      },
+      {
+        "label": "E-Pace P200 Engine",
+        "href": "/jaguar-e-pace-p200-engines"
+      },
+      {
+        "label": "E-Pace P300e Engine",
+        "href": "/jaguar-e-pace-p300e-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar E-Pace Engines",
+    "viewAllHref": "/jaguar-e-pace-engines"
   }
 }

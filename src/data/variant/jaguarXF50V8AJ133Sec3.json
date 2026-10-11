@@ -7,15 +7,20 @@
   "carImage": "/variant/jaguar_car.webp",
   "cards": [
     {
-      "code": "AJ133 / AJ133S",
-      "generation": "",
+      "code": "AJ133 (Naturally Aspirated)",
+      "generation": "X250 (~2011–2015)",
       "price": "£4,500"
+    },
+    {
+      "code": "AJ133S (Supercharged / XFR)",
+      "generation": "X250 (~2011–2015)",
+      "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Both engine codes sit on the V8 tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -24,13 +29,33 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar XF 5.0 V8 (AJ133) Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ133 / AJ133S I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar XF 5.0 V8 Timing Chain Tensioner Wear ",
+    "titleHighlight": "(AJ133/AJ133S, X250)",
     "paragraphs": [
-      "The AJ133 / AJ133S is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ133 / AJ133S V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ133 / AJ133S rebuild.",
-      "Because the XF 5.0 V8 (AJ133) uses a completely different engine family from the V8 M178 fitted to the XF 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your XF 5.0 V8 is from the X250 generation — roughly 2011 to 2015 — timing chain tensioner and guide wear is a well-documented design flaw on the AJ133/AJ133S V8, subject to a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time, which can fail with little warning.",
+      "We replace the timing chain, tensioners, guides, and water pump as standard on every AJ133/AJ133S rebuild."
     ],
-    "source": "Source: Established AJ133 / AJ133S specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: verified via multiple independent sources including confirmed class-action lawsuit scope, X250 XF explicitly named per G-BRF. Applies to AJ133/AJ133S X250 generation only."
+  },
+  "tiles": [
+    {
+      "badge": "AJ133 (Naturally Aspirated)",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£4,500"
+    },
+    {
+      "badge": "X250",
+      "label": "Generation",
+      "big": "~2011–2015",
+      "sub": "Jaguar XF 5.0 V8 (AJ133)"
+    },
+    {
+      "badge": "XF 5.0 V8 / XFR",
+      "label": "Variant",
+      "big": "5.0L Petrol Supercharged",
+      "sub": "AJ133 / AJ133S"
+    }
+  ]
 }

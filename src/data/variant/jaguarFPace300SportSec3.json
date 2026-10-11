@@ -8,7 +8,7 @@
   "cards": [
     {
       "code": "AJ300D",
-      "generation": "",
+      "generation": "X761 (2022–present)",
       "price": "£2,900"
     }
   ],
@@ -24,13 +24,32 @@
     "href": "#quote-form"
   },
   "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Pace 300 Sport Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(AJ300D I6)",
+    "bgImage": "/variant/sec3_lower_div_bg.webp",
+    "titlePre": "Jaguar F-Pace 300 Sport Timing Chain & Injector Wear ",
+    "titleHighlight": "(AJ300D)",
     "paragraphs": [
-      "The AJ300D is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older AJ300D V6. We replace timing chains, bearings, water pump and gaskets as standard on every AJ300D rebuild.",
-      "Because the F-Pace 300 Sport uses a completely different engine family from the V8 M178 fitted to the F-Pace 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
+      "If your F-Pace 300 Sport has the AJ300D diesel — that's the Ingenium straight-six mild-hybrid — timing chain wear and injector seal failure are documented patterns on this engine family. We inspect and replace timing chains, injector seals, bearings and gaskets as standard on every AJ300D rebuild."
     ],
-    "source": "Source: Established AJ300D specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+    "source": "Source: same Ingenium 6-cyl pattern as D300, per G-BRF and VRF-jaguar-f-pace.md, confirmed applicable to the 300 Sport via shared engine family."
+  },
+  "tiles": [
+    {
+      "badge": "AJ300D",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£2,900"
+    },
+    {
+      "badge": "X761",
+      "label": "Generation",
+      "big": "2022–present",
+      "sub": "Jaguar F-Pace 300 Sport"
+    },
+    {
+      "badge": "300 Sport",
+      "label": "Variant",
+      "big": "3.0L Diesel MHEV",
+      "sub": "AJ300D"
+    }
+  ]
 }

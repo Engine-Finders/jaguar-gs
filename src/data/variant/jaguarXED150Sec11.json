@@ -72,5 +72,17 @@
   "notice": {
     "highlight": "The Ingenium AJ200D",
     "rest": " has been fitted to every XE D150 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XE D150 Model Year:",
+    "items": [
+      "Jaguar XE D150 2015 Engine Rebuild",
+      "Jaguar XE D150 2016 Engine Rebuild",
+      "Jaguar XE D150 2017 Engine Rebuild",
+      "Jaguar XE D150 2018 Engine Rebuild",
+      "Jaguar XE D150 2019 Engine Rebuild",
+      "Jaguar XE D150 2020 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

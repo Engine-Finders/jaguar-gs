@@ -14,12 +14,12 @@
     "vehicleLabel": "Jaguar F-Pace 400 Sport"
   },
   "costs": {
-    "titlePre": "Jaguar F-Pace 400 Sport ENGINE ",
+    "titlePre": "Jaguar F-Pace 400 Sport Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar F-Pace 400 Sport engine rebuild starts from",
     "price": "£3,600",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": ". A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -28,13 +28,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES F-Pace 400 Sport ENGINE SIZES",
-        "item": "Jaguar F-Pace 400 Sport 3.0 Litre Engine (engine, I6)"
+        "title": "JAGUAR F-Pace 400 Sport ENGINE SIZES",
+        "item": "Jaguar F-Pace 400 Sport 3.0 Litre Engine (AJ300P, I6)",
+        "items": [
+          "Jaguar F-Pace 400 Sport 3.0 Litre Engine (AJ300P, I6)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES F-Pace 400 Sport FUEL TYPES",
-        "item": "Jaguar F-Pace 400 Sport Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR F-Pace 400 Sport FUEL TYPES",
+        "item": "Jaguar F-Pace 400 Sport Petrol MHEV Engine Rebuilds",
+        "items": [
+          "Jaguar F-Pace 400 Sport Petrol MHEV Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -49,9 +55,47 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR F-PACE VARIANTS",
+    "intro": "Looking for a different F-Pace engine? We also cover:",
+    "links": [
+      {
+        "label": "F-Pace 300 Sport Engine",
+        "href": "/jaguar-f-pace-300-sport-engines"
+      },
+      {
+        "label": "F-Pace D180 Engine",
+        "href": "/jaguar-f-pace-d180-engines"
+      },
+      {
+        "label": "F-Pace D200 Engine",
+        "href": "/jaguar-f-pace-d200-engines"
+      },
+      {
+        "label": "F-Pace D300 Engine",
+        "href": "/jaguar-f-pace-d300-engines"
+      },
+      {
+        "label": "F-Pace P250 Engine",
+        "href": "/jaguar-f-pace-p250-engines"
+      },
+      {
+        "label": "F-Pace P340 Engine",
+        "href": "/jaguar-f-pace-p340-engines"
+      },
+      {
+        "label": "F-Pace P400 Engine",
+        "href": "/jaguar-f-pace-p400-engines"
+      },
+      {
+        "label": "F-Pace P400e Engine",
+        "href": "/jaguar-f-pace-p400e-engines"
+      },
+      {
+        "label": "F-Pace SVR Engine",
+        "href": "/jaguar-f-pace-svr-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar F-Pace Engines",
+    "viewAllHref": "/jaguar-f-pace-engines"
   }
 }

@@ -1,25 +1,25 @@
 {
   "about": {
     "image": "/variant/sec10_top_div.webp",
-    "imageMobile": "/variant/sec10_top_div_mobile.webp",
+    "imageMobile": "/variant/sec10_top_div_m2.webp",
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type V6 S ENGINE",
     "paragraphs": [
-      "The F-Type V6 S uses the AJ126 — a 3.0-litre supercharged V6 petrol engine. It was fitted from the F-Type's launch in 2012 through to 2024 across the X152 generation, sitting above the 2.0-litre Ingenium four-cylinder and below the 5.0-litre supercharged V8 in the F-Type range.\n\nThe V6 S was discontinued alongside the rest of the F-Type range in 2024, but we continue to rebuild and replace engines for every one still on the road."
+      "The F-Type V6 S uses the AJ126 — a 3.0-litre supercharged V6 petrol engine. It was fitted from the F-Type's launch in 2012 through to 2024 across the X152 generation, sitting above the 2.0-litre Ingenium four-cylinder and below the 5.0-litre supercharged V8 in the F-Type range."
     ],
-    "boldParagraph": "We continue to rebuild and replace AJ126 engines for every F-Type V6 S on the road."
+    "boldParagraph": "The V6 S was discontinued alongside the rest of the F-Type range in 2024, but we continue to rebuild and replace engines for every one still on the road."
   },
   "codes": {
     "titlePre": "Jaguar F-Type V6 S ENGINE ",
     "titleHighlight": "CODES",
-    "image": "/variant/sec10_engine.webp",
+    "image": "/variant/sec10_middle_div.webp",
     "cards": [
       {
         "codeHighlight": "AJ126",
         "codeRest": "",
-        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 S from 2012 to 2024 (X152 generation). No widely-reported specific known issue confirmed for this application — we still service it to the same standard as our other Jaguar rebuilds, replacing timing chain, tensioners and guides as standard where worn. Check Your AJ126 F-Type V6 S → [link to quote form]",
+        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 S from 2012 to 2024 (X152 generation). No widely-reported specific known issue confirmed for this application — we still service it to the same standard as our other Jaguar rebuilds, replacing timing chain, tensioners and guides as standard where worn.",
         "cta": "Check Your AJ126 F-Type V6 S",
-        "codeHref": "/jaguar-m256-engine"
+        "codeHref": "/jaguar-aj126-engine"
       }
     ]
   },
@@ -28,7 +28,7 @@
     "titleHighlight": "COMPATIBILITY",
     "intro": "The F-Type V6 S uses a single engine family across all production years — the AJ126 supercharged 3.0-litre V6. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
-    "imageMobile": "/variant/sec10_third_div_mobile.webp",
+    "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
       "title": "AJ126",
       "line1": "Confirmed by VIN",
@@ -36,7 +36,7 @@
     },
     "points": [
       {
-        "icon": "piston",
+        "icon": "engine",
         "text": "Your exact engine code (AJ126) via registration or VIN"
       },
       {
@@ -44,7 +44,7 @@
         "text": "Your generation (X152)"
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "text": "Drivetrain and ancillary specification"
       },
       {
@@ -52,7 +52,8 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car."
+    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type V6 S ",

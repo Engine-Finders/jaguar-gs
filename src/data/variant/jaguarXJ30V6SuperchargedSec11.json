@@ -27,6 +27,13 @@
   ],
   "rows": [
     {
+      "year": "Year",
+      "generation": "Generation",
+      "engineCode": "Engine Code",
+      "fuel": "Fuel",
+      "service": "Service"
+    },
+    {
       "year": "2013",
       "generation": "X351",
       "engineCode": "AJ126",
@@ -79,5 +86,14 @@
   "notice": {
     "highlight": "The engine",
     "rest": " has been fitted to every XJ 3.0 V6 Supercharged since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+  },
+  "coverNote": {
+    "title": "We Cover Every Jaguar XJ 3.0 V6 Model Year:",
+    "items": [
+      "Jaguar XJ 3.0 V6 2013 Engine Rebuild",
+      "Jaguar XJ 3.0 V6 2016 Engine Rebuild",
+      "Jaguar XJ 3.0 V6 2019 Engine Rebuild"
+    ],
+    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
   }
 }

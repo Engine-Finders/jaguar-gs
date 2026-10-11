@@ -15,7 +15,23 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Jaguar F-Pace P340 Engine Rebuild — From £3,600"
+    },
+    {
+      "icon": "price",
+      "text": "Specialist Jaguar F-Pace P340 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty"
+    },
+    {
+      "icon": "price",
+      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    },
+    {
+      "icon": "price",
+      "text": "✔ Specialist technicians with 10-15 years of experience   ✔ 12 Month Unlimited-Mileage Warranty   ✔ Nationwide Recovery   ✔ Free Engine Matching by Registration   ✔ AJ300P Specialists"
+    },
+    {
+      "icon": "price",
+      "text": "Starting from £3,600 — Get a Fixed-Price Quote →   [Call Our Specialists: 01268 944 234]"
     }
   ],
   "cta": {
@@ -23,14 +39,24 @@
     "label": "Get Your Fixed-Price Quote",
     "href": "#quote-form"
   },
-  "warning": {
-    "bgImage": "/variant/sec3.webp",
-    "titlePre": "Jaguar F-Pace P340 Oil Leaks & Coolant System Wear ",
-    "titleHighlight": "(engine I6)",
-    "paragraphs": [
-      "The engine is a sophisticated 3.0-litre inline-six with an integrated starter-generator and electric auxiliary compressor — a more modern and efficient design than the older engine V6. We replace timing chains, bearings, water pump and gaskets as standard on every engine rebuild.",
-      "Because the F-Pace P340 uses a completely different engine family from the V8 M178 fitted to the Jaguar 63 and GT 63 S, parts and rebuild specifications don't cross over between them."
-    ],
-    "source": "Source: Established engine specialist pattern — timing chain, bearing and gasket wear across integrated-starter-generator inline-six units."
-  }
+  "tiles": [
+    {
+      "badge": "",
+      "label": "Engine Code",
+      "small": "Rebuild From",
+      "big": "£3,600"
+    },
+    {
+      "badge": "X761",
+      "label": "Generation",
+      "big": "2016–present",
+      "sub": "Jaguar F-Pace P340"
+    },
+    {
+      "badge": "P340",
+      "label": "Variant",
+      "big": "3.0L Petrol",
+      "sub": "AJ300P (3.0L I6)"
+    }
+  ]
 }

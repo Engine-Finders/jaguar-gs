@@ -9,43 +9,43 @@
       "icon": "piston",
       "badge": "MOST POPULAR",
       "title": "REBUILDING YOUR XJ6 ENGINE",
-      "body": "We rebuild the engine your XJ6 already has instead of selling you a used engine of unknown history — strip it down, pressure-test it, and replace every worn or damaged component (timing chains, bearings, water pump, gaskets) with updated OEM parts. Near-new performance with a 12-month unlimited-mileage warranty.",
+      "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your XJ6 already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most XJ6 owners choose, and it’s the one we’d recommend for most situations.",
       "link": "From £3,200"
     },
     {
       "number": "02",
       "icon": "pin",
+      "badge": "",
       "title": "RECONDITIONED XJ6 ENGINES",
-      "body": "A full strip-down, inspection and replacement of worn parts rather than a straight swap. If that's what you're after, our rebuild service is exactly that.",
-      "link": "Learn more"
+      "body": "\"Reconditioned\" is the term many owners search for when they mean the same thing as a rebuild — a full strip-down, inspection, and replacement of worn parts rather than a straight swap. If that’s what you’re after, our rebuild service is exactly that."
     },
     {
       "number": "03",
       "icon": "gear",
+      "badge": "",
       "title": "REFURBISHED XJ6 ENGINES",
-      "body": "Restoring your existing engine to full working condition rather than replacing it outright. Our rebuild service covers this.",
-      "link": "Learn more"
+      "body": "Similarly, \"refurbished\" often describes the same process from a different angle — restoring your existing engine to full working condition rather than replacing it outright. Our rebuild covers this."
     },
     {
       "number": "04",
       "icon": "engine",
+      "badge": "",
       "title": "REMANUFACTURED XJ6 ENGINES",
-      "body": "Built to original specification with updated components. That's consistent with what our rebuild service delivers on the engine.",
-      "link": "Learn more"
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That’s consistent with what our rebuild service delivers on the AJ16."
     },
     {
       "number": "05",
       "icon": "engine-light",
+      "badge": "",
       "title": "REPLACEMENT XJ6 ENGINES",
-      "body": "If your existing engine is beyond economical repair, we offer complete engine replacement and fitting – sourced and fitted by our team, with the same 12-month warranty.",
-      "link": "Learn more"
+      "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month warranty."
     },
     {
       "number": "06",
       "icon": "search",
+      "badge": "",
       "title": "USED XJ6 ENGINES",
-      "body": "Matched low-mileage used engines for when time is critical. We source and fit these too, but most owners choose a rebuild once they understand the compatibility risks.",
-      "link": "Learn more"
+      "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine’s damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries. Enter your reg below and we’ll talk you through both options honestly."
     }
   ],
   "banner": {

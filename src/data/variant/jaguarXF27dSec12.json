@@ -18,12 +18,12 @@
     "vehicleLabel": "Jaguar XF 2.7d"
   },
   "costs": {
-    "titlePre": "Jaguar XF 2.7d ENGINE ",
+    "titlePre": "Jaguar XF 2.7d Engine ",
     "titleHighlight": "COSTS",
     "intro": "A Jaguar XF 2.7d engine rebuild starts from",
     "price": "£2,900",
-    "body": "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
-    "image": "/variant/sec10_engine.webp",
+    "body": "for the Ford AJD V6 diesel. A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes.",
+    "image": "/variant/engine_dark.webp",
     "warranty": {
       "line1": "12 MONTH",
       "line2": "UNLIMITED-MILEAGE",
@@ -32,13 +32,19 @@
     "subCards": [
       {
         "icon": "engine",
-        "title": "MERCEDES XF 2.7d ENGINE SIZES",
-        "item": "Jaguar XF 2.7d 3.0 Litre Engine (Ford AJD V6, I6)"
+        "title": "JAGUAR XF 2.7d ENGINE SIZES",
+        "item": "Jaguar XF 2.7 Litre Engine (Ford AJD V6)",
+        "items": [
+          "Jaguar XF 2.7 Litre Engine (Ford AJD V6)"
+        ]
       },
       {
         "icon": "fuel",
-        "title": "MERCEDES XF 2.7d FUEL TYPES",
-        "item": "Jaguar XF 2.7d Petrol Mild Hybrid Engine Rebuilds"
+        "title": "JAGUAR XF 2.7d FUEL TYPES",
+        "item": "Jaguar XF 2.7d Diesel Engine Rebuilds",
+        "items": [
+          "Jaguar XF 2.7d Diesel Engine Rebuilds"
+        ]
       }
     ]
   },
@@ -53,9 +59,67 @@
     "image": "/variant/jaguar_car.webp"
   },
   "related": {
-    "title": "RELATED JAGUAR ENGINES",
-    "links": [],
-    "viewAll": "View All Jaguar Engines",
-    "viewAllHref": "/engines"
+    "title": "RELATED JAGUAR XF VARIANTS",
+    "intro": "Looking for a different XF engine? We also cover:",
+    "links": [
+      {
+        "label": "XF 2.0 Engine",
+        "href": "/jaguar-xf-2-0-engines"
+      },
+      {
+        "label": "XF 2.0d Engine",
+        "href": "/jaguar-xf-2-0d-engines"
+      },
+      {
+        "label": "XF 2.0i Engine",
+        "href": "/jaguar-xf-2-0i-engines"
+      },
+      {
+        "label": "XF 2.2 Diesel Engine",
+        "href": "/jaguar-xf-2-2-diesel-engines"
+      },
+      {
+        "label": "XF 3.0 V6 Engine",
+        "href": "/jaguar-xf-3-0-v6-engines"
+      },
+      {
+        "label": "XF 3.0 V6 S/SC Engine",
+        "href": "/jaguar-xf-3-0-v6-s-sc-engines"
+      },
+      {
+        "label": "XF 3.0d Engine",
+        "href": "/jaguar-xf-3-0d-engines"
+      },
+      {
+        "label": "XF 300 Sport Engine",
+        "href": "/jaguar-xf-300-sport-engines"
+      },
+      {
+        "label": "XF 4.2 V8 Engine",
+        "href": "/jaguar-xf-4-2-v8-engines"
+      },
+      {
+        "label": "XF 5.0 V8 (AJ133) Engine",
+        "href": "/jaguar-xf-5-0-v8-aj133-engines"
+      },
+      {
+        "label": "XF P250 Engine",
+        "href": "/jaguar-xf-p250-engines"
+      },
+      {
+        "label": "XF P300 Engine",
+        "href": "/jaguar-xf-p300-engines"
+      },
+      {
+        "label": "XF R-Sport Engine",
+        "href": "/jaguar-xf-r-sport-engines"
+      },
+      {
+        "label": "XF XFR 5.0 Supercharged V8 Engine",
+        "href": "/jaguar-xf-xfr-5-0-supercharged-v8-engines"
+      }
+    ],
+    "viewAll": "View All Jaguar XF Engines",
+    "viewAllHref": "/jaguar-xf-engines"
   }
 }

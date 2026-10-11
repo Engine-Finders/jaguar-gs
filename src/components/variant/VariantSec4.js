@@ -3,21 +3,29 @@ import Icon from "@/components/reusable/Icon";
 
 export default function VariantSec4({ data }) {
   return (
-    <section className="theme-light relative overflow-hidden">
+    <section className="theme-light relative overflow-hidden" style={{ backgroundColor: "#d7d6db" }}>
+      {/* full-section background: the artwork fades to the section colour at the bottom */}
+      <div className="pointer-events-none absolute left-0 top-0 w-[122%] md:inset-x-0 md:w-auto" aria-hidden="true">
+        <Image src={data.topImage} alt="" width={1024} height={768} priority className="block h-auto w-full" sizes="100vw" />
+      </div>
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="relative h-40 w-full overflow-hidden">
-          <Image src={data.topImage} alt="Jaguar AMG GT 53 engine block" fill className="object-cover" sizes="100vw" />
-          <div
-            className="absolute inset-0"
-            style={{ background: "linear-gradient(to right, var(--theme-light-bg) 0%, var(--theme-light-bg) 62%, rgba(241,237,232,0.85) 72%, transparent 88%)" }}
-          />
           <div className="relative z-10 p-4">
+            {/* soft, uneven white wash beneath the copy: overlapping radial blobs that all reach zero before the box edge, so no outline shows */}
+            <div
+              className="pointer-events-none absolute inset-0 -z-10"
+              style={{
+                background:
+                  "radial-gradient(ellipse 62% 48% at 24% 30%, rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.7) 45%, rgba(255,255,255,0) 100%), radial-gradient(ellipse 55% 42% at 38% 76%, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0) 100%), radial-gradient(ellipse 34% 40% at 62% 38%, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0) 100%)",
+              }}
+              aria-hidden="true"
+            />
             <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-              <span className="block text-[#101828]">{data.headlinePre}</span>
+              <span className="block text-[#111111]">{data.headlinePre}</span>
               <span className="block text-hero-blue">{data.headlineHighlight}</span>
             </h2>
-            <p className="mt-2 max-w-[60%] text-xs leading-snug text-[#101828]">{data.description}</p>
+            <p className="mt-2 max-w-[52%] text-xs leading-snug text-[#111111]">{data.description}</p>
           </div>
         </div>
 
@@ -26,7 +34,7 @@ export default function VariantSec4({ data }) {
             {data.cards.map((c) => (
               <div key={c.number} className="glass-card flex flex-col rounded-lg p-3">
                 <div className="flex items-center gap-2">
-                  <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-(--theme-light-bg)">
+                  <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-(--theme-light-bg) shadow-[0_4px_10px_-3px_rgba(0,0,0,0.3)]">
                     <Icon name={c.icon} className="h-5 w-5 text-hero-blue" />
                   </span>
                   <div className="min-w-0">
@@ -38,33 +46,25 @@ export default function VariantSec4({ data }) {
                     </div>
                   </div>
                 </div>
-                <p className="mt-2 text-xs font-extrabold uppercase leading-tight text-[#101828]">{c.title}</p>
-                <p className="body-text mt-1.5 line-clamp-4 leading-snug text-[#4a5568]">{c.body}</p>
+                <p className="mt-2 text-xs font-extrabold uppercase leading-tight text-[#111111]">{c.title}</p>
+                <p className="body-text mt-1.5 line-clamp-4 leading-snug text-[#4a4a4a]">{c.body}</p>
                 <a href="#quote-form" className="label-text mt-2 inline-flex w-fit items-center gap-1 font-bold text-hero-blue">
-                  {c.link} <span aria-hidden>→</span>
+                  {c.link || "Learn more"} <span aria-hidden>→</span>
                 </a>
               </div>
             ))}
           </div>
 
           <div className="glass-card relative mt-5 overflow-hidden rounded-2xl p-3">
-            <div className="pointer-events-none absolute inset-y-0 left-0 w-16" aria-hidden="true">
-              <div
-                className="absolute inset-0"
-                style={{
-                  transform: "skewX(-20deg)",
-                  transformOrigin: "top left",
-                  background:
-                    "linear-gradient(90deg, var(--color-bmw-blue) 0%, var(--color-bmw-blue) 30%, var(--color-bmw-violet) 30%, var(--color-bmw-violet) 62%, var(--color-bmw-red) 62%, var(--color-bmw-red) 100%)",
-                  WebkitMaskImage: "linear-gradient(to bottom right, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 85%)",
-                  maskImage: "linear-gradient(to bottom right, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 85%)",
-                }}
-              />
+            <div className="pointer-events-none absolute inset-y-0 left-0 flex w-16 gap-1.5" style={{ transform: "skewX(-25deg)", transformOrigin: "bottom left" }} aria-hidden="true">
+              <span className="chrome-bar-a w-3" />
+              <span className="chrome-bar-b w-2" />
+              <span className="chrome-bar-a w-4" />
             </div>
 
             <div className="relative z-10 pl-20">
-              <p className="text-sm font-extrabold uppercase leading-tight text-[#101828]">{data.banner.title}</p>
-              <p className="mt-1.5 text-xs leading-snug text-[#101828]">{data.banner.body}</p>
+              <p className="text-sm font-extrabold uppercase leading-tight text-[#111111]">{data.banner.title}</p>
+              <p className="mt-1.5 text-xs leading-snug text-[#111111]">{data.banner.body}</p>
               <a
                 href={data.banner.cta.href}
                 className="btn-text mt-3 flex w-fit items-center justify-center gap-2 whitespace-nowrap rounded-sm bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-2.5 uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
@@ -79,15 +79,13 @@ export default function VariantSec4({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden md:block">
         <div className="relative h-64 w-full overflow-hidden lg:h-72">
-          <Image src={data.topImage} alt="Jaguar AMG GT 53 engine block" fill className="object-cover" sizes="100vw" />
-
           <div className="relative z-10 mx-auto flex h-full max-w-6xl items-center px-4 sm:px-6 lg:px-8">
             <div className="max-w-lg">
               <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
-                <span className="block text-[#101828]">{data.headlinePre}</span>
+                <span className="block text-[#111111]">{data.headlinePre}</span>
                 <span className="block text-hero-blue">{data.headlineHighlight}</span>
               </h2>
-              <p className="mt-3 text-sm text-[#101828] lg:text-base">{data.description}</p>
+              <p className="mt-3 text-sm text-[#111111] lg:text-base">{data.description}</p>
             </div>
           </div>
         </div>
@@ -102,7 +100,7 @@ export default function VariantSec4({ data }) {
                 >
                   <div>
                     <div className="flex items-start gap-4">
-                      <span className="flex h-20 w-20 shrink-0 items-center justify-center rounded-full bg-(--theme-light-bg)">
+                      <span className="flex h-20 w-20 shrink-0 items-center justify-center rounded-full bg-(--theme-light-bg) shadow-[0_6px_14px_-4px_rgba(0,0,0,0.3)]">
                         <Icon name={c.icon} className="h-11 w-11 text-hero-blue" />
                       </span>
                       <div className="min-w-0">
@@ -112,37 +110,29 @@ export default function VariantSec4({ data }) {
                             <span className="label-text rounded-sm bg-hero-blue px-2.5 py-1 font-extrabold uppercase text-white">{c.badge}</span>
                           )}
                         </div>
-                        <p className="mt-1 text-base font-extrabold uppercase leading-tight text-[#101828]">{c.title}</p>
+                        <p className="mt-1 text-base font-extrabold uppercase leading-tight text-[#111111]">{c.title}</p>
                       </div>
                     </div>
-                    <p className="mt-4 text-sm leading-relaxed text-[#4a5568]">{c.body}</p>
+                    <p className="mt-4 text-sm leading-relaxed text-[#4a4a4a]">{c.body}</p>
                   </div>
                   <a href="#quote-form" className="mt-4 inline-flex w-fit items-center gap-1.5 text-sm font-bold text-hero-blue">
-                    {c.link} <span aria-hidden>→</span>
+                    {c.link || "Learn more"} <span aria-hidden>→</span>
                   </a>
                 </div>
               ))}
             </div>
 
             <div className="glass-card relative mt-6 grid grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)_auto] items-stretch gap-6 overflow-hidden rounded-2xl p-6">
-              <div className="pointer-events-none absolute inset-y-0 left-0 w-20" aria-hidden="true">
-                <div
-                  className="absolute inset-0"
-                  style={{
-                    transform: "skewX(-25deg)",
-                    transformOrigin: "top left",
-                    background:
-                      "linear-gradient(90deg, var(--color-bmw-blue) 0%, var(--color-bmw-blue) 30%, var(--color-bmw-violet) 30%, var(--color-bmw-violet) 62%, var(--color-bmw-red) 62%, var(--color-bmw-red) 100%)",
-                    WebkitMaskImage: "linear-gradient(to bottom right, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 85%)",
-                    maskImage: "linear-gradient(to bottom right, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 85%)",
-                  }}
-                />
-              </div>
+              <div className="pointer-events-none absolute inset-y-0 left-0 flex w-20 gap-1.5" style={{ transform: "skewX(-25deg)", transformOrigin: "bottom left" }} aria-hidden="true">
+              <span className="chrome-bar-a w-3" />
+              <span className="chrome-bar-b w-2" />
+              <span className="chrome-bar-a w-4" />
+            </div>
 
               <div className="relative z-10 flex items-center pl-24">
                 <div>
-                  <p className="text-lg font-extrabold uppercase leading-tight text-[#101828]">{data.banner.title}</p>
-                  <p className="mt-1.5 text-sm leading-snug text-[#101828]">{data.banner.body}</p>
+                  <p className="text-lg font-extrabold uppercase leading-tight text-[#111111]">{data.banner.title}</p>
+                  <p className="mt-1.5 text-sm leading-snug text-[#111111]">{data.banner.body}</p>
                 </div>
               </div>
 

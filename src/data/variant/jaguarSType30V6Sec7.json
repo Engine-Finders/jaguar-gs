@@ -1,6 +1,6 @@
 {
   "reviews": {
-    "titlePre": "WHAT MERCEDES ",
+    "titlePre": "WHAT JAGUAR ",
     "titleHighlight": "S-Type 3.0 V6 OWNERS SAY",
     "items": [
       {
@@ -48,7 +48,7 @@
     "titlePre": "WE COVER YOUR",
     "titleHighlight": "EXACT VEHICLE",
     "body": "Enter your registration below and we'll confirm your Jaguar S-Type 3.0 V6 has the AJ‑V6, along with an exact rebuild price.",
-    "image": "/variant/sec7.webp",
+    "image": "/variant/sec7_middle_div.webp",
     "buttonLabel": "Check Fit",
     "ticks": [
       "Fast",
@@ -57,15 +57,15 @@
     ]
   },
   "whyChoose": {
-    "titlePre": "WHY MERCEDES S-Type 3.0 V6 ",
+    "titlePre": "WHY JAGUAR S-Type 3.0 V6 ",
     "titleHighlight": "OWNERS CHOOSE US",
     "items": [
-      "Engine matched using VIN or registration number",
+      "Engine matched using VIN or registration number — confirms your AJ-V6 before you’re quoted",
       "Genuine specialist workshop — not a broker",
       "Specialist technicians with 10-15 years of experience",
-      "We don't swap your engine for an unknown used unit",
+      "We don’t swap your engine for an unknown used unit",
       "Nationwide recovery, workshop rebuild",
-      "12 month unlimited-mileage warranty",
+      "12-month unlimited-mileage warranty",
       "All engine ancillaries serviced as part of the rebuild",
       "Trade & public enquiries welcome",
       "Dedicated advisor from quote to fit"
