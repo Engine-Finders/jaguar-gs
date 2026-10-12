@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ26",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ26 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ26 engine rebuild starts from £4,500, regardless of which of the two models it's fitted to — the price tier is set by the engine, not the badge on the boot.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£4,500",
+    "card": {
+      "model": "Jaguar XJ X308",
+      "engine": "AJ26 4.0L",
+      "year": "1997 – 2003",
+      "price": "£4,500"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ26",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ26 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ26 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ26 owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ26 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ26 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given how many different AJ26 applications exist across the Jaguar range. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ26",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ26-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the two AJ26-equipped models you drive."
     }
   ],
   "faq": {
@@ -73,33 +95,41 @@
       },
       {
         "q": "Which Jaguar models use the AJ26?",
-        "a": "XJ XJ8 (X308, 1997–2003) and XK XK8 (X100, 1996–2004)."
+        "a": "XJ XJ8 (X308, 1997–2003) and XK XK8 (X100, 1996–2004) — see the full applications table above for exact variants and years."
       },
       {
         "q": "Does the AJ26 differ between Jaguar models?",
-        "a": "Yes. Ancillaries, mounting, and ECU calibration differ between the XJ and XK applications, even though the base engine code is the same."
+        "a": "Yes. Ancillaries, mounting, and ECU calibration differ between the XJ and XK applications, even though the base engine code is the same. We match by registration/VIN before confirming any rebuild or replacement."
       },
       {
         "q": "Is an AJ26 from one Jaguar model compatible with another?",
-        "a": "Not automatically. An AJ26 from an XK isn't a drop-in match for an AJ26 from an XJ — ancillaries, mounting, and ECU calibration all differ."
+        "a": "Not automatically. An AJ26 from an XK isn't a drop-in match for an AJ26 from an XJ — ancillaries, mounting, and ECU calibration all differ. We always confirm compatibility by registration/VIN."
       },
       {
         "q": "How much does a Jaguar AJ26 engine rebuild cost?",
-        "a": "Rebuilds start from £4,500, regardless of which model it's fitted to."
+        "a": "Rebuilds start from £4,500, regardless of which model it's fitted to. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ26 engines?",
         "a": "Yes. We work on AJ26 rebuilds across both models it's fitted to, replacing worn components as standard."
+      },
+      {
+        "q": "Do you work on supercharged AJ27S applications?",
+        "a": "Yes. AJ27S applications (XJR, XKR) are within our workshop capability, with the relevant supercharger components accounted for once your exact model is confirmed."
       }
     ],
     "faqRight": [
       {
-        "q": "Do you work on supercharged AJ27S applications?",
-        "a": "Yes. AJ27S applications (XJR, XKR) are within our workshop capability, with the relevant supercharger components accounted for once your exact model is confirmed."
+        "q": "Can you rebuild an AJ26 from an XJ XJ8?",
+        "a": "Yes. The AJ26 in the XJ is one of the applications we work on regularly, across the X308 generation from 1997 to 2003."
+      },
+      {
+        "q": "Can you rebuild an AJ26 from an XK XK8?",
+        "a": "Yes. The AJ26 in the XK is one of the applications we work on regularly, across the X100 generation from 1996 to 2004."
       },
       {
         "q": "Do you supply used Jaguar AJ26 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
@@ -111,7 +141,11 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJ26 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJ26 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given how many different AJ26 applications exist across the Jaguar range — and comes with a 12-month unlimited-mileage warranty."
+      },
+      {
+        "q": "Data Verification",
+        "a": "The application data on this page is sourced from the Jaguar Master Engine Data File and has been verified against manufacturer technical documentation."
       }
     ]
   },

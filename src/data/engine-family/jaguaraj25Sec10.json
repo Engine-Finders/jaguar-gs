@@ -5,23 +5,23 @@
   "titleBigPost": " AJ25",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ25 across all six model applications."
+    "Here's our practical view of the AJ25 across its X-Type X400 application."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ25 is a relatively new engine, and we see it across the entire range of its applications — from the compact 45-series Jaguars to the more recent 43-series models and the AJ25."
+      "body": "The AJ25 appears exclusively in the X-Type — a single-application engine, which makes it straightforward to confirm compatibility once your registration is entered."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Main bearings, connecting rod bearings, gaskets and seals, timing chain components where required, and the oil filter housing gasket as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the AJ25 across any of its six applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "No widely-reported catastrophic issue pattern has been confirmed for the AJ25 petrol V6. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {
@@ -31,19 +31,47 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ25 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ25 is a highly-strung, high-performance engine, and its twin-scroll turbocharger is a central component in its design. A full rebuild involves removing and inspecting the turbocharger, replacing timing chain components, bearings, gaskets, and calibrating the two-stage fuel injection system (direct and port injection). Given its 421 hp output in S guise, the engine's components are stressed to a high degree, and we pay particular attention to the crankshaft and cylinder head during inspection.",
+    "body": "The AJ25 uses timing chains rather than a belt, which means interval-based belt replacement isn't a concern — but the tensioners and guides are inspected as part of every rebuild to confirm they're within specification. As a Ford-derived Duratec V6, the AJ25 shares its basic architecture with the larger AJ30, meaning our workshop procedures are well-established across both displacements.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Main bearings, connecting rod bearings, gaskets and seals, timing chain components where required, oil filter housing gasket"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£3,200",
     "cta": {
       "label": "Check AJ25 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Seals",
+    "Timing chain components"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

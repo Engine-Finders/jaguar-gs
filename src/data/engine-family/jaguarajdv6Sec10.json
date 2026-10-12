@@ -5,23 +5,23 @@
   "titleBigPost": " AJD-V6",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJD-V6 across its 3 model applications."
+    "Here's our practical view of the AJD-V6 across its S-Type X200, XF X250, XJ X350 applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJD-V6 is fitted across S-Type, XF, XJ — we see it regularly across the full application range."
+      "body": "The AJD-V6 appears across three Jaguar model lines — S-Type, XF and XJ — with the XF being the most common application we work on."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Timing belt, bearings, gaskets, oil cooler seals, injector seals, and crankshaft oil seals as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJD-V6 across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "The AJD-V6 has several documented wear patterns: crankshaft bearing failure (rapid wear of liners, up to wedge and crankshaft breakage), oil leaks through the heat exchanger, timing belt breakage (belt changes every 120,000 km; belt breakage will bend valves), Siemens fuel system with piezo injectors (troublesome), EGR valve and thermostat weak points, and crankshaft oil seal failures."
     }
   ],
   "notice": {
@@ -31,19 +31,46 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJD-V6 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJD-V6 rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts (V6 (60° angle), 2.7L (2,720 cc) / 3.0L, Diesel).",
+    "body": "The AJD-V6 uses a timing belt, not a chain — the interval is critical, and belt breakage will bend valves. We inspect the timing belt thoroughly on every rebuild and replace it as part of our standard scope. The crankshaft bearing system is another area we pay close attention to, as rapid wear of liners can lead to wedge and crankshaft breakage. Oil cooler leaks through the heat exchanger and injector seal issues are also common — we address these as part of every strip-down.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Timing belt, bearings, gaskets, oil cooler seals, injector seals, crankshaft oil seals"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£2,900",
     "cta": {
       "label": "Check AJD-V6 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Seals"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

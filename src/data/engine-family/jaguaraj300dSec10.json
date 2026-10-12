@@ -5,23 +5,23 @@
   "titleBigPost": " AJ300D",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ300D across its 1 model applications."
+    "Here's our practical view of the AJ300D across its F-Pace X761 application."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ300D is fitted across F-Pace — we see it regularly across the full application range."
+      "body": "The AJ300D is a single-application engine within the Jaguar range — exclusively the F-Pace D300."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Main bearings, connecting rod bearings, complete gasket and seal set, timing chain components where required, and the oil filter housing gasket as standard. We also inspect the twin-turbocharger, EGR and DPF systems."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJ300D across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "No widely-reported pattern is confirmed for the AJ300D. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {
@@ -31,19 +31,47 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ300D REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJ300D rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts.",
+    "body": "The AJ300D is part of Jaguar Land Rover's Ingenium family of engines. A full rebuild involves a complete strip-down, inspection, and measurement of all critical components. The timing chain system is a known critical wear point on some Ingenium engines and is inspected thoroughly on every rebuild.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Main bearings, connecting rod bearings, complete gasket and seal set, timing chain components where required, oil filter housing gasket"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£2,800",
     "cta": {
       "label": "Check AJ300D Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Seals",
+    "Timing chain components"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

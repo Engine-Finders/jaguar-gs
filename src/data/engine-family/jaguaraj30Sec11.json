@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ30",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ30 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ30 engine rebuild starts from £3,200, regardless of which of the two models it's fitted to — the price tier is set by the engine, not the badge on the boot.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£3,200",
+    "card": {
+      "model": "Jaguar X-Type X400",
+      "engine": "AJ30 3.0L",
+      "year": "2001 – 2009",
+      "price": "£3,200"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ30",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ30 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ30 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ30 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ30 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given the known oil system concerns on this engine. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ30",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ30-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the two AJ30-equipped models you drive. AJ30 Reconditioned / Refurbished / Remanufactured / Rebuilt — Terminology Explained Rebuilt: Existing engine stripped, inspected and rebuilt to original specification. Reconditioned: Broad industry term; we define our rebuild as a full strip and rebuild. Remanufactured: Usually implies a defined restoration process; our rebuild meets this standard. Used: Existing engine from another vehicle; we can source and fit these. What Jaguar Garage Means by \"Rebuild\": Full strip-down, inspection, measurement, machining where required, replacement of worn components, reassembly, testing, and refit — with a 12-month unlimited-mileage warranty."
     }
   ],
   "faq": {
@@ -77,19 +99,19 @@
       },
       {
         "q": "Does the AJ30 differ between Jaguar models?",
-        "a": "Yes. The specific ancillaries and mounting differ between X-Type and XF applications, even though the base engine code is the same."
+        "a": "Yes. The specific ancillaries and mounting differ between X-Type and XF applications, even though the base engine code is the same. We match by registration/VIN before confirming any rebuild or replacement."
       },
       {
         "q": "How much does a Jaguar AJ30 engine rebuild cost?",
-        "a": "Rebuilds start from £3,200."
+        "a": "Rebuilds start from £3,200. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ30 engines?",
-        "a": "Yes. We work on AJ30 rebuilds across both models it's fitted to."
+        "a": "Yes. We work on AJ30 rebuilds across both models it's fitted to, replacing worn components as standard."
       },
       {
         "q": "What are the common issues with the AJ30?",
-        "a": "The AJ30 has a known vulnerability to catastrophic oil loss due to poor design of the sump and oil lines. The intake manifold geometry electric drive can also fail."
+        "a": "The AJ30 has a known vulnerability to catastrophic oil loss due to poor design of the sump and oil lines. The intake manifold geometry electric drive can also fail, and cracked intake gaskets can cause suction issues."
       }
     ],
     "faqRight": [
@@ -99,19 +121,19 @@
       },
       {
         "q": "Can you rebuild an AJ30 from an XF?",
-        "a": "Yes. The AJ30 in the XF is one of the applications we work on."
+        "a": "Yes. The AJ30 in the XF is one of the applications we work on, in the 3.0 V6 variant."
       },
       {
         "q": "Do you supply used Jaguar AJ30 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
-        "a": "Yes — nationwide recovery is available from £70."
+        "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
       },
       {
         "q": "How long does an AJ30 engine rebuild take?",
-        "a": "Most rebuilds are completed within 3-5 working days."
+        "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",

@@ -5,23 +5,23 @@
   "titleBigPost": " AJ-V6",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ-V6 across its 1 model applications."
+    "Here's our practical view of the AJ-V6 across its S-Type X200 application."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ-V6 is fitted across S-Type — we see it regularly across the full application range."
+      "body": "The AJ-V6 appears primarily in the S-Type, with the 3.0-litre capacity being the more common of the two we encounter."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Timing chain, bearings, and gaskets as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJ-V6 across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "No widely-reported catastrophic issue pattern has been confirmed for the AJ-V6 legacy petrol engines. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {
@@ -31,19 +31,46 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ-V6 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJ-V6 rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts (V6 (60° angle), 2.5L / 3.0L, Petrol).",
+    "body": "The AJ-V6's timing chain system is accessed as part of a full strip-down. A full rebuild also includes inspection of the oil pump and cooling system components, as these are key areas we check during every AJ-V6 rebuild.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Timing chain, bearings, gaskets"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£3,200",
     "cta": {
       "label": "Check AJ-V6 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Timing chain components"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

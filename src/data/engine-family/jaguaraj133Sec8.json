@@ -6,75 +6,75 @@
     "items": [
       {
         "icon": "truck",
-        "model": "F-Pace SVR",
+        "model": "Jaguar F-Pace",
         "status": "RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
-        "model": "F-Type R, SVR",
+        "model": "Jaguar F-Type",
         "status": "DIAGNOSTICS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
-        "model": "XE Project 8",
+        "model": "Jaguar XE",
         "status": "STRIPPED ENGINE",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
-        "model": "XF XFR, XFR-S",
+        "model": "Jaguar XF",
         "status": "TIMING CHAIN REPLACEMENT",
-        "image": "/engine/sec8.webp"
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
-        "model": "XJ XJ Supersport, XJR",
+        "model": "Jaguar XJ",
         "status": "IN FOR REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
-        "model": "XK XKR, XKR-S",
+        "model": "Jaguar XK",
         "status": "REBUILD IN PROGRESS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
-        "model": "F-Pace SVR",
+        "model": "Jaguar F-Pace",
         "status": "NATIONWIDE RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
-        "model": "F-Type R, SVR",
+        "model": "Jaguar F-Type",
         "status": "ENGINE STRIPPED",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
-        "model": "XE Project 8",
+        "model": "Jaguar XE",
         "status": "TESTING & CHECKS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
-        "model": "XF XFR, XFR-S",
+        "model": "Jaguar XF",
         "status": "READY FOR COLLECTION",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
-        "model": "XJ XJ Supersport, XJR",
+        "model": "Jaguar XJ",
         "status": "AJ133 REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
-        "model": "XK XKR, XKR-S",
+        "model": "Jaguar XK",
         "status": "WORKSHOP BAY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },

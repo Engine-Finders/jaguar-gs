@@ -17,9 +17,6 @@
     },
     {
       "label": "Years"
-    },
-    {
-      "label": "Powertrain Sub-type"
     }
   ],
   "rows": [
@@ -29,8 +26,8 @@
       "generation": "X400",
       "chassis": "X400",
       "years": "2001–2009",
-      "powertrain": "Petrol",
-      "modelHref": "/jaguar-x-type-2-5-v6-engines"
+      "powertrain": "",
+      "modelHref": "/jaguar-x-type-engines"
     }
   ],
   "prompt": {

@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ-V6",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ-V6 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ-V6 engine rebuild starts from £3,200 — the price tier is set by the engine, not the badge on the boot.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£3,200",
+    "card": {
+      "model": "Jaguar S-Type X200",
+      "engine": "AJ-V6 2.5L / 3.0L",
+      "year": "2001 – 2008",
+      "price": "£3,200"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ-V6",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ-V6 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ-V6 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ-V6 owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ-V6 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ-V6 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ-V6",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ-V6-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers."
     }
   ],
   "faq": {
@@ -77,7 +99,7 @@
       },
       {
         "q": "Does the AJ-V6 differ between Jaguar models?",
-        "a": "The AJ-V6 spans 2.5-litre and 3.0-litre capacities across the S-Type."
+        "a": "The AJ-V6 spans 2.5-litre and 3.0-litre capacities across the S-Type. A 2.5-litre unit isn't a direct swap for a 3.0-litre unit without the corresponding ECU and ancillaries."
       },
       {
         "q": "Is an AJ-V6 from one Jaguar model compatible with another?",
@@ -85,7 +107,7 @@
       },
       {
         "q": "How much does a Jaguar AJ-V6 engine rebuild cost?",
-        "a": "Rebuilds start from £3,200. Exact price depends on condition and parts required."
+        "a": "Rebuilds start from £3,200. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ-V6 engines?",
@@ -98,16 +120,20 @@
         "a": "Yes. The 3.0-litre AJ-V6 in the S-Type is one of the applications we work on regularly."
       },
       {
+        "q": "Can you rebuild an AJ-V6 from an S-Type?",
+        "a": "Yes. The AJ-V6 in the S-Type is the primary application we see for this engine."
+      },
+      {
         "q": "Do you supply used Jaguar AJ-V6 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
-        "a": "Yes — nationwide recovery is available from £70."
+        "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
       },
       {
         "q": "How long does an AJ-V6 engine rebuild take?",
-        "a": "Most rebuilds are completed within 3-5 working days."
+        "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",

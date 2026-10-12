@@ -17,9 +17,6 @@
     },
     {
       "label": "Years"
-    },
-    {
-      "label": "Powertrain Sub-type"
     }
   ],
   "rows": [
@@ -29,8 +26,8 @@
       "generation": "X250",
       "chassis": "X250",
       "years": "2008–2015",
-      "powertrain": "Diesel",
-      "modelHref": "/jaguar-xf-2-2-diesel-engines"
+      "powertrain": "",
+      "modelHref": "/jaguar-xf-engines"
     }
   ],
   "prompt": {

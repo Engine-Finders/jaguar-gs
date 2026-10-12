@@ -3,14 +3,20 @@
     "titlePre": "Jaguar ZSD-420",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar ZSD-420 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar ZSD-420 engine rebuild starts from £1,900.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£1,900",
+    "card": {
+      "model": "Jaguar X-Type X400",
+      "engine": "ZSD-420 2.2L",
+      "year": "2008 – 2010",
+      "price": "£1,900"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR ZSD-420",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "ZSD-420 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most ZSD-420 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "ZSD-420 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "ZSD-420 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the history risk a used unit carries. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR ZSD-420",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six ZSD-420-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers. Jaguar ZSD-420 Reconditioned / Refurbished / Remanufactured / Rebuilt — Terminology Explained Rebuilt: Existing engine stripped, inspected and rebuilt to original specification. Reconditioned: Broad industry term; we define our rebuild as a full strip and rebuild. Remanufactured: Usually implies a defined restoration process; our rebuild meets this standard. Used: Existing engine from another vehicle; we can source and fit these. What Jaguar Garage Means by \"Rebuild\": Full strip-down, inspection, measurement, machining where required, replacement of worn components, reassembly, testing, and refit — with a 12-month unlimited-mileage warranty."
     }
   ],
   "faq": {
@@ -69,7 +91,7 @@
     "faqLeft": [
       {
         "q": "What is the Jaguar ZSD-420 engine?",
-        "a": "The ZSD-420 is a Ford-sourced 2.2-litre diesel inline-four engine, fitted to the Jaguar X-Type from 2008 to 2010."
+        "a": "The ZSD-420 is a Ford-sourced 2.2-litre diesel inline-four engine, fitted to the Jaguar X-Type from 2008 to 2010. It's part of Ford's Duratorq / Puma engine family."
       },
       {
         "q": "Which Jaguar models use the ZSD-420?",
@@ -77,7 +99,7 @@
       },
       {
         "q": "How much does a Jaguar ZSD-420 engine rebuild cost?",
-        "a": "Rebuilds start from £1,900. Exact price depends on condition and parts required."
+        "a": "Rebuilds start from £1,900. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild ZSD-420 engines?",
@@ -91,7 +113,7 @@
     "faqRight": [
       {
         "q": "Do you supply used Jaguar ZSD-420 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",

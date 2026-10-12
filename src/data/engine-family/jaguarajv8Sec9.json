@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ-V8",
     "titlePost": " ENGINE",
-    "body": "The AJ-V8 is a V8, 4.0L / 4.2L, Petrol engine used across Jaguar's 2 model range, in production 1996–2009. We rebuild every AJ-V8 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ-V8 is Jaguar's first-generation V8 petrol engine, produced from 1996 to 2009. It was offered in 4.0L and 4.2L capacities across naturally aspirated and supercharged variants, powering the S-Type and XJ model lines throughout their X200 and X308/X350 generations. This engine family includes the AJ26, AJ27, AJ28, AJ33, and AJ34 variants — each representing specific displacement, generation, or forced-induction configurations within the same base architecture."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ-V8",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ-V8 is fitted across S-Type, XJ — see the full applications table above for exact variants, generations and years.",
+    "body": "Across the S-Type, the AJ-V8 powered the 4.0 V8 and 4.2 V8 variants (X200 generation, 1999–2008), available in both naturally aspirated and supercharged forms. The XJ received the AJ-V8 across two generations — the X308 (1997–2003) and X350 (2002–2009) — powering the XJ8 and XJR variants, with supercharged versions delivering higher output for the performance-oriented XJR.",
     "lineup": [
       {
         "label": "S-Type",
@@ -28,19 +28,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ-V8",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ-V8 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ-V8 spans multiple displacements and supercharged/naturally aspirated configurations across two different model lines, compatibility requires careful matching. A 4.0L AJ26 from an XJ isn't a drop-in match for a 4.2L AJ34 from an S-Type, even though they share the same engine family — ancillaries, mounting, and ECU calibration all differ. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -48,15 +47,48 @@
         "text": "Identify the correct generation (X200, X308/X350)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ-V8",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ-V8 in the S-Type (X200, 1999–2008)",
+        "engine": "AJ-V8",
+        "model": "S-Type",
+        "detail": "X200, 1999–2008",
+        "body": "The AJ-V8 in the S-Type is one of the applications we work on regularly, across both the 4.0 V8 and 4.2 V8 variants.",
+        "price": "£4,500",
+        "cta": "Check your S-Type AJ-V8"
+      },
+      {
+        "heading": "AJ-V8 in the XJ (X308/X350, 1997–2009)",
+        "engine": "AJ-V8",
+        "model": "XJ",
+        "detail": "X308/X350, 1997–2009",
+        "body": "The AJ-V8 in the XJ is one of the applications we work on regularly, across both the XJ8 and XJR variants, covering the X308 and X350 generations. Jaguar AJ-V8 by Powertrain Variant AJ-V8 Naturally Aspirated Applications: S-Type 4.0 V8, S-Type 4.2 V8, XJ XJ8. Standard rebuild scope — timing chain, bearings, gaskets. AJ-V8 Supercharged Applications: S-Type R (supercharged V8), XJ XJR (supercharged). Supercharged variants require additional specialist attention to the supercharger components during a rebuild.",
+        "price": "£4,500",
+        "cta": "Check your XJ AJ-V8"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar S-Type X200",
+      "engine": "AJ-V8 4.0L / 4.2L",
+      "year": "1999 – 2008",
+      "price": "£4,500"
+    }
   }
 }

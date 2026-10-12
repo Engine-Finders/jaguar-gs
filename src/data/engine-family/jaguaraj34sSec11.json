@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ34S",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ34S engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ34S engine rebuild starts from £5,500.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£5,500",
+    "card": {
+      "model": "Jaguar XF X250",
+      "engine": "AJ34S 4.2L",
+      "year": "2008 – 2015",
+      "price": "£5,500"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ34S",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ34S Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ34S owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most XFR owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ34S Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ34S Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ34S",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ34S-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers. Jaguar AJ34S Terminology Explained Rebuilt: Existing engine stripped, inspected and rebuilt to original specification. Reconditioned: Broad industry term; we define our rebuild as a full strip and rebuild. Remanufactured: Usually implies a defined restoration process; our rebuild meets this standard. Used: Existing engine from another vehicle; we can source and fit these. What Jaguar Garage Means by \"Rebuild\": Full strip-down, inspection, measurement, machining where required, replacement of worn components, reassembly, testing, and refit — with a 12-month unlimited-mileage warranty."
     }
   ],
   "faq": {
@@ -76,8 +98,12 @@
         "a": "The AJ34S is fitted exclusively to the XF XFR (X250, 2008–2015)."
       },
       {
+        "q": "Does the AJ34S differ from the standard AJ34?",
+        "a": "Yes. The AJ34S is the supercharged version of the naturally aspirated AJ34 4.2 V8, with specific tuning, supercharger hardware, and ECU calibration."
+      },
+      {
         "q": "How much does a Jaguar AJ34S engine rebuild cost?",
-        "a": "Rebuilds start from £5,500. Exact price depends on condition and parts required."
+        "a": "Rebuilds start from £5,500. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ34S engines?",
@@ -90,12 +116,20 @@
         "a": "Yes. The XF XFR is one of the applications we work on regularly."
       },
       {
+        "q": "Do you supply used Jaguar AJ34S engines?",
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
+      },
+      {
         "q": "Can you recover my Jaguar if the engine has failed?",
         "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
       },
       {
         "q": "How long does an AJ34S engine rebuild take?",
         "a": "Most rebuilds are completed within 3-5 working days from the time your car arrives at our workshop."
+      },
+      {
+        "q": "Is rebuilding better than fitting a used engine?",
+        "a": "For most XFR owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

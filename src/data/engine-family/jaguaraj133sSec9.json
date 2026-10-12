@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ133S",
     "titlePost": " ENGINE",
-    "body": "The AJ133S is a V8 (90° angle), 5.0L (5,000 cc), Petrol Supercharged engine used across Jaguar's 2 model range, in production 2014–2024. We rebuild every AJ133S to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ133S is Jaguar Land Rover's highest-output version of the 5.0-litre supercharged V8, in production from 2014 to 2024. It's the SVR-specific variant of the AJ133 engine family, tuned to deliver 550-575 hp in the F-Pace SVR and XFR-S. The higher output places additional stress on components, reflected in the rebuild pricing tier. It is the most powerful engine in the Jaguar range during its production period."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ133S",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ133S is fitted across F-Pace, XF — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJ133S appears in two Jaguar applications. In the F-Pace SVR (X761, 2016–2024) , it delivers 550 hp with SVR-specific tuning. In the XF XFR-S (X250, 2013–2015) , the same engine produces 550 hp with its own vehicle-specific calibration. Both applications share the same core engine but differ in ancillaries, mounting, and ECU calibration.",
     "lineup": [
       {
         "label": "F-Pace",
@@ -28,19 +28,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ133S",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ133S is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ133S spans two different model lines with different chassis, ancillaries, mounting, and ECU calibration vary by application. An AJ133S from an F-Pace SVR isn't a drop-in match for an AJ133S from an XFR-S, even though it's the same base engine code. Before we quote or supply anything, we confirm your exact vehicle by registration/VIN.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -48,15 +47,48 @@
         "text": "Identify the correct generation (X761, X250)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ133S",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ133S in the F-Pace SVR (X761, 2016–2024)",
+        "engine": "AJ133S",
+        "model": "F-Pace SVR",
+        "detail": "X761, 2016–2024",
+        "body": "The AJ133S in the F-Pace SVR is one of the applications we work on regularly. With 550 hp and SVR-specific tuning, this is the most powerful engine in the Jaguar SUV range during its production period.",
+        "price": "£6,500",
+        "cta": "Check your F-Pace SVR"
+      },
+      {
+        "heading": "AJ133S in the XF XFR-S (X250, 2013–2015)",
+        "engine": "AJ133S",
+        "model": "XF XFR-S",
+        "detail": "X250, 2013–2015",
+        "body": "The AJ133S in the XF XFR-S is one of the applications we work on. With 550 hp and XFR-S-specific tuning, this was the most powerful XF ever produced. Jaguar AJ133S by Powertrain Variant AJ133S — 550-575 hp Applications: F-Pace SVR (X761), XF XFR-S (X250). The AJ133S delivers 550-575 hp with SVR or XFR-S-specific tuning. The higher output places additional stress on timing chain and cooling system components compared to standard AJ133 applications.",
+        "price": "£6,500",
+        "cta": "Check your XF XFR-S"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar F-Pace X761",
+      "engine": "AJ133S 5.0L",
+      "year": "2016 – 2024",
+      "price": "£6,500"
+    }
   }
 }

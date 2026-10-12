@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJD-V6",
     "titlePost": " ENGINE",
-    "body": "The AJD-V6 is a V6 (60° angle), 2.7L (2,720 cc) / 3.0L, Diesel engine used across Jaguar's 3 model range, in production 2003–2015. We rebuild every AJD-V6 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJD-V6 is a 2.7-litre or 3.0-litre V6 diesel engine produced by Jaguar from 2003 to 2015. It was developed in collaboration with Ford and PSA, and was Jaguar's first V6 diesel — a significant engine for the brand, as it opened up diesel ownership to buyers who wanted a V6 experience rather than a four-cylinder option. It appears across three Jaguar model lines: the S-Type (X200, 2004–2007), the XF (X250, 2008–2015), and the XJ (X350, 2003–2009). The 2.7L version was offered in all three models, with a 3.0L variant introduced for the XF later in the production run."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJD-V6",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJD-V6 is fitted across S-Type, XF, XJ — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJD-V6 was first introduced in the XJ (X350) in 2003, making it one of the earliest applications of this engine — the 2.7D V6 was offered from 2003 through 2009. It also appeared in the S-Type (X200) from 2004 to 2007 as the 2.7D V6. The XF (X250) carried both the 2.7L and later a 3.0L variant, from 2008 through 2015.",
     "lineup": [
       {
         "label": "S-Type",
@@ -32,19 +32,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJD-V6",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJD-V6 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "The AJD-V6 was offered in two capacities — 2.7L and 3.0L — across three different Jaguar models and generations. Compatibility between applications is not straightforward: a 2.7L AJD-V6 from an XJ isn't a direct match for a 3.0L AJD-V6 from an XF, even though it's the same base engine family. Ancillaries, mounting, and ECU calibration all differ by model and year. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -52,15 +51,57 @@
         "text": "Identify the correct generation (X200, X250, X350)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJD-V6",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJD-V6 in the S-Type 2.7D (X200, 2004–2007)",
+        "engine": "AJD-V6",
+        "model": "S-Type 2.7D",
+        "detail": "X200, 2004–2007",
+        "body": "The AJD-V6 in the S-Type is one of the applications we work on regularly — the 2.7D V6 offered during the S-Type's final years.",
+        "price": "£2,900",
+        "cta": "Check your S-Type AJD-V6"
+      },
+      {
+        "heading": "AJD-V6 in the XF 2.7D / 3.0D (X250, 2008–2015)",
+        "engine": "AJD-V6",
+        "model": "XF 2.7D / 3.0D",
+        "detail": "X250, 2008–2015",
+        "body": "The AJD-V6 in the XF is one of the most common applications we see — spanning both the 2.7L and 3.0L capacities across the X250 generation from 2008 to 2015.",
+        "price": "£2,900",
+        "cta": "Check your XF AJD-V6"
+      },
+      {
+        "heading": "AJD-V6 in the XJ 2.7D (X350, 2003–2009)",
+        "engine": "AJD-V6",
+        "model": "XJ 2.7D",
+        "detail": "X350, 2003–2009",
+        "body": "The AJD-V6 in the XJ is one of the applications we work on — the 2.7D V6 offered in the X350 generation from 2003 through 2009. Jaguar AJD-V6 by Powertrain Variant 2.7L AJD-V6 Applications: S-Type 2.7D, XF 2.7D, XJ 2.7D. Standard V6 diesel rebuild scope — timing belt, bearings, gaskets, oil cooler seals. 3.0L AJD-V6 Applications: XF 3.0D (2008–2015). The 3.0L variant carries the same rebuild scope but with additional attention to the higher-output fuel system components.",
+        "price": "£2,900",
+        "cta": "Check your XJ AJD-V6"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar S-Type X200",
+      "engine": "AJD-V6 2.7L",
+      "year": "2004 – 2007",
+      "price": "£2,900"
+    }
   }
 }

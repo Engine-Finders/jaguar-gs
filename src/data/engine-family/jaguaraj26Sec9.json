@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ26",
     "titlePost": " ENGINE",
-    "body": "The AJ26 is a V8, 4.0L (3,996 cc), Petrol engine used across Jaguar's 2 model range, in production 1996–2004. We rebuild every AJ26 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ26 is Jaguar's first-generation AJ-V8 engine, introduced in 1996 and produced through to 2004. It's a 4.0-litre naturally aspirated V8, available across the X308 XJ and X100 XK — two of Jaguar's most significant modern-era models. The engine was also offered in supercharged form (AJ27S) in the XJR and XKR, though our work on naturally aspirated AJ26 applications is what we see most regularly. Later iterations of the AJ-V8 evolved through the 4.2-litre AJ34 and the 5.0-litre AJ133, though the early AJ26 represents a distinct engineering generation with its own specific characteristics."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ26",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ26 is fitted across XJ, XK — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJ26 was fitted across two main applications: the XJ (X308) from 1997 to 2003 in the XJ8 variant, and the XK (X100) from 1996 to 2004 in the XK8. Both models use essentially the same naturally aspirated 4.0-litre V8, though the X100 generation started production a year earlier than the X308. The supercharged AJ27S variant was also available in both model lines (XJR and XKR), though our rebuild work on the naturally aspirated AJ26 is what we most commonly carry out.",
     "lineup": [
       {
         "label": "XJ",
@@ -28,19 +28,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ26",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ26 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ26 spans two different model lines and two generations (X308 and X100), compatibility comes down to confirming your exact model, generation, and drivetrain spec — which we do by registration. Ancillaries, mounting, and ECU calibration differ between the XJ and XK applications, even though the base engine code is the same. For supercharged AJ27S applications, the additional supercharger components also vary by model. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -48,15 +47,48 @@
         "text": "Identify the correct generation (X308, X100)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ26",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ26 in the XJ (X308, 1997–2003)",
+        "engine": "AJ26",
+        "model": "XJ",
+        "detail": "X308, 1997–2003",
+        "body": "The AJ26 in the XJ is one of the applications we work on regularly — the XJ8, across the X308 generation from 1997 to 2003.",
+        "price": "£4,500",
+        "cta": "Check your XJ AJ26"
+      },
+      {
+        "heading": "AJ26 in the XK (X100, 1996–2004)",
+        "engine": "AJ26",
+        "model": "XK",
+        "detail": "X100, 1996–2004",
+        "body": "The AJ26 in the XK is one of the applications we work on regularly — the XK8, across the X100 generation from 1996 to 2004. Jaguar AJ26 by Powertrain Variant Naturally Aspirated AJ26/AJ27 Applications: XJ XJ8 (X308), XK XK8 (X100). Standard naturally aspirated V8 rebuild scope — timing chain, bearings, gaskets. Supercharged AJ27S Applications: XJ XJR (X308), XK XKR (X100). Supercharged applications carry additional supercharger components we account for during a rebuild.",
+        "price": "£4,500",
+        "cta": "Check your XK AJ26"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar XJ X308",
+      "engine": "AJ26 4.0L",
+      "year": "1997 – 2003",
+      "price": "£4,500"
+    }
   }
 }

@@ -2,26 +2,26 @@
   "titlePre": "OUR WORKSHOP VIEW OF",
   "titleBigPre": "THE ",
   "titleBigHighlight": "JAGUAR",
-  "titleBigPost": " Ford EcoBoost",
+  "titleBigPost": " FORD ECOBOOST",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the Ford EcoBoost across all six model applications."
+    "Here's our practical view of the Ford EcoBoost across its XF X250 application."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The Ford EcoBoost is a relatively new engine, and we see it across the entire range of its applications — from the compact 45-series Jaguars to the more recent 43-series models and the Ford EcoBoost."
+      "body": "The Ford EcoBoost appears in a single Jaguar application — the XF (X250, 2012–2015) — making it one of the more targeted engine families we work on."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Timing chain, bearings, gaskets as standard on every rebuild, with turbocharger inspection included."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the Ford EcoBoost across any of its six applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "Turbocharger issues are common on higher-mileage examples. Carbon buildup on intake valves is a characteristic of direct-injection engines. Coolant system issues — water pump and cooling system components can fail."
     }
   ],
   "notice": {
@@ -30,20 +30,48 @@
   },
   "typical": {
     "kicker": "A TYPICAL",
-    "title": "JAGUAR Ford EcoBoost REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "title": "JAGUAR FORD ECOBOOST REBUILD",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The Ford EcoBoost is a highly-strung, high-performance engine, and its twin-scroll turbocharger is a central component in its design. A full rebuild involves removing and inspecting the turbocharger, replacing timing chain components, bearings, gaskets, and calibrating the two-stage fuel injection system (direct and port injection). Given its 421 hp output in S guise, the engine's components are stressed to a high degree, and we pay particular attention to the crankshaft and cylinder head during inspection.",
+    "body": "The Ford EcoBoost uses a direct injection system, which means carbon buildup on intake valves is a known characteristic of this engine family — something we account for during a full strip-down. The timing chain is also inspected and replaced where required, as part of the standard rebuild scope.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Timing chain, bearings, gaskets, turbocharger inspection, direct injection system inspection"
     },
     "startingFromLabel": "Starting From:",
     "startingFromPrice": "£2,200",
     "cta": {
       "label": "Check Ford EcoBoost Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Timing chain components",
+    "Rotating assembly inspection"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

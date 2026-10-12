@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ200P",
     "titlePost": " ENGINE",
-    "body": "The AJ200P is a Inline-4 (I4), 2.0L (1,999 cc), Petrol engine used across Jaguar's 2 model range, in production 2016–present. We rebuild every AJ200P to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ200P is Jaguar Land Rover's higher-output 2.0-litre four-cylinder petrol engine from the Ingenium family, introduced a year after the diesel AJ200D. It's fitted across two Jaguar model lines — the F-Pace SUV and the XE saloon — in both 250 and 300 horsepower configurations."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ200P",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ200P is fitted across F-Pace, XE — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJ200P appears in two Jaguar model lines. In the F-Pace (X761, 2016–present), it powers the P250 and P300 variants. In the XE (X760, 2016–present), it powers the P250 and P300 variants. These are the only Jaguar applications for this engine code — each with its own vehicle-specific ancillaries.",
     "lineup": [
       {
         "label": "F-Pace",
@@ -28,19 +28,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ200P",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ200P is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ200P spans two different models and two power output levels, compatibility comes down to confirming your exact model, generation, and drivetrain spec — which we do by registration. An AJ200P from an F-Pace isn't a drop-in match for an AJ200P from an XE, even though it's the same base engine code — ancillaries and mounting differ. Full engine replacements require DME software matching.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -48,15 +47,48 @@
         "text": "Identify the correct generation (X761, X760)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ200P",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ200P in the F-Pace (X761, 2016–present)",
+        "engine": "AJ200P",
+        "model": "F-Pace",
+        "detail": "X761, 2016–present",
+        "body": "The AJ200P in the F-Pace is one of the applications we work on, across both the P250 and P300 variants.",
+        "price": "£2,000",
+        "cta": "Check your F-Pace AJ200P"
+      },
+      {
+        "heading": "AJ200P in the XE (X760, 2016–present)",
+        "engine": "AJ200P",
+        "model": "XE",
+        "detail": "X760, 2016–present",
+        "body": "The AJ200P in the XE is one of the applications we work on, across both the P250 and P300 variants. Jaguar AJ200P by Powertrain Variant Standard AJ200P 250 hp Applications: F-Pace P250, XE P250. Standard rebuild scope — timing chain, bearings, gaskets. AJ200P 300 hp Applications: F-Pace P300, XE P300. Higher-output tuning places additional stress on components, which we account for during inspection.",
+        "price": "£2,000",
+        "cta": "Check your XE AJ200P"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar F-Pace X761",
+      "engine": "AJ200P 2.0L",
+      "year": "2016 – present",
+      "price": "£2,000"
+    }
   }
 }

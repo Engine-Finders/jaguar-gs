@@ -4,35 +4,46 @@
   "cards": [
     {
       "icon": "chain",
-      "image": "/engine/sec4.webp",
-      "title": "Timing Chain",
-      "body": "We inspect and replace timing chain components as standard during a rebuild."
+      "title": "Replaced as Standard",
+      "items": [
+        "Main bearings and connecting rod bearings",
+        "Complete gasket and seal set",
+        "Timing chain components where required",
+        "Oil filter housing gasket"
+      ],
+      "image": "/engine/sec4.webp"
     },
     {
-      "icon": "bearing",
-      "image": "/engine/sec4.webp",
-      "title": "Bearings",
-      "body": "We replace main bearings and connecting rod bearings as standard during a rebuild."
+      "icon": "gauge",
+      "title": "Inspected and Measured",
+      "items": [
+        "Crankshaft",
+        "Cylinder head",
+        "Timing chain tensioners and guides",
+        "Twin-turbocharger components"
+      ],
+      "image": "/engine/sec4.webp"
     },
     {
-      "icon": "gasket",
-      "image": "/engine/sec4.webp",
-      "title": "Gaskets & Seals",
-      "body": "We replace all gaskets and seals as standard during a rebuild."
+      "icon": "oil",
+      "title": "Inspected and Measured",
+      "items": [
+        "EGR valve and cooler",
+        "DPF components",
+        "48V MHEV system components",
+        "High-pressure fuel pump"
+      ],
+      "image": "/engine/sec4.webp"
     },
     {
-      "icon": "turbo",
-      "image": "/engine/sec4.webp",
-      "title": "Twin-Scroll Turbocharger",
-      "body": "The AJ300D's twin-scroll turbocharger is a key component that is removed, inspected, and refurbished or replaced as part of the rebuild."
-    },
-    {
-      "icon": "clipboard",
-      "image": "/engine/sec4.webp",
-      "title": "Additional Inspected Components",
-      "body": "Fuel injectors, high-pressure fuel pump, PCV system, timing chain tensioners and guides, and cooling system components are all measured and inspected."
+      "icon": "bolt",
+      "title": "Application-Dependent",
+      "items": [
+        "48V MHEV system components"
+      ],
+      "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from VRF Key Components data. If your AJ300D's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from the Master Engine Data File. If your AJ300D's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

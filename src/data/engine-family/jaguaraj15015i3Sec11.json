@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ150 (1.5 I3)",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ150 (1.5 I3) engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ150 engine rebuild starts from £2,000, regardless of whether it's fitted to the E-Pace — the price tier is set by the engine family, not the model.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£2,000",
+    "card": {
+      "model": "Jaguar E-Pace X540",
+      "engine": "AJ150 (1.5 I3) 1.5L",
+      "year": "2017 – present",
+      "price": "£2,000"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ150 (1.5 I3)",
@@ -69,23 +75,23 @@
     "faqLeft": [
       {
         "q": "What is the Jaguar AJ150 engine?",
-        "a": "The AJ150 is Jaguar Land Rover's 1.5-litre three-cylinder petrol engine from the Ingenium family, in production since 2017."
+        "a": "The AJ150 is Jaguar Land Rover's 1.5-litre three-cylinder petrol engine from the Ingenium family, in production since 2017. It was introduced as the smallest displacement option in the Ingenium range."
       },
       {
         "q": "Which Jaguar models use the AJ150?",
-        "a": "The AJ150 is used in the E-Pace (X540) P200 and P250 variants."
+        "a": "The AJ150 is used in the E-Pace (X540) P200 and P250 variants — see the full applications table above for exact variants and years."
       },
       {
         "q": "Does the AJ150 differ between E-Pace variants?",
-        "a": "Yes. The P200 and P250 outputs have different ECU calibrations — the base engine hardware is shared, but ancillaries and tuning vary by application."
+        "a": "Yes. The P200 and P250 outputs have different ECU calibrations — the base engine hardware is shared, but ancillaries and tuning vary by application. We match by registration/VIN before confirming any rebuild or replacement."
       },
       {
         "q": "Is an AJ150 from an E-Pace compatible with other Jaguars?",
-        "a": "The AJ150 was developed for the E-Pace and is the only Jaguar application for this engine."
+        "a": "The AJ150 was developed for the E-Pace and is the only Jaguar application for this engine — it has not been used across other Jaguar models."
       },
       {
         "q": "How much does a Jaguar AJ150 engine rebuild cost?",
-        "a": "Rebuilds start from £2,000. Exact price depends on condition and parts required."
+        "a": "Rebuilds start from £2,000. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       }
     ],
     "faqRight": [
@@ -95,7 +101,7 @@
       },
       {
         "q": "Do you supply used Jaguar AJ150 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
@@ -107,7 +113,7 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJ150 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJ150 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given the different output variants the AJ150 was produced in — and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

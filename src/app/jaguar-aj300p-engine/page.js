@@ -7,6 +7,7 @@ import Sec6 from "@/components/engine-family/Sec6";
 import Sec7 from "@/components/engine-family/Sec7";
 import Sec8 from "@/components/engine-family/Sec8";
 import Sec9 from "@/components/engine-family/Sec9";
+import Sec9b from "@/components/engine-family/Sec9b";
 import Sec10 from "@/components/engine-family/Sec10";
 import Sec11 from "@/components/engine-family/Sec11";
 import JsonLd from "@/components/shared/JsonLd";
@@ -36,7 +37,7 @@ export const metadata = {
 
 export default function Jaguaraj300pEnginePage() {
   return (
-    <>
+    <div className="mono-accent">
       <JsonLd data={graphDoc([
         serviceSchema({ name: NAME, description: sec1.subhead, path: PATH, price: sec1.priceCta?.label }),
         faqSchema(FAQ, PATH),
@@ -47,12 +48,13 @@ export default function Jaguaraj300pEnginePage() {
       <Sec3 data={sec3} />
       <Sec4 data={sec4} />
       <Sec5 data={sec5} />
-      <Sec6 data={sec6} />
       <Sec7 data={sec7} />
+      <Sec6 data={sec6} />
       <Sec8 data={sec8} />
       <Sec9 data={sec9} />
+      <Sec9b data={sec9.workOn} />
       <Sec10 data={sec10} />
       <Sec11 data={sec11} />
-    </>
+    </div>
   );
 }

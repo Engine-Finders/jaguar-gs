@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ200",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ200 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ200 engine rebuild starts from £2,000, regardless of which of the two Jaguar models it's fitted to — the price tier is set by the engine, not the badge on the boot.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£2,000",
+    "card": {
+      "model": "Jaguar E-Pace X540",
+      "engine": "AJ200 2.0L",
+      "year": "2017 – present",
+      "price": "£2,000"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ200",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ200 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ200 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ200 owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ200 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ200 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given the differences between E-Pace and F-Type applications. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ200",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ200-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which AJ200-equipped Jaguar you drive."
     }
   ],
   "faq": {
@@ -73,19 +95,19 @@
       },
       {
         "q": "Which Jaguar models use the AJ200?",
-        "a": "E-Pace (P200, P250, P300, 2017–present) and F-Type (2.0i, 2016–2020)."
+        "a": "E-Pace (P200, P250, P300, 2017–present) and F-Type (2.0i, 2016–2020) — see the full applications table above for exact variants and years."
       },
       {
         "q": "Does the AJ200 differ between Jaguar models?",
-        "a": "Yes. Ancillaries, mounting, and ECU calibration differ between E-Pace and F-Type applications. We match by registration/VIN before confirming any rebuild or replacement."
+        "a": "Yes. Ancillaries, mounting, and ECU calibration differ between E-Pace and F-Type applications, and the F-Type-specific tuning components are not shared with the SUV application. We match by registration/VIN before confirming any rebuild or replacement."
       },
       {
         "q": "Is an AJ200 from one Jaguar model compatible with another?",
-        "a": "Not automatically. An AJ200 from an E-Pace isn't a drop-in match for an AJ200 from an F-Type. We always confirm compatibility by registration/VIN."
+        "a": "Not automatically. An AJ200 from an E-Pace isn't a drop-in match for an AJ200 from an F-Type — ancillaries, mounting, and tuning all differ. We always confirm compatibility by registration/VIN."
       },
       {
         "q": "How much does a Jaguar AJ200 engine rebuild cost?",
-        "a": "Rebuilds start from £2,000, regardless of which model it's fitted to. Exact price depends on condition and parts required."
+        "a": "Rebuilds start from £2,000, regardless of which model it's fitted to. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ200 engines?",
@@ -103,7 +125,7 @@
       },
       {
         "q": "Do you supply used Jaguar AJ200 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
@@ -115,7 +137,7 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJ200 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJ200 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given the differences between E-Pace and F-Type applications — and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

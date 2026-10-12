@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ150 (1.5 I3)",
     "titlePost": " ENGINE",
-    "body": "The AJ150 (1.5 I3) is a Inline-3 (I3), 1.5L (1,497 cc), Petrol engine used across Jaguar's 1 model range, in production 2017–present. We rebuild every AJ150 (1.5 I3) to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ150 is Jaguar Land Rover's 1.5-litre three-cylinder petrol engine from the Ingenium family, in production since 2017. It was introduced as the smallest displacement option in the Ingenium range, designed primarily for the E-Pace compact SUV where it serves as the entry-level petrol powertrain."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ150 (1.5 I3)",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ150 (1.5 I3) is fitted across E-Pace — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJ150 appears in a single application within the Jaguar range — the E-Pace (X540, 2017–present), specifically in the P200 and P250 variants. This three-cylinder engine was developed as part of the modular Ingenium strategy, sharing its fundamental architecture with the larger AJ200 and AJ200P four-cylinder engines. While the AJ150 is also used in some Land Rover applications, our work here covers Jaguar-badged vehicles exclusively.",
     "lineup": [
       {
         "label": "E-Pace",
@@ -24,19 +24,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ150 (1.5 I3)",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ150 (1.5 I3) is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ150 sits within the same Ingenium family as the larger four-cylinder engines, compatibility comes down to confirming your exact model and generation. The same base engine code spans multiple output variants — P200 and P250 — with different ECU calibrations and ancillaries depending on the specific application. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -44,15 +43,39 @@
         "text": "Identify the correct generation (X540)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ150 (1.5 I3)",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ150 in the E-Pace (X540)",
+        "engine": "AJ150",
+        "model": "E-Pace",
+        "detail": "X540",
+        "body": "The AJ150 in the E-Pace is one of the applications we work on, across both the P200 and P250 variants (X540, 2017–present).",
+        "price": "£2,000",
+        "cta": "Check your E-Pace AJ150"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar E-Pace X540",
+      "engine": "AJ150 (1.5 I3) 1.5L",
+      "year": "2017 – present",
+      "price": "£2,000"
+    }
   }
 }

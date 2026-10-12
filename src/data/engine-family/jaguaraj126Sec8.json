@@ -6,75 +6,75 @@
     "items": [
       {
         "icon": "truck",
-        "model": "F-Type V6, V6 S, 400 Sport",
+        "model": "Jaguar F-Type",
         "status": "RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
-        "model": "XE S, 300 Sport",
+        "model": "Jaguar XE",
         "status": "DIAGNOSTICS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
-        "model": "XF S, 35t",
+        "model": "Jaguar XF",
         "status": "STRIPPED ENGINE",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
-        "model": "XJ XJ Supersport V6",
+        "model": "Jaguar XJ",
         "status": "TIMING CHAIN REPLACEMENT",
-        "image": "/engine/sec8.webp"
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
-        "model": "F-Type V6, V6 S, 400 Sport",
+        "model": "Jaguar F-Type",
         "status": "IN FOR REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
-        "model": "XE S, 300 Sport",
+        "model": "Jaguar XE",
         "status": "REBUILD IN PROGRESS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
-        "model": "XF S, 35t",
+        "model": "Jaguar XF",
         "status": "NATIONWIDE RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
-        "model": "XJ XJ Supersport V6",
+        "model": "Jaguar XJ",
         "status": "ENGINE STRIPPED",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
-        "model": "F-Type V6, V6 S, 400 Sport",
+        "model": "Jaguar F-Type",
         "status": "TESTING & CHECKS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
-        "model": "XE S, 300 Sport",
+        "model": "Jaguar XE",
         "status": "READY FOR COLLECTION",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
-        "model": "XF S, 35t",
+        "model": "Jaguar XF",
         "status": "AJ126 REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
-        "model": "XJ XJ Supersport V6",
+        "model": "Jaguar XJ",
         "status": "WORKSHOP BAY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },

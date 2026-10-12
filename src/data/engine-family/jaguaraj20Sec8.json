@@ -6,75 +6,75 @@
     "items": [
       {
         "icon": "truck",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "DIAGNOSTICS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "STRIPPED ENGINE",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "TIMING CHAIN REPLACEMENT",
-        "image": "/engine/sec8.webp"
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "IN FOR REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "REBUILD IN PROGRESS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "NATIONWIDE RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "ENGINE STRIPPED",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "TESTING & CHECKS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "READY FOR COLLECTION",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "AJ20 REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
-        "model": "X-Type 2.0D",
+        "model": "Jaguar X-Type",
         "status": "WORKSHOP BAY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },

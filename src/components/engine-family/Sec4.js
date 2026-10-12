@@ -2,7 +2,27 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
+const POS = ["50% 40%", "25% 25%", "78% 70%", "50% 100%", "10% 80%"];
+
+function CardBody({ c, compact = false }) {
+  return (
+    <>
+      <p className={`font-extrabold uppercase leading-tight text-[#111111] ${compact ? "text-xs" : "text-sm"}`}>{c.title}</p>
+      {c.items ? (
+        <ul className={`mt-2 space-y-1.5 text-left text-[#333333] ${compact ? "text-[11px] leading-snug" : "text-sm leading-snug"}`}>
+          {c.items.map((it) => (
+            <li key={it}>{it}</li>
+          ))}
+        </ul>
+      ) : (
+        <p className={`mt-2 text-[#4a4a4a] ${compact ? "text-[11px] leading-snug" : "text-xs leading-relaxed"}`}>{c.body}</p>
+      )}
+    </>
+  );
+}
+
 export default function Sec4({ data }) {
+  const cols = data.cards.length === 4 ? "grid-cols-4" : data.cards.length === 3 ? "grid-cols-3" : "grid-cols-5";
   return (
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
@@ -10,27 +30,25 @@ export default function Sec4({ data }) {
         <div className="overflow-hidden">
           <JaguarStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
           <h2 className="h2 uppercase">
-            <span className="text-[#101828]">{data.titlePre}</span>
+            <span className="text-[#111111]">{data.titlePre}</span>
             <span className="text-hero-blue">{data.titleHighlight}</span>
           </h2>
         </div>
 
         <div className="mt-5 grid grid-cols-2 gap-4">
-          {data.cards.map((c) => (
-            <div key={c.title} className="glass-card relative flex flex-col overflow-hidden rounded-2xl">
+          {data.cards.map((c, i) => (
+            <div key={c.title + i} className="glass-card relative flex flex-col overflow-hidden rounded-2xl">
               <div className="relative aspect-4/3 w-full">
-                <Image src={c.image} alt={c.title} fill className="object-cover" sizes="50vw" />
+                <Image src={c.image} alt={c.title} fill className="object-cover" style={{ objectPosition: POS[i % POS.length] }} sizes="50vw" />
               </div>
               <div className="relative px-3 pb-4 pt-6 text-center">
                 <span
-                  className="absolute -top-5 left-1/2 flex h-10 w-10 -translate-x-1/2 items-center justify-center rounded-full border-2 border-hero-blue bg-white"
+                  className="absolute -top-5 left-1/2 flex h-10 w-10 -translate-x-1/2 items-center justify-center rounded-full border-2 border-white bg-linear-to-b from-white to-[#dcdcde]"
                   style={{ boxShadow: "0 4px 12px rgba(0,0,0,0.15)" }}
                 >
                   <Icon name={c.icon} className="h-4 w-4 text-hero-blue" />
                 </span>
-                <p className="text-xs font-extrabold uppercase leading-tight text-[#101828]">{c.title}</p>
-                {c.subtitle && <p className="mt-0.5 text-[9px] uppercase tracking-wide text-[#101828]">{c.subtitle}</p>}
-                <p className="mt-1.5 text-[11px] leading-snug text-[#4a5568]">{c.body}</p>
+                <CardBody c={c} compact />
               </div>
             </div>
           ))}
@@ -41,7 +59,7 @@ export default function Sec4({ data }) {
             <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-hero-blue">
               <Icon name="info" className="h-4 w-4 text-white" />
             </span>
-            <p className="text-xs leading-snug text-[#4a5568]">{data.notice}</p>
+            <p className="text-xs leading-snug text-[#4a4a4a]">{data.notice}</p>
           </div>
 
           <div className="relative overflow-hidden bg-(--theme-light-bg)">
@@ -56,29 +74,27 @@ export default function Sec4({ data }) {
         <div className="mx-auto max-w-6xl">
           <h2 className="h2 uppercase">
             <JaguarStripe className="float-left mr-3 mt-1.5 h-10 w-16 shrink-0" />
-            <span className="text-[#101828]">{data.titlePre}</span>
+            <span className="text-[#111111]">{data.titlePre}</span>
             <span className="text-hero-blue">{data.titleHighlight}</span>
           </h2>
 
-          <div className="mt-8 grid grid-cols-5 gap-6">
-            {data.cards.map((c) => (
+          <div className={`mt-8 grid ${cols} gap-6`}>
+            {data.cards.map((c, i) => (
               <div
-                key={c.title}
+                key={c.title + i}
                 className="glass-card relative flex flex-col overflow-hidden rounded-2xl transition-transform hover:-translate-y-0.5"
               >
                 <div className="relative aspect-4/3 w-full">
-                  <Image src={c.image} alt={c.title} fill className="object-cover" sizes="20vw" />
+                  <Image src={c.image} alt={c.title} fill className="object-cover" style={{ objectPosition: POS[i % POS.length] }} sizes="25vw" />
                 </div>
                 <div className="relative px-4 pb-6 pt-8 text-center">
                   <span
-                    className="absolute -top-7 left-1/2 flex h-14 w-14 -translate-x-1/2 items-center justify-center rounded-full border-2 border-hero-blue bg-white"
+                    className="absolute -top-7 left-1/2 flex h-14 w-14 -translate-x-1/2 items-center justify-center rounded-full border-2 border-white bg-linear-to-b from-white to-[#dcdcde]"
                     style={{ boxShadow: "0 4px 12px rgba(0,0,0,0.15)" }}
                   >
                     <Icon name={c.icon} className="h-6 w-6 text-hero-blue" />
                   </span>
-                  <p className="text-sm font-extrabold uppercase leading-tight text-[#101828]">{c.title}</p>
-                  {c.subtitle && <p className="mt-0.5 text-[10px] uppercase tracking-wide text-[#101828]">{c.subtitle}</p>}
-                  <p className="mt-2 text-xs leading-relaxed text-[#4a5568]">{c.body}</p>
+                  <CardBody c={c} />
                 </div>
               </div>
             ))}
@@ -89,7 +105,7 @@ export default function Sec4({ data }) {
               <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-hero-blue">
                 <Icon name="info" className="h-5 w-5 text-white" />
               </span>
-              <p className="text-sm leading-relaxed text-[#4a5568]">{data.notice}</p>
+              <p className="text-sm leading-relaxed text-[#4a4a4a]">{data.notice}</p>
             </div>
 
             <div className="relative overflow-hidden bg-(--theme-light-bg)">

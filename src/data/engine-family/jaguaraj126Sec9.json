@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ126",
     "titlePost": " ENGINE",
-    "body": "The AJ126 is a V6 (90° angle), 3.0L (2,995 cc), Petrol Supercharged engine used across Jaguar's 4 model range, in production 2013–2020. We rebuild every AJ126 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ126 is Jaguar Land Rover's 3.0-litre supercharged V6 petrol engine, in production from 2013 to 2020. It shares a 90° V6 architecture with the larger AJ133 5.0-litre V8 and was introduced as a high-performance six-cylinder option across Jaguar's range. The engine appears in the F-Type sports car, the XE and XF saloons, and the flagship XJ. The same supercharged V6 design was used across multiple JLR models, though its application-specific ancillaries, mounting and ECU calibration vary by model and year."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ126",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ126 is fitted across F-Type, XE, XF, XJ — see the full applications table above for exact variants, generations and years.",
+    "body": "The F-Type was the launch platform for the AJ126, appearing in the V6 (340 hp), V6 S (380 hp) and 400 Sport (400 hp) variants throughout the X152 generation from 2013 to 2020. The XE adopted the same engine for its S and 300 Sport variants (X760, 2015–2019), offering a more sporting saloon option in the range. The XF followed with S and 35t variants (X260, 2015–2018), while the XJ applied the supercharged V6 to its Supersport V6 model (X351, 2013–2019) in markets where a six-cylinder option was preferred over the larger V8.",
     "lineup": [
       {
         "label": "F-Type",
@@ -36,19 +36,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ126",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ126 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ126 spans four different Jaguar models — F-Type, XE, XF and XJ — each with different mounting, ancillaries, and ECU calibration, compatibility comes down to confirming your exact model, generation, and year, which we do by registration/VIN. A supercharged V6 from an F-Type isn't a direct match for one from an XJ, even though it's the same base engine code. Ancillaries, mounting, and supercharger tune vary by model and year. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -56,15 +55,66 @@
         "text": "Identify the correct generation (X152, X760, X260, X351)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ126",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ126 in the F-Type (X152, 2013–2020)",
+        "engine": "AJ126",
+        "model": "F-Type",
+        "detail": "X152, 2013–2020",
+        "body": "The AJ126 in the F-Type is one of the applications we work on regularly — across the V6, V6 S and 400 Sport variants throughout the X152 generation.",
+        "price": "£3,200",
+        "cta": "Check your F-Type AJ126"
+      },
+      {
+        "heading": "AJ126 in the XE (X760, 2015–2019)",
+        "engine": "AJ126",
+        "model": "XE",
+        "detail": "X760, 2015–2019",
+        "body": "The AJ126 in the XE is one of the applications we work on — the S and 300 Sport variants during the X760 generation.",
+        "price": "£3,200",
+        "cta": "Check your XE AJ126"
+      },
+      {
+        "heading": "AJ126 in the XF (X260, 2015–2018)",
+        "engine": "AJ126",
+        "model": "XF",
+        "detail": "X260, 2015–2018",
+        "body": "The AJ126 in the XF is one of the applications we work on — the S and 35t variants during the X260 generation.",
+        "price": "£3,200",
+        "cta": "Check your XF AJ126"
+      },
+      {
+        "heading": "AJ126 in the XJ (X351, 2013–2019)",
+        "engine": "AJ126",
+        "model": "XJ",
+        "detail": "X351, 2013–2019",
+        "body": "The AJ126 in the XJ is one of the applications we work on — the XJ Supersport V6 during the X351 generation. Jaguar AJ126 by Powertrain Variant AJ126 340 hp Applications: F-Type V6, XE S, XF S. Standard rebuild scope — timing chain, bearings, gaskets, supercharger coupler. AJ126 380 hp Applications: F-Type V6 S, F-Type 400 Sport, XE 300 Sport. Higher-output tune places additional stress on timing chain components. AJ126 400 hp Applications: F-Type 400 Sport. The highest-output tune of the AJ126, with 400 Sport-specific tuning components.",
+        "price": "£3,200",
+        "cta": "Check your XJ AJ126"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar F-Type X152",
+      "engine": "AJ126 3.0L",
+      "year": "2013 – 2020",
+      "price": "£3,200"
+    }
   }
 }

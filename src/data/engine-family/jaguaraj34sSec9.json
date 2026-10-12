@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ34S",
     "titlePost": " ENGINE",
-    "body": "The AJ34S is a V8, 4.2L (4,196 cc), Petrol Supercharged engine used across Jaguar's 1 model range, in production 2008–2015. We rebuild every AJ34S to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ34S is Jaguar's 4.2-litre supercharged V8 petrol engine, produced from 2008 to 2015. It's the high-output version of the AJ34 naturally aspirated V8, fitted exclusively to the XFR variant of the X250-generation XF. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ34S",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ34S is fitted across XF — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJ34S is fitted to the XF XFR (X250, 2008–2015), producing 420 hp. This is a single-application engine — the supercharged 4.2-litre V8 was reserved exclusively for the XFR variant during this generation.",
     "lineup": [
       {
         "label": "XF",
@@ -24,19 +24,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ34S",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ34S is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "The AJ34S is a supercharged version of the naturally aspirated AJ34 4.2 V8, with specific tuning, supercharger hardware, and ECU calibration that differs from the standard engine. Ancillaries, mounting, ECU calibration, and supercharger tune are specific to the XFR application. Registration/VIN matching is required before any rebuild or replacement.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -44,15 +43,39 @@
         "text": "Identify the correct generation (X250)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ34S",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ34S in the XF XFR (X250, 2008–2015)",
+        "engine": "AJ34S",
+        "model": "XF XFR",
+        "detail": "X250, 2008–2015",
+        "body": "The AJ34S in the XF XFR is one of the applications we work on regularly — the supercharged 4.2-litre V8 was reserved exclusively for this high-performance saloon variant. Data-Rich Details: Model: XF Variant: XFR Generation: X250 Chassis: X250 Years: 2008–2015 Powertrain: Supercharged V8",
+        "price": "£5,500",
+        "cta": "Check your XF XFR AJ34S"
+      }
+    ],
+    "note": "",
+    "card": {
+      "model": "Jaguar XF X250",
+      "engine": "AJ34S 4.2L",
+      "year": "2008 – 2015",
+      "price": "£5,500"
+    }
   }
 }

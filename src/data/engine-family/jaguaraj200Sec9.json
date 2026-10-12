@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ200",
     "titlePost": " ENGINE",
-    "body": "The AJ200 is a Inline-4 (I4), 2.0L (1,999 cc), Petrol engine used across Jaguar's 2 model range, in production 2016–present. We rebuild every AJ200 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ200 is Jaguar Land Rover's 2.0-litre turbocharged inline-four petrol engine, part of the Ingenium family. It entered production in 2016, a year after the diesel AJ200D, and is one of the key engines in Jaguar's modern four-cylinder lineup. Within Jaguar, it appears in two very different applications — the E-Pace compact SUV and the F-Type sports car. The engine is available in three power outputs (200 hp, 250 hp, and 300 hp) depending on the application. Beyond Jaguar, the same Ingenium engine family is also used by Land Rover, though our work here covers Jaguar-badged applications specifically."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ200",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ200 is fitted across E-Pace, F-Type — see the full applications table above for exact variants, generations and years.",
+    "body": "The AJ200 is fitted across two Jaguar models. In the E-Pace (X540, 2017–present), it powers the P200, P250, and P300 variants — the petrol options across the compact SUV range. In the F-Type (X152, 2016–2020), the AJ200 was offered as the 2.0i variant during the model's later years, before the F-Type range consolidated around V8 options.",
     "lineup": [
       {
         "label": "E-Pace",
@@ -28,19 +28,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ200",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ200 is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ200 spans two quite different applications — one a compact SUV, the other a sports car — compatibility depends on confirming your exact model and year, which we do by registration. Ancillaries, mounting, and ECU calibration differ between E-Pace and F-Type applications, and the F-Type-specific tuning components are not shared with the SUV application. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -48,15 +47,48 @@
         "text": "Identify the correct generation (X540, X152)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ200",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ200 in the E-Pace (X540, 2017–present)",
+        "engine": "AJ200",
+        "model": "E-Pace",
+        "detail": "X540, 2017–present",
+        "body": "The AJ200 in the E-Pace is one of the applications we work on regularly, across the P200, P250, and P300 variants (2017–present).",
+        "price": "£2,000",
+        "cta": "Check your E-Pace AJ200"
+      },
+      {
+        "heading": "AJ200 in the F-Type (X152, 2016–2020)",
+        "engine": "AJ200",
+        "model": "F-Type",
+        "detail": "X152, 2016–2020",
+        "body": "The AJ200 in the F-Type is one of the applications we work on — the 2.0i variant (2016–2020), offered as the entry-level petrol option before the F-Type range shifted to V8-only. Jaguar AJ200 by Powertrain Variant Standard AJ200 (200 hp) Applications: E-Pace P200. Standard rebuild scope — timing chain, bearings, gaskets. AJ200 (250 hp) Applications: E-Pace P250. Standard rebuild scope — timing chain, bearings, gaskets. AJ200 (300 hp) Applications: E-Pace P300, F-Type 2.0i. Higher-output variant with corresponding tuning components. Standard rebuild scope — timing chain, bearings, gaskets, plus application-specific ancillaries depending on whether the engine is fitted to an E-Pace or F-Type.",
+        "price": "£2,000",
+        "cta": "Check your F-Type AJ200"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar E-Pace X540",
+      "engine": "AJ200 2.0L",
+      "year": "2017 – present",
+      "price": "£2,000"
+    }
   }
 }

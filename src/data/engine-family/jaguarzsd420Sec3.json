@@ -17,9 +17,6 @@
     },
     {
       "label": "Years"
-    },
-    {
-      "label": "Powertrain Sub-type"
     }
   ],
   "rows": [
@@ -29,7 +26,7 @@
       "generation": "X400",
       "chassis": "X400",
       "years": "2008–2010",
-      "powertrain": "Diesel",
+      "powertrain": "",
       "modelHref": "/jaguar-x-type-engines"
     }
   ],
