@@ -96,7 +96,7 @@ export default function Sec6({ data }) {
                 </div>
                 <p className="mt-3 text-base font-bold text-white">{r.name}</p>
                 <p className="mt-2 text-sm leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-                <p className="mt-auto pt-3 text-xs font-bold uppercase tracking-wide text-hero-blue">{r.tag}</p>
+                <p className="mt-auto pt-3 text-sm font-medium text-white underline underline-offset-4">{r.tag}</p>
               </div>
             ))}
           </div>
@@ -161,7 +161,7 @@ export default function Sec6({ data }) {
                   </div>
                   <p className="mt-3 text-sm font-bold text-white">{r.name}</p>
                   <p className="mt-2 text-xs leading-relaxed text-white">&ldquo;{r.text}&rdquo;</p>
-                  <p className="mt-auto pt-3 text-[11px] font-bold uppercase tracking-wide text-hero-blue">{r.tag}</p>
+                  <p className="mt-auto pt-3 text-xs font-medium text-white underline underline-offset-4">{r.tag}</p>
                 </div>
               ))}
             </div>
