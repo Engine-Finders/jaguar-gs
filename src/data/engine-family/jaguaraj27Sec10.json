@@ -5,23 +5,23 @@
   "titleBigPost": " AJ27",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ27 across its 2 model applications."
+    "Here's our practical view of the AJ27 across its XJ X308, XK X100 applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ27 is fitted across XJ, XK — we see it regularly across the full application range."
+      "body": "The AJ26 and AJ27 are found across the XJ XJ8 (X308) and XK XK8/XKR (X100). The supercharged AJ27S is also present in XKR models, carrying additional ancillaries."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Timing chain components, bearings, and gaskets as standard on every rebuild. Supercharger components are also inspected on AJ27S applications."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJ27 across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "The AJ26 and AJ27 are known for timing chain tensioner failure — plastic tensioners fail, and primary guides crack and break off, with pieces ending up in the sump. Early engines also suffered from Nikasil cylinder lining issues with high-sulphur fuel; later engines (from around 2002) use cast-iron linings. We inspect the timing chain system thoroughly on every rebuild and assess cylinder bore condition as part of the strip-down process."
     }
   ],
   "notice": {
@@ -31,19 +31,47 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ27 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJ27 rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts (V8, 4.0L (3,996 cc), Petrol).",
+    "body": "The AJ27's timing chain system is a known critical wear point on early AJ-V8 engines (1997–2000), with plastic chain tensioners failing and primary guides cracking and breaking off. We inspect the timing chain tensioners and guides thoroughly on every rebuild. Supercharged AJ27S variants (XKR) require additional specialist attention to the supercharger system. Full engine replacements require DME software matching.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Timing chain components, bearings, gaskets, plus supercharger inspection on AJ27S applications"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£4,500",
     "cta": {
       "label": "Check AJ27 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Timing chain components",
+    "Rotating assembly inspection"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

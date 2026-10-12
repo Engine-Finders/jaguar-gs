@@ -3,7 +3,7 @@
     "titlePre": "Jaguar Ford EcoBoost",
     "titleHighlight": "Engine Specifications",
     "image": "/engine/sec2.webp",
-    "imageMobile": "/engine/sec2_mobile.webp",
+    "imageMobile": "/engine/sec2_m2.webp",
     "rows": [
       {
         "icon": "code",
@@ -16,7 +16,7 @@
         "value": "Ford"
       },
       {
-        "icon": "gear",
+        "icon": "piston",
         "label": "Configuration",
         "value": "Inline-4 (I4)"
       },
@@ -52,11 +52,11 @@
   "price": {
     "titlePre": "Jaguar Ford EcoBoost",
     "titleHighlight": "Engine Rebuild Price",
-    "image": "/engine/sec2_bottom.webp",
-    "imageMobile": "/engine/sec2_bottom_mobile.webp",
+    "image": "/engine/sec2_price_bg.webp",
+    "imageMobile": "/engine/sec2_bottom_m2.webp",
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£2,200",
-    "body": "All Ford EcoBoost applications use the same 2.0-litre Jaguar four-cylinder engine, so the price tier is consistent across every model it's fitted to. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "body": "The Ford EcoBoost is Jaguar's legacy 4-cylinder petrol engine — fitted to the XF during the X250 generation. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
     "cta": {
       "label": "Get Your Fixed-Price Quote →",
       "href": "#quote-form"

@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ-V8",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ-V8 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ-V8 engine rebuild starts from £4,500, regardless of which model it's fitted to — the price tier is set by the engine, not the badge on the boot.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£4,500",
+    "card": {
+      "model": "Jaguar S-Type X200",
+      "engine": "AJ-V8 4.0L / 4.2L",
+      "year": "1999 – 2008",
+      "price": "£4,500"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ-V8",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ-V8 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ-V8 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ-V8 owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ-V8 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ-V8 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given how many different AJ-V8 variants exist across the Jaguar range. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ-V8",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ-V8-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the two AJ-V8-equipped models you drive. Jaguar AJ-V8 Rebuilt vs Reconditioned vs Remanufactured — Terminology Explained Rebuilt: Existing engine stripped, inspected and rebuilt to original specification. Reconditioned: Broad industry term; we define our rebuild as a full strip and rebuild. Remanufactured: Usually implies a defined restoration process; our rebuild meets this standard. Used: Existing engine from another vehicle; we can source and fit these. What Jaguar Garage Means by \"Rebuild\": Full strip-down, inspection, measurement, machining where required, replacement of worn components, reassembly, testing, and refit — with a 12-month unlimited-mileage warranty."
     }
   ],
   "faq": {
@@ -90,12 +112,20 @@
       {
         "q": "Do you rebuild AJ-V8 engines?",
         "a": "Yes. We work on AJ-V8 rebuilds across every model it's fitted to, replacing worn components as standard."
+      },
+      {
+        "q": "Do you work on supercharged AJ-V8 applications?",
+        "a": "Yes. Supercharged variants (S-Type R, XJ XJR) are within our workshop capability, with the relevant supercharger components accounted for once your exact model is confirmed."
       }
     ],
     "faqRight": [
       {
-        "q": "Do you work on supercharged AJ-V8 applications?",
-        "a": "Yes. Supercharged variants (S-Type R, XJ XJR) are within our workshop capability, with the relevant supercharger components accounted for once your exact model is confirmed."
+        "q": "Can you rebuild an AJ-V8 from an S-Type?",
+        "a": "Yes. The AJ-V8 in the S-Type is one of the applications we work on regularly, across both 4.0 V8 and 4.2 V8 variants."
+      },
+      {
+        "q": "Can you rebuild an AJ-V8 from an XJ?",
+        "a": "Yes. The AJ-V8 in the XJ is one of the applications we work on regularly, across both XJ8 and XJR variants covering the X308 and X350 generations."
       },
       {
         "q": "Do you supply used Jaguar AJ-V8 engines?",
@@ -111,7 +141,7 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJ-V8 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJ-V8 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given how many different AJ-V8 applications exist across the Jaguar range — and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

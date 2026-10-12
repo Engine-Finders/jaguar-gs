@@ -18,10 +18,10 @@ export default function Sec8({ data }) {
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-7 md:hidden">
           <h2 className="h2 uppercase">
-            <span className="block text-[#101828]">{gallery.titlePre}</span>
+            <span className="block text-[#111111]">{gallery.titlePre}</span>
             <span className="block text-hero-blue">{gallery.titleHighlight}</span>
           </h2>
-          <p className="mt-2 text-xs leading-snug text-[#101828]">{gallery.description}</p>
+          <p className="mt-2 text-xs leading-snug text-[#111111]">{gallery.description}</p>
 
           <div className="mt-5 grid grid-cols-2 gap-3">
             {mobileGalleryItems.map((it, i) => (
@@ -32,7 +32,7 @@ export default function Sec8({ data }) {
                 <div className="px-3 py-2">
                   <div className="flex items-center gap-1.5">
                     <Icon name={it.icon} className="h-4 w-4 shrink-0 text-hero-blue" />
-                    <p className="truncate text-xs font-extrabold uppercase text-[#101828]">{it.model}</p>
+                    <p className="truncate text-xs font-extrabold uppercase text-[#111111]">{it.model}</p>
                   </div>
                   <p className="mt-0.5 truncate text-[9px] uppercase tracking-wide text-hero-blue">{it.status}</p>
                 </div>
@@ -45,7 +45,7 @@ export default function Sec8({ data }) {
               <button
                 type="button"
                 onClick={() => setShowAll((v) => !v)}
-                className="flex items-center gap-2 rounded-lg border border-hero-blue/40 bg-white px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-[#101828] shadow-sm transition-colors hover:bg-hero-blue/10"
+                className="flex items-center gap-2 rounded-lg border border-hero-blue/40 bg-white px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-[#111111] shadow-sm transition-colors hover:bg-hero-blue/10"
               >
                 {showAll ? "View Less" : "View More"}
                 <span className={`text-hero-blue transition-transform ${showAll ? "rotate-180" : ""}`} aria-hidden>
@@ -60,10 +60,10 @@ export default function Sec8({ data }) {
         <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
           <div className="relative mx-auto max-w-6xl">
             <h2 className="h2 uppercase">
-              <span className="block text-[#101828]">{gallery.titlePre}</span>
+              <span className="block text-[#111111]">{gallery.titlePre}</span>
               <span className="block text-hero-blue">{gallery.titleHighlight}</span>
             </h2>
-            <p className="mt-2 max-w-2xl text-sm text-[#101828]">{gallery.description}</p>
+            <p className="mt-2 max-w-2xl text-sm text-[#111111]">{gallery.description}</p>
 
             <div className="mt-6 grid grid-cols-6 gap-4">
               {gallery.items.map((it, i) => (
@@ -75,7 +75,7 @@ export default function Sec8({ data }) {
                     <Image src={it.image} alt={it.model} fill className="object-cover" sizes="16vw" />
                   </div>
                   <div className="px-3 py-2.5">
-                    <p className="truncate text-xs font-extrabold uppercase text-[#101828]">{it.model}</p>
+                    <p className="truncate text-xs font-extrabold uppercase text-[#111111]">{it.model}</p>
                     <div className="mt-1 flex items-center gap-1.5">
                       <Icon name={it.icon} className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
                       <p className="truncate text-[10px] uppercase tracking-wide text-hero-blue">{it.status}</p>
@@ -103,8 +103,8 @@ export default function Sec8({ data }) {
               <div key={s.linePre}>
                 <div className="flex items-center gap-4">
                   <span
-                    className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-hero-blue text-base font-extrabold text-white"
-                    style={{ boxShadow: "0 0 12px rgba(173,135,92,0.5)" }}
+                    className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-white/40 bg-[#4a4a4e] text-base font-extrabold text-white"
+                    style={{ boxShadow: "0 0 12px rgba(255,255,255,0.2)" }}
                   >
                     {i + 1}
                   </span>
@@ -130,7 +130,7 @@ export default function Sec8({ data }) {
           {/* bottom summary banner */}
           <div
             className="glass-card-dark relative mt-4 grid grid-cols-[1.3fr_1fr] divide-x divide-white/10 rounded-2xl px-4 py-4"
-            style={{ boxShadow: "0 20px 45px -15px rgba(0,0,0,0.5), 0 0 30px -10px rgba(173,135,92,0.3)" }}
+            style={{ boxShadow: "0 20px 45px -15px rgba(0,0,0,0.5), 0 0 30px -10px rgba(150,154,160,0.3)" }}
           >
             <div className="flex items-center gap-2.5 pr-3">
               <Icon name={howItWorks.summary.timeframe.icon} className="h-11 w-11 shrink-0 text-hero-blue" />
@@ -168,7 +168,7 @@ export default function Sec8({ data }) {
                       <span className="flex h-16 w-16 items-center justify-center rounded-xl bg-hero-blue/15">
                         <Icon name={s.icon} className="h-9 w-9 text-hero-blue" />
                       </span>
-                      <span className="absolute -left-4 -top-4 flex h-5 w-5 items-center justify-center rounded-full bg-hero-blue text-[10px] font-extrabold text-white">
+                      <span className="absolute -left-5 -top-5 flex h-8 w-8 items-center justify-center rounded-full border border-white/40 bg-[#4a4a4e] text-sm font-extrabold text-white shadow-md">
                         {i + 1}
                       </span>
                     </span>

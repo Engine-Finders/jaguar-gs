@@ -6,75 +6,75 @@
     "items": [
       {
         "icon": "truck",
-        "model": "F-Pace P250, P300",
+        "model": "Jaguar F-Pace",
         "status": "RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
-        "model": "XE P250, P300",
+        "model": "Jaguar XE",
         "status": "DIAGNOSTICS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
-        "model": "F-Pace P250, P300",
+        "model": "Jaguar F-Pace",
         "status": "STRIPPED ENGINE",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
-        "model": "XE P250, P300",
+        "model": "Jaguar XE",
         "status": "TIMING CHAIN REPLACEMENT",
-        "image": "/engine/sec8.webp"
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
-        "model": "F-Pace P250, P300",
+        "model": "Jaguar F-Pace",
         "status": "IN FOR REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
-        "model": "XE P250, P300",
+        "model": "Jaguar XE",
         "status": "REBUILD IN PROGRESS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
-        "model": "F-Pace P250, P300",
+        "model": "Jaguar F-Pace",
         "status": "NATIONWIDE RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
-        "model": "XE P250, P300",
+        "model": "Jaguar XE",
         "status": "ENGINE STRIPPED",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
-        "model": "F-Pace P250, P300",
+        "model": "Jaguar F-Pace",
         "status": "TESTING & CHECKS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
-        "model": "XE P250, P300",
+        "model": "Jaguar XE",
         "status": "READY FOR COLLECTION",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
-        "model": "F-Pace P250, P300",
+        "model": "Jaguar F-Pace",
         "status": "AJ200P REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
-        "model": "XE P250, P300",
+        "model": "Jaguar XE",
         "status": "WORKSHOP BAY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },

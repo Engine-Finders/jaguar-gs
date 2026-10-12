@@ -5,23 +5,23 @@
   "titleBigPost": " AJ200",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ200 across its 2 model applications."
+    "Here's our practical view of the AJ200 across its E-Pace X540, F-Type X152 applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ200 is fitted across E-Pace, F-Type — we see it regularly across the full application range."
+      "body": "The AJ200 appears across two model lines — the E-Pace SUV and the F-Type sports car — offering a range of power outputs from 200 to 300 hp."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Timing chain, bearings, and gaskets as standard on every rebuild, with application-specific ancillaries accounted for once your exact model is confirmed."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJ200 across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "No widely-reported pattern is confirmed for the AJ200 petrol across any of its applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented — for the AJ200, we don't have one to report, and we won't invent one to sound more thorough."
     }
   ],
   "notice": {
@@ -31,19 +31,47 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ200 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJ200 rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts (Inline-4 (I4), 2.0L (1,999 cc), Petrol).",
+    "body": "The AJ200 is the petrol version of the 2.0-litre Ingenium engine, introduced a year after the diesel AJ200D. Like other Ingenium engines, the timing chain components are inspected thoroughly during a full rebuild, and the turbocharger is checked as part of the standard strip-down process. Full engine replacements require DME software matching, which we handle as part of the refit process.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Timing chain, bearings, gaskets, turbocharger inspection"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£2,000",
     "cta": {
       "label": "Check AJ200 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Timing chain components",
+    "Rotating assembly inspection"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

@@ -1,237 +1,278 @@
+import { useId } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
-import AMGBadge from "@/components/reusable/AMGBadge";
 
-const HEX_POINTS = "50,2 96,25 96,75 50,98 4,75 4,25";
+const HEX_POINTS = "50,3 95,26 95,74 50,97 5,74 5,26";
 
 function HexIcon({ icon, boxClass, iconClass }) {
+  // each hexagon needs its own gradient id: a shared id resolves to the first one in the DOM, which sits in the hidden mobile layout
+  const gid = `hex-${useId().replace(/:/g, "")}`;
   return (
-    <div className={`relative mx-auto ${boxClass}`}>
-      <svg
-        viewBox="0 0 100 100"
-        className="absolute inset-0 h-full w-full"
-        style={{ filter: "drop-shadow(0 0 10px rgba(173,135,92,0.9)) drop-shadow(0 0 4px rgba(173,135,92,0.9))" }}
-      >
-        <polygon points={HEX_POINTS} fill="#0d0d0d" stroke="#ad875c" strokeWidth="4" />
+    <div className={`relative shrink-0 ${boxClass}`}>
+      <svg viewBox="0 0 100 100" className="absolute inset-0 h-full w-full" aria-hidden="true">
+        <defs>
+          <linearGradient id={gid} x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stopColor="#1a1a1c" />
+            <stop offset="30%" stopColor="#8e8e93" />
+            <stop offset="55%" stopColor="#f0f0f2" />
+            <stop offset="100%" stopColor="#2a2a2d" />
+          </linearGradient>
+        </defs>
+        <polygon points={HEX_POINTS} fill="#ffffff" stroke={`url(#${gid})`} strokeWidth="3" />
       </svg>
       <div className="absolute inset-0 flex items-center justify-center">
-        <Icon name={icon} className={`${iconClass} text-white`} />
+        <Icon name={icon} className={`${iconClass} text-[#111111]`} />
       </div>
     </div>
   );
 }
 
-function ColumnAccent({ className = "" }) {
+function Dash({ className = "" }) {
   return (
-    <span className={`mx-auto mt-1.5 flex items-center justify-center gap-1 ${className}`} aria-hidden="true">
-      <span className="h-0.5 w-6 bg-hero-blue" />
-      <span
-        className="h-0.5 w-6"
-        style={{ backgroundImage: "repeating-linear-gradient(90deg, var(--color-bmw-red) 0px, var(--color-bmw-red) 3px, transparent 3px, transparent 6px)" }}
-      />
+    <span className={`flex gap-1 ${className}`} aria-hidden="true">
+      <span className="chrome-bar-c h-0.5 w-8" />
+      <span className="chrome-bar-c h-0.5 w-5" />
+      <span className="chrome-bar-b h-0.5 w-3" />
+      <span className="chrome-bar-a h-0.5 w-2" />
     </span>
   );
 }
 
-export default function Sec10({ data }) {
+function ViewCard({ c, compact = false }) {
   return (
-    <section className="theme-dark relative overflow-hidden">
-      {/* ===== mobile ===== */}
-      <div className="relative px-4 py-7 md:hidden">
-        <div className="flex items-center gap-2">
-          <JaguarLogo className="h-8 w-8" />
-          <AMGBadge className="h-3.5" />
-        </div>
-        <h2 className="h2 mt-2 uppercase text-white">{data.titlePre}</h2>
-        <h2 className="h2 uppercase">
-          <span className="text-white">{data.titleBigPre}</span>
-          <span className="text-hero-blue">{data.titleBigHighlight}</span>
-          <span className="text-white">{data.titleBigPost}</span>
-        </h2>
-        <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
-
-        <div className="mt-3 space-y-1">
-          {data.subtext.map((l) => (
-            <p key={l} className="text-xs leading-snug text-white">
-              {l}
-            </p>
-          ))}
-        </div>
-
-        <div className="no-scrollbar relative -mx-4 mt-7 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4 pb-1">
-          {data.columns.map((c) => (
-            <div
-              key={c.title}
-              className="glass-card-dark w-[78%] shrink-0 snap-center rounded-2xl p-5 text-center"
-              style={{ boxShadow: "0 20px 45px -20px rgba(173,135,92,0.35)" }}
-            >
-              <HexIcon icon={c.icon} boxClass="h-20 w-20" iconClass="h-11 w-11" />
-              <p className="mt-3 text-sm font-extrabold uppercase tracking-wide text-hero-blue">{c.title}</p>
-              <ColumnAccent />
-              <p className="mx-auto mt-2 max-w-xs text-xs leading-relaxed text-white">{c.body}</p>
-            </div>
-          ))}
-        </div>
-
-        <div className="glass-card-dark relative mt-6 flex items-start gap-3 overflow-hidden rounded-xl px-4 py-3.5">
-          <span className="absolute bottom-0 left-0 top-0 w-1 bg-hero-blue" aria-hidden="true" />
-          <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-xs font-bold text-hero-blue">
-            i
-          </span>
-          <p className="text-xs italic leading-snug text-white">
-            <span className="font-bold not-italic text-white">{data.notice.highlight}</span>
-            {data.notice.rest}
+    <div
+      className={`rounded-2xl bg-white ${compact ? "p-4" : "p-8"}`}
+      style={{ boxShadow: "0 1px 0 rgba(255,255,255,0.9) inset, 0 10px 28px -14px rgba(0,0,0,0.22)", border: "1px solid rgba(0,0,0,0.06)" }}
+    >
+      {/* badge + title on one row; the body then runs the full card width, using the space under the badge */}
+      <div className={`flex items-center ${compact ? "gap-3" : "gap-6"}`}>
+        <HexIcon icon={c.icon} boxClass={compact ? "h-16 w-16" : "h-28 w-28"} iconClass={compact ? "h-8 w-8" : "h-14 w-14"} />
+        <div className="min-w-0">
+          <p className="origin-left scale-y-110 scale-x-90 font-title font-extrabold italic uppercase leading-tight text-[#111111]" style={{ fontSize: compact ? "16px" : "22px" }}>
+            {c.title}
           </p>
+          <Dash className="mt-2" />
         </div>
       </div>
+      <p className={`text-[#111111] ${compact ? "mt-3 text-xs leading-relaxed" : "mt-5 text-sm leading-relaxed"}`}>{c.body}</p>
+    </div>
+  );
+}
 
-      {/* ===== desktop ===== */}
-      <div className="relative hidden px-4 py-14 sm:px-6 md:block lg:px-8">
-        <div className="relative mx-auto max-w-6xl">
-          <div className="flex items-center gap-3">
-            <JaguarLogo className="h-11 w-11" />
-            <AMGBadge className="h-5" />
-          </div>
-          <h2 className="h2 mt-3 uppercase text-white">{data.titlePre}</h2>
-          <h2 className="h2 uppercase">
-            <span className="text-white">{data.titleBigPre}</span>
-            <span className="text-hero-blue">{data.titleBigHighlight}</span>
-            <span className="text-white">{data.titleBigPost}</span>
-          </h2>
-          <span className="mt-4 block h-0.5 w-40 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
-
-          <div className="mt-4 max-w-2xl space-y-1">
-            {data.subtext.map((l) => (
-              <p key={l} className="text-base text-white">
-                {l}
-              </p>
-            ))}
-          </div>
-
-          <div className="relative mt-12 grid grid-cols-3 gap-8">
-            {data.columns.map((c, i) => (
-              <div key={c.title} className="relative text-center">
-                {i > 0 && (
-                  <span className="pointer-events-none absolute -left-4 top-0 h-full w-px" aria-hidden="true">
-                    <span
-                      className="absolute inset-0"
-                      style={{ background: "linear-gradient(to bottom, transparent 0%, rgba(173,135,92,0.6) 12%, rgba(173,135,92,0.6) 88%, transparent 100%)" }}
-                    />
-                    <span className="absolute -left-[3px] -top-1 h-2 w-2 rounded-full bg-hero-blue" style={{ boxShadow: "0 0 8px rgba(173,135,92,0.9)" }} />
-                    <span className="absolute -bottom-1 -left-[3px] h-2 w-2 rounded-full bg-hero-blue" style={{ boxShadow: "0 0 8px rgba(173,135,92,0.9)" }} />
-                  </span>
-                )}
-                <HexIcon icon={c.icon} boxClass="h-32 w-32" iconClass="h-16 w-16" />
-                <p className="mt-4 text-lg font-extrabold uppercase tracking-wide text-hero-blue">{c.title}</p>
-                <ColumnAccent className="mt-2" />
-                <p className="mx-auto mt-3 max-w-xs text-sm leading-relaxed text-white">{c.body}</p>
-              </div>
-            ))}
-          </div>
-
-          <div className="glass-card-dark relative mt-10 flex items-center gap-4 overflow-hidden rounded-2xl px-6 py-5">
-            <span className="absolute bottom-0 left-0 top-0 w-1 bg-hero-blue" aria-hidden="true" />
-            <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border-2 border-hero-blue text-sm font-bold text-hero-blue">
-              i
-            </span>
-            <p className="text-sm italic leading-relaxed text-white">
-              <span className="font-bold not-italic text-white">{data.notice.highlight}</span>
-              {data.notice.rest}
-            </p>
-          </div>
+function InfoBar({ data, compact = false }) {
+  const checks = data.scopeChecks || [];
+  return (
+    <div
+      className={`rounded-2xl bg-white ${compact ? "p-4" : "flex items-stretch gap-0 px-6 py-5"}`}
+      style={{ border: "1px solid rgba(0,0,0,0.06)", boxShadow: "0 10px 28px -14px rgba(0,0,0,0.22)" }}
+    >
+      <div className="flex shrink-0 items-center gap-4">
+        <span className={`flex shrink-0 items-center justify-center rounded-full border-2 border-[#111111] font-serif font-bold text-[#111111] ${compact ? "h-9 w-9 text-base" : "h-14 w-14 text-2xl"}`}>i</span>
+        <div className={compact ? "" : "border-l border-black/10 pl-5 pr-8"}>
+          <p className="origin-left scale-y-110 scale-x-90 font-title font-extrabold italic uppercase leading-tight text-[#111111]" style={{ fontSize: compact ? "15px" : "24px" }}>
+            {data.titleBigPost.trim()} REBUILD INFORMATION
+          </p>
+          <p className={`text-[#111111] ${compact ? "text-xs" : "text-sm"}`}>Typical rebuild scope:</p>
         </div>
       </div>
+      <div className={compact ? "mt-3 flex flex-wrap gap-x-4 gap-y-2" : "grid flex-1 items-center divide-x divide-black/10"} style={compact ? undefined : { gridTemplateColumns: `repeat(${Math.max(checks.length, 1)}, minmax(0, 1fr))` }}>
+        {checks.map((s) => (
+          <span key={s} className={`flex items-center gap-2.5 text-[#111111] ${compact ? "text-xs" : "px-6 text-sm"}`}>
+            <Icon name="check" className={`shrink-0 rounded-full border border-[#111111] ${compact ? "h-4 w-4" : "h-6 w-6"}`} />
+            {s}
+          </span>
+        ))}
+      </div>
+    </div>
+  );
+}
 
-      {/* ============ a typical rebuild ============ */}
-      <div className="relative border-t border-white/10 theme-light">
+function TypicalCard({ c, compact = false }) {
+  return (
+    <div className="flex flex-col overflow-hidden rounded-xl" style={{ background: "linear-gradient(180deg, rgba(30,30,33,0.9) 0%, rgba(14,14,16,0.95) 100%)", border: "1px solid rgba(255,255,255,0.16)" }}>
+      <div className={`relative w-full ${compact ? "aspect-[16/10]" : "aspect-[4/3]"}`}>
+        <Image src={c.image} alt={c.title} fill className="object-cover" sizes={compact ? "100vw" : "260px"} />
+        <span className="absolute left-2 top-2 rounded border border-white/30 bg-black/50 px-2 py-0.5 text-xs font-bold text-white backdrop-blur-sm">{c.number}</span>
+      </div>
+      <div className={compact ? "p-3" : "px-5 pb-6 pt-5"}>
+        <p className="origin-left scale-y-110 scale-x-90 font-title font-extrabold italic uppercase leading-tight text-white" style={{ fontSize: compact ? "14px" : "17px" }}>{c.title}</p>
+        <p className={`mt-3 text-white/90 ${compact ? "text-xs leading-relaxed" : "text-[13px] leading-6"}`}>{c.body}</p>
+      </div>
+    </div>
+  );
+}
+
+function ScopeBar({ ty, compact = false }) {
+  const scope = (
+    <div className="flex min-w-0 flex-1 items-start gap-4">
+      <span className={`flex shrink-0 items-center justify-center rounded-lg border border-white/25 bg-white/5 ${compact ? "h-10 w-10" : "h-14 w-14"}`}>
+        <Icon name="gear" className={compact ? "h-5 w-5 text-white" : "h-8 w-8 text-white"} />
+      </span>
+      <div className="min-w-0">
+        <p className="origin-left scale-y-110 scale-x-90 font-title font-extrabold italic uppercase leading-tight text-white" style={{ fontSize: compact ? "14px" : "18px" }}>{ty.scope?.label}</p>
+        <p className={`mt-1 text-white ${compact ? "text-xs leading-snug" : "text-sm leading-snug"}`}>{ty.scope?.text}</p>
+      </div>
+    </div>
+  );
+  const price = (
+    <>
+      <p className="text-xs uppercase tracking-wide text-white">{ty.startingFromLabel}</p>
+      <p className={`font-extrabold leading-tight text-chrome ${compact ? "text-3xl" : "text-5xl"}`}>{ty.startingFromPrice}</p>
+    </>
+  );
+
+  if (compact) {
+    return (
+      <div className="glass-card-dark rounded-2xl p-4">
+        {scope}
+        <div className="mt-4 border-t border-white/10 pt-3 text-center">{price}</div>
+      </div>
+    );
+  }
+
+  // same column template as the grid above (0.9fr | 1.4fr, gap-10) with a 3-col, gap-4 inner grid like the cards,
+  // so the price lands directly under the middle card
+  return (
+    <div className="glass-card-dark grid grid-cols-[minmax(0,0.9fr)_minmax(0,1.4fr)] gap-10 rounded-2xl">
+      <div className="flex items-center py-6 pl-8">{scope}</div>
+      <div className="grid grid-cols-3 gap-4 py-4">
+        <span aria-hidden="true" />
+        <div className="flex flex-col items-center justify-center border-l border-white/10 text-center">{price}</div>
+        <span aria-hidden="true" />
+      </div>
+    </div>
+  );
+}
+
+export default function Sec10({ data }) {
+  const ty = data.typical;
+
+  return (
+    <>
+      {/* ============ our workshop view ============ */}
+      <section className="theme-light relative overflow-hidden" style={{ backgroundColor: "#eef0f1" }}>
         {/* ===== mobile ===== */}
-        <div className="relative px-4 pt-7 md:hidden">
-          <p className="text-xs font-bold uppercase tracking-widest text-hero-blue">{data.typical.kicker}</p>
-          <h3 className="h3 mt-1 uppercase text-[#101828]">
-            {data.typical.title}
-          </h3>
-          <span className="mt-2 block h-0.5 w-24 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
-        </div>
-
-        <div className="relative mt-4 aspect-square w-full overflow-hidden bg-(--theme-light-bg) md:hidden">
-          <Image src={data.typical.imageMobile} alt="the engine exploded engine components" fill className="object-contain" sizes="100vw" />
-        </div>
-
-        <div className="relative px-4 pb-7 md:hidden">
-          <p className="mt-4 text-xs italic leading-relaxed text-[#4a5568]">{data.typical.intro}</p>
-          <p className="mt-3 text-xs leading-relaxed text-[#101828]">{data.typical.body}</p>
-
-          <div className="glass-card relative mt-5 flex flex-col gap-3 rounded-2xl p-4">
-            <div className="flex items-start gap-3">
-              <Icon name="chain" className="mt-0.5 h-6 w-6 shrink-0 text-hero-blue" />
-              <div>
-                <p className="text-[10px] font-bold uppercase tracking-wide text-[#101828]">{data.typical.scope.label}</p>
-                <p className="mt-0.5 text-xs leading-snug text-[#4a5568]">{data.typical.scope.text}</p>
-              </div>
+        <div className="relative md:hidden">
+          <div className="relative px-4 pt-7">
+            <JaguarLogo className="h-9" />
+            <p className="mt-3 text-lg font-extrabold italic uppercase text-[#555555]">{data.titlePre}</p>
+            <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+              <span className="text-chrome-ink">
+                {data.titleBigPre}
+                {data.titleBigHighlight}
+                {data.titleBigPost}
+              </span>
+            </h2>
+            <Dash className="mt-3" />
+            <div className="mt-3 space-y-1">
+              {data.subtext.map((l) => (
+                <p key={l} className="text-xs leading-snug text-[#111111]">
+                  {l}
+                </p>
+              ))}
             </div>
-            <div className="border-t border-black/10 pt-3">
-              <div className="flex items-center gap-2">
-                <p className="text-[10px] font-bold uppercase tracking-wide text-[#101828]">{data.typical.startingFromLabel}</p>
-                <p className="text-2xl font-extrabold text-hero-blue">{data.typical.startingFromPrice}</p>
-              </div>
-              <a
-                href={data.typical.cta.href}
-                className="mt-3 flex w-full items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-4 py-3 text-xs font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
-              >
-                {data.typical.cta.label}
-              </a>
-            </div>
+          </div>
+
+          <div className="relative mt-3 aspect-[520/330] w-full overflow-hidden">
+            <Image src={data.imageMobile || "/engine/sec9b_m3.webp"} alt="Jaguar engine on a steel workshop table" fill className="object-cover object-right" sizes="100vw" />
+            <div className="pointer-events-none absolute inset-x-0 top-0 h-10 bg-linear-to-b from-[#eef0f1] to-transparent" />
+          </div>
+
+          <div className="relative space-y-3 px-4 pb-6 pt-3">
+            {data.columns.map((c) => (
+              <ViewCard key={c.title} c={c} compact />
+            ))}
+            <InfoBar data={data} compact />
           </div>
         </div>
 
-        {/* ===== desktop — full-bleed exploded-parts photo on the right ===== */}
+        {/* ===== desktop ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
-            <Image src={data.typical.image} alt="the engine exploded engine components" fill className="object-cover" sizes="100vw" />
-            <div
-              className="absolute inset-0"
-              style={{ background: "linear-gradient(to right, var(--theme-light-bg) 0%, var(--theme-light-bg) 42%, rgba(241,237,232,0.85) 54%, rgba(241,237,232,0.3) 68%, transparent 82%)" }}
-            />
+            <Image src={data.image || "/engine/sec9b.webp"} alt="Jaguar engine on a steel workshop table" fill className="object-cover object-right-top" sizes="100vw" />
           </div>
 
-          <div className="relative px-4 py-14 sm:px-6 lg:px-8">
-          <div className="mx-auto max-w-6xl">
-            <div className="max-w-xl">
-              <p className="text-sm font-bold uppercase tracking-widest text-hero-blue">{data.typical.kicker}</p>
-              <h3 className="h3 mt-1 uppercase text-[#101828]">
-                {data.typical.title}
-              </h3>
-              <span className="mt-4 block h-0.5 w-40 bg-linear-to-r from-hero-blue via-white to-hero-blue" />
-
-              <p className="mt-5 text-sm italic leading-relaxed text-[#4a5568]">{data.typical.intro}</p>
-              <p className="mt-4 text-sm leading-relaxed text-[#101828]">{data.typical.body}</p>
+          <div className="relative mx-auto w-[min(72rem,calc(100%-2rem))] pb-8 pt-10 sm:w-[min(72rem,calc(100%-3rem))] lg:w-[min(72rem,calc(100%-4rem))]">
+            <JaguarLogo className="h-14" />
+            <div className="max-w-[56%] pl-4">
+              <p className="mt-4 text-2xl font-extrabold italic uppercase text-[#555555]">{data.titlePre}</p>
+              <h2 className="h2 origin-left scale-y-110 scale-x-90 whitespace-nowrap uppercase">
+                <span className="text-chrome-ink">
+                  {data.titleBigPre}
+                  {data.titleBigHighlight}
+                  {data.titleBigPost}
+                </span>
+              </h2>
+              <Dash className="mt-4" />
+              <div className="mt-5 space-y-1">
+                {data.subtext.map((l) => (
+                  <p key={l} className="text-sm text-[#111111]">
+                    {l}
+                  </p>
+                ))}
+              </div>
             </div>
 
-            <div className="glass-card relative mt-8 grid grid-cols-[minmax(0,1.6fr)_auto_minmax(0,1fr)_auto] items-center gap-6 rounded-2xl p-6">
-              <div className="flex min-w-0 items-start gap-3">
-                <Icon name="chain" className="mt-0.5 h-8 w-8 shrink-0 text-hero-blue" />
-                <div className="min-w-0">
-                  <p className="text-xs font-bold uppercase tracking-wide text-[#101828]">{data.typical.scope.label}</p>
-                  <p className="mt-1 text-sm leading-snug text-[#4a5568]">{data.typical.scope.text}</p>
-                </div>
-              </div>
-              <span className="h-16 w-px shrink-0 bg-black/10" aria-hidden="true" />
-              <div className="shrink-0">
-                <p className="text-xs font-bold uppercase tracking-wide text-[#101828]">{data.typical.startingFromLabel}</p>
-                <p className="text-3xl font-extrabold text-hero-blue">{data.typical.startingFromPrice}</p>
-              </div>
-              <a
-                href={data.typical.cta.href}
-                className="flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-6 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]"
-              >
-                {data.typical.cta.label}
-              </a>
+            <div className="mt-12 grid grid-cols-3 gap-5">
+              {data.columns.map((c) => (
+                <ViewCard key={c.title} c={c} />
+              ))}
             </div>
-          </div>
+            <div className="mt-5">
+              <InfoBar data={data} />
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+
+      {/* ============ a typical rebuild ============ */}
+      <section className="theme-dark relative overflow-hidden" style={{ backgroundColor: "#07080a" }}>
+        {/* ===== mobile ===== */}
+        <div className="relative px-4 py-7 md:hidden">
+          <p className="text-lg font-extrabold italic uppercase text-white/85">{ty.kicker}</p>
+          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+            <span className="text-chrome">{ty.title}</span>
+          </h2>
+          <Dash className="mt-3" />
+          <p className="mt-4 text-xs leading-relaxed text-white">{ty.intro}</p>
+          {ty.body && <p className="mt-3 text-xs leading-relaxed text-white">{ty.body}</p>}
+
+          <div className="mt-5 grid grid-cols-1 gap-3">
+            {(ty.cards || []).map((c) => (
+              <TypicalCard key={c.number} c={c} compact />
+            ))}
+          </div>
+          <div className="mt-4">
+            <ScopeBar ty={ty} compact />
+          </div>
+        </div>
+
+        {/* ===== desktop ===== */}
+        <div className="relative hidden px-4 py-12 sm:px-6 md:block lg:px-8">
+          <div className="relative mx-auto max-w-6xl">
+            <div className="grid grid-cols-[minmax(0,0.9fr)_minmax(0,1.4fr)] gap-10">
+              <div>
+                <p className="text-xl font-extrabold italic uppercase text-white/85">{ty.kicker}</p>
+                <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+                  <span className="text-chrome">{ty.title}</span>
+                </h2>
+                <Dash className="mt-4" />
+                <p className="mt-5 text-sm leading-relaxed text-white">{ty.intro}</p>
+                {ty.body && <p className="mt-4 text-sm leading-relaxed text-white">{ty.body}</p>}
+              </div>
+              <div className="grid grid-cols-3 gap-4">
+                {(ty.cards || []).map((c) => (
+                  <TypicalCard key={c.number} c={c} />
+                ))}
+              </div>
+            </div>
+            <div className="mt-8">
+              <ScopeBar ty={ty} />
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
   );
 }

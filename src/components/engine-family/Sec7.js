@@ -1,6 +1,5 @@
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
-import AMGBadge from "@/components/reusable/AMGBadge";
 
 export default function Sec7({ data }) {
   return (
@@ -9,11 +8,10 @@ export default function Sec7({ data }) {
       <div className="relative px-4 py-7 md:hidden">
         <div
           className="relative overflow-hidden rounded-2xl p-4"
-          style={{ border: "1px solid rgba(173,135,92,0.4)", boxShadow: "0 0 25px -8px rgba(173,135,92,0.35)" }}
+          style={{ border: "1px solid rgba(214,218,224,0.28)", background: "rgba(255,255,255,0.03)" }}
         >
         <div className="flex items-center gap-2">
           <JaguarLogo className="h-8 w-8" />
-          <AMGBadge className="h-3.5" />
         </div>
         <h2 className="h2 mt-2 uppercase">
           <span className="text-white">{data.titlePre}</span>
@@ -32,8 +30,7 @@ export default function Sec7({ data }) {
               <span
                 className="relative z-10 flex h-10 w-10 shrink-0 rounded-full p-[1.5px]"
                 style={{
-                  background:
-                    "conic-gradient(from 0deg, var(--color-bmw-blue) 0deg, rgba(173,135,92,0.15) 60deg, transparent 100deg, transparent 260deg, rgba(173,135,92,0.15) 300deg, var(--color-bmw-red) 360deg), rgba(13,13,13,0.9)",
+                  background: "linear-gradient(145deg, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.12) 40%, rgba(255,255,255,0.55) 100%), rgba(13,13,13,0.9)",
                   boxShadow: "0 8px 18px -6px rgba(0,0,0,0.5)",
                 }}
               >
@@ -55,21 +52,13 @@ export default function Sec7({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-12 sm:px-6 md:block lg:px-8">
         <div
-          className="relative mx-auto max-w-6xl overflow-hidden rounded-2xl p-10"
-          style={{ border: "1px solid rgba(173,135,92,0.4)", boxShadow: "0 0 45px -12px rgba(173,135,92,0.35)" }}
+          className="relative mx-auto max-w-6xl"
         >
-          <div className="flex items-center gap-5">
-            <JaguarLogo className="h-24 w-24 shrink-0" />
-            <div className="h-20 w-px shrink-0 bg-white/15" aria-hidden="true" />
+          <div className="flex items-center gap-4">
+            <JaguarLogo className="h-10 shrink-0" />
+            <div className="h-10 w-px shrink-0 bg-white/15" aria-hidden="true" />
             <div>
-              <AMGBadge
-                className="h-7"
-                barWidthClass="w-2"
-                barGapClass="gap-1.5"
-                gapClass="gap-3"
-                textSizeClass="text-4xl"
-              />
-              <h2 className="h2 mt-1 uppercase">
+              <h2 className="h2 origin-left scale-y-110 scale-x-90 whitespace-nowrap uppercase">
                 <span className="text-white">{data.titlePre}</span>
                 <span className="text-hero-blue">{data.titleHighlight}</span>
               </h2>
@@ -81,10 +70,9 @@ export default function Sec7({ data }) {
             {data.steps.map((s, i) => (
               <div key={s.title} className="relative flex flex-col items-center text-center">
                 <span
-                  className="relative z-10 flex h-[72px] w-[72px] shrink-0 rounded-full p-0.5"
+                  className="relative z-10 flex h-[72px] w-[72px] shrink-0 rounded-full p-[3px]"
                   style={{
-                    background:
-                      "conic-gradient(from 0deg, var(--color-bmw-blue) 0deg, rgba(173,135,92,0.15) 60deg, transparent 100deg, transparent 260deg, rgba(173,135,92,0.15) 300deg, var(--color-bmw-red) 360deg), rgba(13,13,13,0.9)",
+                    background: "linear-gradient(145deg, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.12) 40%, rgba(255,255,255,0.55) 100%), rgba(13,13,13,0.9)",
                     boxShadow: "0 12px 26px -8px rgba(0,0,0,0.5)",
                   }}
                 >

@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ133",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ133 engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ133 engine rebuild starts from £5,500 for supercharged variants and £4,500 for naturally aspirated variants — the price tier is set by the powertrain configuration, not the badge on the boot.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine, the extent of internal damage, timing chain condition, cylinder/head condition, supercharger condition, cooling system condition, and the labour required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£5,500",
+    "card": {
+      "model": "Jaguar F-Pace X761",
+      "engine": "AJ133 5.0L",
+      "year": "2016 – 2024",
+      "price": "£5,500"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ133",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ133 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ133 owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most Jaguar owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ133 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ133 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given how many different AJ133 applications exist across the Jaguar range. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -69,41 +91,45 @@
     "faqLeft": [
       {
         "q": "What is the Jaguar AJ133 engine?",
-        "a": "The AJ133 is Jaguar Land Rover's third-generation AJ-V8 engine — a 5.0-litre 90° V8 produced from 2009 to 2024, fitted across six different Jaguar models."
+        "a": "The AJ133 is Jaguar Land Rover's third-generation AJ-V8 engine — a 5.0-litre 90° V8 produced from 2009 to 2024. It's fitted across six different Jaguar models in both naturally aspirated and supercharged forms."
       },
       {
         "q": "Which Jaguar models use the AJ133?",
-        "a": "F-Pace SVR, F-Type R/SVR, XE Project 8, XF XFR/XFR-S, XJ Supersport/XJR, and XK XKR/XKR-S."
+        "a": "F-Pace SVR, F-Type R/SVR, XE Project 8, XF XFR/XFR-S, XJ Supersport/XJR, and XK XKR/XKR-S — see the full applications table above for exact variants and years."
       },
       {
         "q": "Does the AJ133 differ between Jaguar models?",
-        "a": "Yes. The specific ancillaries, mounting, ECU calibration, and supercharger tune differ by application, even though the base engine code is the same."
+        "a": "Yes. The specific ancillaries, mounting, ECU calibration, and supercharger tune differ by application, even though the base engine code is the same. We match by registration/VIN before confirming any rebuild or replacement."
       },
       {
         "q": "Is an AJ133 from one Jaguar model compatible with another?",
-        "a": "Not automatically. An AJ133 from an XF isn't a drop-in match for an AJ133 from an F-Pace SVR — ancillaries, mounting, ECU calibration, and supercharger tune all differ."
+        "a": "Not automatically. An AJ133 from an XF isn't a drop-in match for an AJ133 from an F-Pace SVR — ancillaries, mounting, ECU calibration, and supercharger tune all differ. We always confirm compatibility by registration/VIN."
       },
       {
         "q": "How much does a Jaguar AJ133 engine rebuild cost?",
-        "a": "Rebuilds start from £5,500 for supercharged variants and £4,500 for naturally aspirated variants."
+        "a": "Rebuilds start from £5,500 for supercharged variants and £4,500 for naturally aspirated variants. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ133 engines?",
-        "a": "Yes. We work on AJ133 rebuilds across every model it's fitted to, replacing worn components as standard."
+        "a": "Yes. We work on AJ133 rebuilds across every model it's fitted to, replacing worn components as standard — including timing chain, bearings, gaskets, and supercharger coupler where applicable."
+      },
+      {
+        "q": "What are the common issues with the AJ133 engine?",
+        "a": "Timing chain tensioner and guide failure is a confirmed pattern, particularly on early engines (2009–2012) with 15,000-mile oil change intervals. Cooling system leaks (pipes, hoses, connectors) and water pump failure are also documented. Supercharger coupler wear can cause rattling noise."
       }
     ],
     "faqRight": [
       {
-        "q": "What are the common issues with the AJ133 engine?",
-        "a": "Timing chain tensioner and guide failure is a confirmed pattern, particularly on early engines (2009–2012). Cooling system leaks and water pump failure are also documented. Supercharger coupler wear can cause rattling noise."
+        "q": "Can you rebuild an AJ133 from an F-Type R?",
+        "a": "Yes. The AJ133 in the F-Type is one of the most common applications we see, across both R and SVR variants."
       },
       {
-        "q": "Can you rebuild an AJ133 from an F-Type R?",
-        "a": "Yes. The AJ133 in the F-Type is one of the most common applications we see."
+        "q": "Can you rebuild an AJ133 from an F-Pace SVR?",
+        "a": "Yes. The AJ133 in the F-Pace SVR is one of the applications we work on regularly."
       },
       {
         "q": "Do you supply used Jaguar AJ133 engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
@@ -115,7 +141,7 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJ133 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJ133 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given how many different AJ133 applications exist across the Jaguar range — and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

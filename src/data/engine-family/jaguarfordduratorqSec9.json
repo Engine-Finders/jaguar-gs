@@ -1,78 +1,81 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "Ford Duratorq",
     "titlePost": " ENGINE",
-    "body": "The Ford Duratorq is a Inline-4 (I4), 2.2L (2,198 cc), Diesel engine used across Jaguar's several model range, in production 2008–2015. We rebuild every Ford Duratorq to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The Ford Duratorq engine fitted to the XF is a 2.2-litre inline-four diesel from Ford's Puma family, produced from 2008 to 2015. It was used in the X250-generation XF as the entry-level diesel option, offering a balance of economy and performance for the saloon body style. This engine is Ford-sourced rather than a Jaguar-designed unit, which means its parts and maintenance patterns align with Ford's Duratorq family rather than Jaguar's Ingenium or AJD diesel lines."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
-    "kicker": "JAGUAR Ford Duratorq",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
+    "kicker": "JAGUAR FORD DURATORQ",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The Ford Duratorq is deployed across the Ford Duratorq (Ford Duratorq / Ford Duratorq, Ford Duratorq), the Ford Duratorq (Ford Duratorq / Ford Duratorq, Ford Duratorq), and the Ford Duratorq (Ford Duratorq / Ford Duratorq, Ford Duratorq). These form the core of the high-performance Ford Duratorq range. More recently, the engine has been adopted for the Ford Duratorq (Ford Duratorq, Ford Duratorq), the Ford Duratorq (Ford Duratorq, Ford Duratorq), and the Ford Duratorq roadster (Ford Duratorq, Ford Duratorq), proving the Ford Duratorq's versatility across different vehicle types.",
+    "body": "The Ford Duratorq appears in a single Jaguar application: the XF 2.2D (X250, 2008–2015) . It was the diesel option for the first-generation XF before the Ingenium diesel family replaced it in the X260 generation. We work on this engine across all X250 XF 2.2D variants.",
     "lineup": [
       {
-        "label": "Ford Duratorq",
-        "code": "Ford Duratorq"
-      },
-      {
-        "label": "Ford Duratorq",
-        "code": "Ford Duratorq"
-      },
-      {
-        "label": "Ford Duratorq",
-        "code": "Ford Duratorq"
-      },
-      {
-        "label": "Ford Duratorq",
-        "code": "Ford Duratorq"
-      },
-      {
-        "label": "Ford Duratorq",
-        "code": "Ford Duratorq"
-      },
-      {
-        "label": "Ford Duratorq",
-        "code": "Ford Duratorq"
+        "label": "XF",
+        "code": "X250"
       }
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
-    "kicker": "JAGUAR Ford Duratorq",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
+    "kicker": "JAGUAR FORD DURATORQ",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the Ford Duratorq is fitted to six different models — from the compact Ford Duratorq to the grand-touring Ford Duratorq roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A Ford Duratorq from an Ford Duratorq isn't a drop-in match for a Ford Duratorq from an Ford Duratorq — ancillaries and mounting differ.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the Ford Duratorq appears in only one Jaguar application — the XF 2.2D (X250, 2008–2015) — compatibility matching is more straightforward than with engines that span multiple models. However, registration/VIN matching is still required to confirm exact ancillaries, ECU calibration, and year-specific variations. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
         "title": "GENERATION",
-        "text": "Identify the correct generation (Ford Duratorq, Ford Duratorq, Ford Duratorq, Ford Duratorq, Ford Duratorq, Ford Duratorq)."
+        "text": "Identify the correct generation (X250)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar Ford Duratorq",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "Ford Duratorq in the XF (X250, 2008–2015)",
+        "engine": "Ford Duratorq",
+        "model": "XF",
+        "detail": "X250, 2008–2015",
+        "body": "The Ford Duratorq in the XF is one of the applications we work on regularly — the 2.2D entry-level diesel option for the X250-generation saloon.",
+        "price": "£1,900",
+        "cta": "Check your XF Ford Duratorq"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar XF X250",
+      "engine": "Ford Duratorq 2.2L",
+      "year": "2008 – 2015",
+      "price": "£1,900"
+    }
   }
 }

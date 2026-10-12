@@ -1,21 +1,21 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ300P",
     "titlePost": " ENGINE",
-    "body": "The AJ300P is a Inline-6 (I6), 3.0L (2,995 cc), Petrol MHEV engine used across Jaguar's 1 model range, in production 2019–present. We rebuild every AJ300P to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ300P is Jaguar Land Rover's Ingenium-family turbocharged 3.0-litre inline-six petrol engine, introduced in 2019. In the Jaguar range, its primary application is the F-Pace P400, where it's paired with a 48V mild-hybrid system."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ300P",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ300P is fitted across F-Pace — see the full applications table above for exact variants, generations and years.",
+    "body": "Across the F-Pace, the AJ300P is the top-spec petrol powertrain in the P400 variant (X761, 2019–present), producing 400 hp with mild-hybrid assistance.",
     "lineup": [
       {
         "label": "F-Pace",
@@ -24,19 +24,18 @@
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ300P",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ300P is fitted across multiple Jaguar models, compatibility comes down to confirming your exact model, generation and specification. We confirm by registration or VIN before quoting or supplying anything.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "Because the AJ300P is paired with a 48V MHEV system, compatibility depends on matching the exact vehicle specification. The engine and its associated ancillaries — including the mild-hybrid components — are specific to the F-Pace P400 application. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
@@ -44,15 +43,39 @@
         "text": "Identify the correct generation (X761)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ300P",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ300P in the F-Pace (X761, 2019–present)",
+        "engine": "AJ300P",
+        "model": "F-Pace",
+        "detail": "X761, 2019–present",
+        "body": "The AJ300P in the F-Pace P400 is one of the applications we work on. The 3.0-litre Ingenium straight-six is matched with a 48V mild-hybrid system to produce 400 hp. Jaguar AJ300P by Powertrain Variant AJ300P MHEV Applications: F-Pace P400. The mild-hybrid system carries additional 48V ancillaries we account for during a rebuild.",
+        "price": "£3,200",
+        "cta": "Check your F-Pace AJ300P"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar F-Pace X761",
+      "engine": "AJ300P 3.0L",
+      "year": "2019 – present",
+      "price": "£3,200"
+    }
   }
 }

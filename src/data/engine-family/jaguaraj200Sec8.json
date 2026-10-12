@@ -6,75 +6,75 @@
     "items": [
       {
         "icon": "truck",
-        "model": "E-Pace P200, P250, P300",
+        "model": "Jaguar E-Pace",
         "status": "RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l6.webp"
       },
       {
         "icon": "search",
-        "model": "F-Type 2.0i",
+        "model": "Jaguar F-Type",
         "status": "DIAGNOSTICS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_3.webp"
       },
       {
         "icon": "gear",
-        "model": "E-Pace P200, P250, P300",
+        "model": "Jaguar E-Pace",
         "status": "STRIPPED ENGINE",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_2.webp"
       },
       {
         "icon": "chain",
-        "model": "F-Type 2.0i",
+        "model": "Jaguar F-Type",
         "status": "TIMING CHAIN REPLACEMENT",
-        "image": "/engine/sec8.webp"
+        "image": "/home/sec4_2.webp"
       },
       {
         "icon": "wrench",
-        "model": "E-Pace P200, P250, P300",
+        "model": "Jaguar E-Pace",
         "status": "IN FOR REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_9.webp"
       },
       {
         "icon": "gear",
-        "model": "F-Type 2.0i",
+        "model": "Jaguar F-Type",
         "status": "REBUILD IN PROGRESS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l5.webp"
       },
       {
         "icon": "truck",
-        "model": "E-Pace P200, P250, P300",
+        "model": "Jaguar E-Pace",
         "status": "NATIONWIDE RECOVERY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/workshop_1.webp"
       },
       {
         "icon": "gear",
-        "model": "F-Type 2.0i",
+        "model": "Jaguar F-Type",
         "status": "ENGINE STRIPPED",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l2.webp"
       },
       {
         "icon": "knock",
-        "model": "E-Pace P200, P250, P300",
+        "model": "Jaguar E-Pace",
         "status": "TESTING & CHECKS",
-        "image": "/engine/sec8.webp"
+        "image": "/home/gallery_l4.webp"
       },
       {
         "icon": "shield-check",
-        "model": "F-Type 2.0i",
+        "model": "Jaguar F-Type",
         "status": "READY FOR COLLECTION",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_black.webp"
       },
       {
         "icon": "gear",
-        "model": "E-Pace P200, P250, P300",
+        "model": "Jaguar E-Pace",
         "status": "AJ200 REBUILD",
-        "image": "/engine/sec8.webp"
+        "image": "/home/rebuild_6.webp"
       },
       {
         "icon": "wrench",
-        "model": "F-Type 2.0i",
+        "model": "Jaguar F-Type",
         "status": "WORKSHOP BAY",
-        "image": "/engine/sec8.webp"
+        "image": "/home/model_xe_white.webp"
       }
     ]
   },

@@ -3,9 +3,44 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import JaguarLogo from "@/components/reusable/JaguarLogo";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 const MOBILE_VISIBLE_COUNT = 6;
+
+function WorkshopCard({ it, data, sizes, compact = false }) {
+  return (
+    <div className="neon-card neon-card--soft relative flex flex-col overflow-hidden rounded-xl">
+      <div className={`relative ${compact ? "aspect-[4/3]" : "aspect-[4/3]"}`}>
+        <Image src={it.image || data.image} alt={it.label} fill className="object-cover" sizes={sizes} />
+        <span className={`absolute bottom-0 left-0 bg-hero-dark/90 font-extrabold text-white ${compact ? "px-2 py-1 text-[10px]" : "px-3 py-1.5 text-sm"}`}>
+          {it.number}
+        </span>
+      </div>
+      <div className={`flex-1 ${compact ? "px-2.5 py-2" : "px-3 py-3"}`} style={{ background: "rgba(14,14,16,0.92)" }}>
+        <p className={`font-extrabold uppercase leading-tight text-white ${compact ? "text-[10px]" : "text-xs"}`}>{it.label}</p>
+        {it.caption && <p className={`mt-1 leading-snug text-white/80 ${compact ? "text-[10px]" : "text-xs"}`}>{it.caption}</p>}
+      </div>
+    </div>
+  );
+}
+
+function FootNote({ data, compact = false }) {
+  return (
+    <div className={`glass-card-dark relative flex items-center gap-3 overflow-hidden rounded-xl ${compact ? "py-3.5 pl-4 pr-9" : "px-6 py-5"}`}>
+      <Icon name="camera" className={`shrink-0 text-white ${compact ? "h-6 w-6" : "h-8 w-8"}`} />
+      <p className={`relative z-10 min-w-0 text-white ${compact ? "text-xs" : "text-sm"}`}>{data.footerNote}</p>
+      <div
+        className="pointer-events-none absolute bottom-0 right-0 z-0 flex gap-1.5"
+        style={{ height: compact ? "40px" : "70px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
+        aria-hidden="true"
+      >
+        <span className={`h-full chrome-bar-a ${compact ? "w-3" : "w-5"}`} />
+        <span className={`h-full chrome-bar-b ${compact ? "w-3" : "w-5"}`} />
+      </div>
+    </div>
+  );
+}
 
 export default function Sec5({ data }) {
   const [showAll, setShowAll] = useState(false);
@@ -14,26 +49,21 @@ export default function Sec5({ data }) {
   return (
     <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-7 md:hidden">
-        <div className="flex items-center gap-2">
-          <JaguarStripe className="h-6 w-12 shrink-0" />
-          <h2 className="h2 uppercase">
-            {data.titlePre}
-            <span className="text-hero-blue">{data.titleHighlight}</span>
-          </h2>
+      <div className="relative px-4 pb-10 pt-7 md:hidden">
+        <div className="flex items-center justify-between gap-2">
+          <div className="flex items-center gap-2">
+            <JaguarStripe className="h-6 w-12 shrink-0" />
+            <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+              {data.titlePre}
+              <span className="text-hero-blue">{data.titleHighlight}</span>
+            </h2>
+          </div>
+          <JaguarLogo className="h-7" />
         </div>
 
         <div className="mt-5 grid grid-cols-2 gap-3">
           {mobileItems.map((it) => (
-            <div key={it.number} className="neon-card neon-card--soft relative rounded-xl">
-              <div className="relative aspect-[4/3]">
-                <Image src={it.image} alt={it.label} fill className="object-cover" sizes="50vw" />
-                <span className="absolute bottom-2 left-2 rounded-sm bg-hero-blue px-1.5 py-0.5 text-[9px] font-extrabold text-white">{it.number}</span>
-              </div>
-              <div className="px-2.5 py-2" style={{ background: "rgba(13,13,13,0.9)" }}>
-                <p className="text-[9px] font-extrabold uppercase leading-tight text-white">{it.label}</p>
-              </div>
-            </div>
+            <WorkshopCard key={it.number} it={it} data={data} sizes="50vw" compact />
           ))}
         </div>
 
@@ -42,78 +72,49 @@ export default function Sec5({ data }) {
             <button
               type="button"
               onClick={() => setShowAll((v) => !v)}
-              className="flex items-center gap-2 rounded-lg border border-hero-blue/60 bg-hero-dark/60 px-5 py-2.5 text-xs font-bold uppercase tracking-wide text-white backdrop-blur-md transition-colors hover:bg-hero-blue/10"
+              className="btn-text glass-card-dark flex items-center gap-2 rounded-lg px-6 py-2.5 uppercase tracking-wide text-white transition-colors hover:bg-white/10"
             >
               {showAll ? "View Less" : data.viewMoreLabel}
-              <span className={`text-hero-blue transition-transform ${showAll ? "rotate-180" : ""}`} aria-hidden>
+              <span className={`transition-transform ${showAll ? "rotate-180" : ""}`} aria-hidden>
                 ↓
               </span>
             </button>
           </div>
         )}
 
-        <div className="relative mt-5 flex items-center gap-3 overflow-hidden rounded-xl border border-white/10 bg-white/5 py-3.5 pl-4 pr-9">
-          <Icon name="camera" className="h-6 w-6 shrink-0 text-white" />
-          <p className="relative z-10 min-w-0 text-xs text-white">{data.footerNote}</p>
-
-          <div
-            className="pointer-events-none absolute bottom-0 right-0 z-0 flex gap-1"
-            style={{ height: "40px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
-            aria-hidden="true"
-          >
-            <span className="h-full w-3" style={{ background: "var(--color-bmw-blue)" }} />
-            <span className="h-full w-3" style={{ background: "var(--color-bmw-violet)" }} />
-            <span className="h-full w-3" style={{ background: "var(--color-bmw-red)" }} />
-          </div>
+        <div className="mt-5">
+          <FootNote data={data} compact />
         </div>
       </div>
 
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
         <div className="relative mx-auto max-w-6xl">
-          <div className="flex items-center gap-3">
-            <JaguarStripe className="h-10 w-16 shrink-0" />
-            <h2 className="h2 uppercase">
-              {data.titlePre}
-              <span className="text-hero-blue">{data.titleHighlight}</span>
-            </h2>
+          <div className="flex items-center justify-between gap-3">
+            <div className="flex items-center gap-3">
+              <JaguarStripe className="h-10 w-16 shrink-0" />
+              <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+                {data.titlePre}
+                <span className="text-hero-blue">{data.titleHighlight}</span>
+              </h2>
+            </div>
+            <JaguarLogo className="h-12" />
           </div>
 
           <div className="mt-6 grid grid-cols-5 gap-4">
             {data.items.map((it) => (
-              <div key={it.number} className="neon-card neon-card--soft relative rounded-xl">
-                <div className="relative aspect-square">
-                  <Image src={it.image} alt={it.label} fill className="object-cover" sizes="20vw" />
-                  <span className="absolute bottom-2 left-2 rounded-sm bg-hero-blue px-2 py-1 text-[11px] font-extrabold text-white">{it.number}</span>
-                </div>
-                <div className="px-3 py-2.5 backdrop-blur-md" style={{ background: "rgba(13,13,13,0.9)" }}>
-                  <p className="text-[11px] font-extrabold uppercase leading-tight text-white">{it.label}</p>
-                </div>
-              </div>
+              <WorkshopCard key={it.number} it={it} data={data} sizes="20vw" />
             ))}
           </div>
 
           <div className="mt-6 flex justify-center">
-            <button className="flex items-center gap-2 rounded-lg border border-hero-blue/60 bg-hero-dark/60 px-8 py-3.5 text-sm font-bold uppercase tracking-wide text-white backdrop-blur-md transition-colors hover:bg-hero-blue/10">
-              {data.viewMoreLabel} <span className="text-hero-blue" aria-hidden>→</span>
+            <button className="glass-card-dark flex items-center gap-2 rounded-lg px-10 py-3.5 text-sm font-bold uppercase tracking-wide text-white transition-colors hover:bg-white/10">
+              {data.viewMoreLabel} <span aria-hidden>→</span>
             </button>
           </div>
 
-          <div className="relative mt-6 flex items-center justify-between gap-3 overflow-hidden rounded-xl border border-white/10 bg-white/5 px-6 py-5">
-            <div className="relative z-10 flex items-center gap-3">
-              <Icon name="camera" className="h-8 w-8 shrink-0 text-white" />
-              <p className="text-sm text-white">{data.footerNote}</p>
-            </div>
-
-            <div
-              className="pointer-events-none absolute bottom-0 right-0 z-0 flex gap-1.5"
-              style={{ height: "70px", transform: "skewX(-25deg)", transformOrigin: "bottom right" }}
-              aria-hidden="true"
-            >
-              <span className="h-full w-5" style={{ background: "var(--color-bmw-blue)" }} />
-              <span className="h-full w-5" style={{ background: "var(--color-bmw-violet)" }} />
-              <span className="h-full w-5" style={{ background: "var(--color-bmw-red)" }} />
-            </div>
+          <div className="mt-6">
+            <FootNote data={data} />
           </div>
         </div>
       </div>

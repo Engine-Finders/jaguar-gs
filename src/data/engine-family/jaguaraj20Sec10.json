@@ -5,23 +5,23 @@
   "titleBigPost": " AJ20",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ20 across all six model applications."
+    "Here's our practical view of the AJ20 across its X-Type X400 application."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ20 is a relatively new engine, and we see it across the entire range of its applications — from the compact 45-series Jaguars to the more recent 43-series models and the AJ20."
+      "body": "The AJ20 appears exclusively in the X-Type 2.0D (X400 generation, 2003–2009)."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Main bearings, connecting rod bearings, timing chain components where required, gaskets and seals as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the AJ20 across any of its six applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "No widely-reported catastrophic issue pattern has been confirmed for the AJ20 diesel. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild or replacement."
     }
   ],
   "notice": {
@@ -31,19 +31,42 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ20 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ20 is a highly-strung, high-performance engine, and its twin-scroll turbocharger is a central component in its design. A full rebuild involves removing and inspecting the turbocharger, replacing timing chain components, bearings, gaskets, and calibrating the two-stage fuel injection system (direct and port injection). Given its 421 hp output in S guise, the engine's components are stressed to a high degree, and we pay particular attention to the crankshaft and cylinder head during inspection.",
+    "body": "",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Main bearings, connecting rod bearings, timing chain components where required, gaskets and seals as standard on every rebuild."
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£1,900",
     "cta": {
       "label": "Check AJ20 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

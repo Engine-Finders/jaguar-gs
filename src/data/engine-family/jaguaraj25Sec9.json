@@ -1,78 +1,81 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ25",
     "titlePost": " ENGINE",
-    "body": "The AJ25 is a V6 (60° angle), 2.5L (2,495 cc), Petrol engine used across Jaguar's several model range, in production 2001–2009. We rebuild every AJ25 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ25 is a 2.5-litre V6 petrol engine derived from Ford's Duratec family, produced from 2001 to 2009. It was fitted exclusively to the Jaguar X-Type during its first generation (X400 chassis), serving as the entry-level V6 option alongside the larger 3.0-litre AJ30. The AJ25 shares its 60-degree V6 architecture and Ford-derived engineering with the AJ30, differing primarily in capacity and output — 194-201 hp depending on market and year."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ25",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ25 is deployed across the AJ25 (AJ25 / AJ25, AJ25), the AJ25 (AJ25 / AJ25, AJ25), and the AJ25 (AJ25 / AJ25, AJ25). These form the core of the high-performance AJ25 range. More recently, the engine has been adopted for the AJ25 (AJ25, AJ25), the AJ25 (AJ25, AJ25), and the AJ25 roadster (AJ25, AJ25), proving the AJ25's versatility across different vehicle types.",
+    "body": "The AJ25 appears exclusively in the X-Type, across the full production run of the X400 generation (2001–2009). It was offered in both saloon and estate body styles, making it the most accessible V6-powered X-Type and a popular choice for buyers wanting the V6 driving experience in a more affordable package. While the AJ25 is less common in the workshop than the 3.0-litre AJ30, we see them regularly enough that we maintain full rebuild capability for this application.",
     "lineup": [
       {
-        "label": "AJ25",
-        "code": "AJ25"
-      },
-      {
-        "label": "AJ25",
-        "code": "AJ25"
-      },
-      {
-        "label": "AJ25",
-        "code": "AJ25"
-      },
-      {
-        "label": "AJ25",
-        "code": "AJ25"
-      },
-      {
-        "label": "AJ25",
-        "code": "AJ25"
-      },
-      {
-        "label": "AJ25",
-        "code": "AJ25"
+        "label": "X-Type",
+        "code": "X400"
       }
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ25",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ25 is fitted to six different models — from the compact AJ25 to the grand-touring AJ25 roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A AJ25 from an AJ25 isn't a drop-in match for a AJ25 from an AJ25 — ancillaries and mounting differ.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "The AJ25 was fitted exclusively to the X-Type (X400), meaning compatibility concerns are simpler than on engines spanning multiple model lines. However, even within the X-Type, differences exist between early and late production variants — ancillaries, ECU calibration, and emissions equipment varied by market and model year. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN to ensure the correct specification is used.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
         "title": "GENERATION",
-        "text": "Identify the correct generation (AJ25, AJ25, AJ25, AJ25, AJ25, AJ25)."
+        "text": "Identify the correct generation (X400)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ25",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ25 in the X-Type (X400, 2001–2009)",
+        "engine": "AJ25",
+        "model": "X-Type",
+        "detail": "X400, 2001–2009",
+        "body": "The AJ25 in the X-Type is one of the applications we work on — the 2.5-litre V6 petrol option across the X400 generation (2001–2009), available in both saloon and estate body styles.",
+        "price": "£3,200",
+        "cta": "Check your X-Type AJ25"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar X-Type X400",
+      "engine": "AJ25 2.5L",
+      "year": "2001 – 2009",
+      "price": "£3,200"
+    }
   }
 }

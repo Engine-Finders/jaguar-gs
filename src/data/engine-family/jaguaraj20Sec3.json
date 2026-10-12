@@ -17,9 +17,6 @@
     },
     {
       "label": "Years"
-    },
-    {
-      "label": "Powertrain Sub-type"
     }
   ],
   "rows": [
@@ -29,13 +26,13 @@
       "generation": "X400",
       "chassis": "X400",
       "years": "2003–2009",
-      "powertrain": "Diesel",
-      "modelHref": "/jaguar-x-type-2-0d-engines"
+      "powertrain": "",
+      "modelHref": "/jaguar-x-type-engines"
     }
   ],
   "prompt": {
     "icon": "search",
-    "titlePre": "Not seeing your exact model?",
+    "titlePre": "Not seeing your exact model above?",
     "subtext": "Send us your registration and we'll confirm.",
     "buttonLabel": "Send Us Your Registration →",
     "href": "#quote-form"

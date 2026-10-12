@@ -217,27 +217,27 @@
       "generation": "X152"
     },
     {
-      "model": "AJ20",
-      "modelHref": "/jaguar-a-class-engines",
+      "model": "X-Type",
+      "modelHref": "/jaguar-x-type-engines",
       "engineCode": "AJ20",
       "engineHref": "/jaguar-aj20-engine",
-      "fuel": "Petrol",
-      "generation": "AJ20"
+      "fuel": "Diesel",
+      "generation": "X400"
     },
     {
-      "model": "AJ25",
-      "modelHref": "/jaguar-a-class-engines",
+      "model": "X-Type",
+      "modelHref": "/jaguar-x-type-engines",
       "engineCode": "AJ25",
       "engineHref": "/jaguar-aj25-engine",
       "fuel": "Petrol",
-      "generation": "AJ25"
+      "generation": "X400"
     },
     {
       "model": "XJ",
       "modelHref": "/jaguar-xj-engines",
       "engineCode": "AJ26",
       "engineHref": "/jaguar-aj26-engine",
-      "fuel": "AJ26/AJ27",
+      "fuel": "Petrol",
       "generation": "X308"
     },
     {
@@ -245,7 +245,7 @@
       "modelHref": "/jaguar-xk-engines",
       "engineCode": "AJ26",
       "engineHref": "/jaguar-aj26-engine",
-      "fuel": "AJ26/AJ27",
+      "fuel": "Petrol",
       "generation": "X100"
     },
     {
@@ -253,7 +253,7 @@
       "modelHref": "/jaguar-xj-engines",
       "engineCode": "AJ27",
       "engineHref": "/jaguar-aj27-engine",
-      "fuel": "AJ26/AJ27",
+      "fuel": "Petrol",
       "generation": "X308"
     },
     {
@@ -261,7 +261,7 @@
       "modelHref": "/jaguar-xk-engines",
       "engineCode": "AJ27",
       "engineHref": "/jaguar-aj27-engine",
-      "fuel": "AJ26/AJ27",
+      "fuel": "Petrol",
       "generation": "X100"
     },
     {
@@ -281,12 +281,12 @@
       "generation": "X761"
     },
     {
-      "model": "AJ30",
-      "modelHref": "/jaguar-a-class-engines",
+      "model": "X-Type",
+      "modelHref": "/jaguar-x-type-engines",
       "engineCode": "AJ30",
       "engineHref": "/jaguar-aj30-engine",
       "fuel": "Petrol",
-      "generation": "AJ30"
+      "generation": "X400"
     },
     {
       "model": "XF",
@@ -317,7 +317,7 @@
       "modelHref": "/jaguar-s-type-engines",
       "engineCode": "AJD-V6",
       "engineHref": "/jaguar-ajd-v6-engine",
-      "fuel": "2.7L",
+      "fuel": "Diesel",
       "generation": "X200"
     },
     {
@@ -325,7 +325,7 @@
       "modelHref": "/jaguar-xf-engines",
       "engineCode": "AJD-V6",
       "engineHref": "/jaguar-ajd-v6-engine",
-      "fuel": "2.7L / 3.0L",
+      "fuel": "Diesel",
       "generation": "X250"
     },
     {
@@ -333,7 +333,7 @@
       "modelHref": "/jaguar-xj-engines",
       "engineCode": "AJD-V6",
       "engineHref": "/jaguar-ajd-v6-engine",
-      "fuel": "2.7L",
+      "fuel": "Diesel",
       "generation": "X350"
     },
     {
@@ -341,7 +341,7 @@
       "modelHref": "/jaguar-s-type-engines",
       "engineCode": "AJ-V6",
       "engineHref": "/jaguar-aj-v6-engine",
-      "fuel": "2.5L / 3.0L",
+      "fuel": "Petrol",
       "generation": "X200"
     },
     {
@@ -349,7 +349,7 @@
       "modelHref": "/jaguar-s-type-engines",
       "engineCode": "AJ-V8",
       "engineHref": "/jaguar-aj-v8-engine",
-      "fuel": "AJ26/AJ28/AJ34",
+      "fuel": "Petrol",
       "generation": "X200"
     },
     {
@@ -357,57 +357,46 @@
       "modelHref": "/jaguar-xj-engines",
       "engineCode": "AJ-V8",
       "engineHref": "/jaguar-aj-v8-engine",
-      "fuel": "AJ26/AJ27/AJ33/AJ34",
+      "fuel": "Petrol",
       "generation": "X308/X350"
     },
     {
-      "model": "Ford Duratorq",
-      "modelHref": "/jaguar-a-class-engines",
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
       "engineCode": "Ford Duratorq",
       "engineHref": "/jaguar-ford-duratorq-engine",
-      "fuel": "Petrol",
-      "generation": "Ford Duratorq"
+      "fuel": "Diesel",
+      "generation": "X250"
     },
     {
-      "model": "Ford EcoBoost",
-      "modelHref": "/jaguar-a-class-engines",
+      "model": "XF",
+      "modelHref": "/jaguar-xf-engines",
       "engineCode": "Ford EcoBoost",
       "engineHref": "/jaguar-ford-ecoboost-engine",
       "fuel": "Petrol",
-      "generation": "Ford EcoBoost"
+      "generation": "X250"
     },
     {
-      "model": "ZSD-420",
-      "modelHref": "/jaguar-a-class-engines",
+      "model": "X-Type",
+      "modelHref": "/jaguar-x-type-engines",
       "engineCode": "ZSD-420",
       "engineHref": "/jaguar-zsd-420-engine",
-      "fuel": "Petrol",
-      "generation": "ZSD-420"
+      "fuel": "Diesel",
+      "generation": "X400"
     }
   ],
   "models": [
-    "AJ20",
-    "AJ25",
-    "AJ30",
     "E-Pace",
     "F-Pace",
     "F-Type",
-    "Ford Duratorq",
-    "Ford EcoBoost",
     "S-Type",
+    "X-Type",
     "XE",
     "XF",
     "XJ",
-    "XK",
-    "ZSD-420"
+    "XK"
   ],
   "fuels": [
-    "2.5L / 3.0L",
-    "2.7L",
-    "2.7L / 3.0L",
-    "AJ26/AJ27",
-    "AJ26/AJ27/AJ33/AJ34",
-    "AJ26/AJ28/AJ34",
     "Diesel",
     "Diesel MHEV",
     "Naturally Aspirated",

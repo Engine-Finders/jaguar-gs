@@ -5,23 +5,23 @@
   "titleBigPost": " AJ126",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ126 across its 4 model applications."
+    "Here's our practical view of the AJ126 across its F-Type X152, XE X760, XF X260, XJ X351 applications."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ126 is fitted across F-Type, XE, XF, XJ — we see it regularly across the full application range."
+      "body": "The AJ126 appears across four Jaguar model lines — F-Type, XE, XF and XJ — making it one of the broader-application V6 engines we work on."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Timing chain components, bearings, gaskets, and supercharger coupler as standard on every rebuild, with vehicle-specific ancillaries accounted for per application."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJ126 across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "The AJ126 has documented timing chain stretch patterns — the same tensioner and timing chain problems as the larger AJ133 5.0 V8, though less frequent and typically appearing at higher mileage. Supercharger coupler wear is also a documented source of rattling noise, and cooling system leaks from pipes, hoses and connectors are a known failure point on higher-mileage examples."
     }
   ],
   "notice": {
@@ -31,19 +31,47 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ126 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJ126 rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts (V6 (90° angle), 3.0L (2,995 cc), Petrol Supercharged).",
+    "body": "The AJ126 shares timing chain issues with the larger AJ133 V8. We inspect the timing system thoroughly on every rebuild, with particular attention to tensioners and guides. The supercharger sits on top of the engine and must be removed to access critical components in the valley where the oil cooler and timing chain are located. Plastic coolant pipes and connectors are known failure points and are inspected during strip-down.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Timing chain, bearings, gaskets, supercharger coupler, cooling system inspection"
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£3,200",
     "cta": {
       "label": "Check AJ126 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Timing chain components",
+    "Rotating assembly inspection"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

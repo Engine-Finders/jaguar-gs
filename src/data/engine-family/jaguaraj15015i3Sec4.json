@@ -4,35 +4,44 @@
   "cards": [
     {
       "icon": "chain",
-      "image": "/engine/sec4.webp",
-      "title": "Timing Chain",
-      "body": "We inspect and replace timing chain components as standard during a rebuild."
+      "title": "Replaced as Standard",
+      "items": [
+        "Main bearings and connecting rod bearings — replaced as standard during every AJ150 rebuild. [Photograph of bearings]",
+        "Complete gasket and seal set — every seal and gasket is replaced during a rebuild. [Photograph of gaskets]",
+        "Timing chain components where required — inspected and replaced as needed. [Photograph of timing chain components]",
+        "Oil filter housing gasket — replaced as standard. [Photograph of oil filter housing gasket]"
+      ],
+      "image": "/engine/sec4.webp"
     },
     {
-      "icon": "bearing",
-      "image": "/engine/sec4.webp",
-      "title": "Bearings",
-      "body": "We replace main bearings and connecting rod bearings as standard during a rebuild."
+      "icon": "gauge",
+      "title": "Inspected and Measured",
+      "items": [
+        "Crankshaft — inspected and measured to OEM tolerances. [Photograph of crankshaft inspection]",
+        "Cylinder head — inspected for wear and condition. [Photograph of cylinder head]",
+        "Timing chain tensioners and guides — inspected and replaced where required. [Photograph of tensioners]",
+        "Turbocharger — inspected for wear and performance. [Photograph of turbocharger]"
+      ],
+      "image": "/engine/sec4.webp"
     },
     {
-      "icon": "gasket",
-      "image": "/engine/sec4.webp",
-      "title": "Gaskets & Seals",
-      "body": "We replace all gaskets and seals as standard during a rebuild."
+      "icon": "oil",
+      "title": "Inspected and Measured",
+      "items": [
+        "PCV system — inspected and cleaned or replaced as needed. [Photograph of PCV components]",
+        "Fuel injectors — inspected and tested. [Photograph of injectors]"
+      ],
+      "image": "/engine/sec4.webp"
     },
     {
-      "icon": "turbo",
-      "image": "/engine/sec4.webp",
-      "title": "Twin-Scroll Turbocharger",
-      "body": "The AJ150 (1.5 I3)'s twin-scroll turbocharger is a key component that is removed, inspected, and refurbished or replaced as part of the rebuild."
-    },
-    {
-      "icon": "clipboard",
-      "image": "/engine/sec4.webp",
-      "title": "Additional Inspected Components",
-      "body": "Fuel injectors, high-pressure fuel pump, PCV system, timing chain tensioners and guides, and cooling system components are all measured and inspected."
+      "icon": "bolt",
+      "title": "Application-Dependent",
+      "items": [
+        "Vehicle-specific ancillaries — confirmed once your exact model and generation are verified."
+      ],
+      "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from VRF Key Components data. If your AJ150 (1.5 I3)'s exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from Master Engine Data File data. If your AJ150's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

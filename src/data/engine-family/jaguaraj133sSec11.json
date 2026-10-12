@@ -3,14 +3,20 @@
     "titlePre": "Jaguar AJ133S",
     "titleHighlight": "ENGINE REBUILD",
     "titlePost": " COST",
-    "image": "/engine/sec11_top.webp",
-    "imageMobile": "/engine/sec11_top_mobile.webp",
+    "image": "/engine/sec10_top.webp",
+    "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJ133S engine rebuild starts from £3,600, regardless of which of the six models it's fitted to — the price tier is set by the engine, not the badge on the boot. A full replacement engine and fitting service is also available.",
-      "Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJ133S engine rebuild starts from £6,500, regardless of which of the two models it's fitted to — the price tier is set by the engine's SVR-level output and associated stress on components.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
-    "startingFromPrice": "£2,200"
+    "startingFromPrice": "£6,500",
+    "card": {
+      "model": "Jaguar F-Pace X761",
+      "engine": "AJ133S 5.0L",
+      "year": "2016 – 2024",
+      "price": "£6,500"
+    }
   },
   "comparison": {
     "titlePre": "JAGUAR AJ133S",
@@ -20,19 +26,35 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJ133S Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJ133S owners choose."
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most Jaguar owners choose, and it's the one we'd recommend for most situations.",
+        "bullets": [
+          "Strip down & inspect",
+          "Pressure-test",
+          "Replace worn components",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJ133S Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty."
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "bullets": [
+          "Supplied & fitted by our team",
+          "OEM quality",
+          "12-month unlimited-mileage warranty"
+        ]
       },
       {
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJ133S Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries."
+        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given the limited number of AJ133S applications. Enter your reg below and we'll talk you through both options honestly.",
+        "bullets": [
+          "Low-mileage units",
+          "Quick turnaround",
+          "Condition risk – we advise honestly"
+        ]
       }
     ],
     "cta": {
@@ -60,7 +82,7 @@
       "titlePre": "JAGUAR AJ133S",
       "titleHighlight": "REMANUFACTURED",
       "titlePost": " ENGINES",
-      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the six AJ133S-equipped models you drive."
+      "body": "Some owners specifically search for a \"remanufactured\" engine, expecting a unit rebuilt to original specification with updated components. That's consistent with what our rebuild service delivers, regardless of which of the two AJ133S-equipped models you drive."
     }
   ],
   "faq": {
@@ -73,33 +95,41 @@
       },
       {
         "q": "Which Jaguar models use the AJ133S?",
-        "a": "F-Pace SVR (X761, 2016–2024) and XF XFR-S (X250, 2013–2015)."
+        "a": "F-Pace SVR (X761, 2016–2024) and XF XFR-S (X250, 2013–2015) — see the full applications table above."
       },
       {
         "q": "Does the AJ133S differ between Jaguar models?",
-        "a": "Yes. Ancillaries, mounting, and ECU calibration differ between the F-Pace SVR and XFR-S applications, even though the base engine code is the same."
+        "a": "Yes. Ancillaries, mounting, and ECU calibration differ between the F-Pace SVR and XFR-S applications, even though the base engine code is the same. We match by registration/VIN before confirming any rebuild or replacement."
       },
       {
         "q": "Is an AJ133S from one Jaguar model compatible with another?",
-        "a": "Not automatically. An AJ133S from an F-Pace SVR isn't a drop-in match for one from an XFR-S — ancillaries, mounting, and ECU calibration all differ."
+        "a": "Not automatically. An AJ133S from an F-Pace SVR isn't a drop-in match for one from an XFR-S — ancillaries, mounting, and ECU calibration all differ. We always confirm compatibility by registration/VIN."
       },
       {
         "q": "How much does a Jaguar AJ133S engine rebuild cost?",
-        "a": "Rebuilds start from £6,500, regardless of which model it's fitted to. Exact price depends on condition and parts required."
+        "a": "Rebuilds start from £6,500, regardless of which model it's fitted to. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJ133S engines?",
         "a": "Yes. We work on AJ133S rebuilds across both models it's fitted to, replacing worn components as standard."
+      },
+      {
+        "q": "What are the common issues with the AJ133S?",
+        "a": "Timing chain failure (particularly on early engines), supercharger coupler wear causing rattling, and cooling system leaks from pipes, hoses, and connectors. The SVR-specific higher output places additional stress on these components."
       }
     ],
     "faqRight": [
       {
-        "q": "What are the common issues with the AJ133S?",
-        "a": "Timing chain failure (particularly on early engines), supercharger coupler wear causing rattling, and cooling system leaks from pipes, hoses, and connectors. The SVR-specific higher output places additional stress on these components."
+        "q": "Can you rebuild an AJ133S from an F-Pace SVR?",
+        "a": "Yes. The AJ133S in the F-Pace SVR is one of the applications we work on regularly, with SVR-specific tuning components accounted for."
+      },
+      {
+        "q": "Can you rebuild an AJ133S from an XFR-S?",
+        "a": "Yes. The AJ133S in the XF XFR-S is one of the applications we work on, with XFR-S-specific tuning components accounted for."
       },
       {
         "q": "Do you supply used AJ133S engines?",
-        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration."
+        "a": "Yes, in some cases a matched low-mileage used engine is the right option. Our team will advise honestly once we've matched your registration and understood your situation."
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
@@ -111,7 +141,7 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJ133S owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJ133S owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given the limited number of AJ133S applications — and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

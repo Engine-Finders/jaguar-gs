@@ -5,23 +5,23 @@
   "titleBigPost": " AJ16",
   "subtext": [
     "Built, rebuilt and tested by engineers who work on Jaguar engines every day.",
-    "Here's our practical view of the AJ16 across its 1 model applications."
+    "Here's our practical view of the AJ16 across its XJ X300 application."
   ],
   "columns": [
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ16 is fitted across XJ — we see it regularly across the full application range."
+      "body": "The AJ16 is one of the engines we work on for the XJ X300 — the last of the classic Jaguar inline-sixes."
     },
     {
       "icon": "wrench",
       "title": "WHAT WE REPLACE:",
-      "body": "Bearings, timing chain components, gaskets, and twin-scroll turbocharger components as standard. We also inspect and measure the cylinder head, crankshaft, and other critical components."
+      "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components as standard on every rebuild."
     },
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported failure pattern is confirmed for the AJ16 across its applications. We don't treat this engine as having one universal failure mode; diagnosis is required to establish whether an engine needs repair, rebuild, or replacement."
+      "body": "No widely-reported catastrophic issue pattern is confirmed for the AJ16. It is a robust, well-regarded engine. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented — for the AJ16, we don't have one to report, and we won't invent one to sound more thorough."
     }
   ],
   "notice": {
@@ -31,19 +31,48 @@
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ16 REBUILD",
-    "image": "/engine/sec10_bottom.webp",
-    "imageMobile": "/engine/sec10_bottom_mobile.webp",
+    "image": "",
+    "imageMobile": "",
     "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "A full AJ16 rebuild involves stripping the engine down, inspecting the crankshaft, cylinder head and timing components, and replacing worn bearings, gaskets and seals with updated OEM-specification parts (Inline-6 (I6), 4.0L (3,980 cc), Petrol).",
+    "body": "The AJ16 is a robust inline-six design, but a full rebuild still requires careful inspection of the crankshaft, cylinder head, and timing chain components. As with any engine of this era, the condition of the oil pump and cooling system components is also inspected during strip-down to ensure long-term reliability.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, bearings, gaskets, twin-scroll turbocharger inspection/refurbishment, calibration of fuel injection system"
+      "text": "Main bearings, connecting rod bearings, gaskets, seals, timing chain components, and inspection of all major rotating assemblies."
     },
     "startingFromLabel": "Starting From:",
-    "startingFromPrice": "£2,200",
+    "startingFromPrice": "£3,200",
     "cta": {
       "label": "Check AJ16 Rebuild Options →",
       "href": "#quote-form"
-    }
-  }
+    },
+    "cards": [
+      {
+        "number": "01",
+        "title": "INSPECTION & STRIP-DOWN",
+        "body": "Careful inspection of the crankshaft, cylinder head, and timing chain components during strip-down.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "02",
+        "title": "COMPONENT REPLACEMENT",
+        "body": "Main bearings, connecting rod bearings, gaskets, seals, and timing chain components replaced as required.",
+        "image": "/engine/sec4.webp"
+      },
+      {
+        "number": "03",
+        "title": "QUALITY CHECKS",
+        "body": "All major rotating assemblies, oil pump, and cooling system components inspected for long-term reliability.",
+        "image": "/engine/sec4.webp"
+      }
+    ]
+  },
+  "scopeChecks": [
+    "Bearings",
+    "Gaskets",
+    "Seals",
+    "Timing chain components",
+    "Rotating assembly inspection"
+  ],
+  "image": "/engine/sec9b.webp",
+  "imageMobile": "/engine/sec9b_m3.webp"
 }

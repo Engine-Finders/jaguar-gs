@@ -31,7 +31,7 @@ function Stars() {
   return (
     <div className="flex gap-0.5">
       {Array.from({ length: 5 }).map((_, i) => (
-        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-[#f5c518] text-[#f5c518]" />
+        <Icon key={i} name="star" className="h-3.5 w-3.5 fill-[#ffffff] text-[#ffffff]" />
       ))}
     </div>
   );
@@ -74,7 +74,7 @@ export default function Sec6({ data }) {
           <div className="overflow-hidden">
             <JaguarStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
             <h2 className="h2 uppercase">
-              <span className="text-[#101828]">{reviews.titlePre}</span>
+              <span className="text-[#111111]">{reviews.titlePre}</span>
               <span className="text-hero-blue">{reviews.titleHighlight}</span>
             </h2>
           </div>
@@ -88,7 +88,7 @@ export default function Sec6({ data }) {
               <div
                 key={r.name}
                 className="glow-card--sm relative flex min-h-56 w-[82%] shrink-0 snap-center flex-col overflow-hidden rounded-2xl p-5"
-                style={{ background: "rgba(13,13,13,0.95)", border: "1px solid rgba(173,135,92,0.35)", boxShadow: "0 15px 35px -20px rgba(0,0,0,0.5)" }}
+                style={{ background: "rgba(13,13,13,0.95)", border: "1px solid rgba(150,154,160,0.35)", boxShadow: "0 15px 35px -20px rgba(0,0,0,0.5)" }}
               >
                 <div className="relative flex items-center justify-between">
                   <Stars />
@@ -105,17 +105,17 @@ export default function Sec6({ data }) {
             {reviews.items.map((r, i) => (
               <span
                 key={r.name}
-                className={`rounded-full transition-all ${i === activeIndex ? "h-2 w-6 bg-hero-blue" : "h-2 w-2 bg-[#101828]/15"}`}
+                className={`rounded-full transition-all ${i === activeIndex ? "h-2 w-6 bg-hero-blue" : "h-2 w-2 bg-[#111111]/15"}`}
               />
             ))}
           </div>
 
           <div className="mt-6 space-y-3">
-            <button className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#101828] shadow-sm transition hover:-translate-y-0.5">
+            <button className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#111111] shadow-sm transition hover:-translate-y-0.5">
               <GoogleG className="h-5 w-5" />
               <CtaLabel text={reviews.googleCta} /> <span aria-hidden className="text-hero-blue">→</span>
             </button>
-            <button className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#101828] shadow-sm transition hover:-translate-y-0.5">
+            <button className="relative flex w-full items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-6 py-3.5 text-xs font-bold uppercase tracking-wide text-[#111111] shadow-sm transition hover:-translate-y-0.5">
               <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
               <CtaLabel text={reviews.trustpilotCta} /> <span aria-hidden className="text-hero-blue">→</span>
             </button>
@@ -128,32 +128,32 @@ export default function Sec6({ data }) {
           <div className="relative mx-auto max-w-6xl">
             <SectionTitle>
               <h2 className="h2 uppercase">
-                <span className="text-[#101828]">{reviews.titlePre}</span>
+                <span className="text-[#111111]">{reviews.titlePre}</span>
                 <span className="text-hero-blue">{reviews.titleHighlight}</span>
               </h2>
             </SectionTitle>
 
-            <div className="relative mt-6 px-11">
+            <div className="relative mt-6">
             <button
               type="button"
               aria-label="Previous reviews"
-              className="absolute left-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-hero-blue shadow-lg transition hover:bg-hero-blue hover:text-white"
+              className="absolute -left-4 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-hero-blue shadow-lg transition hover:bg-hero-blue hover:text-white"
             >
               <Icon name="chevron-left" className="h-4 w-4" />
             </button>
             <button
               type="button"
               aria-label="Next reviews"
-              className="absolute right-0 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-hero-blue shadow-lg transition hover:bg-hero-blue hover:text-white"
+              className="absolute -right-4 top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white text-hero-blue shadow-lg transition hover:bg-hero-blue hover:text-white"
             >
               <Icon name="chevron-right" className="h-4 w-4" />
             </button>
-            <div className="grid grid-cols-5 gap-3">
+            <div className={`grid gap-3 ${reviews.items.length >= 6 ? "grid-cols-6" : "grid-cols-5"}`}>
               {reviews.items.map((r) => (
                 <div
                   key={r.name}
                   className="glow-card--sm relative flex min-h-64 flex-col overflow-hidden rounded-xl p-4"
-                  style={{ background: "rgba(13,13,13,0.95)", border: "1px solid rgba(173,135,92,0.35)", boxShadow: "0 15px 35px -20px rgba(0,0,0,0.5)" }}
+                  style={{ background: "rgba(13,13,13,0.95)", border: "1px solid rgba(150,154,160,0.35)", boxShadow: "0 15px 35px -20px rgba(0,0,0,0.5)" }}
                 >
                   <div className="relative flex items-center justify-between">
                     <Stars />
@@ -168,11 +168,11 @@ export default function Sec6({ data }) {
             </div>
 
             <div className="mt-5 flex justify-center gap-4">
-              <button className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#101828] shadow-sm transition hover:-translate-y-0.5">
+              <button className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#111111] shadow-sm transition hover:-translate-y-0.5">
                 <GoogleG className="h-5 w-5" />
                 <CtaLabel text={reviews.googleCta} /> <span aria-hidden className="text-hero-blue">→</span>
               </button>
-              <button className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#101828] shadow-sm transition hover:-translate-y-0.5">
+              <button className="relative flex items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-6 py-3 text-sm font-bold text-[#111111] shadow-sm transition hover:-translate-y-0.5">
                 <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
                 <CtaLabel text={reviews.trustpilotCta} /> <span aria-hidden className="text-hero-blue">→</span>
               </button>
@@ -183,8 +183,8 @@ export default function Sec6({ data }) {
 
       {/* ============ coverage banner ============ */}
       <section
-        className="relative z-10 border-y border-black/10 bg-white"
-        style={{ boxShadow: "0 25px 45px -15px rgba(16,24,40,0.55), 0 -25px 45px -15px rgba(16,24,40,0.55)" }}
+        className="theme-light relative z-10 border-y border-black/10 bg-white"
+        style={{ boxShadow: "0 25px 45px -15px rgba(0,0,0,0.55), 0 -25px 45px -15px rgba(0,0,0,0.55)" }}
       >
         {/* ===== mobile ===== */}
         <div className="relative px-4 py-6 md:hidden">
@@ -193,15 +193,15 @@ export default function Sec6({ data }) {
               <Icon name={coverage.icon} className="h-6 w-6 text-hero-blue" />
             </span>
             <h4 className="h4 uppercase">
-              <span className="block text-[#101828]">{coverage.titlePre}</span>
+              <span className="block text-[#111111]">{coverage.titlePre}</span>
               <span className="block text-hero-blue">{coverage.titleHighlight}</span>
             </h4>
           </div>
 
-          <p className="mt-3 text-xs text-[#101828]">{coverage.body}</p>
+          <p className="mt-3 text-xs text-[#111111]">{coverage.body}</p>
 
           <div className="mt-4">
-            <RegLookupForm buttonLabel={coverage.buttonLabel} stacked hideButton />
+            <RegLookupForm buttonLabel={coverage.buttonLabel} stacked hideButton lightPlate smallText plateLabel="GB" placeholder="Search by Registration" />
             <button
               type="button"
               className="mt-3 flex h-11 w-full items-center justify-center rounded-sm border-2 border-hero-blue bg-hero-blue text-sm font-bold text-white transition-colors hover:bg-white hover:text-hero-blue"
@@ -212,7 +212,7 @@ export default function Sec6({ data }) {
 
           <div className="mt-3 flex items-center justify-center gap-3">
             {coverage.ticks.map((t) => (
-              <span key={t} className="flex items-center gap-1.5 whitespace-nowrap text-xs font-medium text-[#101828]">
+              <span key={t} className="flex items-center gap-1.5 whitespace-nowrap text-xs font-medium text-[#111111]">
                 <Icon name="check" className="h-4 w-4 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
                 {t}
               </span>
@@ -223,29 +223,31 @@ export default function Sec6({ data }) {
         {/* ===== desktop ===== */}
         <div className="relative hidden overflow-hidden md:block">
           <div className="absolute inset-0">
-            <Image src={coverage.image} alt="Jaguar front grille" fill className="object-cover object-right" sizes="100vw" />
-            <div className="absolute inset-0 bg-linear-to-r from-white via-white/95 to-transparent" />
+            <div className="absolute inset-0 translate-x-[7%]">
+              <Image src={coverage.image} alt="Jaguar front grille" fill className="object-cover object-right" sizes="100vw" />
+            </div>
+            <div className="absolute inset-0 bg-linear-to-r from-white via-white/70 to-transparent" />
           </div>
 
-          <div className="relative mx-auto flex max-w-6xl items-center gap-8 px-4 py-10 sm:px-6 lg:px-8">
+          <div className="relative mx-auto flex items-center gap-8 w-[min(72rem,calc(100%-2rem))] sm:w-[min(72rem,calc(100%-3rem))] lg:w-[min(72rem,calc(100%-4rem))] py-10">
             <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-black/10 bg-white shadow-sm">
               <Icon name={coverage.icon} className="h-8 w-8 text-hero-blue" />
             </span>
 
             <div className="shrink-0 border-r border-black/10 pr-8">
               <h2 className="h2 uppercase">
-                <span className="block text-[#101828]">{coverage.titlePre}</span>
+                <span className="block text-[#111111]">{coverage.titlePre}</span>
                 <span className="block text-hero-blue">{coverage.titleHighlight}</span>
               </h2>
-              <p className="mt-2 max-w-xs text-sm text-[#101828]">{coverage.body}</p>
+              <p className="mt-2 max-w-xs text-sm text-[#111111]">{coverage.body}</p>
             </div>
 
             <div className="max-w-md flex-1">
-              <RegLookupForm buttonLabel={coverage.buttonLabel} row />
+              <RegLookupForm buttonLabel={coverage.buttonLabel} row lightPlate smallText plateLabel="GB" placeholder="Search by Registration" />
               <div className="mt-3 flex items-center gap-4">
                 {coverage.ticks.map((t, i) => (
-                  <span key={t} className="flex items-center gap-3 text-sm font-medium text-[#101828]">
-                    {i > 0 && <span className="h-1 w-1 rounded-full bg-[#101828]/30" aria-hidden="true" />}
+                  <span key={t} className="flex items-center gap-3 text-sm font-medium text-[#111111]">
+                    {i > 0 && <span className="h-1 w-1 rounded-full bg-[#111111]/30" aria-hidden="true" />}
                     <span className="flex items-center gap-1.5">
                       <Icon name="check" className="h-4 w-4 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
                       {t}
@@ -265,37 +267,22 @@ export default function Sec6({ data }) {
           <h2 className="h2 uppercase">
             <JaguarStripe className="float-left mr-2 mt-0.5 h-6 w-12 shrink-0" />
             {whyChooseWords.map((t, i) => (
-              <span key={i} className={t.highlight ? "text-hero-blue" : "text-[#101828]"}>
+              <span key={i} className={t.highlight ? "text-hero-blue" : "text-[#111111]"}>
                 {t.w}
                 {i < whyChooseWords.length - 1 ? " " : ""}
               </span>
             ))}
           </h2>
 
-          <div className="mt-5 grid grid-cols-2 gap-x-3 gap-y-4">
+          <div className="mt-5 space-y-3">
             {whyChoose.items.map((item) => (
-              <div key={item.title} className="flex items-center gap-2">
-                <Icon name={item.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
-                <div>
-                  <p className="text-xs font-bold leading-snug text-[#101828]">{item.title}</p>
-                  <p className="text-[10px] leading-snug text-[#4a5568]">{item.subtext}</p>
-                </div>
+              <div key={item.title} className="flex items-start gap-2.5">
+                <Icon name="check" className="mt-0.5 h-4 w-4 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
+                <p className="text-xs leading-snug text-[#111111]">{item.title}</p>
               </div>
             ))}
           </div>
 
-          <div className="glass-card relative mt-5 grid grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)] items-stretch overflow-hidden rounded-xl">
-            <div className="relative z-10 flex items-start gap-3 p-4">
-              <Icon name={whyChoose.notice.icon} className="mt-0.5 h-6 w-6 shrink-0 text-hero-blue" />
-              <p className="text-xs leading-snug text-[#101828]">
-                <span className="font-semibold">{whyChoose.notice.line1}</span> {whyChoose.notice.line2}
-              </p>
-            </div>
-            <div className="relative overflow-hidden bg-(--theme-light-bg)">
-              <Image src={whyChoose.notice.image} alt="" fill className="object-cover opacity-25" sizes="140px" />
-              <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
-            </div>
-          </div>
         </div>
 
         {/* ===== desktop ===== */}
@@ -303,35 +290,20 @@ export default function Sec6({ data }) {
           <div className="relative mx-auto max-w-6xl">
             <SectionTitle>
               <h2 className="h2 uppercase">
-                <span className="text-[#101828]">{whyChoose.titlePre}</span>
+                <span className="text-[#111111]">{whyChoose.titlePre}</span>
                 <span className="text-hero-blue">{whyChoose.titleHighlight}</span>
               </h2>
             </SectionTitle>
 
-            <div className="mt-8 grid grid-cols-3 gap-x-10 gap-y-6">
+            <div className="mt-8 columns-3 gap-x-10">
               {whyChoose.items.map((item) => (
-                <div key={item.title} className="flex min-w-0 items-center gap-3">
-                  <Icon name={item.icon} className="h-9 w-9 shrink-0 text-hero-blue" />
-                  <div className="min-w-0">
-                    <p className="min-w-0 text-sm font-bold leading-snug text-[#101828]">{item.title}</p>
-                    <p className="min-w-0 text-xs leading-snug text-[#4a5568]">{item.subtext}</p>
-                  </div>
+                <div key={item.title} className="mb-5 flex min-w-0 break-inside-avoid items-start gap-3">
+                  <Icon name="check" className="mt-0.5 h-5 w-5 shrink-0 rounded-full border border-hero-blue text-hero-blue" />
+                  <p className="min-w-0 text-sm leading-snug text-[#111111]">{item.title}</p>
                 </div>
               ))}
             </div>
 
-            <div className="glass-card relative mt-8 grid grid-cols-[minmax(0,1.7fr)_minmax(0,1fr)] items-stretch overflow-hidden rounded-2xl">
-              <div className="relative z-10 flex items-center gap-4 px-6 py-5">
-                <Icon name={whyChoose.notice.icon} className="h-8 w-8 shrink-0 text-hero-blue" />
-                <p className="text-sm leading-relaxed text-[#101828]">
-                  <span className="font-semibold">{whyChoose.notice.line1}</span> {whyChoose.notice.line2}
-                </p>
-              </div>
-              <div className="relative overflow-hidden bg-(--theme-light-bg)">
-                <Image src={whyChoose.notice.image} alt="" fill className="object-cover opacity-25" sizes="320px" />
-                <div className="absolute inset-0 bg-linear-to-r from-white via-white/40 to-transparent" />
-              </div>
-            </div>
           </div>
         </div>
       </section>

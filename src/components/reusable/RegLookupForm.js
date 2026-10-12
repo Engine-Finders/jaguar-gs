@@ -34,6 +34,8 @@ export default function RegLookupForm({
   short = false,
   darkField = false,
   lightPlate = false,
+  placeholder = "AB12 CDE",
+  smallText = false,
   plateLabel = "UK",
 }) {
   const [reg, setReg] = useState("");
@@ -91,17 +93,21 @@ export default function RegLookupForm({
           type="text"
           value={reg}
           onChange={(e) => setReg(e.target.value.toUpperCase())}
-          placeholder="AB12 CDE"
+          placeholder={placeholder}
           maxLength={8}
           style={lightPlate ? undefined : { fontFamily: '"Charles Wright", sans-serif' }}
           className={`min-w-0 flex-1 px-2 text-center tracking-wide outline-none ${
-            lightPlate
+            smallText
+              ? "bg-linear-to-b from-[#ffffff] to-[#e4e4e7] font-normal tracking-normal text-[#1b1b1d] placeholder:text-[#555555]"
+              : lightPlate
               ? "bg-linear-to-b from-[#ffffff] to-[#e4e4e7] font-medium tracking-[0.2em] text-[#1b1b1d] placeholder:text-[#2a2a2c]"
               : darkField
               ? "bg-[#232323] text-white placeholder:italic placeholder:text-white/40"
               : "bg-linear-to-b from-[#f4f4f4] via-[#e0e0e0] to-[#c9c9c9] text-black placeholder:italic placeholder:text-black"
           } ${
-            row
+            smallText
+              ? "text-sm sm:text-base"
+              : row
               ? compact
                 ? "text-xl sm:text-2xl"
                 : "text-2xl sm:text-3xl"

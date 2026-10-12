@@ -8,31 +8,31 @@
         "name": "Daniel R.",
         "platform": "google",
         "text": "Brilliant service from start to finish. My AJ16 runs better than it ever has. Honest advice, clear pricing and the team know their stuff.",
-        "tag": "XJ XJ6 – AJ16 Rebuild"
+        "tag": "AJ16 Engine Rebuild"
       },
       {
         "name": "Mark T.",
         "platform": "trustpilot",
         "text": "They rebuilt my AJ16 engine with all the updated parts. No more rattling chains. Smooth process and great communication.",
-        "tag": "XJ XJ6 – AJ16 Rebuild"
+        "tag": "AJ16 Engine Rebuild"
       },
       {
         "name": "Ryan P.",
         "platform": "google",
         "text": "Top lads, top job. Picked up and dropped off, engine rebuilt to an extremely high standard. 100% recommend.",
-        "tag": "XJ XJ6 – AJ16 Rebuild"
+        "tag": "AJ16 Engine Rebuild"
       },
       {
         "name": "Steve B.",
         "platform": "trustpilot",
         "text": "Saved me thousands compared to a main dealer quote. Fantastic workmanship and my AJ16 is running perfectly.",
-        "tag": "XJ XJ6 – AJ16 Rebuild"
+        "tag": "AJ16 Engine Rebuild"
       },
       {
         "name": "Tom H.",
         "platform": "google",
         "text": "From quote to collection couldn't fault them. Engine looks brand new inside. Warranty gives great peace of mind.",
-        "tag": "XJ XJ6 – AJ16 Rebuild"
+        "tag": "AJ16 Engine Rebuild"
       }
     ],
     "googleCta": "See All Reviews On Google",
@@ -42,8 +42,8 @@
     "icon": "car",
     "titlePre": "WE COVER YOUR",
     "titleHighlight": "EXACT VEHICLE",
-    "body": "Enter your registration below and we'll confirm whether your Jaguar has the AJ16 before you're quoted anything.",
-    "image": "/variant/sec7_middle_div.webp",
+    "body": "",
+    "image": "/engine/sec6_middle.webp",
     "buttonLabel": "Check Fit",
     "ticks": [
       "Fast",
@@ -57,56 +57,35 @@
     "titleHighlight": "JAGUAR AJ16 REBUILDS",
     "items": [
       {
-        "icon": "note",
-        "title": "Engine matched using VIN or registration number",
-        "subtext": "Confirms AJ16 before you're quoted"
+        "title": "Engine matched using VIN or registration number"
       },
       {
-        "icon": "refresh",
-        "title": "We don't swap your engine for an unknown used unit",
-        "subtext": "Every engine is rebuilt properly"
+        "title": "Genuine specialist workshop — not a broker"
       },
       {
-        "icon": "gears",
-        "title": "All engine ancillaries serviced as part of the rebuild",
-        "subtext": "Everything inspected and renewed"
+        "title": "Specialist technicians with 10-15 years of experience"
       },
       {
-        "icon": "shield",
-        "title": "Genuine specialist workshop — not a broker",
-        "subtext": "We rebuild engines in-house"
+        "title": "We don't swap your engine for an unknown used unit"
       },
       {
-        "icon": "truck",
-        "title": "Nationwide recovery, workshop rebuild",
-        "subtext": "From collection to road-ready"
+        "title": "Nationwide recovery, workshop rebuild"
       },
       {
-        "icon": "cars-group",
-        "title": "Trade & public enquiries welcome",
-        "subtext": "We work with everyone"
+        "title": "12 month unlimited-mileage warranty"
       },
       {
-        "icon": "tool",
-        "title": "Specialist technicians with 10-15 years of experience",
-        "subtext": "Skilled, trained and experienced"
+        "title": "All engine ancillaries serviced as part of the rebuild"
       },
       {
-        "icon": "shield-check",
-        "title": "12 month unlimited-mileage warranty",
-        "subtext": "For complete peace of mind"
+        "title": "Trade & public enquiries welcome"
       },
       {
-        "icon": "phone",
-        "title": "Dedicated advisor from quote to fit",
-        "subtext": "One point of contact, always"
+        "title": "Dedicated advisor from quote to fit"
+      },
+      {
+        "title": "No widely-reported issue pattern for the AJ16 — we still recommend a full inspection before any long journey"
       }
-    ],
-    "notice": {
-      "icon": "shield-check",
-      "line1": "No widely-reported pattern is confirmed for the AJ16 —",
-      "line2": "we still recommend a full inspection before any long journey.",
-      "image": "/model/sec15_part.webp"
-    }
+    ]
   }
 }

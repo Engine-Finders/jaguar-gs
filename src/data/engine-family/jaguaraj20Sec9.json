@@ -1,78 +1,81 @@
 {
   "about": {
-    "image": "/engine/sec9_top.webp",
-    "imageMobile": "/engine/sec9_top_mobile.webp",
+    "image": "/engine/sec8_top.webp",
+    "imageMobile": "/engine/sec8_top_m2.webp",
     "kicker": "ABOUT THE",
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ20",
     "titlePost": " ENGINE",
-    "body": "The AJ20 is a Inline-4 (I4), 2.0L (1,997 cc), Diesel engine used across Jaguar's several model range, in production 2003–2009. We rebuild every AJ20 to original specification, replacing worn timing components, bearings, gaskets and seals as standard."
+    "body": "The AJ20 is a 2.0-litre inline-four diesel engine sourced from Ford's Duratorq / Puma family, fitted to the Jaguar X-Type (X400) from 2003 to 2009. It's one of the diesel options in the X-Type range, alongside the later ZSD-420 2.2-litre diesel and the petrol V6 options. The engine is based on Ford's Puma architecture, a widely-used diesel platform that appeared across multiple Ford, Mazda, and PSA vehicles during this period."
   },
   "byModel": {
-    "image": "/engine/sec9_middle.webp",
-    "imageMobile": "/engine/sec9_middle_mobile.webp",
+    "image": "/engine/sec8_middle.webp",
+    "imageMobile": "/engine/sec8_middle_m2.webp",
     "kicker": "JAGUAR AJ20",
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ20 is deployed across the AJ20 (AJ20 / AJ20, AJ20), the AJ20 (AJ20 / AJ20, AJ20), and the AJ20 (AJ20 / AJ20, AJ20). These form the core of the high-performance AJ20 range. More recently, the engine has been adopted for the AJ20 (AJ20, AJ20), the AJ20 (AJ20, AJ20), and the AJ20 roadster (AJ20, AJ20), proving the AJ20's versatility across different vehicle types.",
+    "body": "The AJ20 was fitted exclusively to the X-Type in the UK market, specifically in the 2.0D variant (X400 generation, 2003–2009). It served as the entry-level diesel option in the X-Type range, offering a balance of fuel economy and performance that suited the saloon and estate body styles.",
     "lineup": [
       {
-        "label": "AJ20",
-        "code": "AJ20"
-      },
-      {
-        "label": "AJ20",
-        "code": "AJ20"
-      },
-      {
-        "label": "AJ20",
-        "code": "AJ20"
-      },
-      {
-        "label": "AJ20",
-        "code": "AJ20"
-      },
-      {
-        "label": "AJ20",
-        "code": "AJ20"
-      },
-      {
-        "label": "AJ20",
-        "code": "AJ20"
+        "label": "X-Type",
+        "code": "X400"
       }
     ]
   },
   "compatibility": {
-    "image": "/engine/sec9_bottom.webp",
-    "imageMobile": "/engine/sec9_bottom_mobile.webp",
+    "image": "/engine/sec8_bottom.webp",
+    "imageMobile": "/engine/sec8_bottom_m2.webp",
     "kicker": "JAGUAR AJ20",
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ20 is fitted to six different models — from the compact AJ20 to the grand-touring AJ20 roadster — compatibility comes down to confirming your exact model, generation, and specific exact variant (e.g., \"45\" vs \"45 S\" vs \"43\"). A AJ20 from an AJ20 isn't a drop-in match for a AJ20 from an AJ20 — ancillaries and mounting differ.",
-    "boldNote": "We confirm by registration/VIN before quoting or supplying anything.",
+    "body": "The AJ20 is a Ford-sourced engine fitted to the X-Type during its production run. Compatibility comes down to confirming your exact model and year, which we do by registration. Engine ancillaries, mounting, and ECU calibration are specific to the X-Type application.",
     "points": [
       {
         "icon": "car",
         "title": "MODEL",
-        "text": "Confirm your exact model and exact variant."
+        "text": "Confirm your exact model and variant."
       },
       {
         "icon": "calendar",
         "title": "GENERATION",
-        "text": "Identify the correct generation (AJ20, AJ20, AJ20, AJ20, AJ20, AJ20)."
+        "text": "Identify the correct generation (X400)."
       },
       {
-        "icon": "gears",
+        "icon": "gear",
         "title": "DRIVETRAIN",
-        "text": "Specify the variant (45, 45 S, 43)."
+        "text": "Drivetrain and ancillary specification."
       },
       {
-        "icon": "clipboard",
+        "icon": "note",
         "title": "CONFIRMED BY REGISTRATION",
-        "text": "We confirm by registration or VIN before quoting."
+        "text": "We confirm by registration/VIN before quoting or supplying anything."
       }
     ]
+  },
+  "workOn": {
+    "titlePre": "Jaguar AJ20",
+    "titleHighlight": "Applications We Work On",
+    "image": "/engine/sec9a.webp",
+    "imageMobile": "/engine/sec9a_m4.webp",
+    "items": [
+      {
+        "heading": "AJ20 in the X-Type (X400, 2003–2009)",
+        "engine": "AJ20",
+        "model": "X-Type",
+        "detail": "X400, 2003–2009",
+        "body": "The AJ20 in the X-Type is one of the applications we work on regularly — the 2.0D diesel variant (X400 generation, 2003–2009). Jaguar AJ20 by Powertrain Variant Not applicable — AJ20 is a single fuel type (diesel) across all applications.",
+        "price": "£1,900",
+        "cta": "Check your X-Type AJ20"
+      }
+    ],
+    "note": "Not seeing your exact model above? Send us your registration and we'll confirm your exact spec.",
+    "card": {
+      "model": "Jaguar X-Type X400",
+      "engine": "AJ20 2.0L",
+      "year": "2003 – 2009",
+      "price": "£1,900"
+    }
   }
 }
