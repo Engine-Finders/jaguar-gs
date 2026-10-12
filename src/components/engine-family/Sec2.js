@@ -3,18 +3,17 @@ import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 function SpecTable({ rows, compact = false }) {
+  // two real columns (label | value) in every row, so the vertical separator is the value cell's left border
+  // and always lines up with the label column instead of floating at a guessed percentage
   return (
-    <div className="glass-card relative divide-y divide-black/10 rounded-2xl px-1">
-      <span
-        className="pointer-events-none absolute bottom-0 top-0 w-px bg-black/10"
-        style={{ left: compact ? "46%" : "34%" }}
-        aria-hidden="true"
-      />
+    <div className="glass-card divide-y divide-black/10 rounded-2xl px-1">
       {rows.map((r) => (
-        <div key={r.label} className={`flex items-center ${compact ? "gap-2 px-3 py-2.5" : "gap-4 px-5 py-3"}`}>
-          <Icon name={r.icon} className={`shrink-0 text-[#111111] ${compact ? "h-4 w-4" : "h-5 w-5"}`} />
-          <p className={`shrink-0 font-bold text-[#111111] ${compact ? "w-[34%] text-xs" : "w-[26%] text-sm"}`}>{r.label}</p>
-          <p className={`min-w-0 flex-1 leading-snug text-[#111111] ${compact ? "pl-1 text-xs" : "pl-5 text-sm"}`}>{r.value}</p>
+        <div key={r.label} className={`grid ${compact ? "grid-cols-[minmax(0,44%)_minmax(0,1fr)]" : "grid-cols-[minmax(0,36%)_minmax(0,1fr)]"}`}>
+          <div className={`flex min-w-0 items-center ${compact ? "gap-2 px-3 py-2.5" : "gap-4 px-5 py-3"}`}>
+            <Icon name={r.icon} className={`shrink-0 text-[#111111] ${compact ? "h-4 w-4" : "h-5 w-5"}`} />
+            <p className={`min-w-0 font-bold text-[#111111] ${compact ? "text-xs" : "text-sm"}`}>{r.label}</p>
+          </div>
+          <p className={`flex min-w-0 items-center border-l border-black/10 leading-snug text-[#111111] ${compact ? "px-3 py-2.5 text-xs" : "px-5 py-3 text-sm"}`}>{r.value}</p>
         </div>
       ))}
     </div>
