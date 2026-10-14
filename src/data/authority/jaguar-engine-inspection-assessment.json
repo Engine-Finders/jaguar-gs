@@ -1,0 +1,273 @@
+{
+  "slug": "jaguar-engine-inspection-assessment",
+  "metaTitle": "Jaguar Engine Inspection & Assessment | Jaguar Garage",
+  "metaDescription": "Professional Jaguar engine inspection and rebuild assessment in Essex. Visual, diagnostic, and strip-down inspection to provide a clear scope and fixed-price quote.",
+  "h1": "Jaguar Engine Inspection & Rebuild Assessment",
+  "lede": "We carry out a structured inspection of your Jaguar engine to establish the exact condition, identify what's needed, and give you a fixed-price quote for rebuild or repair.",
+  "ctas": [
+    {
+      "label": "Book an Inspection",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec11_middle.webp",
+    "/variant/sec1.webp",
+    "/engine/sec3.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Jaguar Engine Assessment Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We assess your engine to determine the scope of work required – whether it's a full rebuild, targeted repair, or replacement. The process covers:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Visual inspection** – external condition, fluid checks, belt/chain condition, and evidence of leaks or wear.",
+            "**Diagnostic scan** – we connect to the vehicle's ECU to read live data and performance parameters.",
+            "**Component-level checks** – using borescope cameras, compression testing, and leak-down testing where appropriate.",
+            "**Partial strip-down (if required)** – removing the cylinder head, timing cover, or sump to inspect bearings, timing components, and cylinder bores.",
+            "**Detailed quotation** – a written report with a fixed-price breakdown, scope of recommended work, and clear options."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "The goal is to give you an accurate picture of your engine's condition without unnecessary disassembly, so you can make an informed decision."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Engine Rebuild Pricing (Following Inspection)",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "We provide a fixed-price quote after completing the inspection, based on the specific scope required for your engine.",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Jaguar Models We Inspect",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We carry out engine assessments across the full Jaguar range. Here are the models we most frequently inspect for rebuild and repair:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XJ",
+              "href": null
+            },
+            {
+              "label": "Jaguar XF",
+              "href": null
+            },
+            {
+              "label": "Jaguar XE",
+              "href": null
+            },
+            {
+              "label": "Jaguar XK",
+              "href": null
+            },
+            {
+              "label": "Jaguar F-Type",
+              "href": null
+            },
+            {
+              "label": "Jaguar F-Pace",
+              "href": null
+            },
+            {
+              "label": "Jaguar E-Pace",
+              "href": null
+            },
+            {
+              "label": "Jaguar S-Type",
+              "href": null
+            },
+            {
+              "label": "Jaguar X-Type",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For specific variants, see:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "XJ 3.0d",
+              "href": null
+            },
+            {
+              "label": "XF 2.0d",
+              "href": null
+            },
+            {
+              "label": "XE D200",
+              "href": null
+            },
+            {
+              "label": "F-Type V6",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Inspection is available for all engine configurations – [ask us](/contact) if your model isn't listed."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Assessment Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We record your Jaguar's details, mileage, and service history. This gives us a baseline before any physical checks begin."
+        },
+        {
+          "title": "",
+          "body": "We inspect the engine bay, fluid levels, and external components. We then connect diagnostic equipment to gather live sensor data."
+        },
+        {
+          "title": "",
+          "body": "Using borescopes, compression gauges, and leak-down testers, we assess cylinder bores, valves, piston rings, and sealing surfaces without full disassembly."
+        },
+        {
+          "title": "",
+          "body": "If the scope requires it, we remove the cylinder head, timing cover, or sump to measure bearing clearances, timing component wear, and bore ovality."
+        },
+        {
+          "title": "",
+          "body": "We compile our findings into a written report, outline the recommended scope (rebuild, repair, or replacement), and provide a fixed-price quotation for you to review."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage for Inspection & Assessment",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Jaguar-specialist knowledge** – we know the common wear points on every generation of AJ, Ingenium, and Ford-sourced engines.",
+            "**Proper equipment** – we use factory-level diagnostic scanners, borescopes, and precision measuring tools.",
+            "**Clear, transparent reporting** – you get a written breakdown of what we found and what we recommend, with no obligation to proceed.",
+            "**Fixed-price quotes** – once the assessment is complete, we quote a firm price for the recommended work."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Engine Assessment Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us to arrange a date to bring your Jaguar to our workshop."
+        },
+        {
+          "title": "",
+          "body": "Our team performs the visual, diagnostic, and component-level checks – including strip-down if needed."
+        },
+        {
+          "title": "",
+          "body": "You receive a detailed written report and a fixed-price quotation for the recommended scope of work."
+        },
+        {
+          "title": "",
+          "body": "You choose whether to proceed with the rebuild, repair, or alternative option – with no obligation to commit."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Jaguar Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Teardown & Inspection](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Rebuild vs Replacement](/jaguar-engine-rebuild-vs-replacement)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar Inside Our Workshop](/about)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read our blog: [What happens during a full engine inspection](/guides) | [What we check on every rebuild, every time](/guides)"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a Jaguar engine inspection take?",
+          "a": "Standard visual and diagnostic checks take 2–3 hours. If a partial strip-down is required, we usually keep the vehicle for 1–2 days to complete the full assessment."
+        },
+        {
+          "q": "Do I have to proceed with the rebuild after the inspection?",
+          "a": "No. The assessment gives you the information you need to decide. You are under no obligation to commission any further work."
+        },
+        {
+          "q": "What if you find unexpected damage during the strip-down?",
+          "a": "We will stop at the point we identify additional issues, contact you with an updated scope and revised quote, and wait for your authorisation before continuing."
+        },
+        {
+          "q": "Do you inspect Ingenium diesel engines?",
+          "a": "Yes. We have specific assessment procedures for AJ200D and other Ingenium engines, including timing chain wear and injector seal checks."
+        },
+        {
+          "q": "Do you provide a written report?",
+          "a": "Yes. Every assessment includes a detailed written report with our findings, measurements, and a clear recommendation for the next steps."
+        },
+        {
+          "q": "Can you inspect an engine that's already been removed from the car?",
+          "a": "Yes, we can assess loose engines on our workshop stands. Contact us to arrange delivery and we'll quote accordingly."
+        }
+      ]
+    }
+  ]
+}

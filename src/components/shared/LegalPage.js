@@ -1,4 +1,5 @@
 import Link from "next/link";
+import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 /**
  * Renders a Core / Authoritative content page from a parsed block list.
@@ -19,7 +20,7 @@ function inline(text, keyBase) {
     if (m.index > last) nodes.push(text.slice(last, m.index));
     if (m[1] !== undefined) {
       nodes.push(
-        <strong key={`${keyBase}-b${i}`} className="font-semibold text-[#101828]">
+        <strong key={`${keyBase}-b${i}`} className="font-semibold text-[#111111]">
           {m[1]}
         </strong>
       );
@@ -54,14 +55,18 @@ function inline(text, keyBase) {
 export default function LegalPage({ data }) {
   const blocks = data.blocks || [];
   return (
-    <main className="theme-light">
+    <main className="theme-light mono-accent">
       <section className="mx-auto max-w-3xl px-4 py-14 sm:px-6 lg:py-20">
-        <p className="text-xs font-bold uppercase tracking-[0.2em] text-hero-blue">Jaguar Garage</p>
-        <h1 className="h2 mt-3 uppercase text-[#101828]">{data.title}</h1>
-        {data.subtitle ? <p className="mt-3 text-lg text-[#4a5568]">{data.subtitle}</p> : null}
-        {data.updated ? <p className="mt-2 text-sm text-[#98a2b3]">{data.updated}</p> : null}
+        <p className="flex items-center gap-3 text-xs font-bold uppercase tracking-[0.2em] text-[#111111]">
+          <JaguarStripe className="h-4 w-8 shrink-0" />
+          Jaguar Garage
+        </p>
+        <h1 className="h2 mt-3 uppercase text-[#111111]">{data.title}</h1>
+        <span className="mt-4 block h-0.5 w-24 chrome-bar-c" aria-hidden="true" />
+        {data.subtitle ? <p className="mt-3 text-lg text-[#3a3a3d]">{data.subtitle}</p> : null}
+        {data.updated ? <p className="mt-2 text-sm text-[#8a8a8e]">{data.updated}</p> : null}
         {data.intro ? (
-          <p className="mt-6 border-l-2 border-hero-blue/40 pl-4 text-sm italic leading-relaxed text-[#4a5568]">
+          <p className="mt-6 border-l-2 border-[#111111]/25 pl-4 text-sm italic leading-relaxed text-[#3a3a3d]">
             {inline(data.intro, "intro")}
           </p>
         ) : null}
@@ -70,21 +75,21 @@ export default function LegalPage({ data }) {
           {blocks.map((b, i) => {
             if (b.type === "h2") {
               return (
-                <h2 key={i} className="h4 mt-10 uppercase text-[#101828]">
+                <h2 key={i} className="h4 mt-10 uppercase text-[#111111]">
                   {b.text}
                 </h2>
               );
             }
             if (b.type === "h3") {
               return (
-                <h3 key={i} className="mt-6 text-base font-bold text-[#101828]">
+                <h3 key={i} className="mt-6 text-base font-bold text-[#111111]">
                   {b.text}
                 </h3>
               );
             }
             if (b.type === "ul") {
               return (
-                <ul key={i} className="ml-5 list-disc space-y-1.5 text-sm leading-relaxed text-[#4a5568]">
+                <ul key={i} className="ml-5 list-disc space-y-1.5 text-sm leading-relaxed text-[#3a3a3d]">
                   {(b.items || []).map((it, j) => (
                     <li key={j}>{inline(it, `${i}-${j}`)}</li>
                   ))}
@@ -111,7 +116,7 @@ export default function LegalPage({ data }) {
               );
             }
             return (
-              <p key={i} className="text-sm leading-relaxed text-[#4a5568]">
+              <p key={i} className="text-sm leading-relaxed text-[#3a3a3d]">
                 {inline(b.text || "", `p${i}`)}
               </p>
             );

@@ -1,0 +1,278 @@
+{
+  "slug": "jaguar-engine-replacement",
+  "metaTitle": "Jaguar Engine Replacement | Jaguar Garage",
+  "metaDescription": "Professional Jaguar engine replacement services – removal, supply & fit, ECU coding, and full road-test validation. Fixed-price quotes from our Essex workshop.",
+  "h1": "Jaguar Engine Replacement",
+  "lede": "Complete engine removal, supply, and fit for all Jaguar models – from X-Type to F-Type, XJ to F-Pace. Fixed-price work with full warranty.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec1.webp",
+    "/engine/sec3.webp",
+    "/engine/sec10_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our Jaguar engine replacement service covers the complete mechanical and electronic integration of a replacement engine into your vehicle. The process is methodical and uses JLR-specific diagnostic equipment to ensure the new engine is correctly matched and coded to your car."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Full pre-diagnostic scan and ECU backup",
+            "Front-end disassembly (bumper, radiator, intercooler, subframe as needed)",
+            "Detachment of all ancillaries, wiring, and exhaust components",
+            "Engine removal using professional hoist and support equipment",
+            "Transfer of reusable components to the replacement unit",
+            "Reinstallation and reconnection of all systems",
+            "JLR-specific ECU coding, VIN matching, and immobiliser synchronisation",
+            "Comprehensive road-test validation"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop and equipment →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Engine replacement from:**",
+            "Fixed-price quotes include all parts, labour, and ECU programming. [Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine replacement service covers the full Jaguar range – from classic XJ to the latest F-Pace. Every replacement is matched to your exact vehicle specification."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "X-Type",
+              "href": null
+            },
+            {
+              "label": "S-Type",
+              "href": null
+            },
+            {
+              "label": "XJ",
+              "href": null
+            },
+            {
+              "label": "XK",
+              "href": null
+            },
+            {
+              "label": "XE",
+              "href": null
+            },
+            {
+              "label": "XF",
+              "href": null
+            },
+            {
+              "label": "F-Type",
+              "href": null
+            },
+            {
+              "label": "F-Pace",
+              "href": null
+            },
+            {
+              "label": "E-Pace",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Key variant examples we regularly replace:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "XE 2.0d (AJ200D)",
+            "XF 3.0d (AJD-V6)",
+            "F-Type R (5.0 Supercharged V8)",
+            "XJ 5.0 Supercharged V8"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process – Step by Step",
+      "steps": [
+        {
+          "title": "",
+          "body": "We run a full JLR diagnostic scan, clear faults, and back up the current ECU settings to ensure a clean baseline."
+        },
+        {
+          "title": "",
+          "body": "Front bumper, radiator, intercooler, and often the front subframe are removed to access the engine bay."
+        },
+        {
+          "title": "",
+          "body": "All electrical connectors, exhaust bolts, coolant hoses, and engine mounts are systematically disconnected."
+        },
+        {
+          "title": "",
+          "body": "Using a professional engine hoist (322 kg+ capacity), the old unit is lifted out – or the subframe is lowered as one assembly."
+        },
+        {
+          "title": "",
+          "body": "All reusable sensors, manifolds, and brackets are transferred to the replacement engine."
+        },
+        {
+          "title": "",
+          "body": "The replacement engine is fitted, aligned, and all connections are re-made with factory torque settings."
+        },
+        {
+          "title": "",
+          "body": "Using JLR SDD / Pathfinder, we code the ECU to match the new engine's parameters and your vehicle's VIN. Immobiliser synchronisation is also performed."
+        },
+        {
+          "title": "",
+          "body": "Every replacement undergoes a full road-test to confirm all systems operate correctly before handover."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**JLR-trained technicians** with years of specialist experience",
+            "**Full JLR diagnostic & programming equipment** – SDD, Pathfinder, JET Master",
+            "**Fixed-price quotes** – no hidden extras",
+            "**12-month unlimited-mileage warranty** on all replacement work",
+            "**Nationwide engine recovery** available (from £70)",
+            "**Real workshop premises** in Essex – visit us anytime"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our team and workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Book a free assessment or send your registration"
+        },
+        {
+          "title": "",
+          "body": "We inspect your vehicle and confirm the correct replacement"
+        },
+        {
+          "title": "",
+          "body": "Agree a fixed-price quote and schedule the work"
+        },
+        {
+          "title": "",
+          "body": "We replace the engine, code it, and road-test thoroughly"
+        },
+        {
+          "title": "",
+          "body": "Collect your Jaguar with full warranty and documentation"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other specialist services we offer for your Jaguar:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Supply & Fit](/jaguar-engine-supply-fit)",
+            "[Jaguar V8 Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Ingenium Diesel Repair (AJ200D)](/jaguar-ingenium-diesel-repair)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read our blog for more insights: [Rebuild, replacement, or used – how we decide](/guides) and [The hidden risk in a cheap used engine](/guides)."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's included in an engine replacement?",
+          "a": "Our service includes removal of the old engine, supply of a correctly matched replacement unit, fitting, transfer of all reusable ancillaries, JLR ECU coding and immobiliser synchronisation, and a full road-test validation. We also include a 12-month unlimited-mileage warranty."
+        },
+        {
+          "q": "How long does a Jaguar engine replacement take?",
+          "a": "Typical workshop time is between 14 and 30 hours depending on the model and engine type. We'll give you a clear schedule when we quote – most replacements are completed within one working week."
+        },
+        {
+          "q": "Will the replacement engine be coded to my car?",
+          "a": "Yes – we always perform dealer-level ECU coding to match the new engine's parameters to your vehicle's VIN. This ensures correct operation and full integration with the immobiliser, transmission, and other modules."
+        },
+        {
+          "q": "Do you source the replacement engine, or do I supply it?",
+          "a": "We supply the replacement unit for you – we source engines from reputable suppliers and ensure they are the exact match for your vehicle. We never fit customer-supplied engines because we can't guarantee their condition or compatibility."
+        },
+        {
+          "q": "Can you recover my Jaguar if it's not driveable?",
+          "a": "Absolutely – we offer nationwide engine recovery starting from £70. Just call us and we'll arrange collection to our workshop."
+        }
+      ]
+    }
+  ]
+}

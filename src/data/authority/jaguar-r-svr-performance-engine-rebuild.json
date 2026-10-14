@@ -1,0 +1,312 @@
+{
+  "slug": "jaguar-r-svr-performance-engine-rebuild",
+  "metaTitle": "Jaguar R/SVR Performance Engine Rebuild | Jaguar Garage",
+  "metaDescription": "Specialist performance engine rebuild for Jaguar R and SVR models – F-Type, F-Pace, XFR, XJR. Full strip-down, machining, supercharger service, and precision assembly.",
+  "h1": "Jaguar R / SVR Performance Engine Rebuild",
+  "lede": "Full performance engine rebuild for Jaguar R and SVR models – including supercharger service, precision machining, and assembly to factory specifications.",
+  "ctas": [
+    {
+      "label": "Get a quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec3.webp",
+    "/engine/sec10_top.webp",
+    "/model/sec12.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Jaguar R and SVR models demand a higher level of precision and care during engine rebuilding. Our performance rebuild service combines the full standard rebuild process with extra steps specific to supercharged, high-output engines."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Core Rebuild Process",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Full strip-down** – the engine is completely disassembled, with every component labelled and inspected.",
+              "href": null
+            },
+            {
+              "label": "**Machining to factory tolerances** – cylinders are bored and honed, surfaces resurfaced, and all critical dimensions restored to OEM specifications.",
+              "href": null
+            },
+            {
+              "label": "**Inspection and component selection** – all parts are measured and assessed; worn or out-of-spec items are replaced with genuine Jaguar or equivalent-quality parts.",
+              "href": null
+            },
+            {
+              "label": "**Precision reassembly** – the engine is rebuilt using factory procedures, with absolute attention to torque settings, clearances, and alignment.",
+              "href": null
+            },
+            {
+              "label": "**High-load road test** – after installation, the vehicle undergoes a full road test to verify performance under real-world conditions.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Performance-Specific Considerations",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Supercharger servicing** – R and SVR models use Eaton TVS superchargers (on AJ126 and AJ133 engines). These are rebuilt as part of the service with new bearings, fresh supercharger oil, new seals, and a replacement coupler.",
+              "href": null
+            },
+            {
+              "label": "**Absolute precision assembly** – with outputs up to 575 PS in SVR specification, every clearance and torque setting must be exact. We work to Jaguar factory specifications using OEM tools and procedures.",
+              "href": null
+            },
+            {
+              "label": "**Component quality** – we use OEM or OEM-specification parts. Where appropriate, we may fit upgraded components for enhanced durability under sustained performance driving.",
+              "href": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Performance engine rebuild starts from:**",
+            "Final cost depends on condition and any additional parts required. We provide a fixed-price quote after full inspection and strip-down. [View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We rebuild performance engines across the full Jaguar R and SVR range. Each link goes to the dedicated page for that model or engine."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar F-Type",
+              "href": null
+            },
+            {
+              "label": "F-Type R →",
+              "href": null
+            },
+            {
+              "label": "SVR →",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Pace"
+        },
+        {
+          "t": "p",
+          "html": "SVR – 5.0 V8, 575 PS – AJ133 supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "F-Pace SVR →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XF"
+        },
+        {
+          "t": "p",
+          "html": "XFR (5.0 V8, 510 PS) & XFR-S (5.0 V8, 550 PS) – AJ133 supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "XFR / XFR-S →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XJ"
+        },
+        {
+          "t": "p",
+          "html": "XJR (5.0 V8, 550 PS) – AJ133 supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "XJR →"
+        },
+        {
+          "t": "p",
+          "html": "**Engine families covered:**"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[AJ133S](/jaguar-aj133s-engine) – 5.0 V8 supercharged (R and SVR specifications)",
+            "[AJ126](/jaguar-aj126-engine) – 3.0 V6 supercharged (F-Type V6 S, where applicable)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process — Performance Rebuild",
+      "steps": [
+        {
+          "title": "Arrival & inspection",
+          "body": "We receive the vehicle, perform an initial assessment, and plan the rebuild."
+        },
+        {
+          "title": "Full strip-down",
+          "body": "The engine is completely disassembled; all components are inspected and measured."
+        },
+        {
+          "title": "Machining & preparation",
+          "body": "We bore, hone, and surface components to factory tolerances in our machine shop."
+        },
+        {
+          "title": "Supercharger rebuild",
+          "body": "We rebuild the Eaton TVS supercharger with new bearings, oil, seals, and coupler."
+        },
+        {
+          "title": "Precision assembly",
+          "body": "We reassemble the engine using OEM parts and exact torque/clearance specifications."
+        },
+        {
+          "title": "Installation & testing",
+          "body": "We refit the engine and perform a high-load road test to verify performance."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Jaguar performance specialists** – we understand the specific demands of R and SVR engines, including supercharger servicing and high-boost tuning.",
+            "**Full in-house machine shop** – we control every aspect of the rebuild, from boring to final assembly, to ensure quality.",
+            "**Supercharger expertise** – we rebuild Eaton TVS superchargers in-house, ensuring all components are refreshed correctly.",
+            "**OEM and upgraded parts** – we use genuine Jaguar parts and can incorporate upgraded components for enhanced durability.",
+            "**12-month unlimited-mileage warranty** – our performance rebuilds are backed by the same warranty as our standard rebuilds.",
+            "**Nationwide recovery** – we can arrange recovery for your Jaguar if it cannot be driven."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use our quote form to discuss your Jaguar R or SVR."
+        },
+        {
+          "title": "Arrange arrival",
+          "body": "We organise for your Jaguar to be delivered to our workshop – recovery available if needed."
+        },
+        {
+          "title": "Inspection & quote",
+          "body": "We strip and inspect the engine, then provide a fixed-price quote for the rebuild."
+        },
+        {
+          "title": "Rebuild & return",
+          "body": "We perform the full rebuild, test thoroughly, and return your Jaguar performing as it should."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar V8 Supercharged Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Supercharger & Turbo Repair](/jaguar-supercharger-turbo-repair)",
+            "[Jaguar Engine Rebuild Process](/jaguar-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "FAQs — R / SVR Performance Engine Rebuild",
+      "items": [
+        {
+          "q": "What does a Jaguar R/SVR performance engine rebuild involve?",
+          "a": "A full performance rebuild includes complete engine strip-down, inspection, machining to restore OEM tolerances, reassembly with OEM components, and a high-load road test. For supercharged R/SVR engines, we also rebuild the Eaton TVS supercharger – replacing bearings, oil, seals, and coupler."
+        },
+        {
+          "q": "Which Jaguar models does this apply to?",
+          "a": "This service covers all Jaguar R and SVR models including F-Type R/SVR, F-Pace SVR, XFR/XFR-S, and XJR – all equipped with the 5.0L supercharged AJ133 V8. We also offer performance rebuilds for the supercharged AJ126 V6 where applicable."
+        },
+        {
+          "q": "How long does a performance engine rebuild take?",
+          "a": "Typically 3–5 weeks depending on parts availability and machining requirements. We provide a clear timeline after initial inspection and strip-down."
+        },
+        {
+          "q": "Do you use genuine Jaguar parts?",
+          "a": "Yes – we use OEM or OEM-specification parts. In some cases we may recommend upgraded components for enhanced durability under performance driving, and we discuss these options with you beforehand."
+        },
+        {
+          "q": "Is the supercharger rebuilt as part of the service?",
+          "a": "Yes – for R and SVR engines, we rebuild the Eaton TVS supercharger with new bearings, fresh oil, new seals, and a replacement coupler as part of a comprehensive performance rebuild."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Book your performance rebuild assessment",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Let us assess your R or SVR engine and provide a fixed-price quote for a full performance rebuild."
+        }
+      ]
+    }
+  ]
+}

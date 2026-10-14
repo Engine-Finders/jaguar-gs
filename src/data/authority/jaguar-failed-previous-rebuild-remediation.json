@@ -1,0 +1,357 @@
+{
+  "slug": "jaguar-failed-previous-rebuild-remediation",
+  "metaTitle": "Jaguar Failed Previous Rebuild Remediation | Jaguar Garage",
+  "metaDescription": "Professional assessment and correction of poorly-rebuilt Jaguar engines. We strip, inspect, and re-do work from other workshops to get your engine right.",
+  "h1": "Jaguar Failed Previous Rebuild Remediation",
+  "lede": "Professional assessment and correction for Jaguar engines that have been incorrectly rebuilt by another workshop.",
+  "ctas": [
+    {
+      "label": "Get a quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec2_price_bg.webp",
+    "/engine/sec9b.webp",
+    "/model/sec10.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When a Jaguar engine arrives that was previously rebuilt by another workshop and is not performing correctly, we carry out a systematic assessment to identify what was done incorrectly and correct it. Our focus is on the actions we take to put the engine right — not on why the previous work might have failed."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "The Assessment",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Full visual inspection** – we examine the engine externally for signs of improper assembly, missing components, or incorrect fittings.",
+              "href": null
+            },
+            {
+              "label": "**Comprehensive strip-down** – we disassemble the engine to verify every aspect of the previous rebuild, including timing chain alignment, bearing clearances, and bolt torques.",
+              "href": null
+            },
+            {
+              "label": "**Verification of work done** – we check that all components are correct for the engine and that they were installed to manufacturer specifications.",
+              "href": null
+            },
+            {
+              "label": "**Identification of corrective work** – we compile a detailed list of what needs to be re-done, replaced, or adjusted, and provide a fixed-price quote for the remediation.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "The Remediation",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Timing verification and correction** – we re-check and re-set cam and crank timing using factory tools to ensure precise alignment.",
+              "href": null
+            },
+            {
+              "label": "**Torque and clearance checks** – we re-torque all critical fasteners to correct settings and verify bearing and piston clearances.",
+              "href": null
+            },
+            {
+              "label": "**Component replacement** – any parts that were incorrectly installed, damaged, or substandard are replaced with OEM or equivalent quality items.",
+              "href": null
+            },
+            {
+              "label": "**Full reassembly to factory standards** – we rebuild the engine from the ground up using our documented process, ensuring every step meets Jaguar specifications.",
+              "href": null
+            },
+            {
+              "label": "**Post-remediation testing** – we run the engine, perform diagnostics, and road-test the vehicle to confirm correct operation.",
+              "href": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Remediation of a failed previous rebuild starts from:**",
+            "Final cost depends on the extent of corrective work discovered during inspection. We provide a fixed-price quote after our full strip-down assessment. [View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We remediate failed rebuilds on all Jaguar models and engine families. Below are the most common ones we correct – each link goes to the dedicated page for that model or engine."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XJ",
+              "href": null
+            },
+            {
+              "label": "XJR variant →",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XK"
+        },
+        {
+          "t": "p",
+          "html": "X150 (2005–2014) – AJ133 5.0 V8, AJ133S supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "XKR (X150) variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XF"
+        },
+        {
+          "t": "p",
+          "html": "X250 (2007–2015) – AJ133 5.0 V8; AJ133S supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "XF 5.0 V8 variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Type"
+        },
+        {
+          "t": "p",
+          "html": "X152 (2012–2024) – AJ133 5.0 supercharged V8, AJ126 supercharged V6"
+        },
+        {
+          "t": "p",
+          "html": "F-Type R variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XE"
+        },
+        {
+          "t": "p",
+          "html": "X760 (2015–2024) – AJ126 supercharged V6 (pre-2019)"
+        },
+        {
+          "t": "p",
+          "html": "XE 3.0 V6 S/SC →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Pace"
+        },
+        {
+          "t": "p",
+          "html": "X761 (2016–2025) – AJ126 supercharged V6"
+        },
+        {
+          "t": "p",
+          "html": "F-Pace P340 variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar E-Pace"
+        },
+        {
+          "t": "p",
+          "html": "X540 (2017–2024) – Ingenium diesel (AJ200D) and petrol (AJ200)"
+        },
+        {
+          "t": "p",
+          "html": "E-Pace D200 variant →"
+        },
+        {
+          "t": "p",
+          "html": "**Engine families covered:**"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[AJ133 (AJ-V8 Gen III)](/jaguar-aj133-engine) – 5.0 V8 naturally aspirated",
+            "[AJ133S](/jaguar-aj133s-engine) – 5.0 V8 supercharged",
+            "[AJ126](/jaguar-aj126-engine) – 3.0 V6 supercharged",
+            "[AJ200D (Ingenium diesel)](/jaguar-aj200d-engine) – 2.0 I4 diesel",
+            "[AJ200 (Ingenium petrol)](/jaguar-aj200-engine) – 2.0 I4 petrol",
+            "[AJ-V6](/jaguar-aj-v6-engine) – 3.0 naturally aspirated V6",
+            "[AJ-V8](/jaguar-aj-v8-engine) – 4.2 V8 (X100/X200)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process — Failed Rebuild Remediation",
+      "steps": [
+        {
+          "title": "Arrival & initial inspection",
+          "body": "We receive the vehicle and perform a visual inspection of the engine bay and external components."
+        },
+        {
+          "title": "Full strip-down",
+          "body": "We disassemble the engine to verify every aspect of the previous rebuild – timing, torque, component condition."
+        },
+        {
+          "title": "Identify corrective work",
+          "body": "We document what was done incorrectly and what needs to be re-done, replaced, or adjusted."
+        },
+        {
+          "title": "Quote & approval",
+          "body": "We provide a fixed-price quote based on our findings, and obtain your approval before starting remediation."
+        },
+        {
+          "title": "Correction work",
+          "body": "We re-time, re-torque, replace faulty parts, and correct all identified issues."
+        },
+        {
+          "title": "Reassembly to spec",
+          "body": "We reassemble the engine using factory procedures and genuine or equivalent-quality parts."
+        },
+        {
+          "title": "Testing & handover",
+          "body": "We run diagnostics, road-test the vehicle, and provide a full report on the work carried out."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Jaguar specialists** – we know Jaguar engines inside out, including all common issues and correct assembly procedures.",
+            "**Full strip-down assessment** – we don't guess; we verify every aspect of the previous work before we start.",
+            "**Fixed-price quote** – you get a clear, fixed quote after our assessment, with no hidden surprises.",
+            "**OEM-quality parts** – we use genuine or equivalent parts to ensure long-term reliability.",
+            "**12-month unlimited-mileage warranty** – our remediation work is backed by our full warranty.",
+            "**Nationwide recovery** – we can arrange recovery if your vehicle is not drivable."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use our quote form to describe the issue and arrange an inspection."
+        },
+        {
+          "title": "Arrange arrival",
+          "body": "We organise for your Jaguar to be delivered to our workshop – recovery available if needed."
+        },
+        {
+          "title": "Strip-down & quote",
+          "body": "We fully strip and inspect the engine, then provide a fixed-price quote for remediation."
+        },
+        {
+          "title": "Remediation & return",
+          "body": "We carry out the corrective work, test thoroughly, and return your Jaguar running correctly."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair)",
+            "[Jaguar Timing Chain Failure Repair](/jaguar-timing-chain-failure-repair)",
+            "[Jaguar V8 Supercharged Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Engine Rebuild Process](/jaguar-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "FAQs — Failed Previous Rebuild Remediation",
+      "items": [
+        {
+          "q": "What does a failed rebuild remediation involve?",
+          "a": "We start with a full strip-down inspection to verify all previous work – checking timing alignment, torque settings, component condition, and clearances. Then we correct any issues by re-timing, re-torquing, replacing faulty parts, and reassembling to factory specifications, followed by thorough testing."
+        },
+        {
+          "q": "How long does a failed rebuild remediation take?",
+          "a": "The duration depends on the extent of the issues found. Typically, a full assessment takes 1–2 days, and the correction work can take an additional 3–7 days depending on what needs to be re-done. We provide a clear timeline after inspection."
+        },
+        {
+          "q": "Can you fix any previous rebuild, regardless of who did it?",
+          "a": "Yes – we specialise in correcting work from other workshops. We approach every engine with fresh eyes, strip it down fully, and rebuild it correctly using our established processes and factory specifications."
+        },
+        {
+          "q": "Will I get a warranty on the remediation work?",
+          "a": "Yes – our remediation work is backed by the same 12-month unlimited-mileage warranty we offer on all our engine rebuilds and repairs."
+        },
+        {
+          "q": "What if the previous rebuild was done with non-genuine parts?",
+          "a": "During our inspection we identify any substandard parts and replace them with OEM or equivalent quality components. We only use parts that meet or exceed Jaguar specifications."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Book your remediation assessment",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Let us inspect your poorly-rebuilt Jaguar engine and give you a fixed-price quote to put it right."
+        }
+      ]
+    }
+  ]
+}

@@ -61,9 +61,9 @@ export default function GetQuoteClient() {
   }
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-16">
+    <div className="theme-light mx-auto max-w-3xl px-4 py-16">
       <div className="mb-8 text-center">
-        <h1 className="text-2xl font-bold text-[var(--color-hero-gold)] sm:text-3xl">Get Your Jaguar Engine Quote</h1>
+        <h1 className="text-2xl font-bold text-[#111111] sm:text-3xl">Get Your Jaguar Engine Quote</h1>
         <p className="mt-2 text-gray-600">Compare engine quotes from trusted Jaguar specialists — instantly.</p>
 
         {(summary || vrm) && (

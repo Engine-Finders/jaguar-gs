@@ -1,0 +1,203 @@
+{
+  "slug": "jaguar-engine-supply-fit",
+  "metaTitle": "Jaguar Engine Supply & Fit | Jaguar Garage",
+  "metaDescription": "Professional Jaguar engine supply and fit service. Correct engine matching, VIN-specific sourcing, full fitting, ECU coding, and road testing by Jaguar specialists.",
+  "h1": "Jaguar Engine Supply & Fit",
+  "lede": "Sourcing, supply, and professional fitting for Jaguar engines — from 4-cylinder Ingenium units to Supercharged V8s. Complete ECU integration and road testing included.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec3.webp",
+    "/engine/sec10_top.webp",
+    "/model/sec12.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Supply & Fit Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This service covers the complete process of sourcing the correct replacement engine for your Jaguar, removing the failed unit, and professionally fitting the replacement to factory standards. The scope includes all associated labour, component transfer, and final road testing — a turnkey solution for returning your vehicle to the road."
+        },
+        {
+          "t": "p",
+          "html": "We handle the full lifecycle: collection, diagnostics, accurate engine matching by VIN, removal of the existing unit, ancillaries transfer, refitting, ECU calibration, and extensive quality control before handover."
+        },
+        {
+          "t": "p",
+          "html": "Read our full guide to the [engine rebuild process](/guides) for deeper insight into how we handle your Jaguar's powertrain."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Supply & Fit Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Supply and fit from £2,000** for 4-cylinder units, £2,900 for V6 Diesel, £3,200 for V6 Petrol, and £4,500+ for naturally aspirated V8s.",
+            "[Pricing disclaimer](/pricing-legal-disclaimer) — final cost confirmed after VIN-specific matching and inspection."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our supply and fit service covers the full Jaguar range. We source and fit engines for the following models, using VIN-specific matching to ensure correct compatibility:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XE",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We also cover X-Type and S-Type. For exact variant matching, key popular examples include the XE 2.0d, XF 2.0d, F-Pace D200, and F-Type V6."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Supply & Fit Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We collect your Jaguar using covered transport. The VIN and engine code are recorded to ensure precise replacement matching."
+        },
+        {
+          "title": "",
+          "body": "Full inspection and diagnostics are performed. We confirm the exact engine variant, ECU strategy, and drivetrain compatibility."
+        },
+        {
+          "title": "",
+          "body": "The existing engine is carefully removed, with all ancillaries, wiring, and mountings stripped for transfer to the new unit."
+        },
+        {
+          "title": "",
+          "body": "The correct replacement engine is sourced and prepared. This includes hot-run testing and balancing before fitment."
+        },
+        {
+          "title": "",
+          "body": "The replacement engine is fitted into the bay. Ancillaries, fluids, and filters are installed or renewed as required."
+        },
+        {
+          "title": "",
+          "body": "Using JLR SDD / Pathfinder diagnostics, the ECU is reprogrammed to match the vehicle's VIN, immobiliser, and transmission parameters."
+        },
+        {
+          "title": "",
+          "body": "A comprehensive road test is conducted, followed by a final quality control inspection before the vehicle is returned to you."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Established in 2009, specialising exclusively in Jaguar powertrains",
+            "Full workshop capability with JLR factory-level diagnostic equipment",
+            "VIN-specific engine matching to guarantee correct compatibility",
+            "Complete supply and fit — no hidden costs, no standalone engine transactions",
+            "12-month unlimited mileage warranty on all fitted engines",
+            "Nationwide collection and covered transport available"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Learn more about [our workshop and team](/about)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How to Get Started",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us with your Jaguar's registration and model details"
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote based on VIN-specific matching"
+        },
+        {
+          "title": "",
+          "body": "We collect your vehicle, perform the supply and fit, and return it"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar Nationwide Engine Recovery](/jaguar-nationwide-engine-recovery)",
+            "[Jaguar Ingenium Diesel Repair](/jaguar-ingenium-diesel-repair)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does the supply and fit service include?",
+          "a": "It includes VIN-specific sourcing of the replacement engine, removal of the failed unit, transfer of ancillaries, professional fitting, ECU coding using JLR diagnostics, and a full road test with quality control."
+        },
+        {
+          "q": "How do you match the correct engine?",
+          "a": "We match using the vehicle's VIN, engine code, emissions specification, and drivetrain configuration. This ensures the replacement unit is mechanically and electronically compatible with your Jaguar."
+        },
+        {
+          "q": "What happens to my old engine?",
+          "a": "Your old engine is removed and retained for inspection or disposal as per environmental regulations. We can discuss specific arrangements upon request."
+        },
+        {
+          "q": "Is there a warranty on the fitted engine?",
+          "a": "Yes, all engines fitted through our supply and fit service come with a 12-month unlimited mileage warranty covering parts and labour."
+        }
+      ]
+    }
+  ]
+}

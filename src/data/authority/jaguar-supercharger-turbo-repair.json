@@ -1,0 +1,318 @@
+{
+  "slug": "jaguar-supercharger-turbo-repair",
+  "metaTitle": "Jaguar Supercharger & Turbo Repair | Jaguar Garage",
+  "metaDescription": "Jaguar supercharger and turbo repair services at Jaguar Garage. We rebuild Eaton superchargers and replace turbocharger cartridges for all Jaguar models.",
+  "h1": "Jaguar Supercharger & Turbo Repair",
+  "lede": "Expert supercharger and turbocharger repair for Jaguar V8, V6, and Ingenium engines – carried out in our Essex workshop.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec12.webp",
+    "/engine/sec2_price_bg.webp",
+    "/engine/sec9b.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Supercharger and turbocharger repair on Jaguar engines involves removing the unit, disassembling the snout or cartridge, replacing worn bearings, seals, and couplers, and reassembling with precision. We use genuine Eaton-spec components for superchargers and follow factory procedures for turbocharger cartridge replacement. All work is performed in our Billericay workshop using specialist tooling."
+        },
+        {
+          "t": "p",
+          "html": "Whether your Jaguar is fitted with an AJ133 or AJ126 supercharger, or an Ingenium diesel turbocharger, our technicians are trained on these platforms and carry out every repair to the manufacturer's specifications."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Supercharger and turbocharger repair is quoted per job. For a fixed-price estimate, use the registration lookup below or [contact us directly](/contact). Pricing is confirmed after a thorough inspection, so there are no surprises. [Pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "As a guide, supercharger rebuild work is often part of a full engine rebuild – our [engine rebuild](/jaguar-engine-rebuild) prices start from £2,000 for 4-cylinder, £3,200 for V6, and £5,500 for V8 engines."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We repair superchargers and turbos on these Jaguar models and engine families:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "F-Type",
+              "href": null
+            },
+            {
+              "label": "V6 S (AJ126)",
+              "href": null
+            },
+            {
+              "label": "R / SVR (AJ133)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "XJ",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XJR (AJ133)",
+              "href": null
+            },
+            {
+              "label": "5.0 V8 Supercharged",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "XF",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XFR (AJ133S)",
+              "href": null
+            },
+            {
+              "label": "3.0 V6 S/C (AJ126)",
+              "href": null
+            },
+            {
+              "label": "2.0d (Ingenium turbo)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "XK",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XKR (AJ133)",
+              "href": null
+            },
+            {
+              "label": "XKR-S (AJ133S)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "XE",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "3.0 V6 S/C (AJ126)",
+              "href": null
+            },
+            {
+              "label": "D200 (Ingenium turbo)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "F-Pace",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "SVR (AJ133)",
+              "href": null
+            },
+            {
+              "label": "D200 (Ingenium turbo)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "E-Pace",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "D200 (Ingenium turbo)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Engine families we work on: [AJ133](/jaguar-aj133-engine), [AJ126](/jaguar-aj126-engine), and [AJ200D (Ingenium)](/jaguar-aj200d-engine)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Access & Removal",
+          "body": "We clear the engine bay – remove airboxes, ducts, coolant hoses, and drive belts. For superchargers, the unit is freed from its guide pins; for turbos, we access the manifold and exhaust side."
+        },
+        {
+          "title": "Disassembly & Inspection",
+          "body": "The supercharger snout is separated to expose the coupler and bearings. For turbos, we remove the cartridge and inspect the housing. All components are measured against factory tolerances."
+        },
+        {
+          "title": "Component Replacement",
+          "body": "We replace the coupler (with a solid unit), bearings, seals, and supercharger oil. For turbos, a new cartridge/core is fitted along with fresh gaskets and copper washers."
+        },
+        {
+          "title": "Reassembly",
+          "body": "All parts are cleaned, sealed with high-grade silicone, and torqued to manufacturer specs. The supercharger oil is filled to the correct 150ml level."
+        },
+        {
+          "title": "Refitting & Testing",
+          "body": "The repaired unit is reinstalled, coolant and oil lines are flushed, and the engine is road-tested to ensure full boost and driveability."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist Jaguar workshop since 2009 – we know these engines inside out.",
+            "Equipped with factory-spec tooling, including the crankshaft holding tool and pulley puller.",
+            "Technicians trained on AJ133 and AJ126 platforms – the same knowledge as main dealers.",
+            "We use genuine Eaton components and original-spec oils for supercharger rebuilds.",
+            "12-month unlimited-mileage warranty on all repair work.",
+            "Nationwide engine recovery service available if your vehicle is off the road."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "body": "Call, email, or use our online quote form. We'll discuss your Jaguar's symptoms and arrange an inspection."
+        },
+        {
+          "title": "Inspection & Quote",
+          "body": "We inspect the supercharger or turbo, identify the required work, and provide a fixed-price quotation."
+        },
+        {
+          "title": "Repair",
+          "body": "Our technicians perform the repair using specialist tooling and genuine parts."
+        },
+        {
+          "title": "Testing",
+          "body": "Every repair is road-tested and checked for correct boost and performance."
+        },
+        {
+          "title": "Collection",
+          "body": "Your Jaguar is ready for collection – we'll explain the work done and the warranty cover."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Full Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[V8 Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Ingenium Diesel Repair](/jaguar-ingenium-diesel-repair)",
+            "[Engine Replacement](/jaguar-engine-replacement)",
+            "[Engine Failure Repair](/jaguar-engine-failure-repair)",
+            "[High-Mileage Engine Rebuild](/jaguar-high-mileage-engine-rebuild)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read our [blog on engine rebuilds](/guides) and [what we check on every rebuild](/guides)."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does a supercharger repair involve?",
+          "a": "We remove the supercharger, disassemble the snout, replace the coupler, bearings, seals, and oil, then reassemble and refit the unit. The entire process is carried out to factory specifications using specialist tools."
+        },
+        {
+          "q": "Do you repair both superchargers and turbochargers?",
+          "a": "Yes. We handle Eaton superchargers on AJ133 and AJ126 engines, as well as turbochargers on Ingenium diesel and earlier ZSD/Ford-sourced units. Each repair follows the specific procedures for that unit."
+        },
+        {
+          "q": "How long does a supercharger or turbo repair take?",
+          "a": "Typical turnaround is 3-5 working days, depending on parts availability. We'll give you a clear timeline during the quotation stage."
+        },
+        {
+          "q": "Will you replace the supercharger oil?",
+          "a": "Yes. We drain and refill with Eaton-spec oil (150ml) as part of the repair. This is essential for long-term performance."
+        },
+        {
+          "q": "Do I need to book an inspection?",
+          "a": "We recommend an initial inspection so we can assess the exact condition of your supercharger or turbo. You can [request a quote](/contact) to start the process."
+        }
+      ]
+    }
+  ]
+}
