@@ -73,7 +73,7 @@ export default function RootLayout({ children }) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} ${robotoCondensed.variable} ${inter.variable} ${audiowide.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
+      <body className="mono-accent min-h-full flex flex-col">
         <JsonLd data={businessGraph()} />
         <Navbar data={navbarData} />
         <main className="flex-1">{children}</main>

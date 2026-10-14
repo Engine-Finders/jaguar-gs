@@ -1,0 +1,269 @@
+{
+  "slug": "jaguar-cylinder-head-repair-rebuild",
+  "metaTitle": "Jaguar Cylinder Head Repair & Rebuild | Jaguar Garage",
+  "metaDescription": "Professional Jaguar cylinder head repair and rebuild: machining, valve work, pressure testing, and reassembly. Fixed-price quotes, 12-month warranty.",
+  "h1": "Jaguar Cylinder Head Repair & Rebuild",
+  "lede": "Professional cylinder head machining, valve work, and reassembly for all Jaguar engines — carried out in our Essex workshop with full pressure testing and warranty.",
+  "ctas": [
+    {
+      "label": "Get a Fixed-Price Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec2.webp",
+    "/variant/sec10_middle_div.webp",
+    "/engine/sec4.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Cylinder Head Repair & Rebuild Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We strip, inspect, machine, and reassemble Jaguar cylinder heads to manufacturer tolerances. The process includes:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Access & removal:** The cylinder head is removed from the engine bay — on many Jaguar engines this can be done with the engine in situ, though some models require engine removal for access.",
+            "**Full disassembly:** Valves, springs, camshafts, tappets, and cam-carriers are stripped. All components are cleaned in specialist solvent washers and kerosene baths.",
+            "**Pressure testing & crack detection:** The bare head is pressure-tested for leaks and checked for cracks using dye penetrant or Magnaflux equipment.",
+            "**Precision machining:** The deck surface is skimmed (resurfaced) to restore flatness. Valve seats are cut or replaced, and valve guides are pressed out and new ones installed using hydraulic presses.",
+            "**Valve reconditioning:** Valves are ground and re-seated. New valve stem seals are fitted.",
+            "**Reassembly & timing:** The head is reassembled with new gaskets and head bolts, then timed to the crankshaft using genuine timing tools.",
+            "**Final testing:** Before refitting, the head is re-pressure-tested to confirm integrity."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We use the same equipment and processes for all Jaguar engine families — from the classic AJ-V8 to the modern Ingenium range."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Cylinder head repair and rebuild starts from £1,200** for 4-cylinder engines, with V6 and V8 work priced from £1,800 and £2,200 respectively.",
+            "Every quote is fixed-price and includes all machining, parts, and labour. We provide a full breakdown before work begins. [View pricing disclaimer →](/pricing-legal-disclaimer)",
+            "[Get your fixed quote](/contact)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our Cylinder Head Work in Progress",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images shown are staged in our workshop using real premises. Completed-job photography coming soon."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Cylinder head repair and rebuild is available for all Jaguar petrol and diesel engines. Below are the most common models we service."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "X-Type",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Also available for F-Type, F-Pace, and E-Pace."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Key variant and engine links",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XJ 5.0 V8 (AJ133)",
+              "href": null
+            },
+            {
+              "label": "XE 2.0d (AJ200D)",
+              "href": null
+            },
+            {
+              "label": "F-Type R (5.0 V8 Supercharged)",
+              "href": null
+            },
+            {
+              "label": "XF 3.0 V6 Supercharged (AJ126)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For a full list of engines and variants, see our [engine compatibility guide](/jaguar-engine-compatibility-and-application-matching)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Cylinder Head Rebuild Process",
+      "steps": [
+        {
+          "title": "Access & Removal",
+          "body": "We gain access to the cylinder head — often without engine removal. All ancillaries, manifolds, and timing components are carefully removed."
+        },
+        {
+          "title": "Strip & Clean",
+          "body": "The head is fully disassembled; all valves, springs, tappets, and camshafts are removed. Components are cleaned in hot solvent washers."
+        },
+        {
+          "title": "Pressure Test & Crack Check",
+          "body": "We pressure-test the bare head and use dye penetrant or Magnaflux to detect any cracks or porosity."
+        },
+        {
+          "title": "Machining",
+          "body": "Skim the deck, cut new valve seats (multi-angle), and replace valve guides using hydraulic presses."
+        },
+        {
+          "title": "Valve Work",
+          "body": "Grind valves, install new stem seals, and assemble the valve train with new springs and retainers."
+        },
+        {
+          "title": "Reassembly & Timing",
+          "body": "Fit new head gaskets, torque new head bolts to specification, and set camshaft timing with genuine tools."
+        },
+        {
+          "title": "Final Testing",
+          "body": "Pressure-test again, then refit the head to the engine and perform a full running test on our dyno."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage for Cylinder Head Work",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**In-house machine shop:** All skimming, valve seat cutting, and guide replacement is done on-site — no outsourcing.",
+            "**Jaguar specialist knowledge:** We work on every Jaguar engine family, from the early AJ-V8 to the latest Ingenium units.",
+            "**Pressure testing on every head:** We test before and after machining to guarantee integrity.",
+            "**12-month unlimited-mileage warranty** on all parts and labour.",
+            "**Fixed-price quotes:** No hidden extras — we provide a complete breakdown before work starts.",
+            "**Established 2009:** Over 15 years of Jaguar engine experience in our Essex workshop."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent Cylinder Head Rebuilds",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Images are staged in our workshop; real completed-job photos will replace these when available."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Cylinder Head Repair Works",
+      "steps": [
+        {
+          "title": "Contact & Inspection",
+          "body": "Call or use our registration lookup to arrange an inspection. We'll assess your engine and provide a fixed-price quote."
+        },
+        {
+          "title": "Booking & Recovery (if needed)",
+          "body": "Book your car in. We offer nationwide recovery to bring your Jaguar to our Essex workshop."
+        },
+        {
+          "title": "Cylinder Head Rebuild",
+          "body": "Our technicians strip, machine, and reassemble the head to factory standards — typically completed within 3–5 days."
+        },
+        {
+          "title": "Refit & Road Test",
+          "body": "The head is refitted, the engine is timed, and we perform a thorough road test before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar V8 Supercharged Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Ingenium Diesel Repair](/jaguar-ingenium-diesel-repair)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Do you repair the cylinder head or replace it?",
+          "a": "We always aim to repair and rebuild the original cylinder head, as it preserves the matching numbers and is often more cost-effective. Replacement is only recommended if the head is beyond economic repair (e.g., severe cracking)."
+        },
+        {
+          "q": "What is included in a cylinder head rebuild?",
+          "a": "A full rebuild includes: strip and clean, pressure testing, crack detection, skimming the deck, cutting or replacing valve seats, fitting new valve guides, grinding valves, fitting new stem seals, and reassembly with new gaskets and head bolts."
+        },
+        {
+          "q": "How long does cylinder head repair take?",
+          "a": "Typically 3–5 working days from drop-off to completion, depending on parts availability and machining requirements. We'll give you a clear timeline when you book."
+        },
+        {
+          "q": "Do you need to remove the engine to do the cylinder head?",
+          "a": "On many Jaguar engines, the head can be removed with the engine in the car. However, some models (e.g., XK, F-Type) may require engine removal for access. We assess this during inspection and quote accordingly."
+        },
+        {
+          "q": "What warranty do you offer on cylinder head work?",
+          "a": "All our cylinder head repairs come with a 12-month unlimited-mileage warranty covering parts and labour. [Full warranty terms here →](/warranty)"
+        }
+      ]
+    }
+  ]
+}

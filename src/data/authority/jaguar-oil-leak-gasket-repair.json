@@ -1,0 +1,279 @@
+{
+  "slug": "jaguar-oil-leak-gasket-repair",
+  "metaTitle": "Jaguar Oil Leak & Gasket Repair | Jaguar Garage",
+  "metaDescription": "Jaguar oil leak and gasket repair specialists. Valve cover, sump, timing cover, and rear main seal replacement. Fixed-price quotes and 12-month warranty.",
+  "h1": "Jaguar Oil Leak & Gasket Repair",
+  "lede": "We identify the specific gasket or seal requiring replacement, drain the engine oil where relevant, and remove components obstructing access — including engine covers, intake manifolds, exhaust components, and in some cases subframe, suspension parts, or exhaust pipes.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec12.webp",
+    "/engine/sec2_price_bg.webp",
+    "/engine/sec9b.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We identify the specific gasket or seal requiring replacement, drain the engine oil where relevant, and remove components obstructing access — including engine covers, intake manifolds, exhaust components, and in some cases subframe, suspension parts, or exhaust pipes."
+        },
+        {
+          "t": "p",
+          "html": "Once access is achieved, we remove the old gasket or seal using scrapers and appropriate tools. The mating surfaces — both the component and the engine block sealing surfaces — are thoroughly cleaned using metal surface cleaner meeting Jaguar specification. Surface preparation is critical to ensure a proper seal."
+        },
+        {
+          "t": "p",
+          "html": "We install the new gasket or seal. For some applications, we apply a specific sealant pattern — for example, a 10 mm dot of silicone gasket sealant meeting Jaguar specification applied to the engine block and front cover mating surface. For cylinder head rear cover gaskets, the sealing bead must face the cylinder head surface and no additional sealant is used."
+        },
+        {
+          "t": "p",
+          "html": "Components are reassembled with bolts torqued to manufacturer specifications in the correct sequence. The engine oil is refilled (where drained), and the engine is run to check for leaks around the repaired area."
+        },
+        {
+          "t": "p",
+          "html": "[Get a quote for your Jaguar oil leak repair →](/contact)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "Rebuilds start from",
+          "paras": [
+            "£2,900",
+            "Fixed-price quote after inspection. [Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Which Jaguar models we cover",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We carry out oil leak and gasket repairs across the full Jaguar range. Below are the key models and engine families we work on — click through to see detailed engine information for each."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar X-Type",
+              "href": null
+            },
+            {
+              "label": "X-Type 2.5 V6",
+              "href": null
+            },
+            {
+              "label": "X-Type 3.0 V6",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar S-Type"
+        },
+        {
+          "t": "p",
+          "html": "Including S-Type 3.0 V6, S-Type 4.2 V8"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XJ"
+        },
+        {
+          "t": "p",
+          "html": "Including XJ 5.0 V8, XJ 5.0 Supercharged"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XK"
+        },
+        {
+          "t": "p",
+          "html": "Including XK 5.0 V8, XKR"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XF"
+        },
+        {
+          "t": "p",
+          "html": "Including XF 5.0 V8, XF 3.0d"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XE"
+        },
+        {
+          "t": "p",
+          "html": "Including XE P250, XE D180"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Type"
+        },
+        {
+          "t": "p",
+          "html": "Including F-Type V6 S, F-Type R"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Pace"
+        },
+        {
+          "t": "p",
+          "html": "Including F-Pace SVR, F-Pace D200"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our oil leak and gasket repair process",
+      "steps": [
+        {
+          "title": "Vehicle arrival & leak tracing",
+          "body": "We visually inspect the engine bay and use UV dye and UV light to trace the exact source of the leak."
+        },
+        {
+          "title": "Component removal for access",
+          "body": "We remove engine covers, intake manifolds, exhaust components, or subframe/suspension parts as required."
+        },
+        {
+          "title": "Old gasket removal & surface preparation",
+          "body": "We remove the old gasket using scrapers, then clean the mating surfaces with metal surface cleaner meeting Jaguar specification."
+        },
+        {
+          "title": "New gasket / seal installation",
+          "body": "We install the new gasket or seal, applying specific sealant patterns where required, and ensure proper seating."
+        },
+        {
+          "title": "Reassembly with correct torque",
+          "body": "Components are reassembled with bolts torqued to manufacturer specifications in the correct sequence."
+        },
+        {
+          "title": "Oil refill, engine run & leak check",
+          "body": "We refill the engine oil, run the engine to operating temperature, and check the repaired area for leaks."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Specialist Jaguar workshop since 2009",
+            "Full leak tracing with UV dye and UV light",
+            "Fixed-price quote after inspection — no hidden costs",
+            "Factory-spec gaskets, seals, and sealants",
+            "Precise torque wrench application in correct sequence",
+            "12-month unlimited-mileage warranty on all repairs",
+            "Nationwide recovery service available",
+            "[Meet our workshop →](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How it works — from arrival to collection",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use our [online quote form](/contact) to tell us about your vehicle."
+        },
+        {
+          "title": "Vehicle recovery",
+          "body": "We arrange nationwide recovery to bring your Jaguar to our workshop."
+        },
+        {
+          "title": "Inspection & quote",
+          "body": "We inspect and trace the leak, then provide a detailed report and fixed-price quote."
+        },
+        {
+          "title": "Repair",
+          "body": "With your approval, we carry out the gasket or seal replacement to factory specification."
+        },
+        {
+          "title": "Collection",
+          "body": "We run the engine to check for leaks, and you collect your Jaguar with a 12-month warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar Nationwide Engine Recovery](/jaguar-nationwide-engine-recovery)",
+            "[Jaguar Engine Teardown & Inspection](/jaguar-engine-inspection-assessment)",
+            "[Jaguar High-Mileage Engine Rebuild](/jaguar-high-mileage-engine-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "What does the oil leak repair process involve?",
+          "a": "We identify the specific gasket or seal requiring replacement, drain the engine oil where relevant, and remove components obstructing access. We then remove the old gasket, clean the mating surfaces, install the new gasket or seal, and reassemble components with bolts torqued to manufacturer specifications. The engine is run to check for leaks."
+        },
+        {
+          "q": "What gaskets and seals do you replace?",
+          "a": "We replace valve cover gaskets, sump/oil pan gaskets, timing cover gaskets, cylinder head rear cover gaskets, front crank seals, and rear main seals. We also address half-moon seals on AJ133/AJ126 engines."
+        },
+        {
+          "q": "How long does the repair take?",
+          "a": "The repair time depends on the specific gasket or seal and the level of access required. Some repairs are relatively straightforward, while others — such as sump gasket replacement — require removing subframe or exhaust components. We provide a clear timeline when we quote the work."
+        },
+        {
+          "q": "Do you provide a warranty on the repair?",
+          "a": "Yes. All our repairs come with a 12-month unlimited-mileage warranty covering parts and labour."
+        },
+        {
+          "q": "Can you recover my vehicle?",
+          "a": "Yes. We offer nationwide recovery for Jaguar vehicles. [Learn more about our recovery service →](/jaguar-nationwide-engine-recovery)"
+        }
+      ]
+    }
+  ]
+}

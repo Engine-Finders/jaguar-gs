@@ -1,0 +1,223 @@
+{
+  "slug": "jaguar-engine-bearing-replacement",
+  "metaTitle": "Jaguar Engine Bearing Replacement | Jaguar Garage",
+  "metaDescription": "Precision engine bearing replacement for Jaguar petrol and diesel engines. Full engine-out strip-down, clearance measurement, and rebuild at our Essex workshop. Get a quote today.",
+  "h1": "Jaguar Engine Bearing Replacement",
+  "lede": "Replacing engine bearings on a Jaguar is a precision engineering task that typically requires complete engine removal and disassembly. Our workshop follows a meticulous process to ensure correct clearances and long-term durability.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec8_top.webp",
+    "/model/sec2.webp",
+    "/variant/sec10_middle_div.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Engine Bearing Replacement Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Replacing engine bearings on a Jaguar is a precision engineering task that typically requires complete engine removal and disassembly. Our workshop follows a meticulous process to ensure correct clearances and long-term durability."
+        },
+        {
+          "t": "p",
+          "html": "The work starts with removing the engine from the vehicle, followed by a full strip-down to access the crankshaft. We remove the cylinder head, sump, oil pump, pistons, and connecting rods. The main bearing caps are unbolted—each cap must be returned to its exact, original position as they were line-bored at the factory. The crankshaft is then lifted out for inspection and cleaning."
+        },
+        {
+          "t": "p",
+          "html": "We measure the running clearance between the new bearing shells and the crankshaft journals using Plastigauge, and verify crankshaft end-float with a dial test indicator. Correct clearance is critical for oil film formation and engine longevity. All bearings are installed with assembly lube, and the engine is reassembled to factory torque specifications. Once rebuilt, the engine undergoes rigorous testing before being refitted."
+        },
+        {
+          "t": "p",
+          "html": "For certain older Jaguar engines, bearing shells may no longer be available from the manufacturer, and aftermarket alternatives may be limited. In some cases, if the bearing saddles are damaged, the crankcase must be line-bored—a specialist machining operation. Our workshop has the equipment and expertise to handle these complexities."
+        },
+        {
+          "t": "p",
+          "html": "For a deeper look at our quality checks during a full rebuild, read our guide: [What We Check On Every Rebuild, Every Time](/guides)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price for Engine Bearing Replacement",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Our fixed-price bearing replacement service starts from:**",
+            "[Pricing disclaimer](/pricing-legal-disclaimer) – final quote provided after inspection."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our bearing replacement service covers a wide range of Jaguar petrol and diesel engines. The complexity varies by model, but we have the expertise to work on all of the following:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XJ",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For specific variants, we also cover high-performance models such as the XJR, XKR, XFR, and F-Type R. The bearing replacement process is the same for all, but each engine family has its own torque specs and clearance requirements."
+        },
+        {
+          "t": "p",
+          "html": "If your engine is not listed, [contact us](/contact) for a compatibility check."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Bearing Replacement Process",
+      "steps": [
+        {
+          "title": "",
+          "body": "We remove the engine from the vehicle and fully disassemble it, taking care to mark every component for exact re-installation."
+        },
+        {
+          "title": "",
+          "body": "We unbolt the main bearing caps in sequence, ensuring each cap is retained for its original position. The crankshaft is then lifted out."
+        },
+        {
+          "title": "",
+          "body": "All components are thoroughly cleaned, and the crankshaft journals are inspected for wear or damage. Swarf is removed from oil galleries."
+        },
+        {
+          "title": "",
+          "body": "Using Plastigauge, we measure the running clearance for each bearing. We also measure crankshaft end-float with a dial test indicator."
+        },
+        {
+          "title": "",
+          "body": "We fit new main bearings, big-end bearings, and thrust washers. Assembly lube is applied, and bearing caps are torqued to factory specs."
+        },
+        {
+          "title": "",
+          "body": "We reassemble the engine, refit it to the vehicle, and conduct a full road test to ensure everything is operating correctly."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist Jaguar workshop** – we work exclusively on Jaguars, so we know every engine family inside out.",
+            "**Precision equipment** – we use Plastigauge, dial indicators, and factory-spec torque tools for accurate measurements.",
+            "**12-month unlimited-mileage warranty** – on all bearing replacement work.",
+            "**No hidden extras** – our fixed-price quote includes all labour, parts, and machining.",
+            "**Engine-out capability** – we have the facilities to remove, strip, and rebuild any Jaguar engine."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – From Enquiry to Collection",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use our online form to describe your vehicle and the issue."
+        },
+        {
+          "title": "Inspection & Quote",
+          "body": "We inspect your engine (we can collect your vehicle if needed) and provide a fixed-price quote."
+        },
+        {
+          "title": "Work begins",
+          "body": "We carry out the bearing replacement using our proven process, keeping you updated throughout."
+        },
+        {
+          "title": "Road test & Handover",
+          "body": "We test the engine thoroughly on the road and hand back your Jaguar with a full warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar V8 Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Cylinder Head Repair & Rebuild](/jaguar-cylinder-head-repair-rebuild)",
+            "[High-Mileage Engine Rebuild](/jaguar-high-mileage-engine-rebuild)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For a full list of our services, visit our [homepage](/)."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is engine bearing replacement?",
+          "a": "It involves removing the engine, stripping it down, and replacing the main bearings, big-end bearings, and thrust washers that support the crankshaft. This is a precision engineering task that requires measuring clearances and torquing to factory specifications."
+        },
+        {
+          "q": "Does my Jaguar engine need to be removed for bearing replacement?",
+          "a": "Yes, for a complete and proper replacement of all main bearings, the engine must be removed from the vehicle. This allows full access to the crankshaft and ensures all tolerances are measured correctly."
+        },
+        {
+          "q": "How long does bearing replacement take?",
+          "a": "The typical turnaround is 3-5 working days, depending on the engine type and any additional machining required (such as line-boring). We will give you a clear timeline when we inspect your vehicle."
+        },
+        {
+          "q": "What is Plastigauge and why is it used?",
+          "a": "Plastigauge is a thin plastic strip that is placed between the bearing and the journal. When the bearing cap is torqued, it flattens; the width of the flattened strip indicates the running clearance. This ensures the bearings are neither too tight nor too loose."
+        },
+        {
+          "q": "Do you offer a warranty on bearing replacement?",
+          "a": "Yes, all our engine bearing replacement work comes with a 12-month unlimited-mileage warranty for your peace of mind. [Full warranty details here](/warranty)."
+        }
+      ]
+    }
+  ]
+}

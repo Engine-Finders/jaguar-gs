@@ -25,16 +25,16 @@
   --color-mb-graphite: #2a2a2a; /* deep graphite — secondary */
   --color-mb-surface: #f8f8f8; /* white / off-white — surface */
   --color-mb-silver: #c0c0c0; /* silver — metallic, glossy stripe accent */
-  --color-mb-gold: #ad875c; /* the brand accent — replaces BMW blue everywhere */
+  --color-mb-gold: #d4d4d4; /* the brand accent — replaces BMW blue everywhere */
 
   /* Same token names as bmw-garage (--color-bmw-*, --color-hero-*) so
      home components are a straight copy-paste — only repointed to gold. */
-  --color-bmw-blue: #ad875c;
-  --color-bmw-blue-dark: #8c6c46;
-  --color-bmw-violet: #ad875c;
-  --color-bmw-red: #ad875c;
-  --color-hero-blue: #ad875c;
-  --color-hero-blue-dark: #8c6c46;
+  --color-bmw-blue: #d4d4d4;
+  --color-bmw-blue-dark: #a3a3a3;
+  --color-bmw-violet: #d4d4d4;
+  --color-bmw-red: #d4d4d4;
+  --color-hero-blue: #d4d4d4;
+  --color-hero-blue-dark: #a3a3a3;
 
   /* Hero background — near-black (not BMW's navy) */
   --color-hero-dark: #0d0d0d;
@@ -45,7 +45,7 @@
 
   /* Alias kept for reusable/ components (Navbar, Footer, RegLookupForm,
      Heading) written before this token consolidation. */
-  --color-hero-gold: #ad875c;
+  --color-hero-gold: #d4d4d4;
 }
 
 @theme inline {

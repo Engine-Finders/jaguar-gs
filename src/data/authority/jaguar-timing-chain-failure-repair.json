@@ -1,0 +1,340 @@
+{
+  "slug": "jaguar-timing-chain-failure-repair",
+  "metaTitle": "Jaguar Timing Chain Failure Repair | Jaguar Garage",
+  "metaDescription": "Professional Jaguar timing chain failure repair – full assessment, strip-down inspection, and remediation by Jaguar specialists. Book an inspection today.",
+  "h1": "Jaguar Timing Chain Failure Repair",
+  "lede": "Professional assessment and remediation for Jaguar timing chain failures — from strip-down inspection to full repair.",
+  "ctas": [
+    {
+      "label": "Get a quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec1.webp",
+    "/engine/sec3.webp",
+    "/engine/sec10_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When a Jaguar timing chain fails, the engine requires a systematic assessment to determine the full scope of work. Our process focuses on what we do — the inspection, strip-down, and remediation — not on why the failure occurred."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "The Assessment",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Full visual inspection** – we remove access panels and inspect the timing chain area, noting any visible issues with guides, tensioners, or chain slack.",
+              "href": null
+            },
+            {
+              "label": "**Controlled strip-down** – we carefully disassemble the timing cover and related components to gain full access to the timing mechanism.",
+              "href": null
+            },
+            {
+              "label": "**Valve and piston inspection** – we check for signs of valve-to-piston contact, which indicates whether the failure has caused internal damage.",
+              "href": null
+            },
+            {
+              "label": "**Salvageability assessment** – we identify which components can be reused and which must be replaced, forming the basis of our repair quote.",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "The Remediation",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "**Full timing system replacement** – we fit a new timing chain, guides, tensioners, and all associated hardware as a complete kit.",
+              "href": null
+            },
+            {
+              "label": "**Component-level repairs** – where damage is found, we repair or replace affected parts such as bent valves or damaged camshaft components.",
+              "href": null
+            },
+            {
+              "label": "**Precision reassembly** – every engine is timed with manufacturer-specified tools to ensure exact alignment and correct operation.",
+              "href": null
+            },
+            {
+              "label": "**Post-repair testing** – every repair is followed by a full road test and diagnostics check to confirm the engine operates correctly.",
+              "href": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Timing chain failure repair starts from:**",
+            "Final cost depends on the extent of damage discovered during inspection. We provide a fixed-price quote after our full assessment. [View pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We repair timing chain failures across these Jaguar models and engine families. Each link goes to the dedicated page for that model or engine."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XJ",
+              "href": null
+            },
+            {
+              "label": "XJR variant →",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XK"
+        },
+        {
+          "t": "p",
+          "html": "X150 (2005–2014) – AJ133 5.0 V8, AJ133S supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "XKR (X150) variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XF"
+        },
+        {
+          "t": "p",
+          "html": "X250 (2007–2015) – AJ133 5.0 V8; AJ133S supercharged V8"
+        },
+        {
+          "t": "p",
+          "html": "XF 5.0 V8 variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Type"
+        },
+        {
+          "t": "p",
+          "html": "X152 (2012–2024) – AJ133 5.0 supercharged V8, AJ126 supercharged V6"
+        },
+        {
+          "t": "p",
+          "html": "F-Type R variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar XE"
+        },
+        {
+          "t": "p",
+          "html": "X760 (2015–2024) – AJ126 supercharged V6 (pre-2019)"
+        },
+        {
+          "t": "p",
+          "html": "XE 3.0 V6 S/SC →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar F-Pace"
+        },
+        {
+          "t": "p",
+          "html": "X761 (2016–2025) – AJ126 supercharged V6"
+        },
+        {
+          "t": "p",
+          "html": "F-Pace P340 variant →"
+        },
+        {
+          "t": "h3",
+          "text": "Jaguar E-Pace"
+        },
+        {
+          "t": "p",
+          "html": "X540 (2017–2024) – Ingenium diesel (AJ200D) timing chain repairs"
+        },
+        {
+          "t": "p",
+          "html": "E-Pace D200 variant →"
+        },
+        {
+          "t": "p",
+          "html": "**Engine families covered:**"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[AJ133 (AJ-V8 Gen III)](/jaguar-aj133-engine) – 5.0 V8 naturally aspirated",
+            "[AJ133S](/jaguar-aj133s-engine) – 5.0 V8 supercharged",
+            "[AJ126](/jaguar-aj126-engine) – 3.0 V6 supercharged",
+            "[AJ200D (Ingenium diesel)](/jaguar-aj200d-engine) – 2.0 I4 diesel",
+            "[AJ26](/jaguar-aj26-engine) / [AJ27](/jaguar-aj27-engine) – X100-era V8 (XK8/XKR)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process — Timing Chain Failure Repair",
+      "steps": [
+        {
+          "title": "Inspection & strip-down",
+          "body": "We gain access to the timing mechanism and perform a full visual inspection."
+        },
+        {
+          "title": "Damage assessment",
+          "body": "We check for valve/piston contact, inspect guides and tensioners, and identify salvageable parts."
+        },
+        {
+          "title": "Quote & approval",
+          "body": "We provide a fixed-price quote based on the inspection findings, with your approval before work begins."
+        },
+        {
+          "title": "Full timing system replacement",
+          "body": "We fit a new timing chain, guides, tensioners, and all associated hardware."
+        },
+        {
+          "title": "Component repairs",
+          "body": "Any damaged valves, camshaft components, or other parts are repaired or replaced."
+        },
+        {
+          "title": "Reassembly & timing",
+          "body": "We reassemble the engine with precise timing calibration using manufacturer tools."
+        },
+        {
+          "title": "Testing & road test",
+          "body": "We run full diagnostics and a road test to confirm correct operation."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Jaguar specialists** – we work exclusively on Jaguar engines, including the AJ133, AJ126, and Ingenium families.",
+            "**Full assessment before any work** – we inspect and quote before we start, so you know the full scope and cost upfront.",
+            "**OEM-quality parts** – we use genuine or equivalent-quality timing components for every repair.",
+            "**12-month unlimited-mileage warranty** – every timing chain repair is backed by our warranty.",
+            "**Nationwide recovery** – we can arrange recovery for your Jaguar if it cannot be driven."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Contact us",
+          "body": "Call, email, or use our quote form to tell us about your Jaguar."
+        },
+        {
+          "title": "Arrange arrival",
+          "body": "We arrange for your vehicle to arrive at our workshop — recovery available if needed."
+        },
+        {
+          "title": "Inspection & quote",
+          "body": "We strip and inspect the engine, then provide a fixed-price quote."
+        },
+        {
+          "title": "Repair completed",
+          "body": "We carry out the repair, test it thoroughly, and return your Jaguar."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair](/jaguar-xk-aj26-aj27-timing-chain-tensioner-repair)",
+            "[Jaguar Ingenium Diesel Repair (AJ200D)](/jaguar-ingenium-diesel-repair)",
+            "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair)",
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Rebuild vs Replacement](/jaguar-engine-rebuild-vs-replacement)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "FAQs — Timing Chain Failure Repair",
+      "items": [
+        {
+          "q": "What does a timing chain failure repair involve?",
+          "a": "The repair process starts with a full inspection and strip-down to assess the extent of damage. This includes checking for valve and piston damage, then replacing the timing chain, guides, tensioners, and any damaged components. The engine is then reassembled with precise timing calibration and road-tested."
+        },
+        {
+          "q": "How long does a timing chain failure repair take?",
+          "a": "The duration depends on the engine type and extent of damage. Most repairs take between 3–5 days in the workshop, with complex V8 repairs potentially taking longer. We provide a clear timeline after the initial inspection."
+        },
+        {
+          "q": "Is it better to repair or replace the engine after timing chain failure?",
+          "a": "In most cases, repairing the timing chain and any associated damage is more cost-effective than a full engine replacement. Our assessment determines whether the engine is viable for repair, and we recommend the most practical option based on the inspection findings."
+        },
+        {
+          "q": "Does the repair come with a warranty?",
+          "a": "Yes, every timing chain repair we carry out is backed by a 12-month unlimited-mileage warranty covering the workmanship and parts supplied."
+        },
+        {
+          "q": "Can you recover my Jaguar if it won't start?",
+          "a": "Yes, we offer nationwide recovery for Jaguar vehicles that cannot be driven. Recovery starts from £70 and can be arranged when you book your repair."
+        }
+      ]
+    }
+  ]
+}

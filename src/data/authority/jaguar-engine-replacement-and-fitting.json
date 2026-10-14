@@ -1,0 +1,207 @@
+{
+  "slug": "jaguar-engine-replacement-and-fitting",
+  "metaTitle": "Jaguar Engine Replacement & Fitting | Jaguar Garage",
+  "metaDescription": "Professional Jaguar engine replacement and fitting service. Full supply & fit for all models. Fixed-price quotes, 12-month warranty. Nationwide coverage.",
+  "h1": "Jaguar Engine Replacement & Fitting",
+  "lede": "Professional replacement and fitting for all Jaguar models – from the X-Type to the F-Type. We supply and fit your replacement engine, with a 12-month unlimited-mileage warranty.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/variant/sec1.webp",
+    "/engine/sec3.webp",
+    "/engine/sec10_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Jaguar Engine Replacement Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We replace a worn or damaged engine with a professionally sourced replacement unit – either a rebuilt, reconditioned, or low-mileage used engine that matches your vehicle's exact specification. Every replacement is supplied and fitted by our Jaguar-specialist technicians at our Billericay workshop."
+        },
+        {
+          "t": "p",
+          "html": "Our service includes full removal of the old engine, preparation and installation of the replacement, all necessary fluids, and thorough road testing before handover. We also take the opportunity to replace ancillary components – such as timing chains, water pumps, and plastic coolant pipes – that are far more accessible with the engine out, giving you extra peace of mind."
+        },
+        {
+          "t": "p",
+          "html": "Read our full guide to [how we decide between rebuild, replacement, or a used engine](/guides)."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price & Quotation",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "Engine replacement costs vary by model and engine type. We provide a fixed-price quote after a thorough inspection.",
+            "[Contact us](/contact) for a personalised estimate. [Learn more about our pricing policy →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "We replace engines across the full Jaguar range. Below are the model pages and some of the most common variants we work on – click through to see detailed information for your model."
+        },
+        {
+          "t": "p",
+          "html": "Need a different variant? [Contact us](/contact) with your registration and we'll match it."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Replacement Process – Step by Step",
+      "steps": [
+        {
+          "title": "",
+          "body": "We position your Jaguar in our workshop and confirm the exact replacement engine specification against your VIN and engine code."
+        },
+        {
+          "title": "",
+          "body": "All electrical connectors, coolant hoses, fuel lines, and exhaust components are carefully disconnected and labelled for reassembly."
+        },
+        {
+          "title": "",
+          "body": "Using an engine hoist (or subframe drop where required), we remove the old engine from the vehicle – a process tailored to each Jaguar model."
+        },
+        {
+          "title": "",
+          "body": "We mount the replacement engine on a stand, transfer any needed ancillaries (alternator, sensors, manifolds), and install upgraded parts (timing chains, water pumps) while access is easy."
+        },
+        {
+          "title": "",
+          "body": "The replacement engine is carefully lowered into the bay, all mounts are secured, and every electrical and fluid line is reconnected to factory specifications."
+        },
+        {
+          "title": "",
+          "body": "Engine oil and coolant are filled, and the cooling system is bled using Jaguar-specific procedures to prevent airlocks."
+        },
+        {
+          "title": "",
+          "body": "We perform ECU coding and security synchronisation using JLR SDD/Pathfinder, and run electronic throttle adaptation. Full road testing follows."
+        },
+        {
+          "title": "",
+          "body": "Your Jaguar is returned with a detailed summary of the work and a 12-month unlimited-mileage warranty on the replacement."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage for Your Engine Replacement",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist Jaguar knowledge** – we know the intricacies of every Jaguar engine, from the X-Type to the F-Type.",
+            "**Fixed-price quotes** – no hidden surprises; we quote after a thorough inspection.",
+            "**12-month unlimited-mileage warranty** – your replacement engine is covered for peace of mind.",
+            "**Nationwide recovery** – we can collect your vehicle from anywhere in the UK.",
+            "**State-of-the-art workshop** – equipped with JLR SDD/Pathfinder diagnostics and all necessary specialist tools.",
+            "**Upgraded parts installed while the engine is out** – saving you labour costs later."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop and team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Engine Replacement Service Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Call or [request a quote online](/contact) – we'll discuss your vehicle and arrange an inspection."
+        },
+        {
+          "title": "",
+          "body": "Bring your Jaguar to our Billericay workshop (or we'll collect it) for a thorough assessment and fixed-price quote."
+        },
+        {
+          "title": "",
+          "body": "We source the correct replacement engine and carry out the replacement to our high standards."
+        },
+        {
+          "title": "",
+          "body": "We test, provide warranty documentation, and hand your Jaguar back ready for the road."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Supply & Fit](/jaguar-engine-supply-fit)",
+            "[Jaguar Engine Removal, Refit & Final Testing](/jaguar-engine-replacement-and-fitting)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Nationwide Engine Recovery](/jaguar-nationwide-engine-recovery)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a Jaguar engine replacement take?",
+          "a": "Once the replacement engine is on site and work begins, we typically complete the job within 1–3 working days. Sourcing the correct engine can add a few days, so we advise allowing 1–2 weeks from initial enquiry to handover."
+        },
+        {
+          "q": "Do you supply the replacement engine, or do I need to find one?",
+          "a": "We supply and fit the replacement engine as a complete service. We source the correct unit for your Jaguar – whether a rebuilt, reconditioned, or low-mileage used engine – to match your exact specification."
+        },
+        {
+          "q": "What warranty do you offer on a replacement engine?",
+          "a": "All our engine replacements come with a 12-month unlimited-mileage warranty covering parts and labour for the replacement engine itself. Full terms are provided at handover."
+        },
+        {
+          "q": "Can I upgrade my engine to a more powerful variant?",
+          "a": "In many cases, yes. We can advise on compatible performance upgrades – for example, fitting a supercharged V8 in place of a naturally aspirated one – subject to ECU coding and compatibility. Contact us to discuss your options."
+        },
+        {
+          "q": "Do you offer collection and delivery?",
+          "a": "Yes, our nationwide recovery service can collect your Jaguar from anywhere in the UK and return it to you once the work is complete. This is available as part of our engine replacement service."
+        }
+      ]
+    }
+  ]
+}

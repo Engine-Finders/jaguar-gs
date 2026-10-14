@@ -1,0 +1,310 @@
+{
+  "slug": "jaguar-engine-machining-and-rebuild-preparation",
+  "metaTitle": "Jaguar Engine Machining & Rebuild Preparation | Jaguar Garage",
+  "metaDescription": "Precision engine machining for Jaguar AJ-series engines. Cylinder boring, honing, crankshaft grinding, and block preparation at our Essex workshop. Get a quote.",
+  "h1": "Jaguar Engine Machining & Rebuild Preparation",
+  "lede": "Precision cylinder boring, honing, crankshaft grinding, and block preparation — all performed in-house at our Essex workshop. Part of every Jaguar engine rebuild we undertake.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec10_top.webp",
+    "/model/sec12.webp",
+    "/engine/sec2_price_bg.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Engine Machining Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Engine machining is the precision workshop phase that prepares cylinder blocks, cylinder heads, crankshafts, and connecting rods to exact factory tolerances before reassembly. At Jaguar Garage, all machining is carried out on-site using specialist equipment, ensuring every component meets the specific requirements of your Jaguar engine."
+        },
+        {
+          "t": "p",
+          "html": "Our machining services include:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Cylinder boring** — enlarging worn cylinders to the next oversize dimension",
+            "**Cylinder honing** — finishing bores to the correct diameter and surface finish for piston rings",
+            "**Crankshaft grinding** — reconditioning journals to the next undersize bearing dimension",
+            "**Block decking** — resurfacing the top of the block to ensure a perfect head gasket seal",
+            "**Main bearing align honing** — ensuring the crankshaft tunnel is perfectly aligned",
+            "**Connecting rod reconditioning** — resizing and fitting new bushings",
+            "**Cylinder head surfacing** — decking and valve seat cutting"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Every machined component is measured and verified before reassembly, using precision micrometers, bore gauges, and dial indicators."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Machining Pricing",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Machining costs are included in our fixed-price engine rebuild quotes.**",
+            "Full rebuilds start from **£1,900** for 4-cylinder Jaguar engines. For a machining-only quotation, or to discuss a specific component, [contact us directly](/contact).",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Jaguar Models We Machine",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our machining services are available for all Jaguar engines, with particular expertise in the following models and engine families:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XJ",
+              "href": null
+            },
+            {
+              "label": "XJ8 (AJ-V8)",
+              "href": null
+            },
+            {
+              "label": "XJ 5.0 V8 (AJ133)",
+              "href": null
+            },
+            {
+              "label": "XJ 3.0 V6 (AJ126)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XK",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XK8 (AJ-V8)",
+              "href": null
+            },
+            {
+              "label": "XK 5.0 V8 (AJ133)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XF",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XF 5.0 V8 (AJ133)",
+              "href": null
+            },
+            {
+              "label": "XF 3.0 V6 S (AJ126)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Type",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "F-Type R (AJ133 V8)",
+              "href": null
+            },
+            {
+              "label": "F-Type V6 S (AJ126)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XE",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "XE 3.0 V6 S (AJ126)",
+              "href": null
+            },
+            {
+              "label": "XE 2.0d (Ingenium)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Pace",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "F-Pace SVR (AJ133 V8)",
+              "href": null
+            },
+            {
+              "label": "F-Pace P340 (AJ126 V6)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "For any other Jaguar model not listed, please [contact us](/contact) to discuss your requirements."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Machining Process",
+      "steps": [
+        {
+          "title": "Inspection & Cleaning",
+          "body": "All components are thoroughly cleaned and measured to establish baseline dimensions."
+        },
+        {
+          "title": "Cylinder Boring",
+          "body": "Worn cylinders are bored to the next oversize using a dedicated boring machine."
+        },
+        {
+          "title": "Cylinder Honing",
+          "body": "Bores are honed to the final diameter with a cross-hatch finish for ring seating."
+        },
+        {
+          "title": "Crankshaft Grinding",
+          "body": "Journals are ground to the next undersize bearing dimension."
+        },
+        {
+          "title": "Block & Head Decking",
+          "body": "Surfaces are resurfaced to ensure a perfect seal for head gaskets."
+        },
+        {
+          "title": "Final Measurement",
+          "body": "All components are re-measured and verified against factory specifications."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage for Engine Machining",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**On-site machining** — all work carried out in-house, no outsourcing, full control over quality",
+            "**Jaguar-specific expertise** — experienced with AJ-series, Ingenium, and earlier V8/V6 engines",
+            "**Precision equipment** — Berco boring and honing machines, crankshaft grinders, surface mills",
+            "**12-month unlimited-mileage warranty** — on all rebuilds and machining work",
+            "**Full measurement and traceability** — every clearance recorded and checked",
+            "[Learn more about our workshop](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Engine Machining Fits Into a Full Rebuild",
+      "steps": [
+        {
+          "title": "",
+          "body": "Engine arrives at our workshop — we perform an initial inspection and quote."
+        },
+        {
+          "title": "",
+          "body": "Full strip-down, cleaning, and measurement of all components."
+        },
+        {
+          "title": "",
+          "body": "Machining carried out to restore dimensions and surfaces to factory specifications."
+        },
+        {
+          "title": "",
+          "body": "Final inspection, assembly, and testing — then back in your Jaguar."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar V8 Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Engine Rebuild Process](/jaguar-engine-rebuild)",
+            "[Jaguar High-Mileage Engine Rebuild](/jaguar-high-mileage-engine-rebuild)",
+            "[Jaguar Cylinder Head Repair & Rebuild](/jaguar-cylinder-head-repair-rebuild)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is engine machining?",
+          "a": "Engine machining is the precision workshop process of restoring cylinder blocks, cylinder heads, crankshafts, and other components to factory specification after wear or damage. It includes boring, honing, grinding, and decking — all performed using specialist machinery to exact tolerances."
+        },
+        {
+          "q": "How long does engine machining take?",
+          "a": "Typical machining times vary depending on the extent of work required. For a straightforward cylinder bore and hone on a V8 block, expect 2-3 working days. Full machining for a complete rebuild may take 5-10 working days. We'll give you a clear timeline when we quote."
+        },
+        {
+          "q": "Do you machine Nikasil-lined Jaguar blocks?",
+          "a": "Yes. Early AJ-V8 engines with Nikasil liners require a different approach — we assess each block individually and advise on the best machining strategy (e.g. re-lining or oversize pistons) based on condition and available parts."
+        },
+        {
+          "q": "Can you machine an engine that is still in the car?",
+          "a": "No. The engine must be removed and stripped down for machining. All our machining work is carried out on components that have been fully cleaned and inspected on the bench."
+        },
+        {
+          "q": "Do you offer a warranty on machining work?",
+          "a": "Yes. All machining and rebuild work is covered by our standard 12-month unlimited-mileage warranty, giving you peace of mind."
+        }
+      ]
+    }
+  ]
+}

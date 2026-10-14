@@ -1,5 +1,310 @@
 [
   {
+    "type": "authority",
+    "slug": "jaguar-cylinder-head-repair-rebuild",
+    "title": "Jaguar Cylinder Head Repair & Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-bearing-replacement",
+    "title": "Jaguar Engine Bearing Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-compatibility-and-application-matching",
+    "title": "Jaguar Engine Compatibility & Application Matching"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-failure-repair",
+    "title": "Jaguar Engine Failure Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-inspection-assessment",
+    "title": "Jaguar Engine Inspection & Assessment"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-machining-and-rebuild-preparation",
+    "title": "Jaguar Engine Machining & Rebuild Preparation"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-matching-by-registration-and-vin",
+    "title": "Jaguar Engine Matching by Registration & VIN"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild",
+    "title": "Jaguar Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild-vs-reconditioned",
+    "title": "Jaguar Engine Rebuild vs Reconditioned"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild-vs-replacement",
+    "title": "Jaguar Engine Rebuild vs Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-rebuild-vs-used-engine",
+    "title": "Jaguar Engine Rebuild vs Used Engine"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-repair-vs-full-rebuild",
+    "title": "Jaguar Engine Repair vs Full Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-replacement",
+    "title": "Jaguar Engine Replacement"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-replacement-and-fitting",
+    "title": "Jaguar Engine Replacement & Fitting"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-engine-supply-fit",
+    "title": "Jaguar Engine Supply & Fit"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-failed-previous-rebuild-remediation",
+    "title": "Jaguar Failed Previous Rebuild Remediation"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-high-mileage-engine-rebuild",
+    "title": "Jaguar High-Mileage Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-ingenium-diesel-repair",
+    "title": "Jaguar Ingenium Diesel Repair (AJ200D)"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-nationwide-engine-recovery",
+    "title": "Jaguar Nationwide Engine Recovery"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-oil-leak-gasket-repair",
+    "title": "Jaguar Oil Leak & Gasket Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-r-svr-performance-engine-rebuild",
+    "title": "Jaguar R/SVR Performance Engine Rebuild"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-rebuild-vs-remanufactured-engine",
+    "title": "Jaguar Rebuild vs Remanufactured Engine"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-supercharger-turbo-repair",
+    "title": "Jaguar Supercharger & Turbo Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-timing-chain-failure-repair",
+    "title": "Jaguar Timing Chain Failure Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-v6-ignition-coil-timing-repair",
+    "title": "Jaguar V6 Ignition Coil & Timing Repair"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-v8-supercharged-timing-chain-repair",
+    "title": "Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)"
+  },
+  {
+    "type": "authority",
+    "slug": "jaguar-xk-aj26-aj27-timing-chain-tensioner-repair",
+    "title": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair"
+  },
+  {
+    "type": "core",
+    "slug": "about",
+    "title": "Jaguar About"
+  },
+  {
+    "type": "core",
+    "slug": "contact",
+    "title": "Jaguar Contact"
+  },
+  {
+    "type": "core",
+    "slug": "financing",
+    "title": "Jaguar Financing"
+  },
+  {
+    "type": "core",
+    "slug": "pricing-legal-disclaimer",
+    "title": "Jaguar Pricing Legal Disclaimer"
+  },
+  {
+    "type": "core",
+    "slug": "privacy-policy",
+    "title": "Jaguar Privacy Policy"
+  },
+  {
+    "type": "core",
+    "slug": "terms-and-conditions",
+    "title": "Jaguar Terms AND Conditions"
+  },
+  {
+    "type": "core",
+    "slug": "warranty",
+    "title": "Jaguar Warranty"
+  },
+  {
+    "type": "directory",
+    "slug": "engines",
+    "title": "Jaguar Engines"
+  },
+  {
+    "type": "directory",
+    "slug": "models",
+    "title": "Jaguar Models"
+  },
+  {
+    "type": "directory",
+    "slug": "variants",
+    "title": "Jaguar Variants"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj-v6-engine",
+    "title": "Jaguar AJ V6"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj-v8-engine",
+    "title": "Jaguar AJ V8"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj126-engine",
+    "title": "Jaguar Aj126"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj133-aj-v8-gen-iii-engine",
+    "title": "Jaguar Aj133 AJ V8 GEN III"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj133-engine",
+    "title": "Jaguar Aj133"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj133s-engine",
+    "title": "Jaguar Aj133s"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj150-1-5-i3-engine",
+    "title": "Jaguar Aj150 1 5 I3"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj16-engine",
+    "title": "Jaguar Aj16"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj20-engine",
+    "title": "Jaguar Aj20"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj200-engine",
+    "title": "Jaguar Aj200"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj200d-engine",
+    "title": "Jaguar Aj200d"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj200p-engine",
+    "title": "Jaguar Aj200p"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj25-engine",
+    "title": "Jaguar Aj25"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj26-engine",
+    "title": "Jaguar Aj26"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj27-engine",
+    "title": "Jaguar Aj27"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj30-engine",
+    "title": "Jaguar Aj30"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj300d-engine",
+    "title": "Jaguar Aj300d"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj300p-engine",
+    "title": "Jaguar Aj300p"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj34-engine",
+    "title": "Jaguar Aj34"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-aj34s-engine",
+    "title": "Jaguar Aj34s"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-ajd-v6-engine",
+    "title": "Jaguar AJD V6"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-ford-duratorq-engine",
+    "title": "Jaguar Ford Duratorq"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-ford-ecoboost-engine",
+    "title": "Jaguar Ford Ecoboost"
+  },
+  {
+    "type": "engine",
+    "slug": "jaguar-zsd-420-engine",
+    "title": "Jaguar ZSD 420"
+  },
+  {
     "type": "model",
     "slug": "jaguar-e-pace-engines",
     "title": "Jaguar E Pace"
@@ -408,310 +713,5 @@
     "type": "variant",
     "slug": "jaguar-xkr-x150-engines",
     "title": "Jaguar XKR X150"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj-v6-engine",
-    "title": "Jaguar AJ V6"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj-v8-engine",
-    "title": "Jaguar AJ V8"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj126-engine",
-    "title": "Jaguar Aj126"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj133-engine",
-    "title": "Jaguar Aj133"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj133-aj-v8-gen-iii-engine",
-    "title": "Jaguar Aj133 AJ V8 GEN III"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj133s-engine",
-    "title": "Jaguar Aj133s"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj150-1-5-i3-engine",
-    "title": "Jaguar Aj150 1 5 I3"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj16-engine",
-    "title": "Jaguar Aj16"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj20-engine",
-    "title": "Jaguar Aj20"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj200-engine",
-    "title": "Jaguar Aj200"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj200d-engine",
-    "title": "Jaguar Aj200d"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj200p-engine",
-    "title": "Jaguar Aj200p"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj25-engine",
-    "title": "Jaguar Aj25"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj26-engine",
-    "title": "Jaguar Aj26"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj27-engine",
-    "title": "Jaguar Aj27"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj30-engine",
-    "title": "Jaguar Aj30"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj300d-engine",
-    "title": "Jaguar Aj300d"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj300p-engine",
-    "title": "Jaguar Aj300p"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj34-engine",
-    "title": "Jaguar Aj34"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-aj34s-engine",
-    "title": "Jaguar Aj34s"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-ajd-v6-engine",
-    "title": "Jaguar AJD V6"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-ford-duratorq-engine",
-    "title": "Jaguar Ford Duratorq"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-ford-ecoboost-engine",
-    "title": "Jaguar Ford Ecoboost"
-  },
-  {
-    "type": "engine",
-    "slug": "jaguar-zsd-420-engine",
-    "title": "Jaguar ZSD 420"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-cylinder-head-repair-rebuild",
-    "title": "Jaguar Cylinder Head Repair & Rebuild"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-bearing-replacement",
-    "title": "Jaguar Engine Bearing Replacement"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-compatibility-and-application-matching",
-    "title": "Jaguar Engine Compatibility & Application Matching"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-failure-repair",
-    "title": "Jaguar Engine Failure Repair"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-inspection-assessment",
-    "title": "Jaguar Engine Inspection & Assessment"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-machining-and-rebuild-preparation",
-    "title": "Jaguar Engine Machining & Rebuild Preparation"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-matching-by-registration-and-vin",
-    "title": "Jaguar Engine Matching by Registration & VIN"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-rebuild",
-    "title": "Jaguar Engine Rebuild"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-rebuild-vs-reconditioned",
-    "title": "Jaguar Engine Rebuild vs Reconditioned"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-rebuild-vs-replacement",
-    "title": "Jaguar Engine Rebuild vs Replacement"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-rebuild-vs-used-engine",
-    "title": "Jaguar Engine Rebuild vs Used Engine"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-repair-vs-full-rebuild",
-    "title": "Jaguar Engine Repair vs Full Rebuild"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-replacement",
-    "title": "Jaguar Engine Replacement"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-replacement-and-fitting",
-    "title": "Jaguar Engine Replacement & Fitting"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-engine-supply-fit",
-    "title": "Jaguar Engine Supply & Fit"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-failed-previous-rebuild-remediation",
-    "title": "Jaguar Failed Previous Rebuild Remediation"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-high-mileage-engine-rebuild",
-    "title": "Jaguar High-Mileage Engine Rebuild"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-ingenium-diesel-repair",
-    "title": "Jaguar Ingenium Diesel Repair (AJ200D)"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-nationwide-engine-recovery",
-    "title": "Jaguar Nationwide Engine Recovery"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-oil-leak-gasket-repair",
-    "title": "Jaguar Oil Leak & Gasket Repair"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-r-svr-performance-engine-rebuild",
-    "title": "Jaguar R/SVR Performance Engine Rebuild"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-rebuild-vs-remanufactured-engine",
-    "title": "Jaguar Rebuild vs Remanufactured Engine"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-supercharger-turbo-repair",
-    "title": "Jaguar Supercharger & Turbo Repair"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-timing-chain-failure-repair",
-    "title": "Jaguar Timing Chain Failure Repair"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-v6-ignition-coil-timing-repair",
-    "title": "Jaguar V6 Ignition Coil & Timing Repair"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-v8-supercharged-timing-chain-repair",
-    "title": "Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)"
-  },
-  {
-    "type": "authority",
-    "slug": "jaguar-xk-aj26-aj27-timing-chain-tensioner-repair",
-    "title": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair"
-  },
-  {
-    "type": "core",
-    "slug": "about",
-    "title": "Jaguar About"
-  },
-  {
-    "type": "core",
-    "slug": "contact",
-    "title": "Jaguar Contact"
-  },
-  {
-    "type": "core",
-    "slug": "financing",
-    "title": "Jaguar Financing"
-  },
-  {
-    "type": "core",
-    "slug": "warranty",
-    "title": "Jaguar Warranty"
-  },
-  {
-    "type": "core",
-    "slug": "privacy-policy",
-    "title": "Jaguar Privacy Policy"
-  },
-  {
-    "type": "core",
-    "slug": "terms-and-conditions",
-    "title": "Jaguar Terms AND Conditions"
-  },
-  {
-    "type": "core",
-    "slug": "pricing-legal-disclaimer",
-    "title": "Jaguar Pricing Legal Disclaimer"
-  },
-  {
-    "type": "directory",
-    "slug": "models",
-    "title": "Jaguar Models"
-  },
-  {
-    "type": "directory",
-    "slug": "variants",
-    "title": "Jaguar Variants"
-  },
-  {
-    "type": "directory",
-    "slug": "engines",
-    "title": "Jaguar Engines"
   }
 ]

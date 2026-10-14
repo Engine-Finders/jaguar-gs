@@ -1,0 +1,241 @@
+{
+  "slug": "jaguar-engine-rebuild",
+  "metaTitle": "Jaguar Engine Rebuild | Jaguar Garage",
+  "metaDescription": "Professional Jaguar engine rebuilds performed in our Essex workshop. Full strip-down, precision machining, reassembly and testing. Fixed-price quotes available.",
+  "h1": "Jaguar Engine Rebuild",
+  "lede": "Full strip-down, precision machining, reassembly and testing — performed in our Essex workshop by our specialist team.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/contact"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec8_bottom.webp",
+    "/model/sec5.webp",
+    "/variant/sec13.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What Our Jaguar Engine Rebuild Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "A professional Jaguar engine rebuild is a complete overhaul of your engine assembly, bringing it back to factory tolerances and performance. At Jaguar Garage, we follow a systematic process from arrival through to tested completion. This service covers every component: the cylinder block, crankshaft, connecting rods, pistons, cylinder heads, timing components, and all associated gaskets and seals."
+        },
+        {
+          "t": "p",
+          "html": "Our workshop is equipped with the specialist machinery required for accurate machining — including boring bars, honing machines, align-honing equipment, and crankshaft grinding tools — and we maintain a full set of Jaguar-specific timing tooling for every engine family from the classic AJ6 through to the modern Ingenium and AJ133 series."
+        },
+        {
+          "t": "p",
+          "html": "[Learn more about our workshop facilities →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "Fixed-Price Jaguar Engine Rebuilds",
+          "paras": [
+            "**Starting from:**",
+            "Prices are for a full rebuild including strip-down, machining, reassembly, and testing. [Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Jaguar Models We Rebuild",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our engine rebuild service covers the full range of Jaguar petrol and diesel powerplants, from the X-Type through to the latest F-Pace and F-Type models. Below are the key models we regularly rebuild:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar X-Type",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Common Variants We Rebuild",
+            "href": null
+          },
+          "chips": [
+            {
+              "label": "Jaguar XE 2.0d (Ingenium)",
+              "href": null
+            },
+            {
+              "label": "Jaguar XF 5.0 V8 (AJ133)",
+              "href": null
+            },
+            {
+              "label": "Jaguar F-Type R (5.0 Supercharged V8)",
+              "href": null
+            },
+            {
+              "label": "Jaguar X-Type 2.0d (ZSD)",
+              "href": null
+            },
+            {
+              "label": "Jaguar XJ 5.0 V8 (AJ133)",
+              "href": null
+            },
+            {
+              "label": "Jaguar F-Pace D200 (Ingenium)",
+              "href": null
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Full engine compatibility matching →](/jaguar-engine-compatibility-and-application-matching)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Engine Rebuild Process",
+      "steps": [
+        {
+          "title": "Arrival & Assessment",
+          "body": "Your Jaguar arrives at our Essex workshop. We perform initial diagnostics and compression tests to establish a baseline before removal."
+        },
+        {
+          "title": "Strip-Down",
+          "body": "The engine is removed and fully dismantled. Every component is catalogued, cleaned, and inspected for wear and damage."
+        },
+        {
+          "title": "Cleaning & Machining",
+          "body": "Block, heads and crankshaft are machined to factory tolerances — boring, honing, surfacing and grinding as required."
+        },
+        {
+          "title": "Parts Replacement",
+          "body": "All bearings, piston rings, gaskets, seals and timing components are replaced with OEM-specification parts."
+        },
+        {
+          "title": "Reassembly",
+          "body": "The engine is reassembled with exact torque settings and clearances, using Jaguar-specific timing tooling where required."
+        },
+        {
+          "title": "Testing & Handover",
+          "body": "Every rebuilt engine is tested for compression, leak integrity and function before refit, followed by a road test."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Established 2009** — Over 15 years of specialist Jaguar engine experience.",
+            "**Real Essex workshop** — Purpose-built facilities with full machine shop capabilities.",
+            "**12-month unlimited-mileage warranty** — On every rebuild we complete.",
+            "**Fixed-price quotes** — No hidden charges, quoted after full inspection.",
+            "**Jaguar-specialist tooling** — We maintain the correct timing tools and equipment for every Jaguar engine family.",
+            "**Nationwide engine recovery** — We can collect your Jaguar from anywhere in the UK."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our workshop team →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How to Book Your Jaguar Engine Rebuild",
+      "steps": [
+        {
+          "title": "",
+          "body": "**Contact us** — Call, email or use our online quote form."
+        },
+        {
+          "title": "",
+          "body": "**Inspection & quote** — We assess your engine and provide a fixed-price rebuild quote."
+        },
+        {
+          "title": "",
+          "body": "**Work begins** — Strip-down, machining, parts replacement and reassembly."
+        },
+        {
+          "title": "",
+          "body": "**Testing & collection** — Your rebuilt engine is tested, refitted and road-tested before collection."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Jaguar Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar V8 Timing Chain Repair (AJ133 / AJ126)](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar Ingenium Diesel Repair (AJ200D)](/jaguar-ingenium-diesel-repair)",
+            "[Inside Our Workshop](/about)",
+            "[Nationwide Engine Recovery](/jaguar-nationwide-engine-recovery)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a Jaguar engine rebuild take?",
+          "a": "A typical rebuild takes between 10 and 15 working days from arrival to collection. This includes strip-down, machining, parts sourcing, reassembly and testing. If additional machining is required (such as line boring or crankshaft grinding), the timeline may extend slightly — we keep you updated at every stage."
+        },
+        {
+          "q": "Do you offer a warranty on your engine rebuilds?",
+          "a": "Yes, every Jaguar engine rebuild we complete carries a 12-month unlimited-mileage warranty covering parts and labour for the rebuild work performed. Full warranty terms are provided with your final invoice. [Read our warranty terms →](/warranty)"
+        },
+        {
+          "q": "Do you rebuild all Jaguar engine types?",
+          "a": "Yes. We rebuild the full range of Jaguar petrol and diesel engines, from the early AJ6 and ZSD diesels through to the modern Ingenium (AJ200/AJ200D) family, AJ-V8 Gen III (AJ133), AJ126 supercharged V6, and the older AJ-V6 and AJ-V8 units found in X-Type, S-Type, XJ, XK, XE, XF, F-Type, F-Pace and E-Pace models."
+        },
+        {
+          "q": "Can you collect my Jaguar if it's not drivable?",
+          "a": "Yes, we offer nationwide engine recovery. If your Jaguar is immobile, we can arrange collection from anywhere in the UK, bring it to our Essex workshop for the rebuild, and return it to you once completed. [Learn about our recovery service →](/jaguar-nationwide-engine-recovery)"
+        },
+        {
+          "q": "What is included in a fixed-price engine rebuild quote?",
+          "a": "Our fixed-price quote covers full strip-down, inspection, machining, replacement of all bearings, piston rings, gaskets, seals, timing components, reassembly, testing and refit. It does not cover unforeseen additional damage discovered during strip-down (e.g. cracked block, damaged cylinder head) — we always agree any additional work with you before proceeding."
+        }
+      ]
+    }
+  ]
+}

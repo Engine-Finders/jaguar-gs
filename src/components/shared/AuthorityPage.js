@@ -11,7 +11,7 @@ function inline(text, keyBase) {
     if (m.index > last) nodes.push(text.slice(last, m.index));
     if (m[1] !== undefined) {
       nodes.push(
-        <strong key={`${keyBase}-b${i}`} className="font-semibold text-[#101828]">
+        <strong key={`${keyBase}-b${i}`} className="font-semibold text-[#111111]">
           {m[1]}
         </strong>
       );
@@ -43,14 +43,14 @@ function inline(text, keyBase) {
   return nodes;
 }
 
-/* offset gold frame around an image — the "fancy touch", kept cheap */
+/* offset silver frame around an image — the "fancy touch", kept cheap */
 function FramedImage({ src, alt, className = "" }) {
   return (
     <div className={`relative ${className}`}>
       <div className="absolute -inset-3 -z-10 rounded-2xl border border-hero-blue/40" aria-hidden="true" />
       <div
         className="absolute -inset-3 -z-10 rounded-2xl"
-        style={{ background: "linear-gradient(135deg, rgba(173,135,92,0.18), transparent 60%)" }}
+        style={{ background: "linear-gradient(135deg, rgba(150,154,160,0.22), transparent 60%)" }}
         aria-hidden="true"
       />
       <div className="relative aspect-4/3 overflow-hidden rounded-xl">
@@ -66,14 +66,14 @@ function FramedImage({ src, alt, className = "" }) {
 
 function ImageBand({ src, alt, kicker, title, cta }) {
   return (
-    <section className="relative overflow-hidden">
+    <section className="theme-dark relative overflow-hidden">
       <div className="relative h-[220px] w-full sm:h-[260px]">
         <Image src={src} alt={alt} fill className="object-cover" sizes="100vw" />
         <div
           className="absolute inset-0"
           style={{
             background:
-              "linear-gradient(90deg, rgba(10,10,10,0.9) 0%, rgba(10,10,10,0.6) 45%, rgba(173,135,92,0.25) 100%)",
+              "linear-gradient(90deg, rgba(10,10,10,0.9) 0%, rgba(10,10,10,0.6) 45%, rgba(150,154,160,0.2) 100%)",
           }}
         />
       </div>
@@ -89,7 +89,7 @@ function ImageBand({ src, alt, kicker, title, cta }) {
           {cta ? (
             <Link
               href={cta.href}
-              className="mt-5 inline-block rounded-md bg-hero-blue px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition-transform hover:scale-[1.03]"
+              className="btn-chrome mt-5 inline-block rounded-md px-6 py-3 text-sm font-bold uppercase tracking-wide transition-transform hover:scale-[1.03]"
             >
               {cta.label}
             </Link>
@@ -106,7 +106,7 @@ function Blocks({ blocks }) {
       {(blocks || []).map((b, i) => {
         if (b.t === "h3") {
           return (
-            <h3 key={i} className="mt-8 text-lg font-bold text-[#101828]">
+            <h3 key={i} className="mt-8 text-lg font-bold text-[#111111]">
               {inline(b.text, `h3-${i}`)}
             </h3>
           );
@@ -114,7 +114,7 @@ function Blocks({ blocks }) {
         if (b.t === "modelgroup") {
           return (
             <div key={i} className="flex flex-wrap items-baseline gap-x-3 gap-y-2 border-t border-black/10 py-3 first:border-t-0 first:pt-0">
-              <p className="shrink-0 text-sm font-bold text-[#101828]">
+              <p className="shrink-0 text-sm font-bold text-[#111111]">
                 {b.model.href ? (
                   <Link href={b.model.href} className="hover:text-hero-blue">
                     {b.model.label}
@@ -129,7 +129,7 @@ function Blocks({ blocks }) {
                     <Link
                       key={j}
                       href={c.href}
-                      className="rounded-full border border-black/10 bg-white px-2.5 py-1 text-xs text-[#101828] transition-colors hover:border-hero-blue/50 hover:text-hero-blue"
+                      className="rounded-full border border-black/10 bg-white px-2.5 py-1 text-xs text-[#111111] transition-colors hover:border-hero-blue/50 hover:text-hero-blue"
                     >
                       {c.label}
                     </Link>
@@ -148,11 +148,11 @@ function Blocks({ blocks }) {
             <div
               key={i}
               className="card-glare relative overflow-hidden rounded-2xl border border-hero-blue/30 bg-white p-5"
-              style={{ boxShadow: "0 16px 40px -18px rgba(173,135,92,0.4)" }}
+              style={{ boxShadow: "0 16px 40px -18px rgba(0,0,0,0.25)" }}
             >
               <span className="absolute left-0 top-0 h-full w-1 bg-hero-blue" aria-hidden="true" />
               {b.heading ? (
-                <p className="text-sm font-extrabold uppercase tracking-wide text-[#101828]">{b.heading}</p>
+                <p className="text-sm font-extrabold uppercase tracking-wide text-[#111111]">{b.heading}</p>
               ) : null}
               {(b.paras || []).map((p, j) => (
                 <p key={j} className="mt-2 text-sm leading-relaxed text-[#4a5568]">
@@ -170,7 +170,7 @@ function Blocks({ blocks }) {
                   <li key={j}>
                     <Link
                       href={it.href}
-                      className="block rounded-lg border border-black/10 bg-white px-3 py-2 text-sm text-[#101828] transition-colors hover:border-hero-blue/50 hover:text-hero-blue"
+                      className="block rounded-lg border border-black/10 bg-white px-3 py-2 text-sm text-[#111111] transition-colors hover:border-hero-blue/50 hover:text-hero-blue"
                     >
                       {it.label}
                     </Link>
@@ -210,7 +210,7 @@ function SectionHeading({ children }) {
   return (
     <div>
       <span className="mb-3 block h-1 w-10 bg-hero-blue" aria-hidden="true" />
-      <h2 className="h3 uppercase text-[#101828]">{children}</h2>
+      <h2 className="h3 uppercase text-[#111111]">{children}</h2>
     </div>
   );
 }
@@ -240,7 +240,7 @@ function StepsSection({ s, idx }) {
               <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-hero-blue text-sm font-extrabold text-white">
                 {String(i + 1).padStart(2, "0")}
               </span>
-              {st.title ? <p className="mt-3 font-bold text-[#101828]">{st.title}</p> : null}
+              {st.title ? <p className="mt-3 font-bold text-[#111111]">{st.title}</p> : null}
               <p className="mt-1 text-sm leading-relaxed text-[#4a5568]">{inline(st.body, `s${i}`)}</p>
             </li>
           ))}
@@ -258,7 +258,7 @@ function FaqSection({ s, idx }) {
         <div className="mt-5 max-w-4xl divide-y divide-black/10 border-y border-black/10">
           {s.items.map((it, i) => (
             <details key={i} className="group py-3">
-              <summary className="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-[#101828] marker:hidden">
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-3 text-sm font-bold text-[#111111] marker:hidden">
                 {it.q}
                 <span className="text-hero-blue transition-transform group-open:rotate-45">+</span>
               </summary>
@@ -295,7 +295,7 @@ export default function AuthorityPage({ data }) {
                   href={c.href}
                   className={
                     i === 0
-                      ? "rounded-md bg-hero-blue px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition-transform hover:scale-[1.03]"
+                      ? "btn-chrome rounded-md px-6 py-3 text-sm font-bold uppercase tracking-wide transition-transform hover:scale-[1.03]"
                       : "rounded-md border border-white/30 px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition-colors hover:border-hero-blue hover:text-hero-blue"
                   }
                 >
