@@ -10,7 +10,8 @@
     {
       "number": "01",
       "model": "Jaguar XK8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp"
     },
     {
       "number": "02",
@@ -20,17 +21,20 @@
     {
       "number": "03",
       "model": "Jaguar XK 4.2 V8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp"
     },
     {
       "number": "04",
       "model": "Jaguar XK 5.0 V8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XKR-S",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xk-x150-xkr-s-coupe-performance-coupe-20112014-specia-b2a4.webp"
     }
   ],
   "variants": [

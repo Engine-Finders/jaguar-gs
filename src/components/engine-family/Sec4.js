@@ -1,6 +1,10 @@
 import Image from "next/image";
+import { partImageFor } from "@/lib/partImage";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
+
+// a card is a part when its title is ("Timing Chain"), else the first listed component that names a part
+const partTexts = (c) => [c.title, ...(c.items || [])];
 
 const POS = ["50% 40%", "25% 25%", "78% 70%", "50% 100%", "10% 80%"];
 
@@ -39,7 +43,7 @@ export default function Sec4({ data }) {
           {data.cards.map((c, i) => (
             <div key={c.title + i} className="glass-card relative flex flex-col overflow-hidden rounded-2xl">
               <div className="relative aspect-4/3 w-full">
-                <Image src={c.image} alt={c.title} fill className="object-cover" style={{ objectPosition: POS[i % POS.length] }} sizes="50vw" />
+                <Image src={partImageFor(partTexts(c), c.image)} alt={c.title} fill className={partImageFor(partTexts(c)) ? "object-contain px-4 pb-8 pt-3" : "object-cover"} style={partImageFor(partTexts(c)) ? undefined : { objectPosition: POS[i % POS.length] }} sizes="50vw" />
               </div>
               <div className="relative px-3 pb-4 pt-6 text-center">
                 <span
@@ -85,7 +89,7 @@ export default function Sec4({ data }) {
                 className="glass-card relative flex flex-col overflow-hidden rounded-2xl transition-transform hover:-translate-y-0.5"
               >
                 <div className="relative aspect-4/3 w-full">
-                  <Image src={c.image} alt={c.title} fill className="object-cover" style={{ objectPosition: POS[i % POS.length] }} sizes="25vw" />
+                  <Image src={partImageFor(partTexts(c), c.image)} alt={c.title} fill className={partImageFor(partTexts(c)) ? "object-contain px-4 pb-8 pt-3" : "object-cover"} style={partImageFor(partTexts(c)) ? undefined : { objectPosition: POS[i % POS.length] }} sizes="25vw" />
                 </div>
                 <div className="relative px-4 pb-6 pt-8 text-center">
                   <span

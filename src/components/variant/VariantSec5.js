@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
+import GalleryPhoto from "@/components/reusable/GalleryPhoto";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
@@ -12,7 +12,7 @@ function WorkshopCard({ it, data, sizes, compact = false }) {
   return (
     <div className="neon-card neon-card--soft relative flex flex-col overflow-hidden rounded-xl">
       <div className={`relative ${compact ? "aspect-[4/3]" : "aspect-[4/3]"}`}>
-        <Image src={it.image || data.image} alt={it.label} fill className="object-cover" sizes={sizes} />
+        <GalleryPhoto src={it.image || data.image} label={it.label} sizes={sizes} />
         <span className={`absolute bottom-0 left-0 bg-hero-dark/90 font-extrabold text-white ${compact ? "px-2 py-1 text-[10px]" : "px-3 py-1.5 text-sm"}`}>
           {it.number}
         </span>

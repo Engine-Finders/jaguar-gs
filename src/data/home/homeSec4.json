@@ -22,7 +22,7 @@
     },
     {
       "label": "Engine Overheating",
-      "icon": "gauge",
+      "icon": "overheat",
       "image": "/home/sec4_8.webp",
       "href": "/contact"
     },
@@ -46,7 +46,7 @@
     },
     {
       "label": "Loss of Power",
-      "icon": "power",
+      "icon": "gauge",
       "image": "/home/sec4_9.webp",
       "href": "/contact"
     },

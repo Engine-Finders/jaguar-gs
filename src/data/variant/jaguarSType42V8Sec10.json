@@ -69,6 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -76,6 +77,7 @@
       },
       {
         "generation": "X200",
+        "image": "/cars/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp",
         "chassis": "X200",
         "years": "1999–2008",
         "engineCode": "AJ-V8",

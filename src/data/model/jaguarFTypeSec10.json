@@ -10,37 +10,44 @@
     {
       "number": "01",
       "model": "Jaguar F-Type 2.0i (Ingenium)",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp"
     },
     {
       "number": "02",
       "model": "Jaguar F-Type V6",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp"
     },
     {
       "number": "03",
       "model": "Jaguar F-Type V6 S",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp"
     },
     {
       "number": "04",
       "model": "Jaguar F-Type R",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp"
     },
     {
       "number": "05",
       "model": "Jaguar F-Type SVR",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp"
     },
     {
       "number": "06",
       "model": "Jaguar F-Type P450",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp"
     },
     {
       "number": "07",
       "model": "Jaguar F-Type R575",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp"
     }
   ],
   "variants": [

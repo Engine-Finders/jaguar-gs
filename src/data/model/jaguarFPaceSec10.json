@@ -35,12 +35,14 @@
     {
       "number": "06",
       "model": "Jaguar F-Pace P400e",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp"
     },
     {
       "number": "07",
       "model": "Jaguar F-Pace SVR",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp"
     }
   ],
   "variants": [

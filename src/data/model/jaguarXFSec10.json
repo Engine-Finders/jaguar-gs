@@ -15,22 +15,26 @@
     {
       "number": "02",
       "model": "Jaguar XF 2.0d",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp"
     },
     {
       "number": "03",
       "model": "Jaguar XF 2.0i",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp"
     },
     {
       "number": "04",
       "model": "Jaguar XF 3.0d",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XF 3.0 V6 S/SC",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
     },
     {
       "number": "06",
@@ -40,7 +44,8 @@
     {
       "number": "07",
       "model": "Jaguar XF 300 Sport",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp"
     },
     {
       "number": "08",

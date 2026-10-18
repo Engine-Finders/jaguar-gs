@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { floatingParts } from "@/lib/partImage";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 
@@ -12,6 +13,8 @@ const FLOATERS = [
 ];
 
 export default function HomeSec9_5({ data }) {
+  // each floating part is a different component: the ones listed on this section first, then the main engine parts
+  const parts = floatingParts(data.parts.map((p) => p.name), FLOATERS.length);
   const [line1, line2] = data.h2.split("|");
   const [line2a, line2b] = line2.split(" ");
 
@@ -64,7 +67,7 @@ export default function HomeSec9_5({ data }) {
               }}
             >
               <div className="relative h-full w-full" style={{ transform: `rotate(${f.rotate}deg)` }}>
-                <Image src={data.partImage} alt="Engine component" fill className="object-contain" sizes="150px" />
+                <Image src={parts[i] ?? data.partImage} alt="Engine component" fill className="object-contain" sizes="150px" />
               </div>
             </div>
           ))}

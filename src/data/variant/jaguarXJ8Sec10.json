@@ -69,6 +69,7 @@
     "rows": [
       {
         "generation": "X308",
+        "image": "/cars/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
         "chassis": "X308",
         "years": "1997–2003",
         "engineCode": "AJ-V8 (3.2L/4.0L)",
@@ -76,6 +77,7 @@
       },
       {
         "generation": "X350",
+        "image": "/cars/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp",
         "chassis": "X350",
         "years": "2002–2009",
         "engineCode": "AJ-V8 (4.0L)",

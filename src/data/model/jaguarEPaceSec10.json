@@ -10,33 +10,39 @@
     {
       "number": "01",
       "model": "Jaguar E-Pace P160",
-      "spec": "1.5L Petrol (Ingenium)"
+      "spec": "1.5L Petrol (Ingenium)",
+      "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp"
     },
     {
       "number": "02",
       "model": "Jaguar E-Pace P200",
-      "spec": "2.0L Petrol (Ingenium)"
+      "spec": "2.0L Petrol (Ingenium)",
+      "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp"
     },
     {
       "number": "03",
       "model": "Jaguar E-Pace P250",
-      "spec": "2.0L Petrol (Ingenium)"
+      "spec": "2.0L Petrol (Ingenium)",
+      "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp"
     },
     {
       "number": "04",
       "model": "Jaguar E-Pace P300e",
       "spec": "1.5L PHEV (Plug-in Hybrid)",
+      "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
       "phev": true
     },
     {
       "number": "05",
       "model": "Jaguar E-Pace D165",
-      "spec": "2.0L Diesel (Ingenium)"
+      "spec": "2.0L Diesel (Ingenium)",
+      "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp"
     },
     {
       "number": "06",
       "model": "Jaguar E-Pace D200",
-      "spec": "2.0L Diesel (Ingenium)"
+      "spec": "2.0L Diesel (Ingenium)",
+      "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp"
     }
   ],
   "variants": [

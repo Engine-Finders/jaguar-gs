@@ -18,7 +18,7 @@ function VariantCard({ c, data, sizes, tab, title }) {
       className="flex h-full flex-col overflow-hidden rounded-xl border border-black/5 bg-(--color-light-surface) shadow-[0_10px_26px_-12px_rgba(0,0,0,0.35)] transition-shadow hover:shadow-[0_14px_30px_-10px_rgba(0,0,0,0.4)]"
     >
       <div className="relative aspect-[1536/840] bg-(--color-light-surface)">
-        <Image src={c.image || data.image} alt={c.model} fill className="object-cover" sizes={sizes} />
+        <Image src={c.image || data.image} alt={c.model} fill className={c.image?.startsWith("/cars/") ? "object-contain px-3 pb-2 pt-5" : "object-cover"} sizes={sizes} />
         <span
           className={`absolute left-0 top-0 flex items-center bg-hero-blue font-bold text-white ${tab}`}
           style={{ clipPath: "polygon(0 0, 100% 0, 78% 100%, 0% 100%)" }}

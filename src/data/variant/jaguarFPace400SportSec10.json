@@ -69,6 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -76,6 +77,7 @@
       },
       {
         "generation": "X761",
+        "image": "/cars/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
         "chassis": "X761",
         "years": "2022–present",
         "engineCode": "AJ300P",

@@ -10,7 +10,8 @@
     {
       "number": "01",
       "model": "Jaguar XE 2.0d",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
     },
     {
       "number": "02",
@@ -30,12 +31,14 @@
     {
       "number": "05",
       "model": "Jaguar XE 300 Sport",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp"
     },
     {
       "number": "06",
       "model": "Jaguar XE P250",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
     }
   ],
   "variants": [

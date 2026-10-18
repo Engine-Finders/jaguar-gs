@@ -10,27 +10,32 @@
     {
       "number": "01",
       "model": "Jaguar S-Type 2.5 V6",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp"
     },
     {
       "number": "02",
       "model": "Jaguar S-Type 3.0 V6",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp"
     },
     {
       "number": "03",
       "model": "Jaguar S-Type 2.7d",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp"
     },
     {
       "number": "04",
       "model": "Jaguar S-Type 4.2 V8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp"
     },
     {
       "number": "05",
       "model": "Jaguar S-Type R",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp"
     }
   ],
   "variants": [

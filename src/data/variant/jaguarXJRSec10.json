@@ -90,6 +90,7 @@
       },
       {
         "generation": "X300",
+        "image": "/cars/jaguar-xj-x300-xj6-sovereign-saloon-19941997-new-british-rac-3f5f.webp",
         "chassis": "X300",
         "years": "1994–1997",
         "engineCode": "AJ16",
@@ -97,6 +98,7 @@
       },
       {
         "generation": "X308",
+        "image": "/cars/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
         "chassis": "X308",
         "years": "1997–2003",
         "engineCode": "AJ-V8",
@@ -104,6 +106,7 @@
       },
       {
         "generation": "X350",
+        "image": "/cars/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp",
         "chassis": "X350",
         "years": "2002–2009",
         "engineCode": "AJ-V8",
@@ -111,6 +114,7 @@
       },
       {
         "generation": "X351",
+        "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
         "chassis": "X351",
         "years": "2009–2019",
         "engineCode": "AJ133S",
