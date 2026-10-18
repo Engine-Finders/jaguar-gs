@@ -3,7 +3,7 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XJ Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XJ engine we work on.",
-  "image": "/model/sec10_car.webp",
+  "image": "/cars/jaguar-xj-x351-xj50-special-edition-saloon-20182019-special-6ccf.webp",
   "viewMoreLabel": "View More",
   "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
@@ -28,17 +28,20 @@
     {
       "number": "04",
       "model": "Jaguar Super V8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xj-x350-xj-super-v8-portfolio-saloon-20052009-new-cel-8147.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XJ 3.0d",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
     },
     {
       "number": "06",
       "model": "Jaguar XJ 3.0 V6",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
     },
     {
       "number": "07",
@@ -49,7 +52,8 @@
     {
       "number": "08",
       "model": "Jaguar XJ 5.0 Supercharged V8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
     }
   ],
   "variants": [

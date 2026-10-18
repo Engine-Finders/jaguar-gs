@@ -58,7 +58,7 @@
   "applications": {
     "titlePre": "Jaguar XF 3.0 V6 S/SC ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,6 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",

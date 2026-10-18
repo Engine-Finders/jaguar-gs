@@ -3,8 +3,8 @@
   "headlineHighlight": "Engine Rebuild Price",
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
-  "engineImage": "/variant/sec10_engine.webp",
-  "carImage": "/variant/jaguar_car.webp",
+  "engineImage": "/engines/jaguar-3-0-v6-and-svr-v8-applications-engine.webp",
+  "carImage": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
   "cards": [
     {
       "code": "AJ26",

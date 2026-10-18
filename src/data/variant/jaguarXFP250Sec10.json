@@ -57,7 +57,7 @@
   "applications": {
     "titlePre": "JAGUAR XF P250 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,6 +68,7 @@
     "rows": [
       {
         "generation": "generation",
+        "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
         "chassis": "generation",
         "years": "2014–2025",
         "engineCode": "[MISSING: engine code not confirmed]",

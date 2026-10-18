@@ -3,7 +3,7 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XF Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XF engine we work on.",
-  "image": "/model/sec10_car.webp",
+  "image": "/cars/jaguar-xf-x260-r-dynamic-hse-saloon-20192024-new-santorini-b-6d44.webp",
   "viewMoreLabel": "View More",
   "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
@@ -39,7 +39,8 @@
     {
       "number": "06",
       "model": "Jaguar XF 5.0 V8",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
     },
     {
       "number": "07",
@@ -50,7 +51,8 @@
     {
       "number": "08",
       "model": "Jaguar XFR",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
     }
   ],
   "variants": [

@@ -8,6 +8,7 @@
   "cards": [
     {
       "titlePre": "3-Cylinder",
+      "image": "/engines/jaguar-p160-1-5-litre-mhev-engine.webp",
       "titleHighlight": "Rebuild",
       "code": "(Ingenium)",
       "price": "£2,000",
@@ -15,6 +16,7 @@
     },
     {
       "titlePre": "4-Cylinder",
+      "image": "/engines/jaguar-jlr-2-0-ingenium-aj200-engine-hero.webp",
       "titleHighlight": "Rebuild",
       "code": "(Ingenium)",
       "price": "£2,000",
@@ -22,6 +24,7 @@
     },
     {
       "titlePre": "E-Pace Rebuild",
+      "image": "/engines/jaguar-aj200d-engine.webp",
       "titleHighlight": "",
       "code": "(Ingenium)",
       "price": "£2,000",

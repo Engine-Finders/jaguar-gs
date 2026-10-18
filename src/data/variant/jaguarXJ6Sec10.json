@@ -41,7 +41,7 @@
   "applications": {
     "titlePre": "Jaguar XJ6 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -52,6 +52,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-xj-x300-xj6-sovereign-saloon-19941997-new-british-rac-3f5f.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",

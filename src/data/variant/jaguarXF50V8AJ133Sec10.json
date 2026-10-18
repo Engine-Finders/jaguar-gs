@@ -65,7 +65,7 @@
   "applications": {
     "titlePre": "Jaguar XF 5.0 V8 (AJ133) ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -84,6 +84,7 @@
       },
       {
         "generation": "X250",
+        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "X250",
         "years": "~2011–2015",
         "engineCode": "AJ133S",

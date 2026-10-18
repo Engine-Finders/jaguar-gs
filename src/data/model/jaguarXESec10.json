@@ -3,7 +3,7 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XE Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XE engine we work on.",
-  "image": "/model/sec10_car.webp",
+  "image": "/cars/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp",
   "viewMoreLabel": "View More",
   "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
@@ -16,17 +16,20 @@
     {
       "number": "02",
       "model": "Jaguar XE 2.0i",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp"
     },
     {
       "number": "03",
       "model": "Jaguar XE 3.0 V6 S",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
     },
     {
       "number": "04",
       "model": "Jaguar XE 3.0 V6 SC",
-      "spec": ""
+      "spec": "",
+      "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
     },
     {
       "number": "05",

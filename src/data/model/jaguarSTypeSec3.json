@@ -8,6 +8,7 @@
   "cards": [
     {
       "titlePre": "V6 Diesel Rebuild (2.7d)",
+      "image": "/engines/jaguar-2-7-litre-v6-diesel-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£2,900",
@@ -15,6 +16,7 @@
     },
     {
       "titlePre": "V6 Petrol Rebuild",
+      "image": "/engines/jaguar-3-0-v6-and-aj-v6-wb-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£2,600",
@@ -22,6 +24,7 @@
     },
     {
       "titlePre": "V8 Rebuild (4.2L)",
+      "image": "/engines/jaguar-3-0-v6-and-svr-v8-applications-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£4,500",

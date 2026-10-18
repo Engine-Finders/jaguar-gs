@@ -65,7 +65,7 @@
   "applications": {
     "titlePre": "Jaguar XK8 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -76,6 +76,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",

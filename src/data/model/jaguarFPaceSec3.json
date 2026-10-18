@@ -8,6 +8,7 @@
   "cards": [
     {
       "titlePre": "4-Cylinder Rebuild (Ingenium)",
+      "image": "/engines/jaguar-jlr-2-0-ingenium-aj200-engine-hero.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£2,200",
@@ -15,6 +16,7 @@
     },
     {
       "titlePre": "V6 Diesel Rebuild",
+      "image": "/engines/jaguar-276dt-tdv6-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£2,900",
@@ -22,6 +24,7 @@
     },
     {
       "titlePre": "V6 Petrol Rebuild (supercharged)",
+      "image": "/engines/jaguar-aj126-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£3,600",
@@ -29,6 +32,7 @@
     },
     {
       "titlePre": "V8 Rebuild (SVR, supercharged)",
+      "image": "/engines/jaguar-aj133-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£6,500",

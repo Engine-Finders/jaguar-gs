@@ -8,6 +8,7 @@
   "cards": [
     {
       "titlePre": "V6 Diesel Rebuild",
+      "image": "/engines/jaguar-276dt-tdv6-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£2,600",
@@ -15,6 +16,7 @@
     },
     {
       "titlePre": "V8 Rebuild",
+      "image": "/engines/jaguar-3-0-v6-and-svr-v8-applications-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£4,500",
@@ -22,6 +24,7 @@
     },
     {
       "titlePre": "Supercharged V8 Rebuild (XJR)",
+      "image": "/engines/jaguar-aj133-engine.webp",
       "titleHighlight": "",
       "code": "",
       "price": "£5,500",

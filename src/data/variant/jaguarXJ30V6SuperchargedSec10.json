@@ -58,7 +58,7 @@
   "applications": {
     "titlePre": "Jaguar XJ 3.0 V6 Supercharged ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,6 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",

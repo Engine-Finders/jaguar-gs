@@ -72,7 +72,7 @@
   "applications": {
     "titlePre": "Jaguar XJR ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/variant/jaguar_car.webp",
+    "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -83,6 +83,7 @@
     "rows": [
       {
         "generation": "Generation",
+        "image": "/cars/jaguar-xj-x300-xj6-sovereign-saloon-19941997-new-british-rac-3f5f.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
