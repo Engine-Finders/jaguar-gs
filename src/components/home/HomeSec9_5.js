@@ -72,7 +72,7 @@ export default function HomeSec9_5({ data }) {
             </div>
           ))}
 
-          <div className="animate-float-core absolute inset-[4%] z-10">
+          <div className="animate-float-core absolute inset-[16%] z-10">
             <Image src={data.engineImage} alt="Jaguar engine" fill className="object-contain" sizes="700px" priority={false} />
           </div>
         </div>

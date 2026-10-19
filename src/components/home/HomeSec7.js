@@ -1,9 +1,9 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import ExpandGrid from "@/components/reusable/ExpandGrid";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 export default function HomeSec7({ data }) {
-  const mobileModels = data.models.slice(0, 10);
 
   return (
     <section className="theme-light relative overflow-hidden px-4 py-8 sm:px-6 lg:px-8">
@@ -21,8 +21,14 @@ export default function HomeSec7({ data }) {
             Find Your <span className="text-chrome-ink">Jaguar</span> Model
           </h2>
 
-          <div className="grid grid-cols-2 gap-3">
-            {mobileModels.map((m) => (
+          <ExpandGrid
+            className="grid grid-cols-2 gap-3"
+            limit={6}
+            label="View More Models"
+            wrapClass="mt-5 flex justify-center"
+            buttonClass="btn-text flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+          >
+            {data.models.map((m) => (
               <a
                 key={m.slug}
                 href={m.href}
@@ -34,7 +40,7 @@ export default function HomeSec7({ data }) {
                 <p className="text-xs font-bold uppercase text-[#1a1a1a]">{m.name}</p>
               </a>
             ))}
-          </div>
+          </ExpandGrid>
 
           <div
             className="glass-card -mx-4 mt-5 flex items-stretch rounded-2xl px-1.5 py-4"
@@ -75,7 +81,14 @@ export default function HomeSec7({ data }) {
             Find Your <span className="text-chrome-ink">Jaguar</span> Model
           </h2>
 
-          <div className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6">
+          <ExpandGrid
+            className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6"
+            limit={8}
+            limitLg={12}
+            label="View More Models"
+            wrapClass="mt-6 flex justify-center"
+            buttonClass="btn-text flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+          >
             {data.models.map((m) => (
               <a
                 key={m.slug}
@@ -88,7 +101,7 @@ export default function HomeSec7({ data }) {
                 <p className="text-xs font-bold uppercase text-[#1a1a1a]">{m.name}</p>
               </a>
             ))}
-          </div>
+          </ExpandGrid>
 
           <div
             className="glass-card mt-6 flex items-stretch rounded-2xl px-6 py-6"

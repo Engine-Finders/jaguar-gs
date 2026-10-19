@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 export default function Footer({ data }) {
@@ -7,10 +8,16 @@ export default function Footer({ data }) {
       <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-8 md:flex-row md:justify-between">
           <div className="max-w-xs">
-            <div className="flex items-center gap-2.5 mb-3">
-              <JaguarLogo className="h-11 w-11 shrink-0 text-white" />
-              <span className="font-title text-lg font-extrabold italic text-white">{data.brand}</span>
-            </div>
+            <Link href="/" className="mb-3 inline-block" aria-label={`${data.brand} — home`}>
+              <Image
+                src="/brand/logo-square.webp"
+                alt="Jaguar Garage"
+                width={541}
+                height={259}
+                className="h-16 w-auto"
+                sizes="180px"
+              />
+            </Link>
             <p className="text-sm leading-relaxed">{data.blurb}</p>
           </div>
 

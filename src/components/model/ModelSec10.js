@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
+import ExpandGrid from "@/components/reusable/ExpandGrid";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 // "Jaguar E-Pace Rebuilds" -> dark "Jaguar E-Pace" + chrome "Rebuilds"
@@ -79,17 +80,17 @@ export default function ModelSec10({ data }) {
         </div>
         <p className="mt-2 text-sm text-[#111111]">{data.subhead}</p>
 
-        <div className="mt-5 grid grid-cols-2 gap-3">
+        <ExpandGrid
+          className="mt-5 grid grid-cols-2 gap-3"
+          limit={6}
+          label={data.viewMoreLabel}
+          wrapClass="mt-5 flex justify-center"
+          buttonClass="btn-text flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+        >
           {data.cards.map((c) => (
             <VariantCard key={c.number} c={c} data={data} sizes="50vw" tab="h-6 px-2.5 text-xs" title="text-sm" />
           ))}
-        </div>
-
-        <div className="mt-5 flex justify-center">
-          <button className="btn-text flex items-center gap-2 rounded-lg border-2 border-hero-blue bg-white/70 px-5 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white">
-            {data.viewMoreLabel} <span aria-hidden>→</span>
-          </button>
-        </div>
+        </ExpandGrid>
 
         <div className="mt-5">
           <FootNote data={data} compact />
@@ -128,17 +129,17 @@ export default function ModelSec10({ data }) {
           </div>
           <p className="mt-2 max-w-2xl text-sm text-[#111111]">{data.subhead}</p>
 
-          <div className="mt-6 grid gap-5" style={{ gridTemplateColumns: `repeat(${cols}, minmax(0, 1fr))` }}>
+          <ExpandGrid
+          className="mt-6 grid gap-5" style={{ gridTemplateColumns: `repeat(${cols}, minmax(0, 1fr))` }}
+          limit={cols * 2}
+          label={data.viewMoreLabel}
+          wrapClass="mt-6 flex justify-center"
+          buttonClass="btn-text flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
+        >
             {data.cards.map((c) => (
               <VariantCard key={c.number} c={c} data={data} sizes="33vw" tab="h-8 px-3 text-sm" title="text-base" />
             ))}
-          </div>
-
-          <div className="mt-6 flex justify-center">
-            <button className="btn-text flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white">
-              {data.viewMoreLabel} <span aria-hidden>→</span>
-            </button>
-          </div>
+        </ExpandGrid>
 
           <div className="mt-4">
             <FootNote data={data} />
