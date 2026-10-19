@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 function FaqCard({ item, isOpen, onToggle, compact = false }) {
@@ -23,13 +24,13 @@ function FaqCard({ item, isOpen, onToggle, compact = false }) {
   );
 }
 
-function Field({ label, placeholder, type = "text", compact = false }) {
+function Field({ name, label, placeholder, type = "text", compact = false }) {
   return (
     <label className="block">
       <span className="label-text uppercase tracking-wide text-white">
         {label} <span className="text-bmw-red">*</span>
       </span>
-      <input
+      <input name={name} required
         type={type}
         placeholder={placeholder}
         className={`w-full rounded-lg border border-white/15 bg-white/5 px-4 text-sm text-white placeholder:text-white/40 outline-none focus:border-hero-blue ${
@@ -51,10 +52,8 @@ export default function VariantSec13({ data }) {
     });
   }
 
-  function handleSubmit(e) {
-    e.preventDefault();
-    // Lead form — dev to wire up submission endpoint.
-  }
+  const lead = useLeadForm();
+  const handleSubmit = lead.handleSubmit;
 
   return (
     <section id="quote-form" className="theme-light relative scroll-mt-6 overflow-hidden">
@@ -101,25 +100,28 @@ export default function VariantSec13({ data }) {
                     GB
                   </span>
                   <input
-                    type="text"
+                    name="vehicle_vrm" required maxLength={8} type="text"
                     placeholder={data.form.fields.reg.placeholder}
                     className="min-w-0 flex-1 bg-transparent px-3 text-sm text-white placeholder:text-white/40 outline-none"
                   />
                 </div>
               </label>
 
-              <Field label={data.form.fields.postcode.label} placeholder={data.form.fields.postcode.placeholder} compact />
-              <Field label={data.form.fields.name.label} placeholder={data.form.fields.name.placeholder} compact />
-              <Field label={data.form.fields.phone.label} placeholder={data.form.fields.phone.placeholder} type="tel" compact />
-              <Field label={data.form.fields.email.label} placeholder={data.form.fields.email.placeholder} type="email" compact />
+              <Field name="postcode" label={data.form.fields.postcode.label} placeholder={data.form.fields.postcode.placeholder} compact />
+              <Field name="name" label={data.form.fields.name.label} placeholder={data.form.fields.name.placeholder} compact />
+              <Field name="number" label={data.form.fields.phone.label} placeholder={data.form.fields.phone.placeholder} type="tel" compact />
+              <Field name="email" label={data.form.fields.email.label} placeholder={data.form.fields.email.placeholder} type="email" compact />
 
               <label className="block">
                 <span className="label-text uppercase tracking-wide text-white">
                   {data.form.fields.enquiry.label} <span className="text-bmw-red">*</span>
                 </span>
                 <div className="relative mt-1.5">
-                  <select className="h-11 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
-                    <option>{data.form.fields.enquiry.placeholder}</option>
+                  <select name="description" required className="h-11 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
+                    <option value="">{data.form.fields.enquiry.placeholder}</option>
+                    {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
+                      <option key={o} value={o}>{o}</option>
+                    ))}
                   </select>
                   <Icon
                     name="chevron-down"
@@ -130,12 +132,13 @@ export default function VariantSec13({ data }) {
             </div>
 
             <button
-              type="submit"
+              type="submit" disabled={lead.status === "loading"}
               className="mt-4 flex w-full items-center justify-center gap-2 rounded-lg py-3 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
               style={{ background: "linear-gradient(180deg, rgba(40,44,52,0.9) 0%, rgba(14,16,20,0.95) 100%)", border: "1px solid rgba(214,218,224,0.55)", boxShadow: "0 8px 20px rgba(0,0,0,0.5)" }}
             >
               {data.form.submitLabel} <span aria-hidden>→</span>
             </button>
+<LeadStatus lead={lead} />
 
             <p className="mt-3 flex items-center justify-center gap-2 text-center text-xs text-white">
               <Icon name="shield-check" className="h-4 w-4 shrink-0 text-hero-blue" />
@@ -198,25 +201,28 @@ export default function VariantSec13({ data }) {
                     GB
                   </span>
                   <input
-                    type="text"
+                    name="vehicle_vrm" required maxLength={8} type="text"
                     placeholder={data.form.fields.reg.placeholder}
                     className="min-w-0 flex-1 bg-transparent px-3 text-sm text-white placeholder:text-white/40 outline-none"
                   />
                 </div>
               </label>
 
-              <Field label={data.form.fields.postcode.label} placeholder={data.form.fields.postcode.placeholder} />
-              <Field label={data.form.fields.name.label} placeholder={data.form.fields.name.placeholder} />
-              <Field label={data.form.fields.phone.label} placeholder={data.form.fields.phone.placeholder} type="tel" />
-              <Field label={data.form.fields.email.label} placeholder={data.form.fields.email.placeholder} type="email" />
+              <Field name="postcode" label={data.form.fields.postcode.label} placeholder={data.form.fields.postcode.placeholder} />
+              <Field name="name" label={data.form.fields.name.label} placeholder={data.form.fields.name.placeholder} />
+              <Field name="number" label={data.form.fields.phone.label} placeholder={data.form.fields.phone.placeholder} type="tel" />
+              <Field name="email" label={data.form.fields.email.label} placeholder={data.form.fields.email.placeholder} type="email" />
 
               <label className="block">
                 <span className="label-text uppercase tracking-wide text-white">
                   {data.form.fields.enquiry.label} <span className="text-bmw-red">*</span>
                 </span>
                 <div className="relative mt-2">
-                  <select className="h-13 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
-                    <option>{data.form.fields.enquiry.placeholder}</option>
+                  <select name="description" required className="h-13 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm text-white outline-none">
+                    <option value="">{data.form.fields.enquiry.placeholder}</option>
+                    {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
+                      <option key={o} value={o}>{o}</option>
+                    ))}
                   </select>
                   <Icon
                     name="chevron-down"
@@ -227,12 +233,13 @@ export default function VariantSec13({ data }) {
             </div>
 
             <button
-              type="submit"
+              type="submit" disabled={lead.status === "loading"}
               className="mt-6 flex w-full max-w-[66%] items-center justify-center gap-2 rounded-lg py-4 text-sm font-extrabold uppercase tracking-wide text-white transition hover:brightness-110"
               style={{ background: "linear-gradient(180deg, rgba(40,44,52,0.9) 0%, rgba(14,16,20,0.95) 100%)", border: "1px solid rgba(214,218,224,0.55)", boxShadow: "0 8px 20px rgba(0,0,0,0.5)" }}
             >
               {data.form.submitLabel} <span aria-hidden>→</span>
             </button>
+<LeadStatus lead={lead} />
 
             <p className="mt-4 flex max-w-[66%] items-center justify-center gap-2 text-xs text-white">
               <Icon name="shield-check" className="h-4 w-4 shrink-0 text-hero-blue" />

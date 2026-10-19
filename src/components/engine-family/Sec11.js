@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 const OPTION_RESULT = ["Our rebuild service is exactly that.", "Our rebuild service covers this.", "That’s consistent with what our rebuild service delivers."];
@@ -41,11 +42,11 @@ function FaqRow({ item, isOpen, onToggle }) {
   );
 }
 
-function Field({ icon, placeholder, type = "text" }) {
+function Field({ name, icon, placeholder, type = "text" }) {
   return (
     <label className="relative block">
       {icon && <Icon name={icon} className="pointer-events-none absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-white/70" />}
-      <input
+      <input name={name} required
         type={type}
         placeholder={placeholder}
         className={`h-12 w-full rounded-lg border border-white/15 bg-white/5 pr-4 text-sm uppercase tracking-wide text-white outline-none placeholder:text-white/45 focus:border-white/50 ${icon ? "pl-10" : "pl-4"}`}
@@ -94,10 +95,8 @@ export default function Sec11({ data }) {
     });
   }
 
-  function handleSubmit(e) {
-    e.preventDefault();
-    // Lead form — dev to wire up submission endpoint.
-  }
+  const lead = useLeadForm();
+  const handleSubmit = lead.handleSubmit;
 
   const faqAll = [...faq.faqLeft, ...faq.faqRight];
 
@@ -429,20 +428,24 @@ export default function Sec11({ data }) {
 
           <form onSubmit={handleSubmit} className="relative mx-4 mb-7 space-y-3 rounded-2xl p-4" style={{ background: "linear-gradient(160deg, rgba(34,34,37,0.9) 0%, rgba(14,14,16,0.94) 100%)", border: "1px solid rgba(255,255,255,0.16)" }}>
             <p className="text-sm leading-snug text-white">{quote.subtext}</p>
-            <Field icon="car" placeholder="ENTER YOUR REGISTRATION" />
-            <Field icon="pin" placeholder={quote.fields.postcode.label} />
-            <Field icon="tech" placeholder={quote.fields.name.label} />
-            <Field icon="phone" placeholder={quote.fields.phone.label} type="tel" />
-            <Field icon="note" placeholder={quote.fields.email.label} type="email" />
+            <Field name="vehicle_vrm" icon="car" placeholder="ENTER YOUR REGISTRATION" />
+            <Field name="postcode" icon="pin" placeholder={quote.fields.postcode.label} />
+            <Field name="name" icon="tech" placeholder={quote.fields.name.label} />
+            <Field name="number" icon="phone" placeholder={quote.fields.phone.label} type="tel" />
+            <Field name="email" icon="note" placeholder={quote.fields.email.label} type="email" />
             <label className="relative block">
-              <select className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm uppercase tracking-wide text-white/80 outline-none">
-                <option>{quote.fields.enquiry.label}</option>
+              <select name="description" required className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm uppercase tracking-wide text-white/80 outline-none">
+                <option value="">{quote.fields.enquiry.label}</option>
+                {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
+                  <option key={o} value={o}>{o}</option>
+                ))}
               </select>
               <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
             </label>
-            <button type="submit" className="btn-chrome flex h-12 w-full items-center justify-center gap-2 rounded-lg text-sm font-extrabold uppercase">
+            <button type="submit" disabled={lead.status === "loading"} className="btn-chrome flex h-12 w-full items-center justify-center gap-2 rounded-lg text-sm font-extrabold uppercase">
               Get my quote <span aria-hidden>→</span>
             </button>
+<LeadStatus lead={lead} />
           </form>
         </div>
 
@@ -485,22 +488,26 @@ export default function Sec11({ data }) {
 
             <form onSubmit={handleSubmit} className="space-y-3 rounded-2xl p-7 backdrop-blur-md" style={{ background: "linear-gradient(160deg, rgba(34,34,37,0.9) 0%, rgba(14,14,16,0.94) 100%)", border: "1px solid rgba(255,255,255,0.16)", boxShadow: "0 24px 50px -20px rgba(0,0,0,0.85), inset 0 1px 0 rgba(255,255,255,0.14)" }}>
               <p className="text-xl leading-snug text-white">{quote.subtext}</p>
-              <Field icon="car" placeholder="ENTER YOUR REGISTRATION" />
-              <Field icon="pin" placeholder={quote.fields.postcode.label} />
+              <Field name="vehicle_vrm" icon="car" placeholder="ENTER YOUR REGISTRATION" />
+              <Field name="postcode" icon="pin" placeholder={quote.fields.postcode.label} />
               <div className="grid grid-cols-2 gap-3">
-                <Field icon="tech" placeholder={quote.fields.name.label} />
-                <Field icon="phone" placeholder={quote.fields.phone.label} type="tel" />
+                <Field name="name" icon="tech" placeholder={quote.fields.name.label} />
+                <Field name="number" icon="phone" placeholder={quote.fields.phone.label} type="tel" />
               </div>
-              <Field icon="note" placeholder={quote.fields.email.label} type="email" />
+              <Field name="email" icon="note" placeholder={quote.fields.email.label} type="email" />
               <label className="relative block">
-                <select className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm uppercase tracking-wide text-white/80 outline-none">
-                  <option>{quote.fields.enquiry.label}</option>
+                <select name="description" required className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm uppercase tracking-wide text-white/80 outline-none">
+                  <option value="">{quote.fields.enquiry.label}</option>
+                  {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
+                    <option key={o} value={o}>{o}</option>
+                  ))}
                 </select>
                 <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
               </label>
-              <button type="submit" className="btn-chrome flex h-14 w-full items-center justify-center gap-2 rounded-lg text-sm font-extrabold uppercase">
+              <button type="submit" disabled={lead.status === "loading"} className="btn-chrome flex h-14 w-full items-center justify-center gap-2 rounded-lg text-sm font-extrabold uppercase">
                 Get my quote <span aria-hidden>→</span>
               </button>
+<LeadStatus lead={lead} />
             </form>
           </div>
         </div>
