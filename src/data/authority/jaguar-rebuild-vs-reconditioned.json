@@ -1,0 +1,322 @@
+{
+  "slug": "jaguar-rebuild-vs-reconditioned",
+  "metaTitle": "Jaguar Engine Rebuild vs Reconditioned | Jaguar Garage",
+  "metaDescription": "Jaguar engine rebuild vs reconditioned: what the terms mean, process differences, and how we advise customers. Clear, factual decision support from our Essex workshop.",
+  "h1": "Jaguar Engine Rebuild vs Reconditioned",
+  "lede": "Rebuild or recondition? We explain what the terms mean, how the processes differ, and what to consider when making a decision.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/get-quote"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/model/sec7.webp",
+    "/engine/sec1.webp",
+    "/engine/sec8_bottom.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "Rebuild vs Reconditioned – What Do These Terms Mean?",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "In the automotive industry, **rebuild** and **reconditioned** are often used interchangeably, but they have distinct meanings. Understanding the difference matters when deciding how to restore your Jaguar's engine."
+        },
+        {
+          "t": "h3",
+          "text": "Reconditioned Engine"
+        },
+        {
+          "t": "p",
+          "html": "A reconditioned engine is one that has been stripped down (either partially or fully), cleaned, and may have had some damaged components replaced before being rebuilt. Reconditioning is a subjective process – the extent of work can vary significantly between suppliers. Some reconditioned engines receive only basic repairs (e.g., new bearings, piston rings, and perhaps a new timing chain), while others may be more comprehensively overhauled."
+        },
+        {
+          "t": "p",
+          "html": "In practice, the term is often used loosely – it's not always the case that the engine has even been fully disassembled."
+        },
+        {
+          "t": "h3",
+          "text": "Rebuilt Engine"
+        },
+        {
+          "t": "p",
+          "html": "A rebuilt engine typically involves taking an existing engine and repairing or replacing only the components that are worn out or damaged. The focus is on restoring the engine to a functional standard, often using a mix of new and serviceable parts. Unlike a remanufactured engine, a rebuild may not meet the manufacturer's original specification in every detail."
+        },
+        {
+          "t": "p",
+          "html": "In some contexts, \"rebuild\" can mean a more thorough process than \"reconditioned\" – for example, a rebuild that meets British Engineering Standards involves meticulous machining work, cylinder head resurfacing, crankshaft grinding, and fitting OEM parts to restore original tolerances. However, this level of detail is not universal."
+        },
+        {
+          "t": "h3",
+          "text": "Remanufactured – A Separate Standard"
+        },
+        {
+          "t": "p",
+          "html": "It's worth noting that **remanufactured** is a distinct category with a defined standard. A remanufactured engine has been returned to the vehicle manufacturer's original factory specification through an extensive, audited process. Under British Standard BSI AU 257:2002, a remanufactured engine must meet specific requirements: key parts including pistons, rings, bearings, gaskets, seals, timing chains and drive belts are all required to be renewed, and the engine must be tested for oil pressure and compression."
+        },
+        {
+          "t": "p",
+          "html": "Remanufactured engines provide performance, reliability and lifespan equal to (and in many instances exceeding) the original. This is a higher standard than either reconditioned or rebuilt, and is typically reflected in the cost."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Rebuild from:**",
+            {
+              "ul": [
+                "4-cylinder (Ingenium / EcoBoost / ZSD) – from **£1,900**",
+                "V6 Diesel – from **£2,900**",
+                "V6 Petrol – from **£3,200**",
+                "V8 (naturally aspirated) – from **£4,500**",
+                "V8 Supercharged / SVR – from **£5,500**"
+              ]
+            },
+            "Fixed-price quotes include all parts, labour, and testing. [Pricing disclaimer →](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our rebuild and reconditioning services cover the full Jaguar range. Every job is matched to your exact vehicle specification."
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "X-Type",
+              "href": "/jaguar-x-type-engines"
+            },
+            {
+              "label": "S-Type",
+              "href": "/jaguar-s-type-engines"
+            },
+            {
+              "label": "XJ",
+              "href": "/jaguar-xj-engines"
+            },
+            {
+              "label": "XK",
+              "href": "/jaguar-xk-engines"
+            },
+            {
+              "label": "XE",
+              "href": "/jaguar-xe-engines"
+            },
+            {
+              "label": "XF",
+              "href": "/jaguar-xf-engines"
+            },
+            {
+              "label": "F-Type",
+              "href": "/jaguar-f-type-engines"
+            },
+            {
+              "label": "F-Pace",
+              "href": "/jaguar-f-pace-engines"
+            },
+            {
+              "label": "E-Pace",
+              "href": "/jaguar-e-pace-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Key variants we regularly work on:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[XE 2.0d (AJ200D)](/jaguar-xe-engines)",
+            "[XF 3.0d (AJD-V6)](/jaguar-xf-engines)",
+            "[F-Type R (5.0 Supercharged V8)](/jaguar-f-type-r-engines)",
+            "[XJ 5.0 Supercharged V8](/jaguar-xj-engines)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process – Rebuild vs Reconditioned",
+      "steps": [
+        {
+          "title": "Inspection",
+          "body": "We assess the engine to identify worn or damaged components."
+        },
+        {
+          "title": "Partial strip-down",
+          "body": "We disassemble only the areas that need attention – not necessarily a full teardown."
+        },
+        {
+          "title": "Component replacement",
+          "body": "Worn parts such as bearings, gaskets, or piston rings are replaced as needed."
+        },
+        {
+          "title": "Cleaning",
+          "body": "The engine and reusable components are thoroughly cleaned."
+        },
+        {
+          "title": "Reassembly",
+          "body": "The engine is rebuilt with the new components installed."
+        },
+        {
+          "title": "Testing",
+          "body": "Basic functional testing is performed to confirm operation."
+        },
+        {
+          "title": "Full strip-down",
+          "body": "Every component is removed from the engine block for thorough inspection."
+        },
+        {
+          "title": "Machining",
+          "body": "Operations such as cylinder head resurfacing, crankshaft grinding, and block honing are performed as needed."
+        },
+        {
+          "title": "Component replacement",
+          "body": "All worn or out-of-spec parts are replaced – often with OEM or high-quality aftermarket components."
+        },
+        {
+          "title": "Assembly to tolerances",
+          "body": "The engine is rebuilt with all clearances and tolerances checked against manufacturer specifications."
+        },
+        {
+          "title": "Comprehensive testing",
+          "body": "Oil pressure, compression, and full running tests are performed to verify performance."
+        },
+        {
+          "title": "Warranty",
+          "body": "Our rebuilds come with a 12-month unlimited-mileage warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**JLR-trained technicians** with years of specialist experience",
+            "**Full JLR diagnostic & programming equipment** – SDD, Pathfinder, JET Master",
+            "**Fixed-price quotes** – no hidden extras",
+            "**12-month unlimited-mileage warranty** on all rebuild work",
+            "**Nationwide engine recovery** available (from £70)",
+            "**Real workshop premises** in Essex – visit us anytime"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Meet our team and workshop →](/about)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Book a free assessment or send your registration"
+        },
+        {
+          "title": "",
+          "body": "We inspect your engine and advise on rebuild vs reconditioned options"
+        },
+        {
+          "title": "",
+          "body": "Agree a fixed-price quote and schedule the work"
+        },
+        {
+          "title": "",
+          "body": "We carry out the rebuild or reconditioning work"
+        },
+        {
+          "title": "",
+          "body": "Collect your Jaguar with full warranty and documentation"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Explore other specialist services we offer for your Jaguar:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar Engine Supply & Fit](/jaguar-engine-supply-fit)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Rebuild vs Replacement](/jaguar-rebuild-vs-replacement)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read our blog for more insights: [Rebuild, replacement, or used – how we decide](/guides) and [What determines whether your engine is worth rebuilding](/guides)."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's the difference between a rebuild and a reconditioned engine?",
+          "a": "A reconditioned engine is typically stripped, cleaned, and has some damaged components replaced – but the scope can vary significantly. A rebuild is generally more comprehensive, involving full strip-down, machining where needed, and replacement of all worn components to restore the engine to a functional standard. The terms are often used interchangeably in the industry, which is why we always provide a detailed breakdown of exactly what's included in our work."
+        },
+        {
+          "q": "Is a reconditioned engine the same as a remanufactured engine?",
+          "a": "No. A remanufactured engine is returned to the vehicle manufacturer's original factory specification through an extensive, audited process, and must meet British Standard BSI AU 257:2002. Key parts including pistons, rings, bearings, gaskets, seals, timing chains and drive belts are all required to be renewed. A reconditioned engine does not have to meet this standard – the work is subjective and can vary."
+        },
+        {
+          "q": "Which option should I choose – rebuild or reconditioned?",
+          "a": "The decision depends on the condition of your engine, your budget, and how long you plan to keep the vehicle. A reconditioned engine can be a cost-effective option if the engine is in generally good condition and only needs targeted repairs. A full rebuild is better suited to engines with more extensive wear, or if you want the peace of mind of a comprehensive overhaul with a full warranty. We'll inspect your engine and advise on the best approach for your specific situation."
+        },
+        {
+          "q": "Will my Jaguar be returned to original specification?",
+          "a": "Our rebuilds are carried out to high standards, with all clearances and tolerances checked against manufacturer specifications. While a rebuild restores the engine to a functional standard, a remanufactured engine is the only option that guarantees return to the manufacturer's original specification. We'll explain exactly what's included in your chosen option before any work begins."
+        },
+        {
+          "q": "How long does a rebuild or reconditioning take?",
+          "a": "Typical workshop time varies depending on the scope of work. A reconditioning job may take a few days, while a full rebuild can take 1–2 weeks. We'll give you a clear schedule when we quote."
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,6 @@
 
 import { useRef } from "react";
 import Image from "next/image";
-import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 export default function HomeSec9({ data }) {
   const trackRef = useRef(null);
@@ -17,11 +16,15 @@ export default function HomeSec9({ data }) {
     <section className="theme-dark relative overflow-hidden">
       <div className="pointer-events-none absolute -right-24 bottom-0 h-96 w-96 rounded-full bg-hero-blue/10 blur-3xl" />
 
+      {/* brand-coloured glare line along the top edge */}
+      <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 top-0 h-16 bg-linear-to-b from-white/12 to-transparent" />
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-x-[8%] top-0 h-px bg-linear-to-r from-transparent via-[#f4f4f4] to-transparent shadow-[0_0_14px_3px_rgba(255,255,255,0.55)]"
+      />
+
       {/* ===== mobile ===== */}
-      <div className="relative px-4 py-8 md:hidden">
-        <div className="mb-3 flex justify-center">
-          <JaguarLogo className="h-9 w-9" />
-        </div>
+      <div className="relative px-4 pb-8 pt-10 md:hidden">
         <h2 className="h2 text-center uppercase text-white">
           <span className="block">Recently Completed</span>
           <span className="block text-chrome-dim">Jaguar Rebuilds</span>
@@ -45,6 +48,7 @@ export default function HomeSec9({ data }) {
             {data.cta.label} →
           </a>
           <span className="label-text flex items-center gap-2 uppercase tracking-wide text-white/70">
+            <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-7 w-auto" sizes="100px" />
             {data.footerTagline}
           </span>
         </div>
@@ -52,9 +56,6 @@ export default function HomeSec9({ data }) {
 
       {/* ===== desktop ===== */}
       <div className="relative mx-auto hidden max-w-[76rem] px-4 py-8 sm:px-6 md:block lg:px-8 lg:py-10">
-        <div className="mb-3 flex justify-center">
-          <JaguarLogo className="h-12 w-12" />
-        </div>
         <h2 className="h2 text-center uppercase text-white">
           Recently Completed <span className="text-chrome-dim">Jaguar</span> Rebuilds
         </h2>
@@ -100,6 +101,7 @@ export default function HomeSec9({ data }) {
           </a>
           <span className="h-6 w-px bg-white/20" />
           <span className="label-text flex items-center gap-2 uppercase tracking-wide text-white/70">
+            <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-7 w-auto" sizes="100px" />
             {data.footerTagline}
           </span>
         </div>

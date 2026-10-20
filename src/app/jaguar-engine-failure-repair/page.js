@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Engine Failure Repair | Jaguar Garage",
-  description: "Specialist assessment and repair of failed Jaguar engines. Precision strip-down, machining, and reassembly to restore your engine to correct specification.",
+  description: "Jaguar engine failure repair specialists. We assess, strip down, and rebuild failed Jaguar engines. Get a detailed inspection report and fixed-price quote.",
   alternates: { canonical: PATH },
 };
 

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -69,6 +69,15 @@
           "heading": "",
           "paras": [
             "**Our fixed-price bearing replacement service starts from:**",
+            {
+              "ul": [
+                "**4-cylinder (Ingenium, EcoBoost, ZSD):** from £2,000",
+                "**V6 Diesel (AJD-V6):** from £2,900",
+                "**V6 Petrol (AJ-V6, AJ126):** from £3,200",
+                "**V8 Naturally Aspirated (AJ-V8 Gen III):** from £4,500",
+                "**V8 Supercharged (AJ133S):** from £5,500"
+              ]
+            },
             "[Pricing disclaimer](/pricing-legal-disclaimer) – final quote provided after inspection."
           ]
         }
@@ -87,13 +96,33 @@
           "items": [
             {
               "label": "Jaguar XJ",
-              "href": null
+              "href": "/jaguar-xj-engines"
+            },
+            {
+              "label": "Jaguar XK",
+              "href": "/jaguar-xk-engines"
+            },
+            {
+              "label": "Jaguar XF",
+              "href": "/jaguar-xf-engines"
+            },
+            {
+              "label": "Jaguar XE",
+              "href": "/jaguar-xe-engines"
+            },
+            {
+              "label": "Jaguar F-Type",
+              "href": "/jaguar-f-type-engines"
+            },
+            {
+              "label": "Jaguar F-Pace",
+              "href": "/jaguar-f-pace-engines"
             }
           ]
         },
         {
           "t": "p",
-          "html": "For specific variants, we also cover high-performance models such as the XJR, XKR, XFR, and F-Type R. The bearing replacement process is the same for all, but each engine family has its own torque specs and clearance requirements."
+          "html": "For specific variants, we also cover high-performance models such as the [XJR](/jaguar-xj-engines), [XKR](/jaguar-xk-engines), [XFR](/jaguar-xf-engines), and [F-Type R](/jaguar-f-type-r-engines). The bearing replacement process is the same for all, but each engine family has its own torque specs and clearance requirements."
         },
         {
           "t": "p",
@@ -106,27 +135,27 @@
       "heading": "Our Bearing Replacement Process",
       "steps": [
         {
-          "title": "",
+          "title": "Engine Removal & Strip-Down",
           "body": "We remove the engine from the vehicle and fully disassemble it, taking care to mark every component for exact re-installation."
         },
         {
-          "title": "",
+          "title": "Crankshaft & Bearing Cap Removal",
           "body": "We unbolt the main bearing caps in sequence, ensuring each cap is retained for its original position. The crankshaft is then lifted out."
         },
         {
-          "title": "",
+          "title": "Cleaning & Inspection",
           "body": "All components are thoroughly cleaned, and the crankshaft journals are inspected for wear or damage. Swarf is removed from oil galleries."
         },
         {
-          "title": "",
+          "title": "Clearance Measurement",
           "body": "Using Plastigauge, we measure the running clearance for each bearing. We also measure crankshaft end-float with a dial test indicator."
         },
         {
-          "title": "",
+          "title": "New Bearing Installation",
           "body": "We fit new main bearings, big-end bearings, and thrust washers. Assembly lube is applied, and bearing caps are torqued to factory specs."
         },
         {
-          "title": "",
+          "title": "Reassembly & Testing",
           "body": "We reassemble the engine, refit it to the vehicle, and conduct a full road test to ensure everything is operating correctly."
         }
       ]
@@ -182,8 +211,8 @@
           "items": [
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
             "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
-            "[Jaguar V8 Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
-            "[Jaguar Cylinder Head Repair & Rebuild](/jaguar-cylinder-head-repair-rebuild)",
+            "[Jaguar V8 Timing Chain Repair](/jaguar-v8-timing-chain-repair)",
+            "[Jaguar Cylinder Head Repair & Rebuild](/jaguar-cylinder-head-repair)",
             "[High-Mileage Engine Rebuild](/jaguar-high-mileage-engine-rebuild)"
           ]
         },

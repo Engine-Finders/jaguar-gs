@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Ingenium Diesel Repair (AJ200D) | Jaguar Garage",
-  description: "Jaguar Ingenium diesel repair specialists. Timing chain and injector seal replacement for AJ200D engines. Fixed-price quotes and 12-month warranty.",
+  description: "Specialist repair for Jaguar Ingenium AJ200D diesel engines. Timing chain replacement, injector seals, and full rebuilds by expert technicians. Get a fixed-price quote.",
   alternates: { canonical: PATH },
 };
 

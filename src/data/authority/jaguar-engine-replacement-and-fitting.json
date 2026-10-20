@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -61,7 +61,7 @@
           "heading": "",
           "paras": [
             "Engine replacement costs vary by model and engine type. We provide a fixed-price quote after a thorough inspection.",
-            "[Contact us](/contact) for a personalised estimate. [Learn more about our pricing policy →](/pricing-legal-disclaimer)"
+            "[Contact us](/get-quote) for a personalised estimate. [Learn more about our pricing policy →](/pricing-legal-disclaimer)"
           ]
         }
       ]
@@ -75,6 +75,51 @@
           "html": "We replace engines across the full Jaguar range. Below are the model pages and some of the most common variants we work on – click through to see detailed information for your model."
         },
         {
+          "t": "table",
+          "head": [
+            "Model",
+            "Key Variants"
+          ],
+          "rows": [
+            [
+              "[X-Type](/jaguar-x-type-engines)",
+              "[3.0 V6](/jaguar-x-type-3-0-v6-engines), [2.0d](/jaguar-x-type-2-0d-engines)"
+            ],
+            [
+              "[S-Type](/jaguar-s-type-engines)",
+              "[3.0 V6](/jaguar-s-type-3-0-v6-engines), [2.7d](/jaguar-s-type-2-7d-engines), [R (4.2 V8)](/jaguar-s-type-r-engines)"
+            ],
+            [
+              "[XJ](/jaguar-xj-engines)",
+              "[5.0 V8](/jaguar-xj-engines), [3.0d](/jaguar-xj-3-0d-engines), [XJR](/jaguar-xj-engines)"
+            ],
+            [
+              "[XK](/jaguar-xk-engines)",
+              "[5.0 V8](/jaguar-xk-5-0-v8-engines), [XKR (5.0 supercharged)](/jaguar-xk-engines)"
+            ],
+            [
+              "[XE](/jaguar-xe-engines)",
+              "[2.0d](/jaguar-xe-2-0d-engines), [P250](/jaguar-xe-p250-engines), [300 Sport](/jaguar-xe-300-sport-engines)"
+            ],
+            [
+              "[XF](/jaguar-xf-engines)",
+              "[5.0 V8](/jaguar-xf-5-0-v8-aj133-engines), [3.0d](/jaguar-xf-engines), [300 Sport](/jaguar-xf-300-sport-engines)"
+            ],
+            [
+              "[F-Type](/jaguar-f-type-engines)",
+              "[R (5.0 V8)](/jaguar-f-type-r-engines), [V6 S](/jaguar-f-type-v6-s-engines)"
+            ],
+            [
+              "[F-Pace](/jaguar-f-pace-engines)",
+              "[D200](/jaguar-f-pace-d200-engines), [SVR (5.0 V8)](/jaguar-f-pace-svr-engines)"
+            ],
+            [
+              "[E-Pace](/jaguar-e-pace-engines)",
+              "[D165](/jaguar-e-pace-d165-engines), [P250](/jaguar-e-pace-p250-engines)"
+            ]
+          ]
+        },
+        {
           "t": "p",
           "html": "Need a different variant? [Contact us](/contact) with your registration and we'll match it."
         }
@@ -85,35 +130,35 @@
       "heading": "Our Engine Replacement Process – Step by Step",
       "steps": [
         {
-          "title": "",
+          "title": "Vehicle Arrival & Assessment",
           "body": "We position your Jaguar in our workshop and confirm the exact replacement engine specification against your VIN and engine code."
         },
         {
-          "title": "",
+          "title": "Disconnection & Preparation",
           "body": "All electrical connectors, coolant hoses, fuel lines, and exhaust components are carefully disconnected and labelled for reassembly."
         },
         {
-          "title": "",
+          "title": "Engine Extraction",
           "body": "Using an engine hoist (or subframe drop where required), we remove the old engine from the vehicle – a process tailored to each Jaguar model."
         },
         {
-          "title": "",
+          "title": "Replacement Engine Preparation",
           "body": "We mount the replacement engine on a stand, transfer any needed ancillaries (alternator, sensors, manifolds), and install upgraded parts (timing chains, water pumps) while access is easy."
         },
         {
-          "title": "",
+          "title": "Installation & Reconnection",
           "body": "The replacement engine is carefully lowered into the bay, all mounts are secured, and every electrical and fluid line is reconnected to factory specifications."
         },
         {
-          "title": "",
+          "title": "Fluid Fill & System Bleeding",
           "body": "Engine oil and coolant are filled, and the cooling system is bled using Jaguar-specific procedures to prevent airlocks."
         },
         {
-          "title": "",
+          "title": "Electronic Programming & Testing",
           "body": "We perform ECU coding and security synchronisation using JLR SDD/Pathfinder, and run electronic throttle adaptation. Full road testing follows."
         },
         {
-          "title": "",
+          "title": "Handover & Warranty",
           "body": "Your Jaguar is returned with a detailed summary of the work and a 12-month unlimited-mileage warranty on the replacement."
         }
       ]
@@ -145,7 +190,7 @@
       "steps": [
         {
           "title": "",
-          "body": "Call or [request a quote online](/contact) – we'll discuss your vehicle and arrange an inspection."
+          "body": "Call or [request a quote online](/get-quote) – we'll discuss your vehicle and arrange an inspection."
         },
         {
           "title": "",
@@ -170,9 +215,9 @@
           "items": [
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
             "[Jaguar Engine Supply & Fit](/jaguar-engine-supply-fit)",
-            "[Jaguar Engine Removal, Refit & Final Testing](/jaguar-engine-replacement-and-fitting)",
+            "Jaguar Engine Removal, Refit & Final Testing",
             "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
-            "[Jaguar Nationwide Engine Recovery](/jaguar-nationwide-engine-recovery)"
+            "[Jaguar Nationwide Engine Recovery](/jaguar-engine-recovery)"
           ]
         }
       ]

@@ -1,13 +1,13 @@
 {
   "slug": "jaguar-engine-failure-repair",
   "metaTitle": "Jaguar Engine Failure Repair | Jaguar Garage",
-  "metaDescription": "Specialist assessment and repair of failed Jaguar engines. Precision strip-down, machining, and reassembly to restore your engine to correct specification.",
+  "metaDescription": "Jaguar engine failure repair specialists. We assess, strip down, and rebuild failed Jaguar engines. Get a detailed inspection report and fixed-price quote.",
   "h1": "Jaguar Engine Failure Repair",
-  "lede": "Comprehensive assessment and professional repair of failed Jaguar engines, from initial inspection through to final road testing.",
+  "lede": "When a Jaguar engine has already failed, our workshop takes over. We don't diagnose the cause — we assess the damage, strip the engine, identify what can be saved, and give you a clear path forward.",
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -40,186 +40,338 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When a failed Jaguar engine arrives at our workshop, we begin with a systematic assessment to determine the extent of the failure and identify which components are salvageable. This process is entirely focused on the current state of the engine, not on why it failed."
+          "html": "When a Jaguar engine has already failed, our workshop takes over. We don't diagnose the cause — we assess the damage, strip the engine, identify what can be saved, and give you a clear path forward."
         },
         {
           "t": "p",
-          "html": "We start with a thorough visual inspection of the engine exterior, followed by a complete strip-down. Every component is cleaned, measured, and inspected against Jaguar's original specifications. We check cylinder bores, crankshaft journals, pistons, connecting rods, bearings, and the cylinder head for dimensional accuracy, surface condition, and any signs of distress."
+          "html": "The process begins the moment your vehicle arrives. We carry out a full visual inspection of the engine bay and ancillaries, then remove the engine for a complete strip-down. Every component is cleaned, measured, and inspected against factory tolerances. We then prepare a detailed report with photographs, a repair plan, and a fixed-price quote for the work needed."
         },
         {
           "t": "p",
-          "html": "Based on our findings, we produce a detailed report and quotation that clearly states which parts can be reused, which need reconditioning, and which must be replaced. This provides you with a transparent view of the work required before any repairs begin."
+          "html": "If you choose to proceed, we machine, replace, and rebuild the engine to our standard specification, then refit it and road-test the vehicle before handover."
         },
         {
           "t": "p",
-          "html": "We then carry out the necessary machining (honing, boring, grinding) and replace all worn or damaged parts with genuine or high-quality equivalents. The engine is reassembled using factory torque settings and clearances, and finally tested on our bench to confirm oil pressure, temperature stability, and noise-free operation."
-        },
-        {
-          "t": "p",
-          "html": "All work is linked to the specific Jaguar model and engine variant involved, ensuring every repair is exactly matched to the original design."
+          "html": "[Get a quote for your Jaguar engine failure repair →](/get-quote)"
         }
       ]
     },
     {
       "kind": "prose",
-      "heading": "Starting Price",
+      "heading": "",
       "blocks": [
         {
           "t": "callout",
-          "heading": "",
+          "heading": "Rebuilds start from",
           "paras": [
-            "**Engine failure repair from £2,500**This covers full strip-down, measurement, assessment, and a detailed quotation for the remedial work. Final cost depends on the extent of damage and parts required.",
-            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+            "£2,000",
+            "Fixed-price quote after strip-down inspection. [Pricing disclaimer](/pricing-legal-disclaimer)"
           ]
         }
       ]
     },
     {
       "kind": "prose",
-      "heading": "Applicable Jaguar Models & Engines",
+      "heading": "Which Jaguar models we cover",
       "blocks": [
         {
           "t": "p",
-          "html": "Our engine failure repair service covers all Jaguar models and engine families. Below are the most common ones we work on:"
+          "html": "We handle engine failure repair across the full Jaguar range. Below are the key models and engine families we work on — click through to see detailed engine information for each."
         },
         {
-          "t": "linkgrid",
-          "items": [
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XE",
+            "href": "/jaguar-xe-engines"
+          },
+          "chips": [
             {
-              "label": "Jaguar XE",
-              "href": null
+              "label": "XE 2.0d",
+              "href": "/jaguar-xe-engines"
+            },
+            {
+              "label": "XE P250",
+              "href": "/jaguar-xe-p250-engines"
+            },
+            {
+              "label": "XE 300 Sport",
+              "href": "/jaguar-xe-300-sport-engines"
             }
-          ]
+          ],
+          "note": "Including [XE 2.0d](/jaguar-xe-engines), [XE P250](/jaguar-xe-p250-engines), [XE 300 Sport](/jaguar-xe-300-sport-engines)"
         },
         {
-          "t": "p",
-          "html": "Specific variant links (examples):"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XF",
+            "href": "/jaguar-xf-engines"
+          },
+          "chips": [
+            {
+              "label": "XF 2.0d",
+              "href": "/jaguar-xf-2-0d-engines"
+            },
+            {
+              "label": "XF 3.0d",
+              "href": "/jaguar-xf-engines"
+            },
+            {
+              "label": "XF 5.0 V8",
+              "href": "/jaguar-xf-5-0-v8-aj133-engines"
+            }
+          ],
+          "note": "Including [XF 2.0d](/jaguar-xf-2-0d-engines), [XF 3.0d](/jaguar-xf-engines), [XF 5.0 V8](/jaguar-xf-5-0-v8-aj133-engines)"
         },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XJ",
+            "href": "/jaguar-xj-engines"
+          },
+          "chips": [
+            {
+              "label": "XJ 3.0d",
+              "href": "/jaguar-xj-3-0d-engines"
+            },
+            {
+              "label": "XJ 5.0 V8",
+              "href": "/jaguar-xj-engines"
+            },
+            {
+              "label": "XJR",
+              "href": "/jaguar-xj-engines"
+            }
+          ],
+          "note": "Including [XJ 3.0d](/jaguar-xj-3-0d-engines), [XJ 5.0 V8](/jaguar-xj-engines), [XJR](/jaguar-xj-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XK",
+            "href": "/jaguar-xk-engines"
+          },
+          "chips": [
+            {
+              "label": "XK 5.0 V8",
+              "href": "/jaguar-xk-5-0-v8-engines"
+            },
+            {
+              "label": "XKR",
+              "href": "/jaguar-xk-engines"
+            }
+          ],
+          "note": "Including [XK 5.0 V8](/jaguar-xk-5-0-v8-engines), [XKR](/jaguar-xk-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Type",
+            "href": "/jaguar-f-type-engines"
+          },
+          "chips": [
+            {
+              "label": "F-Type V6 S",
+              "href": "/jaguar-f-type-v6-s-engines"
+            },
+            {
+              "label": "F-Type R",
+              "href": "/jaguar-f-type-r-engines"
+            },
+            {
+              "label": "F-Type SVR",
+              "href": "/jaguar-f-type-svr-engines"
+            }
+          ],
+          "note": "Including [F-Type V6 S](/jaguar-f-type-v6-s-engines), [F-Type R](/jaguar-f-type-r-engines), [F-Type SVR](/jaguar-f-type-svr-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Pace",
+            "href": "/jaguar-f-pace-engines"
+          },
+          "chips": [
+            {
+              "label": "F-Pace D200",
+              "href": "/jaguar-f-pace-d200-engines"
+            },
+            {
+              "label": "F-Pace SVR",
+              "href": "/jaguar-f-pace-svr-engines"
+            }
+          ],
+          "note": "Including [F-Pace D200](/jaguar-f-pace-d200-engines), [F-Pace SVR](/jaguar-f-pace-svr-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar E-Pace",
+            "href": "/jaguar-e-pace-engines"
+          },
+          "chips": [
+            {
+              "label": "E-Pace D200",
+              "href": "/jaguar-e-pace-d200-engines"
+            },
+            {
+              "label": "E-Pace P250",
+              "href": "/jaguar-e-pace-p250-engines"
+            }
+          ],
+          "note": "Including [E-Pace D200](/jaguar-e-pace-d200-engines), [E-Pace P250](/jaguar-e-pace-p250-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar X-Type",
+            "href": "/jaguar-x-type-engines"
+          },
+          "chips": [
+            {
+              "label": "X-Type 2.0d",
+              "href": "/jaguar-x-type-2-0d-engines"
+            },
+            {
+              "label": "X-Type 3.0 V6",
+              "href": "/jaguar-x-type-3-0-v6-engines"
+            }
+          ],
+          "note": "Including [X-Type 2.0d](/jaguar-x-type-2-0d-engines), [X-Type 3.0 V6](/jaguar-x-type-3-0-v6-engines)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar S-Type",
+            "href": "/jaguar-s-type-engines"
+          },
+          "chips": [
+            {
+              "label": "S-Type 3.0 V6",
+              "href": "/jaguar-s-type-3-0-v6-engines"
+            },
+            {
+              "label": "S-Type R",
+              "href": "/jaguar-s-type-r-engines"
+            }
+          ],
+          "note": "Including [S-Type 3.0 V6](/jaguar-s-type-3-0-v6-engines), [S-Type R](/jaguar-s-type-r-engines)"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our engine failure repair process",
+      "steps": [
+        {
+          "title": "Initial inspection & vehicle arrival",
+          "body": "We visually inspect the engine bay and ancillaries, then remove the engine for full assessment."
+        },
+        {
+          "title": "Full strip-down & cleaning",
+          "body": "Every component is dismantled, degreased, and cleaned to reveal the true condition of each part."
+        },
+        {
+          "title": "Component measurement & inspection",
+          "body": "We measure crankshafts, camshafts, bearings, pistons, and cylinder bores against factory tolerances."
+        },
+        {
+          "title": "Diagnostic report & fixed-price quote",
+          "body": "You receive a detailed report with photos, a repair plan, and a clear fixed-price quote before any work begins."
+        },
+        {
+          "title": "Machining & parts replacement",
+          "body": "We machine the block, crank, and cylinder head as needed, and replace all worn or out-of-spec components."
+        },
+        {
+          "title": "Rebuild, refit & road test",
+          "body": "The engine is reassembled with new bearings, seals, and gaskets, refitted, and the vehicle is road-tested before handover."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why choose Jaguar Garage",
+      "blocks": [
         {
           "t": "ul",
           "items": [
-            "XJ 5.0 V8 (AJ133)",
-            "XF 5.0 Supercharged (XFR)",
-            "XE D200 (AJ200D)",
-            "F-Type R (AJ133S)",
-            "XK 5.0 V8"
+            "Specialist Jaguar engine workshop since 2009",
+            "Full strip-down inspection with photographic report",
+            "Fixed-price quote after inspection — no hidden costs",
+            "In-house machining: boring, honing, grinding, and skimming",
+            "12-month unlimited-mileage warranty on all rebuilds",
+            "Nationwide recovery service available",
+            "[Meet our workshop →](/about)"
           ]
         }
       ]
     },
     {
       "kind": "steps",
-      "heading": "Our Engine Failure Repair Process",
+      "heading": "How it works — from arrival to collection",
       "steps": [
         {
-          "title": "Initial Inspection & Strip-down",
-          "body": "We remove the engine and fully disassemble it, cataloguing every component for assessment."
+          "title": "Contact us",
+          "body": "Call, email, or use our [online quote form](/get-quote) to tell us about your vehicle."
         },
         {
-          "title": "Precision Measurement",
-          "body": "Every critical part is measured against factory specifications using calibrated instruments."
+          "title": "Vehicle recovery",
+          "body": "We arrange nationwide recovery to bring your Jaguar to our workshop."
         },
         {
-          "title": "Repair Plan & Quotation",
-          "body": "We identify salvageable parts, required machining, and necessary replacements, then provide a clear quote."
+          "title": "Inspection & quote",
+          "body": "We strip and inspect the engine, then provide a detailed report and fixed-price quote."
         },
         {
-          "title": "Machining & Parts Sourcing",
-          "body": "All machine work (honing, grinding, boring) is performed, and high-quality replacement parts are ordered."
+          "title": "Rebuild",
+          "body": "With your approval, we machine, replace, and rebuild the engine to our standard specification."
         },
         {
-          "title": "Precision Reassembly",
-          "body": "Engine is reassembled with exact torque settings, clearances, and assembly lubricants."
-        },
-        {
-          "title": "Comprehensive Testing",
-          "body": "Bench run-in and performance tests confirm oil pressure, temperature, and noise-free operation."
+          "title": "Collection",
+          "body": "We road-test the vehicle, and you collect your Jaguar with a 12-month warranty."
         }
       ]
     },
     {
       "kind": "prose",
-      "heading": "Why Choose Jaguar Garage for Engine Failure Repair",
+      "heading": "Related services",
       "blocks": [
         {
           "t": "ul",
           "items": [
-            "Over a decade of specialist Jaguar engine work",
-            "Fully equipped machine shop with in-house honing, boring, and grinding capability",
-            "Every engine measured against Jaguar's original tolerances",
-            "12-month unlimited-mileage warranty on all repair work",
-            "Transparent quoting with no hidden costs",
-            "[Learn more about our workshop →](/about)"
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "steps",
-      "heading": "How Our Engine Failure Repair Service Works",
-      "steps": [
-        {
-          "title": "Contact & Booking",
-          "body": "Call, WhatsApp, or email us to arrange a drop-off or collection. We'll discuss your engine's situation."
-        },
-        {
-          "title": "Free Initial Assessment",
-          "body": "We carry out a non-invasive inspection and provide a preliminary estimate of the work scope."
-        },
-        {
-          "title": "Strip-down & Detailed Quote",
-          "body": "Upon approval, we fully dismantle the engine, measure everything, and issue a fixed-price repair quote."
-        },
-        {
-          "title": "Repair & Testing",
-          "body": "We carry out the work, then run the engine on our test bench to confirm it meets all performance criteria."
-        },
-        {
-          "title": "Refit & Road Test",
-          "body": "Engine is refitted to your Jaguar, and we conduct a road test to ensure everything functions perfectly."
-        }
-      ]
-    },
-    {
-      "kind": "prose",
-      "heading": "Related Services",
-      "blocks": [
-        {
-          "t": "ul",
-          "items": [
-            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
             "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
-            "[Jaguar Timing Chain Failure Repair](/jaguar-timing-chain-failure-repair)",
-            "[Jaguar Engine Machining](/jaguar-engine-machining-and-rebuild-preparation)",
-            "[Jaguar Failed Previous Rebuild Remediation](/jaguar-failed-previous-rebuild-remediation)"
+            "[Jaguar Nationwide Engine Recovery](/jaguar-engine-recovery)",
+            "Jaguar Engine Teardown & Inspection",
+            "[Jaguar Rebuild vs Replacement](/jaguar-rebuild-vs-replacement)"
           ]
-        },
-        {
-          "t": "p",
-          "html": "Read our [guide to what happens during a rebuild](/guides) and [how we test engines](/guides)."
         }
       ]
     },
     {
       "kind": "faq",
-      "heading": "Frequently Asked Questions",
+      "heading": "Frequently asked questions",
       "items": [
         {
-          "q": "How long does the engine failure repair process take?",
-          "a": "Typical turnaround is 2–4 weeks from initial assessment to completion, depending on the complexity and parts availability. We will give you a clear time estimate during the quotation stage."
+          "q": "What happens when my Jaguar arrives for engine failure repair?",
+          "a": "We carry out a visual inspection, then remove the engine for a full strip-down. Every component is cleaned, measured, and inspected. You receive a detailed report with photos and a fixed-price quote before any work begins."
         },
         {
-          "q": "Do you offer a warranty on repaired engines?",
-          "a": "Yes. All engine failure repair work carries our standard 12-month unlimited-mileage warranty, covering parts and labour for any faults arising from our work."
+          "q": "How long does the assessment take?",
+          "a": "The strip-down and inspection typically takes 1–2 working days. We then prepare your report and quote. The overall timeframe depends on the engine condition and the extent of the work needed."
         },
         {
-          "q": "Can you repair any Jaguar engine?",
-          "a": "We work on all Jaguar petrol and diesel engines, from the classic AJ-V8 to modern Ingenium units. If you are unsure, contact us with your VIN and we will confirm."
+          "q": "Do you provide a warranty on the rebuild?",
+          "a": "Yes. All our engine rebuilds come with a 12-month unlimited-mileage warranty covering parts and labour."
         },
         {
-          "q": "What if my engine is beyond economical repair?",
-          "a": "If the damage is too extensive, we will advise you honestly and offer alternative solutions such as replacement or supply-and-fit. Our goal is to give you the best outcome for your budget."
+          "q": "Can you recover my vehicle?",
+          "a": "Yes. We offer nationwide recovery for Jaguar vehicles. [Learn more about our recovery service →](/jaguar-engine-recovery)"
+        },
+        {
+          "q": "What if the engine is beyond repair?",
+          "a": "If the engine block or cylinder head is beyond machining or replacement, we will advise you on the best course of action — typically engine replacement. We supply and fit replacement engines."
         }
       ]
     }

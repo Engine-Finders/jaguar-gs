@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Engine Rebuild | Jaguar Garage",
-  description: "Professional Jaguar engine rebuilds performed in our Essex workshop. Full strip-down, precision machining, reassembly and testing. Fixed-price quotes available.",
+  description: "Professional Jaguar engine rebuild service — complete strip-down, machining, assembly and testing. All models including XJ, XK, XE, XF, F-Type and more.",
   alternates: { canonical: PATH },
 };
 

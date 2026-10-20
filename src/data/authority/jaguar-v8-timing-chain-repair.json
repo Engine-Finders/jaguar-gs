@@ -1,0 +1,259 @@
+{
+  "slug": "jaguar-v8-timing-chain-repair",
+  "metaTitle": "Jaguar V8 Supercharged Timing Chain Repair | Jaguar Garage",
+  "metaDescription": "Specialist timing chain repair for Jaguar AJ133/AJ126 supercharged V8 engines. Expert replacement using manufacturer-specified tools and updated components.",
+  "h1": "Jaguar V8 Supercharged Timing Chain Repair",
+  "lede": "Specialist timing chain replacement for Jaguar AJ133 and AJ126 supercharged V8 engines — using manufacturer-specified tools and updated components.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/get-quote"
+    }
+  ],
+  "images": [
+    "/model/sec5.webp",
+    "/variant/sec13.webp",
+    "/engine/sec8_middle.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Replacing the timing chain on a Jaguar AJ133 or AJ126 supercharged V8 engine is a specialist procedure that requires precision and the correct tooling."
+        },
+        {
+          "t": "p",
+          "html": "The work begins with disconnecting the battery and safely raising the vehicle. The front timing cover must be removed, which involves taking off the crankshaft pulley/harmonic balancer, water pump, thermostat housing, and associated cooling system components. The cooling fan, fan shroud, and coolant hoses are also disturbed to gain access."
+        },
+        {
+          "t": "p",
+          "html": "Once the timing cover is off, the timing chain tensioner is removed, followed by the variable valve timing (VVT) unit bolts. The timing chain and VVT units are then removed as an assembly. If a VVT unit is knocked or dropped, it must be replaced with a new unit — these components are sensitive to impact."
+        },
+        {
+          "t": "p",
+          "html": "During reassembly, the crankshaft is locked in position using specialist holding tools, and the camshafts are aligned using camshaft locking tools. The crankshaft **must only be rotated clockwise** — rotating backward can cause the timing to jump. Two distinct timing component designs exist for this engine family (Tsubaki and INA systems), and the correct updated components must be identified and installed. The revised INA system features a steel insert on the moveable guide to prevent plunger wear."
+        },
+        {
+          "t": "p",
+          "html": "After fitting new timing chains, guides, tensioners, and friction washers, the tensioners are deployed and timing is verified. The engine is then fully tested to confirm correct timing and operation before the vehicle is returned."
+        },
+        {
+          "t": "p",
+          "html": "All work is carried out with the engine in situ, unless additional head or bottom-end work is required alongside."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Timing chain replacement for the AJ133/AJ126 V8 starts from £2,800** Includes all genuine timing components, labour, and workshop consumables. [View pricing disclaimer](/pricing-legal-disclaimer)."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "[Get a firm quote](/get-quote)"
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "The AJ133 (5.0L V8 supercharged) and AJ126 (3.0L V6 supercharged) are fitted across the following Jaguar models:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "Jaguar XJ",
+              "href": "/jaguar-xj-engines"
+            },
+            {
+              "label": "Jaguar XK",
+              "href": "/jaguar-xk-engines"
+            },
+            {
+              "label": "Jaguar XF",
+              "href": "/jaguar-xf-engines"
+            },
+            {
+              "label": "Jaguar F-Type",
+              "href": "/jaguar-f-type-engines"
+            },
+            {
+              "label": "Jaguar F-Pace",
+              "href": "/jaguar-f-pace-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "**Specific variants covered:**"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[XJ 5.0 V8 (AJ133, NA)](/jaguar-xj-engines)",
+            "[XJ 5.0 V8 Supercharged (AJ133S)](/jaguar-xj-engines)",
+            "[XK 5.0 V8 (AJ133)](/jaguar-xk-5-0-v8-engines)",
+            "[XF 5.0 V8 (AJ133)](/jaguar-xf-5-0-v8-aj133-engines)",
+            "[XF 5.0 V8 Supercharged / XFR (AJ133S)](/jaguar-xf-engines)",
+            "[F-Type R (AJ133S)](/jaguar-f-type-r-engines)",
+            "[F-Type SVR (AJ133S)](/jaguar-f-type-svr-engines)",
+            "[F-Pace SVR (AJ133S)](/jaguar-f-pace-svr-engines)",
+            "[F-Type V6 S (AJ126)](/jaguar-f-type-v6-s-engines)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Also see our dedicated engine pages: [AJ133 (AJ-V8 Gen III)](/jaguar-aj133-engine) and [AJ126](/jaguar-aj126-engine)."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Access & Preparation",
+          "body": "Battery disconnected, vehicle raised. Remove cooling fan, shroud, hoses, and water pump/thermostat housing. Remove crankshaft pulley."
+        },
+        {
+          "title": "Disassembly",
+          "body": "Remove timing cover, tensioner, VVT unit bolts, and then the timing chain and VVT assemblies. Inspect all components; replace VVT units if damaged."
+        },
+        {
+          "title": "Component Selection",
+          "body": "Identify which timing system (Tsubaki or INA) is fitted. Select the correct updated chain, guides, tensioners, and friction washers."
+        },
+        {
+          "title": "Reassembly & Timing",
+          "body": "Lock camshafts and crankshaft using specialist tools. Install new chain, guides, and tensioners. Rotate crankshaft clockwise only. Deploy tensioners."
+        },
+        {
+          "title": "Verification & Testing",
+          "body": "Verify timing marks and run the engine to check operation. Road-test the vehicle to confirm all systems function correctly."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Check Your Vehicle",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Enter your registration to confirm which engine your Jaguar has and whether this timing chain repair applies."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist tooling** – We own the manufacturer-specified camshaft locking tools, crankshaft holding tools, and timing pre-tensioning equipment.",
+            "**Updated components** – We always fit the latest revised timing chain kit (INA system with steel guide inserts) to prevent recurrence.",
+            "**Experienced technicians** – Our workshop has rebuilt and repaired hundreds of AJ133 and AJ126 engines.",
+            "**12-month unlimited-mileage warranty** – All timing chain repairs are backed by our comprehensive warranty.",
+            "**Transparent pricing** – Fixed-price quotes with no hidden extras; we explain exactly what's included.",
+            "[Learn more about our workshop →](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us via phone, WhatsApp, or our online quote form."
+        },
+        {
+          "title": "",
+          "body": "We confirm your engine type and arrange a workshop inspection."
+        },
+        {
+          "title": "",
+          "body": "We provide a fixed-price quote for the timing chain replacement."
+        },
+        {
+          "title": "",
+          "body": "Once approved, we book your vehicle in and complete the work."
+        },
+        {
+          "title": "",
+          "body": "We test and verify timing, then return your Jaguar with a full warranty."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar Supercharger & Turbo Repair](/jaguar-supercharger-turbo-repair)",
+            "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read more: [Buying a used Jaguar with the AJ133 engine – what to check](/guides) and [What actually happens during an engine rebuild](/guides)."
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a timing chain replacement take on an AJ133/AJ126?",
+          "a": "Book time for this job is approximately 18–19 hours of workshop labour, though we often complete the work in 3–4 working days to allow for careful disassembly, parts sourcing, and testing."
+        },
+        {
+          "q": "Do you replace the water pump and thermostat at the same time?",
+          "a": "Because the water pump and thermostat housing must be removed to access the timing cover, we include replacement of these parts as part of our standard timing chain service. We also replace the front crankshaft seal and any degraded cooling system pipes."
+        },
+        {
+          "q": "Can you do the timing chain with the engine in the car?",
+          "a": "Yes – on both the AJ133 and AJ126, the timing chains can be replaced with the engine in situ. We only remove the engine if additional work such as head gaskets is also required."
+        },
+        {
+          "q": "What warranty do you offer on a timing chain repair?",
+          "a": "All our timing chain replacements are covered by a 12-month unlimited-mileage warranty, which includes parts and labour. Full details are on our [warranty page](/warranty)."
+        }
+      ]
+    }
+  ]
+}

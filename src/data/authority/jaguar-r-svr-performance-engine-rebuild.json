@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact us",
@@ -50,24 +50,29 @@
           },
           "chips": [
             {
-              "label": "**Full strip-down** – the engine is completely disassembled, with every component labelled and inspected.",
-              "href": null
+              "label": "**Full strip-down**",
+              "href": null,
+              "desc": "the engine is completely disassembled, with every component labelled and inspected."
             },
             {
-              "label": "**Machining to factory tolerances** – cylinders are bored and honed, surfaces resurfaced, and all critical dimensions restored to OEM specifications.",
-              "href": null
+              "label": "**Machining to factory tolerances**",
+              "href": null,
+              "desc": "cylinders are bored and honed, surfaces resurfaced, and all critical dimensions restored to OEM specifications."
             },
             {
-              "label": "**Inspection and component selection** – all parts are measured and assessed; worn or out-of-spec items are replaced with genuine Jaguar or equivalent-quality parts.",
-              "href": null
+              "label": "**Inspection and component selection**",
+              "href": null,
+              "desc": "all parts are measured and assessed; worn or out-of-spec items are replaced with genuine Jaguar or equivalent-quality parts."
             },
             {
-              "label": "**Precision reassembly** – the engine is rebuilt using factory procedures, with absolute attention to torque settings, clearances, and alignment.",
-              "href": null
+              "label": "**Precision reassembly**",
+              "href": null,
+              "desc": "the engine is rebuilt using factory procedures, with absolute attention to torque settings, clearances, and alignment."
             },
             {
-              "label": "**High-load road test** – after installation, the vehicle undergoes a full road test to verify performance under real-world conditions.",
-              "href": null
+              "label": "**High-load road test**",
+              "href": null,
+              "desc": "after installation, the vehicle undergoes a full road test to verify performance under real-world conditions."
             }
           ]
         },
@@ -79,16 +84,19 @@
           },
           "chips": [
             {
-              "label": "**Supercharger servicing** – R and SVR models use Eaton TVS superchargers (on AJ126 and AJ133 engines). These are rebuilt as part of the service with new bearings, fresh supercharger oil, new seals, and a replacement coupler.",
-              "href": null
+              "label": "**Supercharger servicing**",
+              "href": null,
+              "desc": "R and SVR models use Eaton TVS superchargers (on AJ126 and AJ133 engines). These are rebuilt as part of the service with new bearings, fresh supercharger oil, new seals, and a replacement coupler."
             },
             {
-              "label": "**Absolute precision assembly** – with outputs up to 575 PS in SVR specification, every clearance and torque setting must be exact. We work to Jaguar factory specifications using OEM tools and procedures.",
-              "href": null
+              "label": "**Absolute precision assembly**",
+              "href": null,
+              "desc": "with outputs up to 575 PS in SVR specification, every clearance and torque setting must be exact. We work to Jaguar factory specifications using OEM tools and procedures."
             },
             {
-              "label": "**Component quality** – we use OEM or OEM-specification parts. Where appropriate, we may fit upgraded components for enhanced durability under sustained performance driving.",
-              "href": null
+              "label": "**Component quality**",
+              "href": null,
+              "desc": "we use OEM or OEM-specification parts. Where appropriate, we may fit upgraded components for enhanced durability under sustained performance driving."
             }
           ]
         }
@@ -103,6 +111,13 @@
           "heading": "",
           "paras": [
             "**Performance engine rebuild starts from:**",
+            {
+              "ul": [
+                "**AJ126 Supercharged V6 (F-Type V6 S):** from £3,600",
+                "**AJ133 Supercharged V8 (R models):** from £5,500",
+                "**AJ133 Supercharged V8 (SVR models):** from £6,500"
+              ]
+            },
             "Final cost depends on condition and any additional parts required. We provide a fixed-price quote after full inspection and strip-down. [View pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         }
@@ -117,57 +132,64 @@
           "html": "We rebuild performance engines across the full Jaguar R and SVR range. Each link goes to the dedicated page for that model or engine."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "Jaguar F-Type",
-              "href": null
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Type",
+            "href": "/jaguar-f-type-engines"
+          },
+          "chips": [
             {
               "label": "F-Type R →",
-              "href": null
+              "href": "/jaguar-f-type-r-engines"
             },
             {
               "label": "SVR →",
-              "href": null
+              "href": "/jaguar-f-type-svr-engines"
             }
-          ]
+          ],
+          "note": "R (5.0 V8, 550 PS) & SVR (5.0 V8, 575 PS) – AJ133 supercharged V8"
         },
         {
-          "t": "h3",
-          "text": "Jaguar F-Pace"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Pace",
+            "href": "/jaguar-f-pace-engines"
+          },
+          "chips": [
+            {
+              "label": "F-Pace SVR →",
+              "href": "/jaguar-f-pace-svr-engines"
+            }
+          ],
+          "note": "SVR – 5.0 V8, 575 PS – AJ133 supercharged V8"
         },
         {
-          "t": "p",
-          "html": "SVR – 5.0 V8, 575 PS – AJ133 supercharged V8"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XF",
+            "href": "/jaguar-xf-engines"
+          },
+          "chips": [
+            {
+              "label": "XFR / XFR-S →",
+              "href": "/jaguar-xf-engines"
+            }
+          ],
+          "note": "XFR (5.0 V8, 510 PS) & XFR-S (5.0 V8, 550 PS) – AJ133 supercharged V8"
         },
         {
-          "t": "p",
-          "html": "F-Pace SVR →"
-        },
-        {
-          "t": "h3",
-          "text": "Jaguar XF"
-        },
-        {
-          "t": "p",
-          "html": "XFR (5.0 V8, 510 PS) & XFR-S (5.0 V8, 550 PS) – AJ133 supercharged V8"
-        },
-        {
-          "t": "p",
-          "html": "XFR / XFR-S →"
-        },
-        {
-          "t": "h3",
-          "text": "Jaguar XJ"
-        },
-        {
-          "t": "p",
-          "html": "XJR (5.0 V8, 550 PS) – AJ133 supercharged V8"
-        },
-        {
-          "t": "p",
-          "html": "XJR →"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XJ",
+            "href": "/jaguar-xj-engines"
+          },
+          "chips": [
+            {
+              "label": "XJR →",
+              "href": "/jaguar-xj-engines"
+            }
+          ],
+          "note": "XJR (5.0 V8, 550 PS) – AJ133 supercharged V8"
         },
         {
           "t": "p",
@@ -263,11 +285,11 @@
           "t": "ul",
           "items": [
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
-            "[Jaguar V8 Supercharged Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar V8 Supercharged Timing Chain Repair](/jaguar-v8-timing-chain-repair)",
             "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair)",
             "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
             "[Jaguar Supercharger & Turbo Repair](/jaguar-supercharger-turbo-repair)",
-            "[Jaguar Engine Rebuild Process](/jaguar-engine-rebuild)"
+            "Jaguar Engine Rebuild Process"
           ]
         }
       ]

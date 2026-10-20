@@ -1,0 +1,252 @@
+{
+  "slug": "jaguar-aj26-timing-chain-repair",
+  "metaTitle": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair | Jaguar Garage",
+  "metaDescription": "Specialist timing chain tensioner replacement for Jaguar X100 XK8 & XKR V8 engines. Full timing system overhaul with upgraded metal tensioners. Fixed-price quotes.",
+  "h1": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair",
+  "lede": "Specialist timing chain tensioner replacement for the X100 XK8 and XKR V8 engines.",
+  "ctas": [
+    {
+      "label": "Get a Fixed-Price Quote",
+      "href": "/get-quote"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+  "images": [
+    "/engine/sec4.webp",
+    "/engine/sec11_middle.webp",
+    "/variant/sec1.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our timing chain tensioner repair for the Jaguar AJ26 and AJ27 V8 engines (fitted to the X100 XK8 and XKR) is a comprehensive timing system overhaul. The service addresses the entire timing assembly, including:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Primary and secondary timing chains** – replaced with upgraded chains featuring forged rollers.",
+            "**Chain guides** – both straight and curved guides are replaced with metal-backed versions.",
+            "**Primary and secondary tensioners** – early plastic-bodied tensioners are upgraded to metal-bodied units (with shorter bolts where required).",
+            "**Oil sump removal** – to inspect for and remove any debris from worn guides.",
+            "**Gaskets and seals** – new valve cover gaskets, timing cover seals, and crankshaft oil seal are fitted."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "We offer two approaches depending on the condition of the engine:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "**Secondary tensioner replacement** – using the “zip-tie method” without disturbing the primary timing (suitable when only upper tensioners are worn).",
+            "**Full timing system replacement** – covers all chains, guides, and tensioners, requiring front cover removal and full timing tooling."
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Every repair includes a manual rotation check and a road test to verify correct timing and engine performance."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "We provide a fixed-price quote for this repair after a thorough inspection. Our quotes are transparent and include all parts, labour, and machining.",
+            "[Request a quote](/get-quote) – we'll give you a detailed breakdown before any work begins.",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Models & Engines",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "This repair applies to the following Jaguar models and engine codes. Click through for detailed information on each."
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XK (X100)",
+            "href": "/jaguar-xk-engines"
+          },
+          "chips": [
+            {
+              "label": "XK8",
+              "href": "/jaguar-xk-engines",
+              "desc": "AJ26 (1996–1998) / AJ27 (1999–2002)"
+            },
+            {
+              "label": "XKR (X100)",
+              "href": "/jaguar-xk-xkr-x100-engines",
+              "desc": "AJ26 supercharged (1997–1998) / AJ27 supercharged (1999–2002)"
+            }
+          ],
+          "note": "1996–2006, Coupe & Convertible"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "AJ26 Engine",
+            "href": "/jaguar-aj26-engine"
+          },
+          "chips": [],
+          "note": "4.0L naturally aspirated V8 (XK8, early)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "AJ27 Engine",
+            "href": "/jaguar-aj27-engine"
+          },
+          "chips": [],
+          "note": "4.0L naturally aspirated V8 (XK8, later) and supercharged (XKR)"
+        },
+        {
+          "t": "modelgroup",
+          "model": {
+            "label": "AJ-V8 Engine Family",
+            "href": "/jaguar-aj-v8-engine"
+          },
+          "chips": [],
+          "note": "All variants share similar timing architecture."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Process",
+      "steps": [
+        {
+          "title": "Inspection & Quote",
+          "body": "We inspect your vehicle and provide a fixed-price quote detailing all parts and labour."
+        },
+        {
+          "title": "Access & Removal",
+          "body": "Ancillary components, belts, and pulleys are removed to gain access to the timing cover."
+        },
+        {
+          "title": "Timing Cover & Cam Covers",
+          "body": "Front timing cover and cam covers are removed; camshaft locking tools are fitted."
+        },
+        {
+          "title": "Chain, Guide & Tensioner Replacement",
+          "body": "Old chains, guides, and tensioners are removed. Upgraded metal tensioners and new guides are installed."
+        },
+        {
+          "title": "Sump Inspection",
+          "body": "The oil sump is dropped to clear any debris from worn guides."
+        },
+        {
+          "title": "Reassembly & Testing",
+          "body": "New gaskets and seals are fitted; the engine is manually rotated, then road-tested."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Jaguar Garage",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Specialist V8 experience** – we have rebuilt and repaired hundreds of AJ-V8 engines.",
+            "**Factory-spec tooling** – we use the correct camshaft locking tools and tensioner wedges.",
+            "**Upgraded components** – we fit metal-bodied tensioners and forged-roller chains.",
+            "**Transparent pricing** – fixed-price quotes with no hidden costs.",
+            "**12-month unlimited-mileage warranty** on all our work.",
+            "[Learn more about our workshop](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How Our Service Works",
+      "steps": [
+        {
+          "title": "1. Contact Us",
+          "body": "Call, email, or use our online form to book an inspection."
+        },
+        {
+          "title": "2. Inspection & Quote",
+          "body": "We inspect your XK and provide a fixed-price quote."
+        },
+        {
+          "title": "3. Repair",
+          "body": "We carry out the timing system overhaul with upgraded parts."
+        },
+        {
+          "title": "4. Testing & Collection",
+          "body": "We test and road-test the vehicle before you collect."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-timing-chain-repair)",
+            "Inside Our Workshop",
+            "Jaguar Engine Rebuild Process"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does the AJ26/AJ27 timing chain tensioner repair involve?",
+          "a": "The repair involves replacing the primary and secondary timing chains, guides, and tensioners. On early engines, the plastic-bodied tensioners are upgraded to metal-bodied units. The front timing cover and cam covers are removed, and the oil sump is dropped to inspect for debris from worn guides."
+        },
+        {
+          "q": "What tools are required for this repair?",
+          "a": "Specialist tools include camshaft locking tools, crankshaft timing pins, tensioner wedges, and a crankshaft pulley holder capable of handling the 600Nm damper bolt. A full timing tool kit (such as Laser 5147) is typically used."
+        },
+        {
+          "q": "Is the repair different between the AJ26 and AJ27 engines?",
+          "a": "Yes. Gaskets differ between the two engine codes and are not interchangeable. The correct guide must also be verified against the build date, as primary guides changed during production."
+        },
+        {
+          "q": "Do you offer a fixed-price quote for this repair?",
+          "a": "Yes. We provide a detailed fixed-price quote after an initial inspection. The quote includes all parts, labour, and machining, with no hidden costs."
+        }
+      ]
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -70,6 +70,15 @@
           "heading": "",
           "paras": [
             "**Engine replacement from:**",
+            {
+              "ul": [
+                "4-cylinder (Ingenium / EcoBoost / ZSD) – from **£1,900**",
+                "V6 Diesel – from **£2,900**",
+                "V6 Petrol – from **£3,200**",
+                "V8 (naturally aspirated) – from **£4,500**",
+                "V8 Supercharged / SVR – from **£5,500**"
+              ]
+            },
             "Fixed-price quotes include all parts, labour, and ECU programming. [Pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         }
@@ -88,39 +97,39 @@
           "items": [
             {
               "label": "X-Type",
-              "href": null
+              "href": "/jaguar-x-type-engines"
             },
             {
               "label": "S-Type",
-              "href": null
+              "href": "/jaguar-s-type-engines"
             },
             {
               "label": "XJ",
-              "href": null
+              "href": "/jaguar-xj-engines"
             },
             {
               "label": "XK",
-              "href": null
+              "href": "/jaguar-xk-engines"
             },
             {
               "label": "XE",
-              "href": null
+              "href": "/jaguar-xe-engines"
             },
             {
               "label": "XF",
-              "href": null
+              "href": "/jaguar-xf-engines"
             },
             {
               "label": "F-Type",
-              "href": null
+              "href": "/jaguar-f-type-engines"
             },
             {
               "label": "F-Pace",
-              "href": null
+              "href": "/jaguar-f-pace-engines"
             },
             {
               "label": "E-Pace",
-              "href": null
+              "href": "/jaguar-e-pace-engines"
             }
           ]
         },
@@ -131,10 +140,10 @@
         {
           "t": "ul",
           "items": [
-            "XE 2.0d (AJ200D)",
-            "XF 3.0d (AJD-V6)",
-            "F-Type R (5.0 Supercharged V8)",
-            "XJ 5.0 Supercharged V8"
+            "[XE 2.0d (AJ200D)](/jaguar-xe-engines)",
+            "[XF 3.0d (AJD-V6)](/jaguar-xf-engines)",
+            "[F-Type R (5.0 Supercharged V8)](/jaguar-f-type-r-engines)",
+            "[XJ 5.0 Supercharged V8](/jaguar-xj-engines)"
           ]
         }
       ]
@@ -144,35 +153,35 @@
       "heading": "Our Process – Step by Step",
       "steps": [
         {
-          "title": "",
+          "title": "Pre-diagnostic & backup",
           "body": "We run a full JLR diagnostic scan, clear faults, and back up the current ECU settings to ensure a clean baseline."
         },
         {
-          "title": "",
+          "title": "Disassembly",
           "body": "Front bumper, radiator, intercooler, and often the front subframe are removed to access the engine bay."
         },
         {
-          "title": "",
+          "title": "Detach ancillaries",
           "body": "All electrical connectors, exhaust bolts, coolant hoses, and engine mounts are systematically disconnected."
         },
         {
-          "title": "",
+          "title": "Engine removal",
           "body": "Using a professional engine hoist (322 kg+ capacity), the old unit is lifted out – or the subframe is lowered as one assembly."
         },
         {
-          "title": "",
+          "title": "Component transfer",
           "body": "All reusable sensors, manifolds, and brackets are transferred to the replacement engine."
         },
         {
-          "title": "",
+          "title": "Reinstallation",
           "body": "The replacement engine is fitted, aligned, and all connections are re-made with factory torque settings."
         },
         {
-          "title": "",
+          "title": "ECU coding & synchronisation",
           "body": "Using JLR SDD / Pathfinder, we code the ECU to match the new engine's parameters and your vehicle's VIN. Immobiliser synchronisation is also performed."
         },
         {
-          "title": "",
+          "title": "Validation & road test",
           "body": "Every replacement undergoes a full road-test to confirm all systems operate correctly before handover."
         }
       ]
@@ -237,7 +246,7 @@
           "items": [
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
             "[Jaguar Engine Supply & Fit](/jaguar-engine-supply-fit)",
-            "[Jaguar V8 Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[Jaguar V8 Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-timing-chain-repair)",
             "[Jaguar Ingenium Diesel Repair (AJ200D)](/jaguar-ingenium-diesel-repair)",
             "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)"
           ]

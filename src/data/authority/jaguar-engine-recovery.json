@@ -1,0 +1,268 @@
+{
+  "slug": "jaguar-engine-recovery",
+  "metaTitle": "Jaguar Nationwide Engine Recovery | Jaguar Garage",
+  "metaDescription": "Professional Jaguar nationwide engine recovery and collection service. We collect your Jaguar from anywhere in the UK with a failed engine and transport it safely to our workshop.",
+  "h1": "Jaguar Nationwide Engine Recovery",
+  "lede": "We collect your Jaguar from anywhere in the UK and bring it to our specialist workshop.",
+  "ctas": [
+    {
+      "label": "Get a Quote",
+      "href": "/get-quote"
+    }
+  ],
+  "images": [
+    "/variant/sec1.webp",
+    "/engine/sec3.webp",
+    "/engine/sec10_top.webp"
+  ],
+  "stats": [
+    {
+      "value": "15+ yrs",
+      "label": "Jaguar specialists"
+    },
+    {
+      "value": "1,800+",
+      "label": "engines rebuilt"
+    },
+    {
+      "value": "12 mo",
+      "label": "unlimited-mileage warranty"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "prose",
+      "heading": "What This Service Involves",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "When your Jaguar's engine has failed and the vehicle is not drivable, we arrange nationwide recovery to bring it to our workshop. Our service covers every step from your initial instruction to the safe delivery of your Jaguar into our workshop for inspection."
+        },
+        {
+          "t": "p",
+          "html": "We use flatbed transporters exclusively—the only method recommended by Jaguar—to protect your vehicle's drivetrain, suspension, and bodywork during transit. Whether you're at home, at the roadside, or at another garage, we'll collect your Jaguar and transport it securely to our Essex workshop."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Starting Price",
+      "blocks": [
+        {
+          "t": "callout",
+          "heading": "",
+          "paras": [
+            "**Recovery costs are quoted per job** – we provide fixed-price quotes based on your location and vehicle, with no hidden fees. Recovery can be included as part of an engine rebuild or replacement quote.",
+            "[Get Your Quote](/get-quote)",
+            "[Pricing disclaimer](/pricing-legal-disclaimer)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Our Recovery Process in Pictures",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images are staged on real premises photography and are temporary placeholders pending final completion."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Applicable Jaguar Models",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Our nationwide recovery service covers every Jaguar model, including:"
+        },
+        {
+          "t": "linkgrid",
+          "items": [
+            {
+              "label": "X-Type",
+              "href": "/jaguar-x-type-engines"
+            },
+            {
+              "label": "S-Type",
+              "href": "/jaguar-s-type-engines"
+            },
+            {
+              "label": "XJ",
+              "href": "/jaguar-xj-engines"
+            },
+            {
+              "label": "XK",
+              "href": "/jaguar-xk-engines"
+            },
+            {
+              "label": "XE",
+              "href": "/jaguar-xe-engines"
+            },
+            {
+              "label": "XF",
+              "href": "/jaguar-xf-engines"
+            },
+            {
+              "label": "F-Type",
+              "href": "/jaguar-f-type-engines"
+            },
+            {
+              "label": "F-Pace",
+              "href": "/jaguar-f-pace-engines"
+            },
+            {
+              "label": "E-Pace",
+              "href": "/jaguar-e-pace-engines"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Key variants we regularly recover include:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[XE 2.0d](/jaguar-xe-engines)",
+            "[XF 3.0d](/jaguar-xf-engines)",
+            "[F-Type V6 S](/jaguar-f-type-v6-s-engines)",
+            "[F-Pace D200](/jaguar-f-pace-d200-engines)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "Our Nationwide Recovery Process",
+      "steps": [
+        {
+          "title": "Booking & Instruction",
+          "body": "You contact us with your vehicle's location and condition. We confirm the details and arrange the collection."
+        },
+        {
+          "title": "Dispatch",
+          "body": "We dispatch a flatbed recovery vehicle to your location, typically within 24–48 hours."
+        },
+        {
+          "title": "Vehicle Loading",
+          "body": "The driver prepares your Jaguar (releasing the electronic parking brake, setting gear to neutral, fitting the towing eye) and winches it onto the flatbed using ramps to protect low-clearance models."
+        },
+        {
+          "title": "Secure Transport",
+          "body": "Your Jaguar is secured with heavy-duty straps and transported nationwide. AWD models are handled with extra care to prevent transmission damage."
+        },
+        {
+          "title": "Arrival & Handover",
+          "body": "At our workshop, we carefully unload your Jaguar, inspect it, and prepare it for the next stage – whether that's a full engine rebuild, replacement, or diagnostic assessment."
+        },
+        {
+          "title": "Next Steps",
+          "body": "We'll contact you to discuss the findings and provide a transparent quote for the required work."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Why Choose Us for Your Engine Recovery",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "**Jaguar specialists** – we know every model's recovery requirements, from XJ air suspension to F-Type ground clearance.",
+            "**Flatbed-only** – we never use tow-trucks that risk damaging your vehicle.",
+            "**Nationwide coverage** – collection from anywhere in the UK, including remote areas.",
+            "**Transparent pricing** – fixed-price quotes with no hidden fees.",
+            "**Fully equipped workshop** – once your Jaguar arrives, we have the tools and expertise to rebuild or repair it to the highest standard.",
+            "[Learn more about our workshop](/about)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Recent Recoveries & Rebuilds",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "All images are staged on real premises and are placeholders pending genuine job photography."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "heading": "How It Works – Simple Steps",
+      "steps": [
+        {
+          "title": "",
+          "body": "Contact us – call or use our quote form."
+        },
+        {
+          "title": "",
+          "body": "We arrange a collection time that suits you."
+        },
+        {
+          "title": "",
+          "body": "Our flatbed collects your Jaguar and brings it to our workshop."
+        },
+        {
+          "title": "",
+          "body": "We assess your engine and provide a transparent quote."
+        }
+      ]
+    },
+    {
+      "kind": "prose",
+      "heading": "Related Services",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment)",
+            "Jaguar Engine Removal, Refit & Final Testing"
+          ]
+        },
+        {
+          "t": "p",
+          "html": "Read more about our recovery and rebuild work:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "[From Recovery to Road Test: The Full Journey](/guides)",
+            "[What Happens During a Full Engine Inspection](/guides)"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How does nationwide engine recovery work?",
+          "a": "We dispatch a flatbed recovery vehicle to your location, carefully load your Jaguar onto the transporter, secure it, and transport it to our workshop for inspection and repair."
+        },
+        {
+          "q": "How long does it take to collect my Jaguar?",
+          "a": "We typically arrange collection within 24–48 hours of booking, depending on your location and our availability. Transit time varies by distance."
+        },
+        {
+          "q": "Can you recover my Jaguar from anywhere in the UK?",
+          "a": "Yes, we offer nationwide recovery across the UK. For Scotland, Ireland, and Europe, additional time and costs may apply."
+        },
+        {
+          "q": "Is the recovery service included with an engine rebuild?",
+          "a": "We can include recovery as part of your engine rebuild or replacement quote. Contact us to discuss your specific needs."
+        },
+        {
+          "q": "What type of recovery vehicle do you use?",
+          "a": "We use flatbed (rollback) transporters only – this is the recommended method for Jaguars to avoid drivetrain and underbody damage."
+        }
+      ]
+    }
+  ]
+}

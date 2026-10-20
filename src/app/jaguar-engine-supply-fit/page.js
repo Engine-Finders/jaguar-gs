@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Engine Supply & Fit | Jaguar Garage",
-  description: "Professional Jaguar engine supply and fit service. Correct engine matching, VIN-specific sourcing, full fitting, ECU coding, and road testing by Jaguar specialists.",
+  description: "Professional Jaguar engine supply and fit service. We source the correct replacement engine and fit it to your vehicle. Get a fixed-price quote after inspection.",
   alternates: { canonical: PATH },
 };
 

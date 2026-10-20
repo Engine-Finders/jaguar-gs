@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     }
   ],
   "images": [
@@ -52,7 +52,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "Supercharger and turbocharger repair is quoted per job. For a fixed-price estimate, use the registration lookup below or [contact us directly](/contact). Pricing is confirmed after a thorough inspection, so there are no surprises. [Pricing disclaimer](/pricing-legal-disclaimer)."
+            "Supercharger and turbocharger repair is quoted per job. For a fixed-price estimate, use the registration lookup below or [contact us directly](/get-quote). Pricing is confirmed after a thorough inspection, so there are no surprises. [Pricing disclaimer](/pricing-legal-disclaimer)."
           ]
         },
         {
@@ -70,19 +70,19 @@
           "html": "We repair superchargers and turbos on these Jaguar models and engine families:"
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "F-Type",
-              "href": null
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "F-Type",
+            "href": "/jaguar-f-type-engines"
+          },
+          "chips": [
             {
               "label": "V6 S (AJ126)",
-              "href": null
+              "href": "/jaguar-f-type-v6-s-engines"
             },
             {
               "label": "R / SVR (AJ133)",
-              "href": null
+              "href": "/jaguar-f-type-r-engines"
             }
           ]
         },
@@ -90,16 +90,16 @@
           "t": "modelgroup",
           "model": {
             "label": "XJ",
-            "href": null
+            "href": "/jaguar-xj-engines"
           },
           "chips": [
             {
               "label": "XJR (AJ133)",
-              "href": null
+              "href": "/jaguar-xj-engines"
             },
             {
               "label": "5.0 V8 Supercharged",
-              "href": null
+              "href": "/jaguar-xj-engines"
             }
           ]
         },
@@ -107,20 +107,20 @@
           "t": "modelgroup",
           "model": {
             "label": "XF",
-            "href": null
+            "href": "/jaguar-xf-engines"
           },
           "chips": [
             {
               "label": "XFR (AJ133S)",
-              "href": null
+              "href": "/jaguar-xf-engines"
             },
             {
               "label": "3.0 V6 S/C (AJ126)",
-              "href": null
+              "href": "/jaguar-xf-engines"
             },
             {
               "label": "2.0d (Ingenium turbo)",
-              "href": null
+              "href": "/jaguar-xf-2-0d-engines"
             }
           ]
         },
@@ -128,16 +128,16 @@
           "t": "modelgroup",
           "model": {
             "label": "XK",
-            "href": null
+            "href": "/jaguar-xk-engines"
           },
           "chips": [
             {
               "label": "XKR (AJ133)",
-              "href": null
+              "href": "/jaguar-xk-engines"
             },
             {
               "label": "XKR-S (AJ133S)",
-              "href": null
+              "href": "/jaguar-xk-engines"
             }
           ]
         },
@@ -145,16 +145,16 @@
           "t": "modelgroup",
           "model": {
             "label": "XE",
-            "href": null
+            "href": "/jaguar-xe-engines"
           },
           "chips": [
             {
               "label": "3.0 V6 S/C (AJ126)",
-              "href": null
+              "href": "/jaguar-xe-engines"
             },
             {
               "label": "D200 (Ingenium turbo)",
-              "href": null
+              "href": "/jaguar-xe-d200-engines"
             }
           ]
         },
@@ -162,16 +162,16 @@
           "t": "modelgroup",
           "model": {
             "label": "F-Pace",
-            "href": null
+            "href": "/jaguar-f-pace-engines"
           },
           "chips": [
             {
               "label": "SVR (AJ133)",
-              "href": null
+              "href": "/jaguar-f-pace-svr-engines"
             },
             {
               "label": "D200 (Ingenium turbo)",
-              "href": null
+              "href": "/jaguar-f-pace-d200-engines"
             }
           ]
         },
@@ -179,12 +179,12 @@
           "t": "modelgroup",
           "model": {
             "label": "E-Pace",
-            "href": null
+            "href": "/jaguar-e-pace-engines"
           },
           "chips": [
             {
               "label": "D200 (Ingenium turbo)",
-              "href": null
+              "href": "/jaguar-e-pace-d200-engines"
             }
           ]
         },
@@ -275,7 +275,7 @@
           "t": "ul",
           "items": [
             "[Full Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
-            "[V8 Timing Chain Repair](/jaguar-v8-supercharged-timing-chain-repair)",
+            "[V8 Timing Chain Repair](/jaguar-v8-timing-chain-repair)",
             "[Ingenium Diesel Repair](/jaguar-ingenium-diesel-repair)",
             "[Engine Replacement](/jaguar-engine-replacement)",
             "[Engine Failure Repair](/jaguar-engine-failure-repair)",
@@ -310,7 +310,7 @@
         },
         {
           "q": "Do I need to book an inspection?",
-          "a": "We recommend an initial inspection so we can assess the exact condition of your supercharger or turbo. You can [request a quote](/contact) to start the process."
+          "a": "We recommend an initial inspection so we can assess the exact condition of your supercharger or turbo. You can [request a quote](/get-quote) to start the process."
         }
       ]
     }

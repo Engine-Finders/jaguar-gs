@@ -3,7 +3,6 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 export default function HomeSec8({ data }) {
   const [line1, line2, line3] = data.h2.split("|");
@@ -47,7 +46,7 @@ export default function HomeSec8({ data }) {
               <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden p-2 text-center">
                 <Icon name={h.icon} className="mx-auto mb-1.5 h-6 w-6 text-hero-blue" />
                 <p className="label-text leading-tight text-white">{h.label}</p>
-                <span className="mt-2 flex items-center justify-center gap-1"><JaguarLogo className="h-3 w-3" /><span className="h-px w-5 bg-white/60" /></span>
+                <span className="mt-2 block h-px w-full bg-hero-blue/60" />
               </div>
             ))}
           </div>
@@ -83,7 +82,7 @@ export default function HomeSec8({ data }) {
                   <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden bg-[#1c1d20]! p-3 text-center shadow-[0_14px_28px_-12px_rgba(0,0,0,0.7)] sm:p-4">
                     <Icon name={h.icon} className="mb-4 h-9 w-9 text-hero-blue sm:mb-6" />
                     <p className="text-xs text-white sm:text-sm">{h.label}</p>
-                    <span className="mt-3 flex items-center justify-center gap-1.5 sm:mt-4"><JaguarLogo className="h-4 w-4" /><span className="h-px w-7 bg-white/60" /></span>
+                    <span className="mt-3 block h-px w-full bg-hero-blue/60 sm:mt-4" />
                   </div>
                 ))}
               </div>

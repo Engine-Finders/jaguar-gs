@@ -1,7 +1,7 @@
 [
   {
     "type": "authority",
-    "slug": "jaguar-cylinder-head-repair-rebuild",
+    "slug": "jaguar-cylinder-head-repair",
     "title": "Jaguar Cylinder Head Repair & Rebuild"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-compatibility-and-application-matching",
+    "slug": "jaguar-engine-compatibility",
     "title": "Jaguar Engine Compatibility & Application Matching"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-machining-and-rebuild-preparation",
+    "slug": "jaguar-engine-machining",
     "title": "Jaguar Engine Machining & Rebuild Preparation"
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-matching-by-registration-and-vin",
+    "slug": "jaguar-engine-matching",
     "title": "Jaguar Engine Matching by Registration & VIN"
   },
   {
@@ -41,22 +41,22 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-rebuild-vs-reconditioned",
+    "slug": "jaguar-rebuild-vs-reconditioned",
     "title": "Jaguar Engine Rebuild vs Reconditioned"
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-rebuild-vs-replacement",
+    "slug": "jaguar-rebuild-vs-replacement",
     "title": "Jaguar Engine Rebuild vs Replacement"
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-rebuild-vs-used-engine",
+    "slug": "jaguar-rebuild-vs-used",
     "title": "Jaguar Engine Rebuild vs Used Engine"
   },
   {
     "type": "authority",
-    "slug": "jaguar-engine-repair-vs-full-rebuild",
+    "slug": "jaguar-repair-vs-rebuild",
     "title": "Jaguar Engine Repair vs Full Rebuild"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-failed-previous-rebuild-remediation",
+    "slug": "jaguar-failed-rebuild-repair",
     "title": "Jaguar Failed Previous Rebuild Remediation"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-nationwide-engine-recovery",
+    "slug": "jaguar-engine-recovery",
     "title": "Jaguar Nationwide Engine Recovery"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-rebuild-vs-remanufactured-engine",
+    "slug": "jaguar-rebuild-vs-remanufactured",
     "title": "Jaguar Rebuild vs Remanufactured Engine"
   },
   {
@@ -126,12 +126,12 @@
   },
   {
     "type": "authority",
-    "slug": "jaguar-v8-supercharged-timing-chain-repair",
+    "slug": "jaguar-v8-timing-chain-repair",
     "title": "Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)"
   },
   {
     "type": "authority",
-    "slug": "jaguar-xk-aj26-aj27-timing-chain-tensioner-repair",
+    "slug": "jaguar-aj26-timing-chain-repair",
     "title": "Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair"
   },
   {

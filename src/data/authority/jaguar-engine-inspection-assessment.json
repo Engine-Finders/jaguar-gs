@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Book an Inspection",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -67,6 +67,13 @@
           "heading": "",
           "paras": [
             "We provide a fixed-price quote after completing the inspection, based on the specific scope required for your engine.",
+            {
+              "ul": [
+                "4-cylinder rebuilds **from £2,000**",
+                "V6 rebuilds **from £3,200**",
+                "V8 rebuilds **from £4,500**"
+              ]
+            },
             "[Pricing disclaimer](/pricing-legal-disclaimer)"
           ]
         }
@@ -85,39 +92,39 @@
           "items": [
             {
               "label": "Jaguar XJ",
-              "href": null
+              "href": "/jaguar-xj-engines"
             },
             {
               "label": "Jaguar XF",
-              "href": null
+              "href": "/jaguar-xf-engines"
             },
             {
               "label": "Jaguar XE",
-              "href": null
+              "href": "/jaguar-xe-engines"
             },
             {
               "label": "Jaguar XK",
-              "href": null
+              "href": "/jaguar-xk-engines"
             },
             {
               "label": "Jaguar F-Type",
-              "href": null
+              "href": "/jaguar-f-type-engines"
             },
             {
               "label": "Jaguar F-Pace",
-              "href": null
+              "href": "/jaguar-f-pace-engines"
             },
             {
               "label": "Jaguar E-Pace",
-              "href": null
+              "href": "/jaguar-e-pace-engines"
             },
             {
               "label": "Jaguar S-Type",
-              "href": null
+              "href": "/jaguar-s-type-engines"
             },
             {
               "label": "Jaguar X-Type",
-              "href": null
+              "href": "/jaguar-x-type-engines"
             }
           ]
         },
@@ -130,19 +137,19 @@
           "items": [
             {
               "label": "XJ 3.0d",
-              "href": null
+              "href": "/jaguar-xj-3-0d-engines"
             },
             {
               "label": "XF 2.0d",
-              "href": null
+              "href": "/jaguar-xf-2-0d-engines"
             },
             {
               "label": "XE D200",
-              "href": null
+              "href": "/jaguar-xe-d200-engines"
             },
             {
               "label": "F-Type V6",
-              "href": null
+              "href": "/jaguar-f-type-v6-engines"
             }
           ]
         },
@@ -157,23 +164,23 @@
       "heading": "Our Engine Assessment Process",
       "steps": [
         {
-          "title": "",
+          "title": "Vehicle arrival & history review",
           "body": "We record your Jaguar's details, mileage, and service history. This gives us a baseline before any physical checks begin."
         },
         {
-          "title": "",
+          "title": "Visual inspection & diagnostic scan",
           "body": "We inspect the engine bay, fluid levels, and external components. We then connect diagnostic equipment to gather live sensor data."
         },
         {
-          "title": "",
+          "title": "Component-level evaluation",
           "body": "Using borescopes, compression gauges, and leak-down testers, we assess cylinder bores, valves, piston rings, and sealing surfaces without full disassembly."
         },
         {
-          "title": "",
+          "title": "Partial strip-down & measurement",
           "body": "If the scope requires it, we remove the cylinder head, timing cover, or sump to measure bearing clearances, timing component wear, and bore ovality."
         },
         {
-          "title": "",
+          "title": "Assessment report & fixed-price quote",
           "body": "We compile our findings into a written report, outline the recommended scope (rebuild, repair, or replacement), and provide a fixed-price quotation for you to review."
         }
       ]
@@ -202,19 +209,19 @@
       "heading": "How Engine Assessment Works",
       "steps": [
         {
-          "title": "",
+          "title": "Book your inspection",
           "body": "Contact us to arrange a date to bring your Jaguar to our workshop."
         },
         {
-          "title": "",
+          "title": "We carry out the assessment",
           "body": "Our team performs the visual, diagnostic, and component-level checks – including strip-down if needed."
         },
         {
-          "title": "",
+          "title": "Review the report & quote",
           "body": "You receive a detailed written report and a fixed-price quotation for the recommended scope of work."
         },
         {
-          "title": "",
+          "title": "Decide on the next steps",
           "body": "You choose whether to proceed with the rebuild, repair, or alternative option – with no obligation to commit."
         }
       ]
@@ -227,10 +234,10 @@
           "t": "ul",
           "items": [
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
-            "[Jaguar Engine Teardown & Inspection](/jaguar-engine-inspection-assessment)",
-            "[Jaguar Rebuild vs Replacement](/jaguar-engine-rebuild-vs-replacement)",
+            "Jaguar Engine Teardown & Inspection",
+            "[Jaguar Rebuild vs Replacement](/jaguar-rebuild-vs-replacement)",
             "[Jaguar Engine Replacement](/jaguar-engine-replacement)",
-            "[Jaguar Inside Our Workshop](/about)"
+            "Jaguar Inside Our Workshop"
           ]
         },
         {

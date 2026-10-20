@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a Quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact Us",
@@ -65,7 +65,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "**Full V6 engine rebuilds start from £2,900 (diesel) and £3,200 (petrol).** For specific ignition coil or timing repairs, we provide a fixed-price quote after a no-obligation inspection. [Request a quote](/contact) or [see our pricing policy](/pricing-legal-disclaimer)."
+            "**Full V6 engine rebuilds start from £2,900 (diesel) and £3,200 (petrol).** For specific ignition coil or timing repairs, we provide a fixed-price quote after a no-obligation inspection. [Request a quote](/get-quote) or [see our pricing policy](/pricing-legal-disclaimer)."
           ]
         }
       ]
@@ -83,7 +83,19 @@
           "items": [
             {
               "label": "Jaguar X-Type (2.5 & 3.0 V6 petrol)",
-              "href": null
+              "href": "/jaguar-x-type-engines"
+            },
+            {
+              "label": "Jaguar S-Type (3.0 V6 petrol & 2.7d)",
+              "href": "/jaguar-s-type-engines"
+            },
+            {
+              "label": "Jaguar XF (3.0 V6 petrol & 2.7/3.0d)",
+              "href": "/jaguar-xf-engines"
+            },
+            {
+              "label": "Jaguar XJ (3.0d diesel)",
+              "href": "/jaguar-xj-engines"
             }
           ]
         },
@@ -94,11 +106,11 @@
         {
           "t": "ul",
           "items": [
-            "X-Type 3.0 V6",
-            "S-Type 3.0 V6",
-            "S-Type 2.7d",
-            "XF 3.0d",
-            "XJ 3.0d"
+            "[X-Type 3.0 V6](/jaguar-x-type-3-0-v6-engines)",
+            "[S-Type 3.0 V6](/jaguar-s-type-3-0-v6-engines)",
+            "[S-Type 2.7d](/jaguar-s-type-2-7d-engines)",
+            "[XF 3.0d](/jaguar-xf-engines)",
+            "[XJ 3.0d](/jaguar-xj-3-0d-engines)"
           ]
         }
       ]

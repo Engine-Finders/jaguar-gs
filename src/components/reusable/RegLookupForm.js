@@ -3,18 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { lookupVrm, buildQuoteUrl } from "@/lib/vrmLookup";
-
-// monochrome Union Jack for the plate's UK tab
-function UkFlag({ className = "h-4 w-6" }) {
-  return (
-    <svg viewBox="0 0 30 20" className={className} fill="none" stroke="#f2f2f2" aria-hidden="true">
-      <rect x="0.75" y="0.75" width="28.5" height="18.5" strokeWidth="1.2" />
-      <path d="M0.75 0.75 29.25 19.25M29.25 0.75 0.75 19.25" strokeWidth="3" />
-      <path d="M15 0.75v18.5M0.75 10h28.5" strokeWidth="5" />
-      <path d="M15 0.75v18.5M0.75 10h28.5" stroke="#1b1b1d" strokeWidth="2" />
-    </svg>
-  );
-}
+import UnionJack from "@/components/reusable/UnionJack";
 
 export default function RegLookupForm({
   buttonLabel = "Find My Jaguar",
@@ -33,10 +22,10 @@ export default function RegLookupForm({
   bigButtonText = false,
   short = false,
   darkField = false,
+  tight = false,
   lightPlate = false,
-  placeholder = "AB12 CDE",
+  placeholder = "Your Reg",
   smallText = false,
-  plateLabel = "UK",
 }) {
   const [reg, setReg] = useState("");
   const [loading, setLoading] = useState(false);
@@ -69,7 +58,7 @@ export default function RegLookupForm({
           ? "flex w-full items-center gap-2 text-left"
           : stacked
             ? "flex w-full flex-col items-start gap-3 text-left"
-            : "flex w-full flex-col items-center gap-6 text-center sm:flex-row sm:justify-between sm:text-left"
+            : `flex w-full flex-col items-center ${tight ? "gap-3 sm:gap-6" : "gap-6"} text-center sm:flex-row sm:text-left`
       }
     >
       {left}
@@ -84,10 +73,9 @@ export default function RegLookupForm({
         }`}
       >
         <span
-          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 flex-col items-center justify-center gap-0.5 text-white ${lightPlate ? "bg-[#1b1b1d]" : darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
+          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 items-center justify-center ${lightPlate ? "bg-[#1b1b1d]" : darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
         >
-          <UkFlag />
-          <span className={`${row || stacked ? "text-[9px]" : "text-[11px] sm:text-xs"} font-extrabold tracking-wide`}>{plateLabel}</span>
+          <UnionJack className={row ? "w-5" : stacked ? "w-6" : "w-8 sm:w-9"} />
         </span>
         <input
           type="text"

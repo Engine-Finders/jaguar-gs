@@ -126,7 +126,7 @@
       "links": [
         {
           "label": "Jaguar Cylinder Head Repair & Rebuild",
-          "href": "/jaguar-cylinder-head-repair-rebuild"
+          "href": "/jaguar-cylinder-head-repair"
         },
         {
           "label": "Jaguar Engine Bearing Replacement",
@@ -134,7 +134,7 @@
         },
         {
           "label": "Jaguar Engine Compatibility & Application Matching",
-          "href": "/jaguar-engine-compatibility-and-application-matching"
+          "href": "/jaguar-engine-compatibility"
         },
         {
           "label": "Jaguar Engine Failure Repair",
@@ -146,11 +146,11 @@
         },
         {
           "label": "Jaguar Engine Machining & Rebuild Preparation",
-          "href": "/jaguar-engine-machining-and-rebuild-preparation"
+          "href": "/jaguar-engine-machining"
         },
         {
           "label": "Jaguar Engine Matching by Registration & VIN",
-          "href": "/jaguar-engine-matching-by-registration-and-vin"
+          "href": "/jaguar-engine-matching"
         },
         {
           "label": "Jaguar Engine Rebuild",
@@ -158,11 +158,11 @@
         },
         {
           "label": "Jaguar Engine Rebuild vs Reconditioned",
-          "href": "/jaguar-engine-rebuild-vs-reconditioned"
+          "href": "/jaguar-rebuild-vs-reconditioned"
         },
         {
           "label": "Jaguar Engine Rebuild vs Replacement",
-          "href": "/jaguar-engine-rebuild-vs-replacement"
+          "href": "/jaguar-rebuild-vs-replacement"
         }
       ]
     }

@@ -103,13 +103,14 @@ export default function HomeSec1({ hero, lookup }) {
               <PanelSheen />
               <div className="relative">
                 <RegLookupForm
-                  buttonLabel={lookup.h2}
+                  buttonLabel={lookup.buttonLabel}
                   compact
+                  tight
                   darkButton
                   left={
                     <div className="shrink-0">
-                      <h2 className="h3 flex items-center justify-center gap-2 uppercase not-italic text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
-                        <JaguarLogo className="h-6 w-6" />
+                      <h2 className="h3 flex items-start justify-center gap-2 uppercase not-italic text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
+                        <JaguarLogo className="h-[1.1em] w-[1.1em]" />
                         {lookup.h2}
                       </h2>
                       <p className="body-text mx-auto mt-1.5 max-w-xs text-white/90 drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)]">
@@ -154,13 +155,14 @@ export default function HomeSec1({ hero, lookup }) {
               <PanelSheen />
               <div className="relative">
                 <RegLookupForm
-                  buttonLabel={lookup.h2}
+                  buttonLabel={lookup.buttonLabel}
                   large
+                  tight
                   darkButton
                   left={
                     <div className="shrink-0 sm:max-w-xs">
-                      <h2 className="h3 flex items-center justify-center gap-2.5 uppercase not-italic text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:justify-start">
-                        <JaguarLogo className="h-7 w-7" />
+                      <h2 className="h3 flex items-start justify-center gap-2.5 uppercase not-italic text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:justify-start">
+                        <JaguarLogo className="h-[1.1em] w-[1.1em]" />
                         {lookup.h2}
                       </h2>
                       <p className="body-text mx-auto mt-2 max-w-xs text-white/90 drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)] sm:mx-0">

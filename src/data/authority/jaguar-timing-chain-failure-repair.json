@@ -7,7 +7,7 @@
   "ctas": [
     {
       "label": "Get a quote",
-      "href": "/contact"
+      "href": "/get-quote"
     },
     {
       "label": "Contact us",
@@ -50,20 +50,24 @@
           },
           "chips": [
             {
-              "label": "**Full visual inspection** – we remove access panels and inspect the timing chain area, noting any visible issues with guides, tensioners, or chain slack.",
-              "href": null
+              "label": "**Full visual inspection**",
+              "href": null,
+              "desc": "we remove access panels and inspect the timing chain area, noting any visible issues with guides, tensioners, or chain slack."
             },
             {
-              "label": "**Controlled strip-down** – we carefully disassemble the timing cover and related components to gain full access to the timing mechanism.",
-              "href": null
+              "label": "**Controlled strip-down**",
+              "href": null,
+              "desc": "we carefully disassemble the timing cover and related components to gain full access to the timing mechanism."
             },
             {
-              "label": "**Valve and piston inspection** – we check for signs of valve-to-piston contact, which indicates whether the failure has caused internal damage.",
-              "href": null
+              "label": "**Valve and piston inspection**",
+              "href": null,
+              "desc": "we check for signs of valve-to-piston contact, which indicates whether the failure has caused internal damage."
             },
             {
-              "label": "**Salvageability assessment** – we identify which components can be reused and which must be replaced, forming the basis of our repair quote.",
-              "href": null
+              "label": "**Salvageability assessment**",
+              "href": null,
+              "desc": "we identify which components can be reused and which must be replaced, forming the basis of our repair quote."
             }
           ]
         },
@@ -75,20 +79,24 @@
           },
           "chips": [
             {
-              "label": "**Full timing system replacement** – we fit a new timing chain, guides, tensioners, and all associated hardware as a complete kit.",
-              "href": null
+              "label": "**Full timing system replacement**",
+              "href": null,
+              "desc": "we fit a new timing chain, guides, tensioners, and all associated hardware as a complete kit."
             },
             {
-              "label": "**Component-level repairs** – where damage is found, we repair or replace affected parts such as bent valves or damaged camshaft components.",
-              "href": null
+              "label": "**Component-level repairs**",
+              "href": null,
+              "desc": "where damage is found, we repair or replace affected parts such as bent valves or damaged camshaft components."
             },
             {
-              "label": "**Precision reassembly** – every engine is timed with manufacturer-specified tools to ensure exact alignment and correct operation.",
-              "href": null
+              "label": "**Precision reassembly**",
+              "href": null,
+              "desc": "every engine is timed with manufacturer-specified tools to ensure exact alignment and correct operation."
             },
             {
-              "label": "**Post-repair testing** – every repair is followed by a full road test and diagnostics check to confirm the engine operates correctly.",
-              "href": null
+              "label": "**Post-repair testing**",
+              "href": null,
+              "desc": "every repair is followed by a full road test and diagnostics check to confirm the engine operates correctly."
             }
           ]
         }
@@ -103,6 +111,14 @@
           "heading": "",
           "paras": [
             "**Timing chain failure repair starts from:**",
+            {
+              "ul": [
+                "**4-Cylinder (Ingenium):** from £2,000",
+                "**V6 Petrol (AJ126):** from £3,200",
+                "**V8 Naturally Aspirated (AJ133):** from £4,500",
+                "**V8 Supercharged (AJ133S):** from £5,500"
+              ]
+            },
             "Final cost depends on the extent of damage discovered during inspection. We provide a fixed-price quote after our full assessment. [View pricing disclaimer →](/pricing-legal-disclaimer)"
           ]
         }
@@ -117,89 +133,102 @@
           "html": "We repair timing chain failures across these Jaguar models and engine families. Each link goes to the dedicated page for that model or engine."
         },
         {
-          "t": "linkgrid",
-          "items": [
-            {
-              "label": "Jaguar XJ",
-              "href": null
-            },
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XJ",
+            "href": "/jaguar-xj-engines"
+          },
+          "chips": [
             {
               "label": "XJR variant →",
-              "href": null
+              "href": "/jaguar-xj-engines"
             }
-          ]
+          ],
+          "note": "X351 (2009–2019) – AJ133 5.0 V8, AJ133S supercharged V8"
         },
         {
-          "t": "h3",
-          "text": "Jaguar XK"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XK",
+            "href": "/jaguar-xk-engines"
+          },
+          "chips": [
+            {
+              "label": "XKR (X150) variant →",
+              "href": "/jaguar-xk-engines"
+            }
+          ],
+          "note": "X150 (2005–2014) – AJ133 5.0 V8, AJ133S supercharged V8"
         },
         {
-          "t": "p",
-          "html": "X150 (2005–2014) – AJ133 5.0 V8, AJ133S supercharged V8"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XF",
+            "href": "/jaguar-xf-engines"
+          },
+          "chips": [
+            {
+              "label": "XF 5.0 V8 variant →",
+              "href": "/jaguar-xf-5-0-v8-aj133-engines"
+            }
+          ],
+          "note": "X250 (2007–2015) – AJ133 5.0 V8; AJ133S supercharged V8"
         },
         {
-          "t": "p",
-          "html": "XKR (X150) variant →"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Type",
+            "href": "/jaguar-f-type-engines"
+          },
+          "chips": [
+            {
+              "label": "F-Type R variant →",
+              "href": "/jaguar-f-type-r-engines"
+            }
+          ],
+          "note": "X152 (2012–2024) – AJ133 5.0 supercharged V8, AJ126 supercharged V6"
         },
         {
-          "t": "h3",
-          "text": "Jaguar XF"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar XE",
+            "href": "/jaguar-xe-engines"
+          },
+          "chips": [
+            {
+              "label": "XE 3.0 V6 S/SC →",
+              "href": "/jaguar-xe-engines"
+            }
+          ],
+          "note": "X760 (2015–2024) – AJ126 supercharged V6 (pre-2019)"
         },
         {
-          "t": "p",
-          "html": "X250 (2007–2015) – AJ133 5.0 V8; AJ133S supercharged V8"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar F-Pace",
+            "href": "/jaguar-f-pace-engines"
+          },
+          "chips": [
+            {
+              "label": "F-Pace P340 variant →",
+              "href": "/jaguar-f-pace-p340-engines"
+            }
+          ],
+          "note": "X761 (2016–2025) – AJ126 supercharged V6"
         },
         {
-          "t": "p",
-          "html": "XF 5.0 V8 variant →"
-        },
-        {
-          "t": "h3",
-          "text": "Jaguar F-Type"
-        },
-        {
-          "t": "p",
-          "html": "X152 (2012–2024) – AJ133 5.0 supercharged V8, AJ126 supercharged V6"
-        },
-        {
-          "t": "p",
-          "html": "F-Type R variant →"
-        },
-        {
-          "t": "h3",
-          "text": "Jaguar XE"
-        },
-        {
-          "t": "p",
-          "html": "X760 (2015–2024) – AJ126 supercharged V6 (pre-2019)"
-        },
-        {
-          "t": "p",
-          "html": "XE 3.0 V6 S/SC →"
-        },
-        {
-          "t": "h3",
-          "text": "Jaguar F-Pace"
-        },
-        {
-          "t": "p",
-          "html": "X761 (2016–2025) – AJ126 supercharged V6"
-        },
-        {
-          "t": "p",
-          "html": "F-Pace P340 variant →"
-        },
-        {
-          "t": "h3",
-          "text": "Jaguar E-Pace"
-        },
-        {
-          "t": "p",
-          "html": "X540 (2017–2024) – Ingenium diesel (AJ200D) timing chain repairs"
-        },
-        {
-          "t": "p",
-          "html": "E-Pace D200 variant →"
+          "t": "modelgroup",
+          "model": {
+            "label": "Jaguar E-Pace",
+            "href": "/jaguar-e-pace-engines"
+          },
+          "chips": [
+            {
+              "label": "E-Pace D200 variant →",
+              "href": "/jaguar-e-pace-d200-engines"
+            }
+          ],
+          "note": "X540 (2017–2024) – Ingenium diesel (AJ200D) timing chain repairs"
         },
         {
           "t": "p",
@@ -300,12 +329,12 @@
         {
           "t": "ul",
           "items": [
-            "[Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-supercharged-timing-chain-repair)",
-            "[Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair](/jaguar-xk-aj26-aj27-timing-chain-tensioner-repair)",
+            "[Jaguar V8 Supercharged Timing Chain Repair (AJ133/AJ126)](/jaguar-v8-timing-chain-repair)",
+            "[Jaguar XK AJ26/AJ27 Timing Chain Tensioner Repair](/jaguar-aj26-timing-chain-repair)",
             "[Jaguar Ingenium Diesel Repair (AJ200D)](/jaguar-ingenium-diesel-repair)",
             "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair)",
             "[Jaguar Engine Rebuild](/jaguar-engine-rebuild)",
-            "[Jaguar Rebuild vs Replacement](/jaguar-engine-rebuild-vs-replacement)"
+            "[Jaguar Rebuild vs Replacement](/jaguar-rebuild-vs-replacement)"
           ]
         }
       ]
