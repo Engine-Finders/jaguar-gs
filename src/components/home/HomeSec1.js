@@ -32,25 +32,6 @@ function PanelSheen() {
   );
 }
 
-function HeroCtas({ hero, className = "" }) {
-  return (
-    <div className={`flex flex-wrap items-center gap-3 ${className}`}>
-      <a
-        href={hero.ctaPrimary.href}
-        className="btn-chrome btn-text inline-flex items-center gap-2 whitespace-nowrap rounded-md px-5 py-3 transition-transform hover:-translate-y-0.5"
-      >
-        {hero.ctaPrimary.label} <span aria-hidden>→</span>
-      </a>
-      <a
-        href={hero.ctaSecondary.href}
-        className="btn-text inline-flex items-center gap-2 whitespace-nowrap rounded-md border border-white/55 bg-black/35 px-5 py-3 text-white backdrop-blur-sm transition-colors hover:bg-white hover:text-[#111111]"
-      >
-        {hero.ctaSecondary.label} <span aria-hidden>→</span>
-      </a>
-    </div>
-  );
-}
-
 function LookupNote({ children }) {
   return (
     <p className="label-text relative mt-3 flex items-center justify-center gap-2 text-center tracking-wide text-white/85 drop-shadow-[0_1px_3px_rgba(0,0,0,0.7)]">
@@ -92,7 +73,6 @@ export default function HomeSec1({ hero, lookup }) {
               </h1>
               <span className="mt-3 block h-px w-24 bg-white/45" />
               <p className="body-text mt-3 text-white/85">{hero.subhead}</p>
-              <HeroCtas hero={hero} className="mt-4" />
             </div>
 
             <div
@@ -137,7 +117,7 @@ export default function HomeSec1({ hero, lookup }) {
             <div className="absolute inset-0 bg-linear-to-t from-hero-dark/80 via-transparent to-transparent" />
           </div>
 
-          <div className="relative mx-auto max-w-[76rem] px-4 pb-28 pt-8 sm:px-6 lg:px-8 lg:pt-12">
+          <div className="relative mx-auto max-w-[76rem] px-4 pb-32 pt-8 sm:px-6 lg:px-8 lg:pt-12">
             <h1 className="h1 uppercase">
               <span className="block text-chrome">{line1}</span>
               <span className="block text-chrome-dim">{line2}</span>
@@ -145,7 +125,6 @@ export default function HomeSec1({ hero, lookup }) {
             </h1>
             <span className="mt-5 block h-px w-52 bg-white/45" />
             <p className="body-text mt-5 max-w-md text-white/85">{hero.subhead}</p>
-            <HeroCtas hero={hero} className="mt-7" />
 
             <div
               id="hero-lookup"
