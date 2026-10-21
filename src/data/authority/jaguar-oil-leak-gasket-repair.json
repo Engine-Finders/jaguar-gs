@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec12.webp",
-    "/engine/sec2_price_bg.webp",
-    "/engine/sec9b.webp"
+    "/guides/jaguar-oil-leak-gasket-repair/1-8da69d44.webp",
+    "/guides/jaguar-oil-leak-gasket-repair/2-d0e3602b.webp",
+    "/guides/jaguar-oil-leak-gasket-repair/3-64cf5a88.webp"
   ],
   "stats": [
     {
@@ -346,5 +346,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 77
+  }
 }

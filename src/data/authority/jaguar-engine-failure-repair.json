@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec4.webp",
-    "/engine/sec11_middle.webp",
-    "/variant/sec1.webp"
+    "/guides/jaguar-engine-failure-repair/1-2e7101f0.webp",
+    "/guides/jaguar-engine-failure-repair/2-072b8458.webp",
+    "/guides/jaguar-engine-failure-repair/3-cdc57e71.webp"
   ],
   "stats": [
     {
@@ -375,5 +375,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 75
+  }
 }

@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/model/sec12.webp",
-    "/engine/sec2_price_bg.webp",
-    "/engine/sec9b.webp"
+    "/guides/jaguar-supercharger-turbo-repair/1-de1a608d.webp",
+    "/guides/jaguar-supercharger-turbo-repair/2-dd4ecfce.webp",
+    "/guides/jaguar-supercharger-turbo-repair/3-c0ee95cd.webp"
   ],
   "stats": [
     {
@@ -314,5 +314,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 64,
+    "3": 84
+  }
 }

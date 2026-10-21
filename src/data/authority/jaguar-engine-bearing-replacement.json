@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec8_top.webp",
-    "/model/sec2.webp",
-    "/variant/sec10_middle_div.webp"
+    "/guides/jaguar-engine-bearing-replacement/1-05c5089f.webp",
+    "/guides/jaguar-engine-bearing-replacement/2-b6e5f84c.webp",
+    "/guides/jaguar-engine-bearing-replacement/3-32726823.webp"
   ],
   "stats": [
     {
@@ -248,5 +248,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 70
+  }
 }

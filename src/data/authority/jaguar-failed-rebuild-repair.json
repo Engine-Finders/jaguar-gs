@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec2_price_bg.webp",
-    "/engine/sec9b.webp",
-    "/model/sec10.webp"
+    "/guides/jaguar-failed-rebuild-repair/1-4d8f7569.webp",
+    "/guides/jaguar-failed-rebuild-repair/2-5b1b9f9b.webp",
+    "/guides/jaguar-failed-rebuild-repair/3-df2a0f4d.webp"
   ],
   "stats": [
     {
@@ -249,5 +249,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 79,
+    "3": 84
+  }
 }

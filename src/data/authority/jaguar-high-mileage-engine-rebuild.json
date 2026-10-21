@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec11_middle.webp",
-    "/variant/sec1.webp",
-    "/engine/sec3.webp"
+    "/guides/jaguar-high-mileage-engine-rebuild/1-ffa92d4f.webp",
+    "/guides/jaguar-high-mileage-engine-rebuild/2-919be627.webp",
+    "/guides/jaguar-high-mileage-engine-rebuild/3-baac36a1.webp"
   ],
   "stats": [
     {
@@ -253,5 +253,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 74
+  }
 }

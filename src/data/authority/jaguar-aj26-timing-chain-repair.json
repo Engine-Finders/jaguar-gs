@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec4.webp",
-    "/engine/sec11_middle.webp",
-    "/variant/sec1.webp"
+    "/guides/jaguar-aj26-timing-chain-repair/1-19da2ae4.webp",
+    "/guides/jaguar-aj26-timing-chain-repair/2-2dcf16b1.webp",
+    "/guides/jaguar-aj26-timing-chain-repair/3-f161dfd1.webp"
   ],
   "stats": [
     {
@@ -248,5 +248,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 68,
+    "3": 83
+  }
 }

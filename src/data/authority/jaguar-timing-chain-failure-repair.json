@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec1.webp",
-    "/engine/sec3.webp",
-    "/engine/sec10_top.webp"
+    "/guides/jaguar-timing-chain-failure-repair/1-2aabfc80.webp",
+    "/guides/jaguar-timing-chain-failure-repair/2-dab98985.webp",
+    "/guides/jaguar-timing-chain-failure-repair/3-648c6b2b.webp"
   ],
   "stats": [
     {
@@ -365,5 +365,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 77,
+    "3": 75
+  }
 }

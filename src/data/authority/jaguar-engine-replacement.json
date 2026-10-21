@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/variant/sec1.webp",
-    "/engine/sec3.webp",
-    "/engine/sec10_top.webp"
+    "/guides/jaguar-engine-replacement/1-b1088ec3.webp",
+    "/guides/jaguar-engine-replacement/2-7d9f779a.webp",
+    "/guides/jaguar-engine-replacement/3-fec80e17.webp"
   ],
   "stats": [
     {
@@ -283,5 +283,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 75
+  }
 }

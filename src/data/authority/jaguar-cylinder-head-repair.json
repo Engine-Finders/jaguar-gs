@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/model/sec2.webp",
-    "/variant/sec10_middle_div.webp",
-    "/engine/sec4.webp"
+    "/guides/jaguar-cylinder-head-repair/1-9a16c956.webp",
+    "/guides/jaguar-cylinder-head-repair/2-1974ae41.webp",
+    "/guides/jaguar-cylinder-head-repair/3-b8752615.webp"
   ],
   "stats": [
     {
@@ -285,5 +285,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 66,
+    "3": 73
+  }
 }

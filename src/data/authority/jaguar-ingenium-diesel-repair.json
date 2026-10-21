@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec1.webp",
-    "/engine/sec8_bottom.webp",
-    "/model/sec5.webp"
+    "/guides/jaguar-ingenium-diesel-repair/1-427c8818.webp",
+    "/guides/jaguar-ingenium-diesel-repair/2-1a6dbdf3.webp",
+    "/guides/jaguar-ingenium-diesel-repair/3-541890cb.webp"
   ],
   "stats": [
     {
@@ -279,5 +279,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 63,
+    "3": 76
+  }
 }

@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec3.webp",
-    "/engine/sec10_top.webp",
-    "/model/sec12.webp"
+    "/guides/jaguar-r-svr-performance-engine-rebuild/1-824474f5.webp",
+    "/guides/jaguar-r-svr-performance-engine-rebuild/2-1fcfe9d1.webp",
+    "/guides/jaguar-r-svr-performance-engine-rebuild/3-1ce8e9d7.webp"
   ],
   "stats": [
     {
@@ -330,5 +330,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 70,
+    "3": 79
+  }
 }

@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec8_middle.webp",
-    "/model/sec3.webp",
-    "/variant/sec11.webp"
+    "/guides/jaguar-rebuild-vs-remanufactured/1-b9d1cd7e.webp",
+    "/guides/jaguar-rebuild-vs-remanufactured/2-1d36ae4e.webp",
+    "/guides/jaguar-rebuild-vs-remanufactured/3-5bbae8bb.webp"
   ],
   "stats": [
     {
@@ -299,5 +299,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 71
+  }
 }

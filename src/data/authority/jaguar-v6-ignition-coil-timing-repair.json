@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec2_price_bg.webp",
-    "/engine/sec9b.webp",
-    "/model/sec10.webp"
+    "/guides/jaguar-v6-ignition-coil-timing-repair/1-7aed2a28.webp",
+    "/guides/jaguar-v6-ignition-coil-timing-repair/2-867b137c.webp",
+    "/guides/jaguar-v6-ignition-coil-timing-repair/3-a9c933bf.webp"
   ],
   "stats": [
     {
@@ -221,5 +221,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 74,
+    "3": 79
+  }
 }

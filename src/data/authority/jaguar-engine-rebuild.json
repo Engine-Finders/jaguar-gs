@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/engine/sec8_bottom.webp",
-    "/model/sec5.webp",
-    "/variant/sec13.webp"
+    "/guides/jaguar-engine-rebuild/1-8426dd30.webp",
+    "/guides/jaguar-engine-rebuild/2-c0599644.webp",
+    "/guides/jaguar-engine-rebuild/3-ff8f0e22.webp"
   ],
   "stats": [
     {
@@ -266,5 +266,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 74
+  }
 }

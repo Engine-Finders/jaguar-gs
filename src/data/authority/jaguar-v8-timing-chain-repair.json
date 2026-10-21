@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/model/sec5.webp",
-    "/variant/sec13.webp",
-    "/engine/sec8_middle.webp"
+    "/guides/jaguar-v8-timing-chain-repair/1-1f7687a4.webp",
+    "/guides/jaguar-v8-timing-chain-repair/2-3302a996.webp",
+    "/guides/jaguar-v8-timing-chain-repair/3-f5e09bcc.webp"
   ],
   "stats": [
     {
@@ -255,5 +255,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 76,
+    "3": 77
+  }
 }

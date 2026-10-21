@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec3.webp",
-    "/engine/sec10_top.webp",
-    "/model/sec12.webp"
+    "/guides/jaguar-engine-supply-fit/1-611e4692.webp",
+    "/guides/jaguar-engine-supply-fit/2-fea4aa32.webp",
+    "/guides/jaguar-engine-supply-fit/3-86871ede.webp"
   ],
   "stats": [
     {
@@ -295,5 +295,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 75,
+    "3": 74
+  }
 }

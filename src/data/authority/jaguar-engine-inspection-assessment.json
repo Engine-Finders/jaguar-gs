@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec11_middle.webp",
-    "/variant/sec1.webp",
-    "/engine/sec3.webp"
+    "/guides/jaguar-engine-inspection-assessment/1-4986632f.webp",
+    "/guides/jaguar-engine-inspection-assessment/2-9314bbb2.webp",
+    "/guides/jaguar-engine-inspection-assessment/3-ac5c1a25.webp"
   ],
   "stats": [
     {
@@ -276,5 +276,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 73,
+    "3": 80
+  }
 }

@@ -11,9 +11,9 @@
     }
   ],
   "images": [
-    "/engine/sec9b.webp",
-    "/model/sec10.webp",
-    "/engine/sec2.webp"
+    "/guides/jaguar-engine-matching/1-5103cdc2.webp",
+    "/guides/jaguar-engine-matching/2-144387d6.webp",
+    "/guides/jaguar-engine-matching/3-88d2f37c.webp"
   ],
   "stats": [
     {
@@ -384,5 +384,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 69,
+    "3": 66
+  }
 }

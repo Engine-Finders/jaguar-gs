@@ -15,9 +15,9 @@
     }
   ],
   "images": [
-    "/engine/sec8_bottom.webp",
-    "/model/sec5.webp",
-    "/variant/sec13.webp"
+    "/guides/jaguar-repair-vs-rebuild/1-e3d41ea8.webp",
+    "/guides/jaguar-repair-vs-rebuild/2-4729970a.webp",
+    "/guides/jaguar-repair-vs-rebuild/3-81b2bdb6.webp"
   ],
   "stats": [
     {
@@ -209,5 +209,9 @@
         }
       ]
     }
-  ]
+  ],
+  "bandFocus": {
+    "2": 66,
+    "3": 73
+  }
 }
