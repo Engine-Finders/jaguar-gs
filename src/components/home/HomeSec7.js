@@ -82,9 +82,9 @@ export default function HomeSec7({ data }) {
           </h2>
 
           <ExpandGrid
-            className="grid grid-cols-3 gap-4 sm:grid-cols-4 lg:grid-cols-6"
+            className="grid grid-cols-4 gap-4"
             limit={8}
-            limitLg={12}
+            limitLg={8}
             label="View All Models"
             wrapClass="mt-6 flex justify-center"
             buttonClass="btn-text flex items-center gap-2 rounded-md border-2 border-hero-blue bg-white/70 px-6 py-2.5 uppercase text-hero-blue backdrop-blur-md transition hover:bg-hero-blue hover:text-white"
@@ -95,8 +95,8 @@ export default function HomeSec7({ data }) {
                 href={m.href}
                 className="glass-card group rounded-xl p-3 text-center transition-shadow hover:shadow-md"
               >
-                <div className="relative mb-2 h-20 w-full overflow-hidden rounded-md">
-                  <Image src={m.image} alt={m.name} fill className="object-contain" sizes="200px" />
+                <div className="relative mb-2 h-28 w-full overflow-hidden rounded-md">
+                  <Image src={m.image} alt={m.name} fill className="object-contain" sizes="260px" />
                 </div>
                 <p className="text-xs font-bold uppercase text-[#1a1a1a]">{m.name}</p>
                 {m.price && (
