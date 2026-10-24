@@ -1,16 +1,23 @@
 import Image from "next/image";
 import { floatingParts } from "@/lib/partImage";
 import Icon from "@/components/reusable/Icon";
-import JaguarLogo from "@/components/reusable/JaguarLogo";
 
-const FLOATERS = [
-  { top: "6%", left: "8%", size: 84, rotate: -10, opacity: 0.9, delay: "0s" },
-  { top: "0%", right: "22%", size: 80, rotate: 8, opacity: 0.9, delay: "0.8s" },
-  { top: "40%", left: "0%", size: 80, rotate: 15, opacity: 0.85, delay: "1.6s" },
-  { top: "36%", right: "0%", size: 84, rotate: -12, opacity: 0.9, delay: "1.0s" },
-  { bottom: "4%", left: "14%", size: 80, rotate: 30, opacity: 0.9, delay: "1.4s" },
-  { bottom: "2%", right: "16%", size: 76, rotate: -25, opacity: 0.85, delay: "0.5s" },
-];
+// The floating parts sit on one ring around the engine at equal angular steps and a single radius,
+// so every part is the same distance from the engine and from its neighbours. Values are % of the
+// square stage; `rotate` just varies how each part is tilted.
+const RING = { count: 11, radius: 41, size: 13 };
+const ROTATIONS = [-10, -18, 8, 20, 15, 10, -8, -12, 30, -22, -25];
+const FLOATERS = Array.from({ length: RING.count }, (_, i) => {
+  const angle = (-90 + (i * 360) / RING.count) * (Math.PI / 180);
+  return {
+    left: `${(50 + RING.radius * Math.cos(angle) - RING.size / 2).toFixed(2)}%`,
+    top: `${(50 + RING.radius * Math.sin(angle) - RING.size / 2).toFixed(2)}%`,
+    size: `${RING.size}%`,
+    rotate: ROTATIONS[i],
+    opacity: 0.92,
+    delay: `${((i * 0.4) % 2).toFixed(1)}s`,
+  };
+});
 
 export default function HomeSec9_5({ data }) {
   // each floating part is a different component: the ones listed on this section first, then the main engine parts
@@ -26,7 +33,7 @@ export default function HomeSec9_5({ data }) {
         <div>
           <p className="label-text uppercase tracking-widest text-[#1a1a1a]">{data.eyebrow}</p>
           <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 mt-2 uppercase text-[#1a1a1a]">
-            <span className="block">{line1}</span>
+            <span className="block">{line1}</span>{" "}
             <span className="block">
               {line2a} <span className="text-chrome-ink">{line2b}</span>
             </span>
@@ -58,8 +65,6 @@ export default function HomeSec9_5({ data }) {
               style={{
                 top: f.top,
                 left: f.left,
-                right: f.right,
-                bottom: f.bottom,
                 width: f.size,
                 height: f.size,
                 opacity: f.opacity,
@@ -72,7 +77,7 @@ export default function HomeSec9_5({ data }) {
             </div>
           ))}
 
-          <div className="animate-float-core absolute inset-[16%] z-10">
+          <div className="animate-float-core absolute inset-[19%] z-10">
             <Image src={data.engineImage} alt="Jaguar engine" fill className="object-contain" sizes="700px" priority={false} />
           </div>
         </div>
@@ -97,11 +102,6 @@ export default function HomeSec9_5({ data }) {
         <span className="h-px w-16 bg-black/15" />
         <p className="text-center text-sm font-semibold uppercase tracking-widest text-[#1a1a1a]">{data.footer}</p>
         <span className="h-px w-16 bg-black/15" />
-      </div>
-      <div className="mt-4 flex items-center justify-center gap-3">
-        <span className="h-px w-8 bg-black/15" />
-        <JaguarLogo className="h-9 w-9 text-[#1a1a1a]" />
-        <span className="h-px w-8 bg-black/15" />
       </div>
     </section>
   );

@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
-import JaguarLogo from "@/components/reusable/JaguarLogo";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 
 // Glass panel shared by the mobile + desktop lookup cards — dark graphite on the left
@@ -13,6 +12,7 @@ const PANEL_SHADOW =
 function PanelSheen() {
   return (
     <>
+      <span className="glare-border" aria-hidden="true" />
       <div
         className="pointer-events-none absolute inset-0 opacity-40 mix-blend-overlay"
         style={{
@@ -67,8 +67,8 @@ export default function HomeSec1({ hero, lookup }) {
           <div className="relative flex flex-col px-4 pb-48 pt-6">
             <div className="w-[68vw]">
               <h1 className="h1 uppercase">
-                <span className="block text-chrome">{line1}</span>
-                <span className="block text-chrome-dim">{line2}</span>
+                <span className="block text-chrome">{line1}</span>{" "}
+                <span className="block text-chrome-dim">{line2}</span>{" "}
                 <span className="block text-chrome">{line3}</span>
               </h1>
               <span className="mt-3 block h-px w-24 bg-white/45" />
@@ -82,22 +82,13 @@ export default function HomeSec1({ hero, lookup }) {
             >
               <PanelSheen />
               <div className="relative">
+                <h2 className="h3 text-center italic uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">{lookup.h2}</h2>
                 <RegLookupForm
                   buttonLabel={lookup.buttonLabel}
                   compact
                   tight
                   darkButton
-                  left={
-                    <div className="shrink-0">
-                      <h2 className="h3 flex items-start justify-center gap-2 uppercase not-italic text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
-                        <JaguarLogo className="h-[1.1em] w-[1.1em]" />
-                        {lookup.h2}
-                      </h2>
-                      <p className="body-text mx-auto mt-1.5 max-w-xs text-white/90 drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)]">
-                        {lookup.description}
-                      </p>
-                    </div>
-                  }
+                  left={<p className="body-text text-white/90 drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)]">{lookup.description}</p>}
                 />
                 <LookupNote>{lookup.note}</LookupNote>
               </div>
@@ -118,11 +109,11 @@ export default function HomeSec1({ hero, lookup }) {
           </div>
 
           <div className="relative mx-auto max-w-[76rem] px-4 pb-32 pt-8 sm:px-6 lg:px-8 lg:pt-12">
-            <h1 className="h1 uppercase">
-              <span className="block text-chrome">{line1}</span>
-              <span className="block text-chrome-dim">{line2}</span>
+            <div role="heading" aria-level="1" className="h1 uppercase">
+              <span className="block text-chrome">{line1}</span>{" "}
+              <span className="block text-chrome-dim">{line2}</span>{" "}
               <span className="block text-chrome">{line3}</span>
-            </h1>
+            </div>
             <span className="mt-5 block h-px w-52 bg-white/45" />
             <p className="body-text mt-5 max-w-md text-white/85">{hero.subhead}</p>
 
@@ -133,22 +124,15 @@ export default function HomeSec1({ hero, lookup }) {
             >
               <PanelSheen />
               <div className="relative">
+                <div role="heading" aria-level="2" className="h3 mb-3 italic whitespace-nowrap uppercase text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)]">
+                  {lookup.h2}
+                </div>
                 <RegLookupForm
                   buttonLabel={lookup.buttonLabel}
                   large
                   tight
                   darkButton
-                  left={
-                    <div className="shrink-0 sm:max-w-xs">
-                      <h2 className="h3 flex items-start justify-center gap-2.5 uppercase not-italic text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.85)] sm:justify-start">
-                        <JaguarLogo className="h-[1.1em] w-[1.1em]" />
-                        {lookup.h2}
-                      </h2>
-                      <p className="body-text mx-auto mt-2 max-w-xs text-white/90 drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)] sm:mx-0">
-                        {lookup.description}
-                      </p>
-                    </div>
-                  }
+                  left={<p className="body-text max-w-xs text-white/90 drop-shadow-[0_1px_3px_rgba(0,0,0,0.85)]">{lookup.description}</p>}
                 />
                 <LookupNote>{lookup.note}</LookupNote>
               </div>

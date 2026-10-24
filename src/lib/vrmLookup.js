@@ -37,5 +37,7 @@ export function buildQuoteUrl(details) {
     engineCapacity: details.engineCapacity || "",
     fuelType: details.fuelType || "",
   });
+  // remember the page the lookup was run on, so the lead can report where it really came from
+  if (typeof window !== "undefined") params.set("from", window.location.pathname);
   return `/get-quote?${params.toString()}`;
 }

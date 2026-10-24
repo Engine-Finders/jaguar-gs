@@ -1,7 +1,4 @@
 {
-  "h2": "Follow One|Jaguar|Through The Entire Rebuild",
-  "bgImage": "/home/sec8.webp",
-  "mobileImage": "/home/sec8.webp",
   "highlights": [
     {
       "label": "Every rebuild is documented.",
@@ -62,5 +59,30 @@
       "label": "Collection",
       "image": "/home/process_9.webp"
     }
+  ],
+  "h2Lines": [
+    [
+      {
+        "t": "Follow One "
+      },
+      {
+        "t": "Jaguar",
+        "c": "accent"
+      }
+    ],
+    [
+      {
+        "t": "Through The"
+      }
+    ],
+    [
+      {
+        "t": "Entire "
+      },
+      {
+        "t": "Rebuild",
+        "c": "accent"
+      }
+    ]
   ]
 }

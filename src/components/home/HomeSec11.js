@@ -1,12 +1,21 @@
+"use client";
+
+import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
+import ImageLightbox from "@/components/shared/ImageLightbox";
 
 // "Meet the Workshop": the photo's left panel is already a pale chrome-edged wedge, so the copy
 // sits straight on it in charcoal; the six service cards overlap the photo's bottom edge.
-function ServiceCard({ s, sizes, compact = false }) {
+function ServiceCard({ s, sizes, compact = false, onClick }) {
+  // phones: the card is a button that opens the enlarged photo; desktop: it zooms on hover (gallery-tile)
+  const Tag = onClick ? "button" : "div";
   return (
-    <div className="glow-card glow-card--sm relative h-full min-h-40 overflow-hidden border-2! border-white! shadow-[0_10px_24px_-6px_rgba(0,0,0,0.45),0_0_0_1px_rgba(0,0,0,0.06)]">
+    <Tag
+      {...(onClick ? { type: "button", onClick, "aria-label": `View larger: ${s.label}` } : {})}
+      className={`gallery-tile glow-card glow-card--sm relative block h-full min-h-40 w-full overflow-hidden border-2! border-white! text-left shadow-[0_10px_24px_-6px_rgba(0,0,0,0.45),0_0_0_1px_rgba(0,0,0,0.06)] ${onClick ? "cursor-pointer md:cursor-default" : ""}`}
+    >
       <Image src={s.image} alt={s.label} fill className="object-cover" sizes={sizes} />
       <div className="absolute inset-0 bg-linear-to-t from-[#101114]/95 via-[#101114]/45 to-transparent" />
 
@@ -19,18 +28,19 @@ function ServiceCard({ s, sizes, compact = false }) {
         </div>
         <span className="block h-px w-1/2 bg-white/70" />
       </div>
-    </div>
+    </Tag>
   );
 }
 
 export default function HomeSec11({ data }) {
+  const [open, setOpen] = useState(null);
   return (
     <section className="theme-light">
       {/* ===== mobile ===== */}
       <div className="md:hidden">
         <div className="px-4 pb-5 pt-6">
           <h2 className="h2 uppercase text-[#111111]">
-            <span className="block">Meet The</span>
+            <span className="block">Meet The</span>{" "}
             <span className="block text-chrome-ink">Workshop</span>
           </h2>
 
@@ -49,7 +59,7 @@ export default function HomeSec11({ data }) {
 
         <div className="grid grid-cols-3 gap-2 px-4 py-5">
           {data.strip.map((s) => (
-            <ServiceCard key={s.label} s={s} sizes="140px" compact />
+            <ServiceCard key={s.label} s={s} sizes="140px" compact onClick={() => setOpen({ src: s.image, alt: s.label })} />
           ))}
         </div>
 
@@ -77,10 +87,10 @@ export default function HomeSec11({ data }) {
           <div className="absolute inset-x-0 top-0">
             <div className="flex items-start px-4 pt-8 sm:px-6 sm:pt-10 lg:pl-[max(2rem,calc((100vw-72rem)/2))] lg:pt-14">
               <div className="max-w-[34%] text-[#1a1a1a] sm:max-w-[32%]">
-                <h2 className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
-                  <span className="block text-2xl leading-[1.05] text-[#111111] sm:text-3xl lg:text-5xl">Meet The</span>
+                <div role="heading" aria-level="2" className="h2 -skew-x-6 origin-left scale-y-115 scale-x-92 uppercase">
+                  <span className="block text-2xl leading-[1.05] text-[#111111] sm:text-3xl lg:text-5xl">Meet The</span>{" "}
                   <span className="block text-4xl leading-[1.05] text-chrome-ink sm:text-5xl lg:text-7xl">Workshop</span>
-                </h2>
+                </div>
 
                 <div className="mt-5 space-y-3 text-xs leading-relaxed sm:mt-6 sm:text-sm lg:text-[15px]">
                   {data.paragraphs.map((p, i) => (
@@ -108,6 +118,8 @@ export default function HomeSec11({ data }) {
           </div>
         </div>
       </div>
+
+      {open && <ImageLightbox img={open} onClose={() => setOpen(null)} />}
     </section>
   );
 }

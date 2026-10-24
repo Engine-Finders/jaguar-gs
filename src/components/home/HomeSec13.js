@@ -61,10 +61,10 @@ export default function HomeSec13({ data }) {
         <div className="relative mx-auto max-w-6xl">
           <div className="grid grid-cols-1 items-start gap-6 lg:grid-cols-2 lg:gap-8">
             <div>
-              <h2 className="h2 uppercase">
+              <div role="heading" aria-level="2" className="h2 uppercase">
                 <span className="block text-[#1a1a1a]">{line1}</span>
                 <span className="block text-chrome-ink">{line2}</span>
-              </h2>
+              </div>
               <p className="mt-2 max-w-lg text-sm text-[#1a1a1a]">{data.description}</p>
 
               <EngineExplorerForm fields={data.fields} explorer={explorer} ctaButton={data.ctaButton} />

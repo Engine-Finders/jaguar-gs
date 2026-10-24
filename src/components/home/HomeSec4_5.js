@@ -1,18 +1,30 @@
+"use client";
+
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import { useQuoteModal } from "@/components/shared/QuoteModal";
 
 // Light "Get Back On The Road" banner: the photo's right-hand side is already a pale fade, so the
 // copy sits straight on it in charcoal (no dark overlays). Mobile stacks the copy above the photo.
 export default function HomeSec4_5({ data }) {
   const [line1, line2] = data.h2.split("|");
+  const { open: openQuote } = useQuoteModal();
 
-  const copy = (
+  // `desktop` copy renders its heading as a role=heading div so the page has one real h2 for this section
+  const copy = (desktop) => (
     <>
       <p className="label-text font-normal italic uppercase tracking-wide text-[#1a1a1a] md:text-xs">{data.kicker}</p>
-      <h2 className="h2 mt-2 uppercase">
-        <span className="block text-[#111111]">{line1}</span>
-        <span className="block text-chrome-ink">{line2}</span>
-      </h2>
+      {desktop ? (
+        <div role="heading" aria-level="2" className="h2 mt-2 uppercase">
+          <span className="block text-[#111111]">{line1}</span>{" "}
+          <span className="block text-chrome-ink">{line2}</span>
+        </div>
+      ) : (
+        <h2 className="h2 mt-2 uppercase">
+          <span className="block text-[#111111]">{line1}</span>{" "}
+          <span className="block text-chrome-ink">{line2}</span>
+        </h2>
+      )}
       <p className="-skew-x-6 origin-left mt-3 text-xl font-bold uppercase text-[#111111] sm:text-2xl">{data.subhead1}</p>
       <p className="-skew-x-6 origin-left text-xs font-normal uppercase italic tracking-[0.22em] text-[#1a1a1a]">{data.subhead2}</p>
 
@@ -20,9 +32,9 @@ export default function HomeSec4_5({ data }) {
         {data.body.map((line, i) => (
           <p key={i}>{line}</p>
         ))}
-        <p className="font-bold text-[#111111]">{data.bodyBold}</p>
-        <p>{data.bodyRest}</p>
+        <p>{data.bodyBold}</p>
       </div>
+      <p className="mt-3 w-full text-left text-sm leading-snug text-[#1a1a1a] md:mt-4 md:text-base">{data.bodyRest}</p>
 
       <div className="mt-5 grid w-full grid-cols-3 items-center md:flex md:w-auto md:gap-3 lg:gap-4">
         {data.features.map((f, i) => (
@@ -33,12 +45,13 @@ export default function HomeSec4_5({ data }) {
         ))}
       </div>
 
-      <a
-        href={data.cta.href}
+      <button
+        type="button"
+        onClick={openQuote}
         className="btn-text mt-6 inline-flex items-center gap-3 whitespace-nowrap rounded-md border border-[#111111] bg-linear-to-b from-[#2a2a2a] to-[#050505] px-6 py-2.5 uppercase text-white shadow-[0_10px_24px_-10px_rgba(0,0,0,0.7)] md:px-8 md:py-3.5 transition-transform hover:-translate-y-0.5"
       >
         {data.cta.label} <span aria-hidden>→</span>
-      </a>
+      </button>
     </>
   );
 
@@ -47,7 +60,7 @@ export default function HomeSec4_5({ data }) {
       {/* ===== mobile: copy on top, photo underneath ===== */}
       <div className="md:hidden">
         <div className="relative z-10 px-4 pb-6 pt-5 text-center">
-          <div className="flex flex-col items-center [&_p]:origin-center">{copy}</div>
+          <div className="flex flex-col items-center [&_p]:origin-center">{copy(false)}</div>
         </div>
 
         <div className="relative -mt-40 aspect-square w-full">
@@ -71,7 +84,7 @@ export default function HomeSec4_5({ data }) {
 
         {/* headline stack on the photo's pale right side (anchored to the viewport's right 41%) */}
         <div className="relative ml-auto w-[41%] pb-10 pl-4 pr-6 pt-10 lg:pr-[max(2rem,calc((100vw-72rem)/2+2rem))]">
-          {copy}
+          {copy(true)}
         </div>
 
         {/* footer tagline — in normal flow below the copy, centred, so it can never overlap the button */}

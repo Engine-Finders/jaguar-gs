@@ -5,55 +5,64 @@
       "name": "XE",
       "slug": "xe",
       "image": "/cars/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp",
-      "href": "/jaguar-xe-engines"
+      "href": "/jaguar-xe-engines",
+      "price": "1,795"
     },
     {
       "name": "XF",
       "slug": "xf",
       "image": "/cars/jaguar-xf-x260-r-dynamic-hse-saloon-20192024-new-santorini-b-6d44.webp",
-      "href": "/jaguar-xf-engines"
+      "href": "/jaguar-xf-engines",
+      "price": "1,995"
     },
     {
       "name": "XJ",
       "slug": "xj",
       "image": "/cars/jaguar-xj-x351-xj50-special-edition-saloon-20182019-special-6ccf.webp",
-      "href": "/jaguar-xj-engines"
+      "href": "/jaguar-xj-engines",
+      "price": "2,395"
     },
     {
       "name": "F-Pace",
       "slug": "f-pace",
       "image": "/cars/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
-      "href": "/jaguar-f-pace-engines"
+      "href": "/jaguar-f-pace-engines",
+      "price": "2,495"
     },
     {
       "name": "E-Pace",
       "slug": "e-pace",
       "image": "/cars/jaguar-e-pace-x540-300-sport-compact-suv-2024-new-ostuni-whi-4548.webp",
-      "href": "/jaguar-e-pace-engines"
+      "href": "/jaguar-e-pace-engines",
+      "price": "2,195"
     },
     {
       "name": "F-Type",
       "slug": "f-type",
       "image": "/cars/jaguar-f-type-x152-lci-p300-r-dynamic-coupe-20202024-new-por-1596.webp",
-      "href": "/jaguar-f-type-engines"
+      "href": "/jaguar-f-type-engines",
+      "price": "2,695"
     },
     {
       "name": "XK (X100/X150)",
       "slug": "xk",
       "image": "/cars/jaguar-xk-x150-xk-dynamic-r-coupe-special-edition-coupe-2014-ea6b.webp",
-      "href": "/jaguar-xk-engines"
+      "href": "/jaguar-xk-engines",
+      "price": "2,895"
     },
     {
       "name": "S-Type",
       "slug": "s-type",
       "image": "/cars/jaguar-s-type-x200-60th-anniversary-edition-saloon-2008-spec-6563.webp",
-      "href": "/jaguar-s-type-engines"
+      "href": "/jaguar-s-type-engines",
+      "price": "1,895"
     },
     {
       "name": "X-Type",
       "slug": "x-type",
       "image": "/cars/jaguar-x-type-x400-2-2-d-se-saloon-20072010-new-vapour-grey-7f0f.webp",
-      "href": "/jaguar-x-type-engines"
+      "href": "/jaguar-x-type-engines",
+      "price": "1,695"
     }
   ],
   "cta": {

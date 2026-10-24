@@ -3,166 +3,168 @@
 import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import ImageLightbox from "@/components/shared/ImageLightbox";
 
-export default function HomeSec8({ data }) {
-  const [line1, line2, line3] = data.h2.split("|");
-  const line3Words = line3.split(" ");
-  const line3Last = line3Words[line3Words.length - 1];
-  const line3Lead = line3Words.slice(0, -1).join(" ");
-  const [activeStage, setActiveStage] = useState(null);
+// Diagonal edge between the light panel and the dark timeline, drawn purely in CSS.
+// Desktop: a slanted vertical edge (x in % of the container). Phone: a slanted horizontal edge
+// (px drop) so the stripes follow the same line whatever the width.
+const STRIPES_DESKTOP = [
+  { bg: "linear-gradient(90deg, #f4f4f4, #b9b9b9 45%, #e8e8e8)", clip: "polygon(40% 0, 43.2% 0, 31.2% 100%, 28% 100%)" },
+  { bg: "linear-gradient(90deg, #161616, #4a4a4a)", clip: "polygon(43.2% 0, 46.6% 0, 34.6% 100%, 31.2% 100%)" },
+  { bg: "linear-gradient(90deg, #f1f1f1, #a9a9a9)", clip: "polygon(46.6% 0, 47.3% 0, 35.3% 100%, 34.6% 100%)" },
+];
+const STRIPES_MOBILE = [
+  { bg: "linear-gradient(180deg, #f4f4f4, #b9b9b9 50%, #e8e8e8)", clip: "polygon(0 57px, 100% 29px, 100% 41px, 0 69px)" },
+  { bg: "linear-gradient(180deg, #161616, #4a4a4a)", clip: "polygon(0 69px, 100% 41px, 100% 55px, 0 83px)" },
+  { bg: "linear-gradient(180deg, #f1f1f1, #a9a9a9)", clip: "polygon(0 83px, 100% 55px, 100% 58px, 0 86px)" },
+];
 
+// Two rings of the same dashed "wheel" style: the outer one turns clockwise, the circle holding the
+// number turns the opposite way. The number itself sits on top and never rotates.
+function Wheel({ step }) {
   return (
-    <section className="relative overflow-hidden">
-      {/* ===== mobile ===== */}
-      <div className="theme-dark relative overflow-hidden md:hidden">
-        <div className="relative px-4 py-8">
-          <h2 className="h2 text-center uppercase text-white">
-            <span className="block text-chrome">{line1}</span>
-            <span className="block text-chrome-dim">{line2}</span>
-            <span className="block text-chrome">{line3}</span>
-          </h2>
-
-          <div className="no-scrollbar mt-5 -mx-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4">
-            {data.stages.map((s) => (
-              <div key={s.step} className="flex w-[30%] shrink-0 snap-start flex-col items-center gap-2">
-                <TimelineBadge step={s.step} active={s.step === 1} size="sm" />
-                <button
-                  type="button"
-                  onClick={() => setActiveStage(s)}
-                  aria-label={`View full image for ${s.label}`}
-                  className={`relative aspect-3/4 w-full overflow-hidden rounded-md ${
-                    s.step === 1 ? "ring-2 ring-hero-blue" : "ring-1 ring-white/20"
-                  } shadow-lg`}
-                >
-                  <Image src={s.image} alt={s.label} fill className="object-cover" sizes="120px" />
-                </button>
-                <span className="label-text text-center leading-tight text-white">{s.label}</span>
-              </div>
-            ))}
-          </div>
-
-          <div className="mt-6 grid grid-cols-3 gap-2">
-            {data.highlights.map((h) => (
-              <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden p-2 text-center">
-                <Icon name={h.icon} className="mx-auto mb-1.5 h-6 w-6 text-hero-blue" />
-                <p className="label-text leading-tight text-white">{h.label}</p>
-                <span className="mt-2 block h-px w-full bg-hero-blue/60" />
-              </div>
-            ))}
-          </div>
-        </div>
-      </div>
-
-      {/* ===== desktop ===== */}
-      <div className="theme-dark relative hidden overflow-hidden md:block">
-        <div className="absolute inset-0">
-          <Image src={data.bgImage} alt="" fill className="object-cover" sizes="100vw" priority={false} />
-          {/* one soft, uneven dark wash over the whole right side — fades in from the left so no edge shows */}
-          <div
-            className="absolute inset-y-0 right-0 w-[74%]"
-            style={{ background: "linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 22%, rgba(0,0,0,0.58) 60%, rgba(0,0,0,0.66) 100%)" }}
-          />
-        </div>
-
-        <div className="relative flex flex-col gap-8 py-8 lg:flex-row lg:gap-6 lg:py-10">
-          {/* left: header + guarantee cards, on its own dark overlay so the diagonal
-              gold stripe in the background photo stays clear of the text */}
-          <div className="relative shrink-0 px-4 sm:px-6 lg:w-[34%] lg:pl-8">
-            <div className="relative flex h-full flex-col justify-between">
-              <h2 className="h2 uppercase text-[#111111]">
-                <span className="block">{line1}</span>
-                <span className="block text-chrome-ink">{line2}</span>
-                <span className="block">
-                  {line3Lead} <span className="text-chrome-ink">{line3Last}</span>
-                </span>
-              </h2>
-
-              <div className="mt-7 grid grid-cols-3 gap-3 lg:mt-10">
-                {data.highlights.map((h) => (
-                  <div key={h.label} className="glow-card flex flex-col items-center overflow-hidden bg-[#1c1d20]! p-3 text-center shadow-[0_14px_28px_-12px_rgba(0,0,0,0.7)] sm:p-4">
-                    <Icon name={h.icon} className="mb-4 h-9 w-9 text-hero-blue sm:mb-6" />
-                    <p className="text-xs text-white sm:text-sm">{h.label}</p>
-                    <span className="mt-3 block h-px w-full bg-hero-blue/60 sm:mt-4" />
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-
-          {/* right: step timeline + portrait cards, wall-to-wall to the viewport edge */}
-          <div className="flex min-w-0 flex-1 flex-col justify-end pl-4 sm:pl-6 lg:pl-0">
-            <div className="relative">
-              <div className="relative flex">
-                {/* dotted connector running behind the number badges */}
-                <span className="pointer-events-none absolute left-[5.5%] right-[5.5%] top-7 border-t-2 border-dotted border-white/45" aria-hidden="true" />
-                {data.stages.map((s) => (
-                  <div key={s.step} className="flex min-w-0 flex-1 flex-col items-center text-center">
-                    <TimelineBadge step={s.step} active={s.step === 1} />
-                    <span className="label-text mt-2 px-0.5 leading-tight text-white drop-shadow-[0_1px_3px_rgba(0,0,0,0.8)]">{s.label}</span>
-                  </div>
-                ))}
-              </div>
-
-              <div className="mt-4 flex gap-1 pr-4 lg:pr-0">
-                {data.stages.map((s) => (
-                  <button
-                    key={s.step}
-                    type="button"
-                    onClick={() => setActiveStage(s)}
-                    aria-label={`View full image for ${s.label}`}
-                    className={`relative h-40 min-w-0 flex-1 overflow-hidden rounded-md sm:h-52 lg:h-64 ${
-                      s.step === 1 ? "ring-2 ring-hero-blue" : "ring-1 ring-white/15"
-                    }`}
-                  >
-                    <Image src={s.image} alt={s.label} fill className="object-cover" sizes="150px" />
-                  </button>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* lightbox: full view of the clicked stage image, shared by both mobile and desktop cards */}
-      {activeStage && (
-        <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/85 p-4"
-          onClick={() => setActiveStage(null)}
-        >
-          <button
-            type="button"
-            onClick={() => setActiveStage(null)}
-            aria-label="Close"
-            className="absolute right-4 top-4 z-10 flex h-10 w-10 items-center justify-center rounded-full border border-white/30 bg-black/50 text-xl text-white transition-colors hover:bg-black/70"
-          >
-            ✕
-          </button>
-
-          <div className="relative h-full max-h-[85vh] w-full max-w-3xl" onClick={(e) => e.stopPropagation()}>
-            <Image src={activeStage.image} alt={activeStage.label} fill className="object-contain" sizes="90vw" />
-          </div>
-
-          <p className="absolute bottom-6 left-1/2 -translate-x-1/2 text-center text-sm font-semibold uppercase tracking-wide text-white">
-            {activeStage.step}. {activeStage.label}
-          </p>
-        </div>
-      )}
-    </section>
+    <div className="relative flex h-12 w-12 shrink-0 items-center justify-center md:h-14 md:w-14">
+      <div className="absolute inset-0 rounded-full bg-white/10 blur-md" />
+      <div className="wheel-outer absolute inset-0 rounded-full border-2 border-dashed border-[#d4d4d4]/70" />
+      <div className="wheel-inner absolute inset-[7px] rounded-full border-2 border-dashed border-[#d4d4d4]/70 bg-[#141414] md:inset-[8px]" />
+      <span className="relative z-10 text-xs font-bold text-white md:text-sm">{step}</span>
+    </div>
   );
 }
 
-function TimelineBadge({ step, active, size = "lg" }) {
-  const outer = size === "sm" ? "h-10 w-10" : "h-14 w-14";
-  const inner = size === "sm" ? "h-6 w-6" : "h-8 w-8";
+export default function HomeSec8({ data }) {
+  const [activeStage, setActiveStage] = useState(null);
+  // phones: the wheel of the card last tapped keeps spinning (the first one by default); holding a card spins it too
+  const [spinning, setSpinning] = useState(0);
+  const last = data.stages.length - 1;
+
   return (
-    <div className={`relative z-10 flex shrink-0 items-center justify-center rounded-full ${size === "sm" ? "" : "bg-[#101010]"} ${outer}`}>
-      <div className="absolute inset-0 rounded-full bg-hero-blue/25 blur-md" />
-      <div className="absolute inset-0 rounded-full border-2 border-dashed border-hero-blue/40" />
-      <div className="absolute inset-[3px] rounded-full border border-hero-blue/60" />
-      {active && <div className="absolute -right-0.5 top-0 h-3 w-3 rounded-full bg-white blur-[2px]" />}
-      <div className={`relative z-10 flex items-center justify-center rounded-full bg-[#1a1a1a] text-xs font-bold text-white ring-1 ring-hero-blue/70 ${inner}`}>
-        {step}
+    <section className="theme-light relative overflow-hidden px-4 py-8 sm:px-6 lg:px-8">
+      <div className="relative mx-auto max-w-6xl overflow-hidden rounded-2xl bg-[#0d0d0d] shadow-[0_20px_50px_-20px_rgba(0,0,0,0.55)]">
+        {/* dark base with a soft sheen */}
+        <div
+          aria-hidden="true"
+          className="absolute inset-0"
+          style={{ background: "radial-gradient(120% 90% at 80% 20%, #1c1c1c 0%, #0d0d0d 60%)" }}
+        />
+
+        {/* light panel (desktop): a slanted wedge */}
+        <div
+          aria-hidden="true"
+          className="absolute inset-0 hidden md:block"
+          style={{
+            background: "linear-gradient(140deg, #f7f7f7 0%, #e6e6e6 100%)",
+            clipPath: "polygon(0 0, 40% 0, 28% 100%, 0 100%)",
+          }}
+        />
+
+        {/* stripes along the slanted edge (desktop) */}
+        {STRIPES_DESKTOP.map((s, i) => (
+          <div key={i} aria-hidden="true" className="absolute inset-0 hidden md:block" style={{ background: s.bg, clipPath: s.clip }} />
+        ))}
+
+        <div className="relative grid md:grid-cols-[38%_minmax(0,1fr)]">
+          {/* ===== left: heading + trust cards ===== */}
+          <div className="relative px-4 pb-14 pt-8 md:px-7 md:pb-10 md:pt-10">
+            {/* light panel (phones): slanted bottom edge, with the stripes laid along it */}
+            <div
+              aria-hidden="true"
+              className="absolute inset-0 md:hidden"
+              style={{
+                background: "linear-gradient(160deg, #f7f7f7 0%, #e6e6e6 100%)",
+                clipPath: "polygon(0 0, 100% 0, 100% calc(100% - 28px), 0 100%)",
+              }}
+            />
+            <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 -bottom-7.5 z-10 h-[87px] md:hidden">
+              {STRIPES_MOBILE.map((st, k) => (
+                <div key={k} className="absolute inset-0" style={{ background: st.bg, clipPath: st.clip }} />
+              ))}
+            </div>
+            <h2 className="h2 relative uppercase text-[#1a1a1a]">
+              {data.h2Lines.map((line, i) => (
+                <span key={i} className="block">
+                  {line.map((p, j) => (
+                    <span key={j} className={p.c ? "text-chrome-ink" : undefined}>
+                      {p.t}
+                    </span>
+                  ))}
+                </span>
+              ))}
+            </h2>
+
+            <div className="relative mt-6 grid grid-cols-3 gap-2.5 md:mt-8 md:gap-3">
+              {data.highlights.map((h) => (
+                <div
+                  key={h.label}
+                  className="relative flex flex-col gap-3 overflow-hidden rounded-xl border border-[#d4d4d4]/70 p-3 backdrop-blur-xl backdrop-saturate-150 md:p-4"
+                  style={{
+                    background: "linear-gradient(160deg, rgba(36,36,36,0.92) 0%, rgba(14,14,14,0.95) 100%)",
+                    boxShadow:
+                      "0 0 18px rgba(212,212,212,0.45), 0 0 8px rgba(255,255,255,0.22), 0 0 2px rgba(255,255,255,0.5), 0 16px 30px -14px rgba(0,0,0,0.65), inset 0 1px 0 rgba(255,255,255,0.4), inset 0 0 22px rgba(212,212,212,0.14)",
+                  }}
+                >
+                  {/* glass sheen: soft top-edge light and a faint diagonal streak */}
+                  <span
+                    aria-hidden="true"
+                    className="pointer-events-none absolute inset-0 opacity-60"
+                    style={{ background: "linear-gradient(125deg, rgba(255,255,255,0.22) 0%, rgba(255,255,255,0) 38%), linear-gradient(180deg, rgba(255,255,255,0.12) 0%, rgba(255,255,255,0) 22%)" }}
+                  />
+                  <Icon name={h.icon} className="relative h-8 w-8 text-white/90 md:h-10 md:w-10" />
+                  <div className="relative">
+                    <p className="text-[11px] leading-snug text-white md:text-sm">{h.label}</p>
+                    <span
+                      className="mt-3 block h-[3px] w-4/5 rounded-full"
+                      style={{ background: "linear-gradient(90deg, #6a6a6a, #d4d4d4 50%, #ffffff)" }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* ===== right: timeline, 4.5 cards in view and a slim scroller for the rest ===== */}
+          <div className="relative min-w-0 pb-6 pt-8 md:py-10 md:pl-6 md:pr-0">
+            <div className="no-scrollbar flex snap-x snap-mandatory overflow-x-auto pb-3 [--n:3.5] md:[--n:4.5]">
+              {data.stages.map((s, i) => (
+                <div
+                  key={s.step}
+                  className={`wheel-stage group relative flex shrink-0 snap-start flex-col items-center px-1 ${i === spinning ? "wheel-spin" : ""}`}
+                  style={{ flexBasis: "calc(100% / var(--n))" }}
+                >
+                  {/* dotted connector through the wheel centres */}
+                  <span
+                    aria-hidden="true"
+                    className={`absolute top-6 h-px border-t border-dotted border-white/25 md:top-7 ${i === 0 ? "left-1/2" : "left-0"} ${i === last ? "right-1/2" : "right-0"}`}
+                  />
+                  <Wheel step={s.step} />
+                  <span className="label-text mt-2 min-h-8 px-0.5 text-center leading-tight text-white">{s.label}</span>
+
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSpinning(i);
+                      setActiveStage(s);
+                    }}
+                    aria-label={`View full image for ${s.label}`}
+                    className="relative mt-3 aspect-[3/4] w-full overflow-hidden rounded-md ring-1 ring-white/20 transition-shadow group-hover:ring-[#d4d4d4] md:aspect-[2/3]"
+                  >
+                    <Image
+                      src={s.image}
+                      alt={s.label}
+                      fill
+                      className="object-cover transition-transform duration-500 group-hover:scale-105"
+                      sizes="(min-width: 768px) 170px, 110px"
+                    />
+                  </button>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+
       </div>
-    </div>
+
+      {activeStage && <ImageLightbox img={{ src: activeStage.image, alt: activeStage.label }} onClose={() => setActiveStage(null)} />}
+    </section>
   );
 }

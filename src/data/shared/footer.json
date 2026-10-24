@@ -120,51 +120,6 @@
           "href": "/jaguar-xk-engines"
         }
       ]
-    },
-    {
-      "title": "Guides",
-      "links": [
-        {
-          "label": "Jaguar Cylinder Head Repair & Rebuild",
-          "href": "/jaguar-cylinder-head-repair"
-        },
-        {
-          "label": "Jaguar Engine Bearing Replacement",
-          "href": "/jaguar-engine-bearing-replacement"
-        },
-        {
-          "label": "Jaguar Engine Compatibility & Application Matching",
-          "href": "/jaguar-engine-compatibility"
-        },
-        {
-          "label": "Jaguar Engine Failure Repair",
-          "href": "/jaguar-engine-failure-repair"
-        },
-        {
-          "label": "Jaguar Engine Inspection & Assessment",
-          "href": "/jaguar-engine-inspection-assessment"
-        },
-        {
-          "label": "Jaguar Engine Machining & Rebuild Preparation",
-          "href": "/jaguar-engine-machining"
-        },
-        {
-          "label": "Jaguar Engine Matching by Registration & VIN",
-          "href": "/jaguar-engine-matching"
-        },
-        {
-          "label": "Jaguar Engine Rebuild",
-          "href": "/jaguar-engine-rebuild"
-        },
-        {
-          "label": "Jaguar Engine Rebuild vs Reconditioned",
-          "href": "/jaguar-rebuild-vs-reconditioned"
-        },
-        {
-          "label": "Jaguar Engine Rebuild vs Replacement",
-          "href": "/jaguar-rebuild-vs-replacement"
-        }
-      ]
     }
   ],
   "contact": {
@@ -174,19 +129,5 @@
     "email": "info@jaguargarage.uk",
     "hours": "Mon–Fri 9am–6pm · Sat 11am–2pm"
   },
-  "social": [
-    {
-      "label": "Facebook",
-      "href": "https://facebook.com/jaguarrebuildgarageuk"
-    },
-    {
-      "label": "Instagram",
-      "href": "https://instagram.com/jaguarrebuildgarageuk"
-    },
-    {
-      "label": "TikTok",
-      "href": "https://tiktok.com/@jaguarrebuildgarageuk"
-    }
-  ],
   "copyright": "© 2026 Jaguar Garage — a trading name of JLR Engine Specialists Ltd (Company No. 16500838). Independent Jaguar specialist, not affiliated with Jaguar AG."
 }

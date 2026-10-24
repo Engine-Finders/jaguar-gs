@@ -56,12 +56,12 @@ export default function HomeSec12({ data }) {
         </div>
 
         <div className="relative mx-auto max-w-[76rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
-          <h2 className="h2 max-w-xl uppercase">
+          <div role="heading" aria-level="2" className="h2 max-w-xl uppercase">
             <span className="block text-2xl leading-tight text-[#111111] sm:text-3xl">{kicker}</span>
             <span className="block whitespace-nowrap text-4xl leading-tight sm:text-5xl lg:text-6xl">
               <span className="text-[#111111]">{headlineA}</span> <span className="text-chrome-ink">{headlineB}</span>
             </span>
-          </h2>
+          </div>
 
           <p className="mt-4 max-w-md text-sm text-[#1a1a1a] lg:text-base">
             {data.descriptionPre}

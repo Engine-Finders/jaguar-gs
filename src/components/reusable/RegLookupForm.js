@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { lookupVrm, buildQuoteUrl } from "@/lib/vrmLookup";
-import UnionJack from "@/components/reusable/UnionJack";
+import RegPlate from "@/components/reusable/RegPlate";
 
 export default function RegLookupForm({
   buttonLabel = "Find My Jaguar",
@@ -47,7 +47,17 @@ export default function RegLookupForm({
   }
 
   const buttonHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-9" : compact ? "h-11" : "h-12";
-  const fieldHeight = matchHeight ? "h-14" : row ? (short ? "h-11" : "h-14") : stacked ? "h-16" : compact ? "h-14 sm:h-20" : "h-24 sm:h-28";
+  const fieldHeight = matchHeight
+    ? "[--ph:56px]"
+    : row
+      ? short
+        ? "[--ph:44px]"
+        : "[--ph:56px]"
+      : stacked
+        ? "[--ph:64px]"
+        : compact
+          ? "[--ph:56px] sm:[--ph:80px]"
+          : "[--ph:64px] sm:[--ph:80px]";
   const fieldBorder = lightPlate ? "border-[#d6d6da]" : whiteBorder ? "border-white/70" : "border-[#8f8f8f]";
 
   return (
@@ -55,62 +65,30 @@ export default function RegLookupForm({
       onSubmit={handleSubmit}
       className={
         row
-          ? "flex w-full items-center gap-2 text-left"
+          ? "relative flex w-full items-center gap-2 text-left"
           : stacked
             ? "flex w-full flex-col items-start gap-3 text-left"
-            : `flex w-full flex-col items-center ${tight ? "gap-3 sm:gap-6" : "gap-6"} text-center sm:flex-row sm:text-left`
+            : `flex w-full flex-col items-center ${tight ? "gap-3 sm:gap-6" : "gap-6"} text-center sm:flex-row sm:flex-wrap sm:text-left`
       }
     >
       {left}
 
       {error && (
-        <p className="w-full text-center text-xs font-semibold text-red-400 sm:text-left">{error}</p>
+        <p role="alert" className={`text-xs font-semibold text-red-400 ${row ? "absolute left-0 top-full mt-1 whitespace-nowrap" : "order-last w-full basis-full text-center sm:text-left"}`}>{error}</p>
       )}
 
-      <div
-        className={`flex ${fieldHeight} w-full min-w-0 ${row ? "flex-1" : "shrink-0"} overflow-hidden ${lightPlate ? "rounded-lg shadow-[0_0_0_1px_rgba(255,255,255,0.35),0_6px_18px_-6px_rgba(0,0,0,0.6)]" : "rounded-sm shadow-sm"} border-2 ${fieldBorder} ${
-          row || stacked ? "" : "sm:flex-1 sm:w-auto"
-        }`}
-      >
-        <span
-          className={`flex ${row ? "w-8" : stacked ? "w-9" : "w-12 sm:w-14"} shrink-0 items-center justify-center ${lightPlate ? "bg-[#1b1b1d]" : darkField ? "bg-[#232323]" : "bg-[#111111]"}`}
-        >
-          <UnionJack className={row ? "w-5" : stacked ? "w-6" : "w-8 sm:w-9"} />
-        </span>
-        <input
-          type="text"
-          value={reg}
-          onChange={(e) => setReg(e.target.value.toUpperCase())}
-          placeholder={placeholder}
-          maxLength={8}
-          style={lightPlate ? undefined : { fontFamily: '"Charles Wright", sans-serif' }}
-          className={`min-w-0 flex-1 px-2 text-center tracking-wide outline-none ${
-            smallText
-              ? "bg-linear-to-b from-[#ffffff] to-[#e4e4e7] font-normal tracking-normal text-[#1b1b1d] placeholder:text-[#555555]"
-              : lightPlate
-              ? "bg-linear-to-b from-[#ffffff] to-[#e4e4e7] font-medium tracking-[0.2em] text-[#1b1b1d] placeholder:text-[#2a2a2c]"
-              : darkField
-              ? "bg-[#232323] text-white placeholder:italic placeholder:text-white/40"
-              : "bg-linear-to-b from-[#f4f4f4] via-[#e0e0e0] to-[#c9c9c9] text-black placeholder:italic placeholder:text-black"
-          } ${
-            smallText
-              ? "text-sm sm:text-base"
-              : row
-              ? compact
-                ? "text-xl sm:text-2xl"
-                : "text-2xl sm:text-3xl"
-              : stacked
-                ? compact
-                  ? "text-2xl"
-                  : "text-3xl"
-                : large
-                  ? "text-6xl sm:text-7xl"
-                  : compact
-                    ? "text-2xl sm:text-3xl"
-                    : "text-5xl sm:text-7xl"
-          }`}
-        />
-      </div>
+      <RegPlate
+        value={reg}
+        onChange={setReg}
+        tone={darkField ? "dark" : lightPlate || smallText ? "light" : "silver"}
+        plain={lightPlate || smallText}
+        textScale={smallText ? 0.32 : 0.75}
+        placeholder={placeholder}
+        heightClass={fieldHeight}
+        borderClass={fieldBorder}
+        stripClass={lightPlate ? "bg-[#1b1b1d]" : darkField ? "bg-[#232323]" : "bg-[#111111]"}
+        className={`${lightPlate ? "rounded-lg" : ""} ${row ? "w-[calc(var(--ph)*5.6)]! shrink" : "shrink-0"} ${row || stacked ? "" : "max-sm:max-w-none sm:w-[calc(var(--ph)*5.6)]! sm:flex-1"}`}
+      />
 
       {!hideButton && (
         <button

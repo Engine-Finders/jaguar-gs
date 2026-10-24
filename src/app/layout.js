@@ -1,7 +1,9 @@
-import { Geist, Geist_Mono, Roboto_Condensed, Inter, Audiowide } from "next/font/google";
+import { Geist, Geist_Mono, Roboto_Condensed, Inter, Instrument_Sans, Audiowide } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/Navbar";
 import Footer from "@/components/shared/Footer";
+import QuoteModalProvider from "@/components/shared/QuoteModal";
+import StickyQuoteCta from "@/components/shared/StickyQuoteCta";
 import JsonLd from "@/components/shared/JsonLd";
 import navbarData from "@/data/shared/navbar.json";
 import footerData from "@/data/shared/footer.json";
@@ -33,6 +35,13 @@ const robotoCondensed = Roboto_Condensed({
 
 const inter = Inter({
   variable: "--font-inter",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+});
+
+// Description / paragraph text.
+const instrumentSans = Instrument_Sans({
+  variable: "--font-instrument-sans",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
 });
@@ -71,13 +80,16 @@ export default function RootLayout({ children }) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} ${robotoCondensed.variable} ${inter.variable} ${audiowide.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${robotoCondensed.variable} ${inter.variable} ${instrumentSans.variable} ${audiowide.variable} h-full antialiased`}
     >
       <body className="mono-accent min-h-full flex flex-col">
         <JsonLd data={businessGraph()} />
-        <Navbar data={navbarData} />
-        <main className="flex-1">{children}</main>
-        <Footer data={footerData} />
+        <QuoteModalProvider>
+          <Navbar data={navbarData} />
+          <main className="flex-1">{children}</main>
+          <Footer data={footerData} />
+          <StickyQuoteCta />
+        </QuoteModalProvider>
       </body>
     </html>
   );
