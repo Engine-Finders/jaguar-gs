@@ -81,8 +81,8 @@ export default function ModelSec16({ data, modelName = "Jaguar" }) {
               return (
                 <div key={s.label} className="flex min-w-0 flex-col items-center gap-2 px-1 text-center">
                   <Icon name={s.icon} className="h-7 w-7 shrink-0 text-hero-blue" />
-                  <p className="text-[11px] font-medium leading-tight text-[#111111] [hyphens:auto]">{main}</p>
-                  {note && <p className="-mt-1 text-[9px] leading-tight text-[#4a4a4a]">{note}</p>}
+                  <p className="text-xs font-medium leading-tight text-[#111111] [hyphens:auto]">{main}</p>
+                  {note && <p className="-mt-1 text-xs leading-tight text-[#4a4a4a]">{note}</p>}
                 </div>
               );
             })}

@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 import { useState } from "react";
 import Icon from "@/components/reusable/Icon";
 import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
@@ -61,7 +63,7 @@ export default function ModelSec18({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative px-4 pb-10 pt-4 md:hidden">
         <div className="flex items-center gap-2">
-          <JaguarLogo className="h-8 shrink-0" />
+          <Image src="/brand/logo-icon-light.webp" alt="Jaguar Garage" width={512} height={173} className="h-8 w-auto shrink-0" sizes="120px" />
           <h2 className="h2 origin-left scale-y-110 scale-x-90 whitespace-nowrap uppercase">
             <span className="text-[#111111]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
@@ -156,11 +158,11 @@ export default function ModelSec18({ data }) {
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-center gap-2">
-          <JaguarLogo className="h-10 shrink-0" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <Image src="/brand/logo-icon-light.webp" alt="Jaguar Garage" width={512} height={173} className="h-10 w-auto shrink-0" sizes="120px" />
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="text-[#111111]">{data.kicker} </span>
             <span className="text-hero-blue">{data.kickerHighlight}</span>
-          </h2>
+          </div>
         </div>
 
         <div className="mt-5 grid grid-cols-2 gap-4">
@@ -188,10 +190,10 @@ export default function ModelSec18({ data }) {
         >
           <JaguarStripe className="absolute right-6 top-6 h-8 w-16" />
 
-          <h3 className="h3 origin-left scale-y-110 scale-x-90 whitespace-nowrap text-white uppercase">
+          <div role="heading" aria-level="3" className="h3 origin-left scale-y-110 scale-x-90 whitespace-nowrap text-white uppercase">
             {data.form.headlinePre} <span className="text-hero-blue">{data.form.headlineHighlight}</span>{" "}
             {data.form.headlinePost}
-          </h3>
+          </div>
 
           <div className="mt-6 grid grid-cols-3 gap-4">
             <label className="block">

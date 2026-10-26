@@ -1,8 +1,9 @@
 "use client";
 
+import Image from "next/image";
+
 import { useRef, useState } from "react";
 import Icon from "@/components/reusable/Icon";
-import JaguarLogo from "@/components/reusable/JaguarLogo";
 
 function GoogleG({ className = "h-5 w-5" }) {
   return (
@@ -59,7 +60,7 @@ export default function ModelSec8({ data }) {
     <section className="theme-dark relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
-        <JaguarLogo className="absolute right-4 top-4 h-14 w-14 opacity-90" />
+        <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-14 w-auto absolute right-4 top-4" sizes="120px" />
 
         <div className="relative px-4 pb-8 pt-8">
           <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
@@ -116,11 +117,11 @@ export default function ModelSec8({ data }) {
           </div>
 
           <div className="mt-6 space-y-3">
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white">
+            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
               <GoogleG className="h-5 w-5" />
               {data.googleCta} <span aria-hidden className="text-white">→</span>
             </button>
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white">
+            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
               <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
               {data.trustpilotCta} <span aria-hidden className="text-white">→</span>
             </button>
@@ -138,11 +139,11 @@ export default function ModelSec8({ data }) {
 
       <div className="relative mx-auto max-w-6xl">
         <div className="flex items-start gap-5 pt-8">
-          <JaguarLogo className="mt-2 h-14" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-14 w-auto mt-2" sizes="120px" />
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="block text-white">{renderTitleLine(line1, "text-white")}</span>
             <span className="block text-hero-blue">{renderTitleLine(line2, "text-hero-blue")}</span>
-          </h2>
+          </div>
         </div>
 
         <div className="mt-6 grid gap-3" style={{ gridTemplateColumns: `repeat(${data.reviews.length}, minmax(0, 1fr))` }}>

@@ -114,11 +114,11 @@ export default function ModelSec2({ data }) {
                   <p className="label-text uppercase tracking-widest text-[#111111]">{data.kicker}</p>
                 </div>
 
-                <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase" style={{ width: "118%" }}>
+                <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase" style={{ width: "118%" }}>
                   <span className="block text-[#111111]">{renderTitleLine(line1, "text-[#111111]")}</span>
                   <span className="block text-hero-blue">{renderTitleLine(line2, "text-hero-blue")}</span>
                   <span className="block text-[#111111]">{renderTitleLine(line3, "text-[#111111]")}</span>
-                </h2>
+                </div>
 
                 <p className="body-text mt-4 text-[#111111]">
                   {data.description} <span className="font-bold text-[#111111]">{data.descriptionEmphasis}</span>

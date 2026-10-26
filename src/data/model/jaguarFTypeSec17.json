@@ -8,25 +8,32 @@
   "tabVariants": [
     [
       {
-        "label": "Jaguar F-Type 2.0i (Ingenium)"
+        "label": "Jaguar F-Type 2.0i (Ingenium)",
+        "href": "/jaguar-f-type-2-0i-ingenium-engines"
       },
       {
-        "label": "Jaguar F-Type V6"
+        "label": "Jaguar F-Type V6",
+        "href": "/jaguar-f-type-v6-engines"
       },
       {
-        "label": "Jaguar F-Type V6 S"
+        "label": "Jaguar F-Type V6 S",
+        "href": "/jaguar-f-type-v6-s-engines"
       },
       {
-        "label": "Jaguar F-Type R"
+        "label": "Jaguar F-Type R",
+        "href": "/jaguar-f-type-r-engines"
       },
       {
-        "label": "Jaguar F-Type SVR"
+        "label": "Jaguar F-Type SVR",
+        "href": "/jaguar-f-type-svr-engines"
       },
       {
-        "label": "Jaguar F-Type P450"
+        "label": "Jaguar F-Type P450",
+        "href": "/jaguar-f-type-p450-engines"
       },
       {
-        "label": "Jaguar F-Type R575"
+        "label": "Jaguar F-Type R575",
+        "href": "/jaguar-f-type-r575-engines"
       }
     ]
   ],

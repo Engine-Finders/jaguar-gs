@@ -54,6 +54,8 @@ export default function ModelSec4({ data }) {
 
           {/* pricing table */}
           <div className="glass-card mt-5 overflow-hidden rounded-2xl">
+            <div className="overflow-x-auto">
+              <div className="min-w-[560px]">
             <div className={`grid ${mobileGridCols} divide-x divide-black/10 border-b border-black/10 bg-white/60`}>
               <div className="flex min-w-0 flex-col items-start gap-1 px-1.5 py-2">
                 <Icon name="gear" className="h-3.5 w-3.5 shrink-0 text-hero-blue" />
@@ -84,17 +86,19 @@ export default function ModelSec4({ data }) {
                 key={r.family}
                 className={`grid ${mobileGridCols} divide-x divide-black/10 ${i > 0 ? "border-t border-black/10" : ""} ${i % 2 === 1 ? "bg-white/40" : ""}`}
               >
-                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#111111]">
+                <p className="text-sm px-3 py-3 font-bold leading-tight text-[#111111]">
                   {r.familyHref ? <Link href={r.familyHref} >{r.family}</Link> : r.family}
                 </p>
-                <p className={`label-text px-2 py-2.5 font-semibold leading-tight ${r.fuel === "Petrol" ? "text-hero-blue" : "text-hero-blue"}`}>
+                <p className={`text-sm px-3 py-3 font-semibold leading-tight ${r.fuel === "Petrol" ? "text-hero-blue" : "text-hero-blue"}`}>
                   {r.fuel}
                 </p>
-                <p className="label-text px-2 py-2.5 leading-tight text-[#111111]">{r.size}</p>
-                {hasChassis && <p className="label-text px-2 py-2.5 leading-tight text-[#111111]">{r.chassis}</p>}
-                <p className="label-text px-2 py-2.5 font-bold leading-tight text-[#111111]">{r.range}</p>
+                <p className="text-sm px-3 py-3 leading-tight text-[#111111]">{r.size}</p>
+                {hasChassis && <p className="text-sm px-3 py-3 leading-tight text-[#111111]">{r.chassis}</p>}
+                <p className="text-sm px-3 py-3 font-bold leading-tight text-[#111111]">{r.range}</p>
               </div>
             ))}
+              </div>
+            </div>
           </div>
 
           {/* feature cards 2x2 */}
@@ -150,10 +154,10 @@ export default function ModelSec4({ data }) {
           <p className="label-text uppercase tracking-widest text-[#111111]">{data.kicker}</p>
         </div>
 
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
+        <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
           <span className="text-[#111111]">{data.headlinePre} </span>
           <span className="text-hero-blue">{data.headlineHighlight}</span>
-        </h2>
+        </div>
 
         <p className="body-text mt-2 max-w-3xl text-[#111111]">{data.description}</p>
 

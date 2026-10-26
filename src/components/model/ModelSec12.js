@@ -1,19 +1,26 @@
+"use client";
+
+import { useState } from "react";
 import Image from "next/image";
+import ImageLightbox from "@/components/shared/ImageLightbox";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 const mobileCardIndices = [0, 1, 2, 3, 4, 5, 6, 9];
 
-function JobCard({ c, data, sizes }) {
+function JobCard({ c, data, sizes, onOpen }) {
   return (
-    <div className="overflow-hidden rounded-xl border border-black/5 bg-white shadow-[0_10px_24px_-12px_rgba(0,0,0,0.4)]">
-      <div className="relative aspect-[6/5]">
-        <Image src={c.image || data.image} alt={`${c.model} — ${c.tag}`} fill className="object-cover" sizes={sizes} />
+    <div className="group flex flex-col overflow-hidden rounded-xl border border-black/5 bg-white shadow-[0_10px_24px_-12px_rgba(0,0,0,0.4)] transition-transform duration-300 md:hover:-translate-y-1">
+      <div
+        className={`relative aspect-[6/5] shrink-0 overflow-hidden ${onOpen ? "cursor-pointer" : ""}`}
+        onClick={onOpen ? () => onOpen({ src: c.image || data.image, alt: `${c.model} — ${c.tag}` }) : undefined}
+      >
+        <Image src={c.image || data.image} alt={`${c.model} — ${c.tag}`} fill className="object-cover transition-transform duration-500 ease-out md:group-hover:scale-110" sizes={sizes} />
       </div>
-      <div className="px-3 py-2.5">
+      <div className="flex-1 px-3 py-2.5">
         <p className="truncate text-sm font-extrabold text-[#111111]">{c.href ? <Link href={c.href}>{c.model}</Link> : c.model}</p>
-        <p className="mt-1 flex items-center gap-1.5 text-[11px] uppercase tracking-wide text-[#333333]">
+        <p className="mt-1 flex items-center gap-1.5 text-xs uppercase tracking-wide text-[#333333]">
           <Icon name={c.icon} className="h-3.5 w-3.5 shrink-0" />
           <span className="truncate">{c.tag}</span>
         </p>
@@ -23,10 +30,12 @@ function JobCard({ c, data, sizes }) {
 }
 
 export default function ModelSec12({ data }) {
+  const [open, setOpen] = useState(null);
   const mobileCards = mobileCardIndices.map((i) => data.cards[i]).filter(Boolean);
 
   return (
     <section className="theme-light relative overflow-hidden">
+      {open && <ImageLightbox img={open} onClose={() => setOpen(null)} />}
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div
@@ -45,7 +54,7 @@ export default function ModelSec12({ data }) {
 
           <div className="mt-5 grid grid-cols-2 gap-3">
             {mobileCards.map((c, i) => (
-              <JobCard key={`${c.model}-${i}`} c={c} data={data} sizes="50vw" />
+              <JobCard key={`${c.model}-${i}`} c={c} data={data} sizes="50vw" onOpen={setOpen} />
             ))}
           </div>
 
@@ -83,10 +92,10 @@ export default function ModelSec12({ data }) {
           {/* header */}
           <div>
             <div className="max-w-3xl">
-              <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+              <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
                 <span className="block whitespace-nowrap text-[#111111]">{data.headlinePre}</span>
                 <span className="block whitespace-nowrap text-hero-blue">{data.headlineHighlight}</span>
-              </h2>
+              </div>
               <p className="body-text mt-3 text-[#111111]">{data.description}</p>
             </div>
 

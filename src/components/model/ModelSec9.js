@@ -1,13 +1,13 @@
 "use client";
 
-import { useState } from "react";
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import RegLookupGlass from "@/components/reusable/RegLookupGlass";
+import RegLookupForm from "@/components/reusable/RegLookupForm";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 export default function ModelSec9({ data }) {
   const [line1, line2] = data.h2.split("|");
-  const [reg, setReg] = useState("");
 
   return (
     <section className="theme-light relative overflow-hidden">
@@ -39,26 +39,7 @@ export default function ModelSec9({ data }) {
               boxShadow: "0 0 0 1px rgba(0,0,0,0.12), 0 16px 34px -12px rgba(0,0,0,0.35)",
             }}
           >
-            <div className="flex h-20 overflow-hidden rounded-lg border-2 border-[#111111]/80 bg-white shadow-sm">
-              <span className="flex w-16 shrink-0 flex-col items-center justify-center gap-1 bg-[#1a1a1a] text-white">
-                <span className="flex h-4 w-4 items-center justify-center rounded-full border border-white/70 text-[9px] leading-none text-white">★</span>
-                <span className="text-xs font-extrabold tracking-wide">GB</span>
-              </span>
-              <input
-                type="text"
-                value={reg}
-                onChange={(e) => setReg(e.target.value.toUpperCase())}
-                placeholder="ENTER REG"
-                maxLength={8}
-                className="min-w-0 flex-1 px-3 text-center text-2xl font-black tracking-widest text-[#111111] outline-none placeholder:text-[#111111]/40"
-                style={{ background: "var(--theme-light-bg)" }}
-              />
-            </div>
-
-            <button className="btn-text mt-3 flex h-16 w-full items-center justify-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark uppercase text-white shadow-[0_10px_25px_-8px_rgba(150,154,160,0.7)]">
-              <Icon name="search" className="h-6 w-6" />
-              {data.lookupButton}
-            </button>
+            <RegLookupForm buttonLabel={data.lookupButton} compact />
 
             <div className="mt-3 flex items-start gap-2 border-t border-black/10 pt-3">
               <Icon name="info" className="h-4 w-4 shrink-0 text-hero-blue" />
@@ -88,7 +69,7 @@ export default function ModelSec9({ data }) {
             {data.browseCards.map((c, i) => (
               <button
                 key={c.label}
-                className={`relative flex items-center justify-between gap-2 rounded-xl bg-white/70 px-4 py-4 text-left backdrop-blur-2xl ${i === 4 ? "col-span-2" : ""}`}
+                className={`relative flex items-center justify-between gap-2 rounded-xl bg-white/70 px-4 py-4 text-left backdrop-blur-2xl ${i === 4 ? "col-span-2" : ""} transition duration-200 hover:-translate-y-0.5 hover:bg-white hover:shadow-lg`}
                 style={{
                   boxShadow: "0 0 0 1px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.9), 0 6px 18px -8px rgba(0,0,0,0.18)",
                 }}
@@ -120,10 +101,10 @@ export default function ModelSec9({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-lg pt-8">
           <JaguarStripe className="h-4.5 w-9" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
             <span className="block text-[#111111]">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
-          </h2>
+          </div>
           <span className="mt-3 block h-px w-16 bg-hero-blue/50" />
           <p className="body-text mt-4 max-w-md text-[#111111]">{data.subhead}</p>
         </div>
@@ -132,38 +113,27 @@ export default function ModelSec9({ data }) {
         <div className="pointer-events-none absolute left-[20%] top-[38%] h-56 w-56 rounded-full bg-hero-blue/12 blur-3xl" />
         <div className="pointer-events-none absolute right-[8%] top-[55%] h-48 w-48 rounded-full bg-hero-blue/10 blur-3xl" />
 
-        {/* reg lookup card */}
+        {/* reg lookup card — proportions taken from the reference (846px wide card) */}
         <div
-          className="relative mt-10 flex items-center gap-6 overflow-hidden rounded-2xl px-6 py-6"
+          className="relative mt-10 grid items-center overflow-hidden rounded-3xl bg-white/60 backdrop-blur-2xl"
           style={{
-            background: "var(--theme-light-bg)",
-            boxShadow: "0 0 0 1px rgba(0,0,0,0.12), 0 18px 40px -14px rgba(0,0,0,0.35)",
+            containerType: "inline-size",
+            gridTemplateColumns: "386fr 150fr 207fr",
+            columnGap: "2.4%",
+            padding: "2.7% 5.1% 2.7% 2.4%",
+            boxShadow:
+              "0 0 0 1px rgba(16,24,40,0.12), inset 0 1px 0 rgba(255,255,255,0.95), 0 12px 30px -10px rgba(16,24,40,0.2), 0 0 20px -6px rgba(255,255,255,0.9)",
           }}
         >
-          <div className="flex h-20 flex-1 overflow-hidden rounded-lg border-2 border-[#111111]/80 bg-white shadow-sm">
-            <span className="flex w-16 shrink-0 flex-col items-center justify-center gap-1.5 bg-[#1a1a1a] text-white">
-              <span className="flex h-5 w-5 items-center justify-center rounded-full border border-white/70 text-[10px] leading-none text-white">★</span>
-              <span className="text-sm font-extrabold tracking-wide">GB</span>
-            </span>
-            <input
-              type="text"
-              value={reg}
-              onChange={(e) => setReg(e.target.value.toUpperCase())}
-              placeholder="ENTER REG"
-              maxLength={8}
-              className="min-w-0 flex-1 px-3 text-center text-3xl font-black tracking-widest text-[#111111] outline-none placeholder:text-[#111111]/40"
-              style={{ background: "var(--theme-light-bg)" }}
-            />
-          </div>
+          <RegLookupGlass buttonLabel={data.lookupButton} />
 
-          <button className="btn-text flex h-16 shrink-0 items-center gap-2 rounded-lg bg-linear-to-br from-hero-blue to-hero-blue-dark px-8 uppercase text-white shadow-[0_10px_25px_-8px_rgba(150,154,160,0.7)] transition hover:-translate-y-0.5 hover:from-hero-blue-dark hover:to-hero-blue hover:shadow-[0_14px_32px_-8px_rgba(150,154,160,0.85)]">
-            <Icon name="search" className="h-6 w-6" />
-            {data.lookupButton}
-          </button>
-
-          <div className="flex max-w-56 items-start gap-2 border-l border-black/10 pl-6">
-            <Icon name="info" className="h-4 w-4 shrink-0 text-hero-blue" />
-            <p className="text-xs leading-snug text-[#111111]">{data.apiNote}</p>
+          <div className="flex items-start gap-3 border-l border-black/15 py-3" style={{ paddingLeft: "2.4cqw" }}>
+            <Icon name="info" className="h-6 w-6 shrink-0 text-hero-blue" />
+            <p className="text-sm leading-relaxed text-[#111111]">
+              {data.apiNote.split(/(?<=\.)\s+/).map((t, i) => (
+                <span key={i} className="block">{t}</span>
+              ))}
+            </p>
           </div>
         </div>
 

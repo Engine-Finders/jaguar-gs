@@ -8,19 +8,23 @@
   "tabVariants": [
     [
       {
-        "label": "Jaguar XK8"
+        "label": "Jaguar XK8",
+        "href": "/jaguar-xk8-engines"
       },
       {
         "label": "Jaguar XKR"
       },
       {
-        "label": "Jaguar XK 4.2 V8"
+        "label": "Jaguar XK 4.2 V8",
+        "href": "/jaguar-xk-4-2-v8-engines"
       },
       {
-        "label": "Jaguar XK 5.0 V8"
+        "label": "Jaguar XK 5.0 V8",
+        "href": "/jaguar-xk-5-0-v8-engines"
       },
       {
-        "label": "Jaguar XKR-S"
+        "label": "Jaguar XKR-S",
+        "href": "/jaguar-xkr-s-engines"
       }
     ]
   ],

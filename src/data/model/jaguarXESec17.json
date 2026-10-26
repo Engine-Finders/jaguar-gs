@@ -8,7 +8,8 @@
   "tabVariants": [
     [
       {
-        "label": "Jaguar XE 2.0d"
+        "label": "Jaguar XE 2.0d",
+        "href": "/jaguar-xe-2-0d-engines"
       },
       {
         "label": "Jaguar XE 2.0i"
@@ -20,10 +21,12 @@
         "label": "Jaguar XE 3.0 V6 SC"
       },
       {
-        "label": "Jaguar XE 300 Sport"
+        "label": "Jaguar XE 300 Sport",
+        "href": "/jaguar-xe-300-sport-engines"
       },
       {
-        "label": "Jaguar XE P250"
+        "label": "Jaguar XE P250",
+        "href": "/jaguar-xe-p250-engines"
       }
     ]
   ],

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 
 export default function ModelSec14({ data }) {
   const line1Words = data.line1.split(" ");
@@ -37,7 +38,7 @@ export default function ModelSec14({ data }) {
 
           <a
             href={data.cta.href}
-            className="mt-5 inline-flex items-center gap-2 whitespace-nowrap card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-white/10"
+            className="mt-5 inline-flex items-center gap-2 whitespace-nowrap card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white backdrop-blur-md transition duration-200 hover:-translate-y-0.5 hover:bg-white/10"
           >
             {data.cta.label} <span aria-hidden>→</span>
           </a>
@@ -48,17 +49,18 @@ export default function ModelSec14({ data }) {
       <div className="relative hidden px-4 py-12 sm:px-6 md:block lg:px-8">
       <div className="absolute inset-0">
         <Image src={data.image} alt="Racked Jaguar replacement engines in storage" fill className="object-cover" sizes="100vw" />
+        <PhotoStripes preset="sec14" className="object-cover" />
       </div>
 
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-[46%]">
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="block whitespace-nowrap text-white">{data.line1}</span>
             <span className="block">
               <span className="text-hero-blue">{data.line2Highlight}</span>
               <span className="text-white">{data.line2Rest}</span>
             </span>
-          </h2>
+          </div>
 
           <p className="mt-4 text-sm leading-relaxed text-white">{data.paragraph}</p>
 
@@ -69,7 +71,7 @@ export default function ModelSec14({ data }) {
 
           <a
             href={data.cta.href}
-            className="mt-5 inline-flex items-center gap-2 card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-white/10"
+            className="mt-5 inline-flex items-center gap-2 card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white backdrop-blur-md transition duration-200 hover:-translate-y-0.5 hover:bg-white/10"
           >
             {data.cta.label} <span aria-hidden>→</span>
           </a>

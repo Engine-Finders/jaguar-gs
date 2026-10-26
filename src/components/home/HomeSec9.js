@@ -109,7 +109,7 @@ export default function HomeSec9({ data }) {
           </button>
           <span className="h-6 w-px bg-white/20" />
           <span className="label-text flex items-center gap-2 uppercase tracking-wide text-white/70">
-            <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-7 w-auto" sizes="100px" />
+            <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-8 w-auto" sizes="100px" />
             {data.footerTagline}
           </span>
         </div>

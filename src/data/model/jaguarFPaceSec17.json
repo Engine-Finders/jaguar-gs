@@ -23,10 +23,12 @@
         "label": "Jaguar F-Pace 3.0 V6 SC"
       },
       {
-        "label": "Jaguar F-Pace P400e"
+        "label": "Jaguar F-Pace P400e",
+        "href": "/jaguar-f-pace-p400e-engines"
       },
       {
-        "label": "Jaguar F-Pace SVR"
+        "label": "Jaguar F-Pace SVR",
+        "href": "/jaguar-f-pace-svr-engines"
       }
     ]
   ],

@@ -8,22 +8,28 @@
   "tabVariants": [
     [
       {
-        "label": "Jaguar E-Pace P160"
+        "label": "Jaguar E-Pace P160",
+        "href": "/jaguar-e-pace-p160-engines"
       },
       {
-        "label": "Jaguar E-Pace P200"
+        "label": "Jaguar E-Pace P200",
+        "href": "/jaguar-e-pace-p200-engines"
       },
       {
-        "label": "Jaguar E-Pace P250"
+        "label": "Jaguar E-Pace P250",
+        "href": "/jaguar-e-pace-p250-engines"
       },
       {
-        "label": "Jaguar E-Pace P300e"
+        "label": "Jaguar E-Pace P300e",
+        "href": "/jaguar-e-pace-p300e-engines"
       },
       {
-        "label": "Jaguar E-Pace D165"
+        "label": "Jaguar E-Pace D165",
+        "href": "/jaguar-e-pace-d165-engines"
       },
       {
-        "label": "Jaguar E-Pace D200"
+        "label": "Jaguar E-Pace D200",
+        "href": "/jaguar-e-pace-d200-engines"
       }
     ]
   ],

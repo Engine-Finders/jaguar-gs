@@ -8,25 +8,30 @@
   "tabVariants": [
     [
       {
-        "label": "Jaguar XJ6"
+        "label": "Jaguar XJ6",
+        "href": "/jaguar-xj6-engines"
       },
       {
-        "label": "Jaguar XJ8"
+        "label": "Jaguar XJ8",
+        "href": "/jaguar-xj8-engines"
       },
       {
-        "label": "Jaguar XJR"
+        "label": "Jaguar XJR",
+        "href": "/jaguar-xjr-engines"
       },
       {
         "label": "Jaguar Super V8"
       },
       {
-        "label": "Jaguar XJ 3.0d"
+        "label": "Jaguar XJ 3.0d",
+        "href": "/jaguar-xj-3-0d-engines"
       },
       {
         "label": "Jaguar XJ 3.0 V6"
       },
       {
-        "label": "Jaguar XJ 5.0 V8"
+        "label": "Jaguar XJ 5.0 V8",
+        "href": "/jaguar-xj-5-0-v8-engines"
       },
       {
         "label": "Jaguar XJ 5.0 Supercharged V8"

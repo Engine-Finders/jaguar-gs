@@ -62,10 +62,10 @@ export default function ModelSec13({ data }) {
       {/* ===== desktop ===== */}
       <div className="relative hidden px-4 py-10 sm:px-6 md:block lg:px-8">
       <div className="relative mx-auto max-w-6xl">
-        <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+        <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
           <span className="text-[#111111]">{data.headlinePre} </span>
           <span className="text-hero-blue">{data.headlineHighlight}</span>
-        </h2>
+        </div>
 
         {/* 4-step flow */}
         <div className="mt-6 flex items-start gap-3">

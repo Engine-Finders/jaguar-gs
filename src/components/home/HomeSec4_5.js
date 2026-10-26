@@ -94,8 +94,10 @@ export default function HomeSec4_5({ data }) {
             <p className="text-xs uppercase tracking-[0.3em] text-white drop-shadow-[0_1px_3px_rgba(0,0,0,0.8)]">{data.footer}</p>
             <span className="h-px w-20 bg-white/45" />
           </div>
-          <div className="mt-3 flex justify-center">
+          <div className="mt-4 flex items-center justify-center gap-3">
+            <span className="h-px w-8 bg-white/45" />
             <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-8 w-auto" sizes="100px" />
+            <span className="h-px w-8 bg-white/45" />
           </div>
         </div>
       </div>

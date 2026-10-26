@@ -1,4 +1,5 @@
 import Image from "next/image";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
@@ -82,7 +83,7 @@ export default function ModelSec3({ data }) {
                 className={`relative rounded-xl p-3 ${c.featured ? "border border-white/15 shadow-[0_10px_30px_-12px_rgba(0,0,0,0.8)]" : "glass-card-dark card-glare"}`}
                 style={c.featured ? { background: FEATURED_BG } : undefined}
               >
-                {c.featured && <div className="mb-1 flex justify-center"><JaguarLogo className="h-8" /></div>}
+                {c.featured && <div className="mb-1 flex justify-center"><Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-8 w-auto" sizes="120px" /></div>}
                 <div className="relative mx-auto h-16 w-full">
                   <Image src={c.image || data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="140px" />
                 </div>
@@ -119,6 +120,7 @@ export default function ModelSec3({ data }) {
       <div className="relative hidden overflow-hidden px-4 py-10 sm:px-6 md:block lg:px-8">
         <div className="absolute inset-0">
           <Image src={data.image} alt="Black Jaguar E-Pace in a dark Jaguar workshop" fill className="object-cover object-[65%_50%]" sizes="100vw" />
+          <PhotoStripes preset="sec3" className="object-cover object-[65%_50%]" />
           <div className="absolute inset-0 bg-linear-to-r from-hero-dark via-hero-dark/50 to-transparent" />
           <div className="absolute inset-x-0 bottom-0 h-1/3 bg-linear-to-t from-hero-dark to-transparent" />
         </div>
@@ -129,10 +131,10 @@ export default function ModelSec3({ data }) {
             <p className="label-text uppercase tracking-widest text-white/85">{data.kicker}</p>
           </div>
 
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-3 uppercase">
             <span className="block text-white">{line1}</span>
             <span className="block text-hero-blue">{line2}</span>
-          </h2>
+          </div>
 
           <p className="mt-4 label-text inline-block uppercase tracking-widest text-white">
             {data.startingFromLabel}
@@ -146,7 +148,7 @@ export default function ModelSec3({ data }) {
                 className={`relative rounded-xl pb-5 pt-4 ${c.featured ? "border border-white/15" : "glass-card-dark card-glare"}`}
                 style={c.featured ? { background: FEATURED_BG, boxShadow: "0 0 28px -4px rgba(255,255,255,0.45), 0 18px 40px -18px rgba(0,0,0,0.9)" } : undefined}
               >
-                {c.featured && <div className="mb-1 flex justify-center"><JaguarLogo className="h-10" /></div>}
+                {c.featured && <div className="mb-1 flex justify-center"><Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-10 w-auto" sizes="120px" /></div>}
                 <div className={`relative mx-auto w-full ${c.featured ? "h-28" : "h-32"}`}>
                   <Image src={c.image || data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="200px" />
                 </div>

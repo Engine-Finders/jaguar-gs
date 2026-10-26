@@ -122,15 +122,15 @@ export default function ModelSec15({ data }) {
       <div className="relative mx-auto max-w-6xl">
         {/* header */}
         <div className="max-w-lg pt-2">
-          <JaguarLogo className="h-12" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-4 uppercase">
+          <Image src="/brand/logo-icon-light.webp" alt="Jaguar Garage" width={512} height={173} className="h-12 w-auto" sizes="120px" />
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-4 uppercase">
             <span className="block text-[#111111]">{headlineWords.slice(0, -1).join(" ")}</span>
             <span className="block">
               <span className="text-[#111111]">{headlineWords[headlineWords.length - 1]} </span>
               <span className="text-hero-blue">{data.headlineHighlight}</span>
               <JaguarStripe className="ml-4 inline-flex h-6 w-14 align-middle" />
             </span>
-          </h2>
+          </div>
 
           <p className="mt-8 text-lg font-extrabold text-[#111111]">{data.kicker}</p>
           <p className="mt-1.5 text-sm text-[#111111]">{data.description}</p>
@@ -189,7 +189,7 @@ export default function ModelSec15({ data }) {
 
               <div className="relative flex items-center gap-3">
                 <Icon name="engine" className="h-9 w-9 shrink-0 text-hero-blue" />
-                <h3 className="h3 origin-left scale-y-110 scale-x-90 uppercase">
+                <div role="heading" aria-level="3" className="h3 origin-left scale-y-110 scale-x-90 uppercase">
                   <span className="block text-[#111111]">{data.checklistTitlePre}</span>
                   {data.checklistHref ? (
                     <Link href={data.checklistHref} className="block text-hero-blue">
@@ -198,7 +198,7 @@ export default function ModelSec15({ data }) {
                   ) : (
                     <span className="block text-hero-blue">{data.checklistTitleHighlight}</span>
                   )}
-                </h3>
+                </div>
               </div>
               <span className="relative mt-3 block h-0.5 w-full bg-linear-to-r from-black/45 via-black/15 to-transparent" />
 

@@ -46,12 +46,12 @@ export default function ModelSec11({ data }) {
       <div className="relative mx-auto max-w-6xl">
         <div className="max-w-[42%]">
           <JaguarStripe className="h-6 w-11 shrink-0" />
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 mt-2 uppercase">
             <span className="block whitespace-nowrap text-[#1a1a1a]">{line1}</span>
-          </h2>
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          </div>
+          <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
             <span className="block text-hero-blue">{line2}</span>
-          </h2>
+          </div>
 
           <div className="mt-3 divide-y divide-black/10 border-t border-black/10">
             {data.checklist.map((item) => (

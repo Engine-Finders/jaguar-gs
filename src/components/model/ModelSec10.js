@@ -121,10 +121,10 @@ export default function ModelSec10({ data }) {
             <JaguarLogo className="mt-2 h-14" />
             <div>
               <p className="text-2xl font-extrabold uppercase leading-tight text-[#111111]">{data.headlinePre}</p>
-              <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+              <div role="heading" aria-level="2" className="h2 origin-left scale-y-110 scale-x-90 uppercase">
                 <span className="text-[#111111]">{titleDark} </span>
                 <span className="text-hero-blue">{titleAccent}</span>
-              </h2>
+              </div>
             </div>
           </div>
           <p className="mt-2 max-w-2xl text-sm text-[#111111]">{data.subhead}</p>
