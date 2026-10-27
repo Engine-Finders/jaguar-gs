@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 2.7d ENGINE",
     "paragraphs": [
-      "The XF 2.7d was introduced with the original X250-generation XF in 2007. It uses the Ford AJD V6 — a 2.7-litre diesel V6 shared with several Ford, Jaguar, and Land Rover vehicles of that era. The XF 2.7d remained in production until 2015, when the X260-generation XF replaced the X250. The 2.7d was discontinued during the X250 run — later X260 XFs used a different 2.0-litre four-cylinder diesel from Jaguar's Ingenium family instead, not the AJD V6."
+      "The XF 2.7d was introduced with the original X250-generation XF in 2007. It uses the Ford AJD V6 - a 2.7-litre diesel V6 shared with several Ford, Jaguar, and Land Rover vehicles of that era. The XF 2.7d remained in production until 2015, when the X260-generation XF replaced the X250. The 2.7d was discontinued during the X250 run - later X260 XFs used a different 2.0-litre four-cylinder diesel from Jaguar's Ingenium family instead, not the AJD V6."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ford AJD V6",
         "codeRest": "",
-        "body": "A 2.7L V6 Diesel engine fitted to the XF 2.7d — X250 (2007–2015).",
+        "body": "A 2.7L V6 Diesel engine fitted to the XF 2.7d - X250 (2007-2015).",
         "cta": "Check Your Ford AJD V6 XF 2.7d"
       }
     ]
@@ -25,7 +25,7 @@
   "compatibility": {
     "titlePre": "Jaguar XF 2.7d ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The XF 2.7d uses the Ford AJD V6 throughout its production run — a 2.7-litre diesel V6 that remained consistent across the entire X250 generation. Before we quote or supply anything, we confirm:",
+    "intro": "The XF 2.7d uses the Ford AJD V6 throughout its production run - a 2.7-litre diesel V6 that remained consistent across the entire X250 generation. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -40,7 +40,7 @@
       },
       {
         "icon": "car",
-        "text": "Your generation (X250, 2007–2015)"
+        "text": "Your generation (X250, 2007-2015)"
       },
       {
         "icon": "gear",
@@ -51,13 +51,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF 2.7d quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF 2.7d quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 2.7d ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+    "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "X250",
-        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+        "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "X250",
-        "years": "2007–2015",
+        "years": "2007-2015",
         "engineCode": "Ford AJD V6",
         "fuel": "Diesel"
       }

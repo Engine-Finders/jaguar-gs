@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ27 Applications — ",
+  "titlePre": "Jaguar AJ27 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "XJ8",
       "generation": "X308",
       "chassis": "X308",
-      "years": "1997–2003",
+      "years": "1997-2003",
       "powertrain": "AJ26/AJ27",
       "modelHref": "/jaguar-xj-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "XK8",
       "generation": "X100",
       "chassis": "X100",
-      "years": "1996–2004",
+      "years": "1996-2004",
       "powertrain": "AJ26/AJ27",
       "modelHref": "/jaguar-xk-engines"
     }

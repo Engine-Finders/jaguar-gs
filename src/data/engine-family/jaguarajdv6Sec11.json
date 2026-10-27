@@ -6,15 +6,15 @@
     "image": "/engine/sec10_top.webp",
     "imageMobile": "/engine/sec10_top_m2.webp",
     "paragraphs": [
-      "A Jaguar AJD-V6 engine rebuild starts from £2,900, regardless of whether it's the 2.7L or 3.0L variant — the price tier is set by the V6 diesel engine family, not the model it's fitted to.",
-      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required — submit your registration for a fixed-price quote within 30 minutes."
+      "A Jaguar AJD-V6 engine rebuild starts from £2,900, regardless of whether it's the 2.7L or 3.0L variant - the price tier is set by the V6 diesel engine family, not the model it's fitted to.",
+      "A full replacement engine and fitting service is also available. Exact pricing depends on the condition of your existing engine and the parts required - submit your registration for a fixed-price quote within 30 minutes."
     ],
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£2,900",
     "card": {
       "model": "Jaguar S-Type X200",
       "engine": "AJD-V6 2.7L",
-      "year": "2004 – 2007",
+      "year": "2004 - 2007",
       "price": "£2,900"
     }
   },
@@ -26,7 +26,7 @@
         "icon": "engine",
         "title": "Rebuilding Your",
         "titleHighlight": "AJD-V6 Engine",
-        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead — strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJD-V6 owners choose, and it's the one we'd recommend for most situations.",
+        "body": "Most engine suppliers sell you a used engine of unknown history and hope it matches. We rebuild the engine your Jaguar already has instead - strip it down, pressure-test it, and replace every worn or damaged component with updated OEM parts. You get a near-new engine with a 12-month unlimited-mileage warranty, without the compatibility risk of an unknown used unit. This is the option most AJD-V6 owners choose, and it's the one we'd recommend for most situations.",
         "bullets": [
           "Strip down & inspect",
           "Pressure-test",
@@ -38,7 +38,7 @@
         "icon": "refresh",
         "title": "Replacement",
         "titleHighlight": "AJD-V6 Engines",
-        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting — sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
+        "body": "If your existing engine is beyond economical repair, we also offer full engine replacement and fitting - sourced and fitted by our team, with the same 12-month unlimited-mileage warranty.",
         "bullets": [
           "Supplied & fitted by our team",
           "OEM quality",
@@ -49,11 +49,11 @@
         "icon": "cog",
         "title": "Used",
         "titleHighlight": "AJD-V6 Engines",
-        "body": "In some cases, a matched low-mileage used engine is the right call — particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given the differences between 2.7L and 3.0L variants. Enter your reg below and we'll talk you through both options honestly.",
+        "body": "In some cases, a matched low-mileage used engine is the right call - particularly if you need your car back on the road quickly and your existing engine's damage is extensive. We can source and fit these too, though most owners who ask about used engines end up choosing a rebuild once they understand the compatibility risk a used unit carries, especially given the differences between 2.7L and 3.0L variants. Enter your reg below and we'll talk you through both options honestly.",
         "bullets": [
           "Low-mileage units",
           "Quick turnaround",
-          "Condition risk – we advise honestly"
+          "Condition risk - we advise honestly"
         ]
       }
     ],
@@ -68,14 +68,14 @@
       "titlePre": "JAGUAR AJD-V6",
       "titleHighlight": "RECONDITIONED",
       "titlePost": " ENGINES",
-      "body": "\"Reconditioned\" is the term many owners search for when they mean the same thing as a rebuild — a full strip-down, inspection, and replacement of worn parts rather than a straight swap. If that's what you're after, our rebuild service is exactly that."
+      "body": "\"Reconditioned\" is the term many owners search for when they mean the same thing as a rebuild - a full strip-down, inspection, and replacement of worn parts rather than a straight swap. If that's what you're after, our rebuild service is exactly that."
     },
     {
       "icon": "shield-check",
       "titlePre": "JAGUAR AJD-V6",
       "titleHighlight": "REFURBISHED",
       "titlePost": " ENGINES",
-      "body": "\"Refurbished\" often describes the same process from a different angle — restoring your existing engine to full working condition rather than replacing it outright. Our rebuild covers this."
+      "body": "\"Refurbished\" often describes the same process from a different angle - restoring your existing engine to full working condition rather than replacing it outright. Our rebuild covers this."
     },
     {
       "icon": "cog",
@@ -95,7 +95,7 @@
       },
       {
         "q": "Which Jaguar models use the AJD-V6?",
-        "a": "S-Type (2.7D, 2004–2007), XF (2.7D and 3.0D, 2008–2015), and XJ (2.7D, 2003–2009)."
+        "a": "S-Type (2.7D, 2004-2007), XF (2.7D and 3.0D, 2008-2015), and XJ (2.7D, 2003-2009)."
       },
       {
         "q": "Is a 2.7L AJD-V6 compatible with a 3.0L AJD-V6?",
@@ -103,11 +103,11 @@
       },
       {
         "q": "Does the AJD-V6 use a timing belt or chain?",
-        "a": "The AJD-V6 uses a timing belt, not a chain. The interval is critical — belt breakage will bend valves."
+        "a": "The AJD-V6 uses a timing belt, not a chain. The interval is critical - belt breakage will bend valves."
       },
       {
         "q": "How much does a Jaguar AJD-V6 engine rebuild cost?",
-        "a": "Rebuilds start from £2,900 for both 2.7L and 3.0L variants. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+        "a": "Rebuilds start from £2,900 for both 2.7L and 3.0L variants. Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
       },
       {
         "q": "Do you rebuild AJD-V6 engines?",
@@ -125,7 +125,7 @@
       },
       {
         "q": "Can you recover my Jaguar if the engine has failed?",
-        "a": "Yes — nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
+        "a": "Yes - nationwide recovery is available from £70, and most vehicles are collected within a few hours of booking."
       },
       {
         "q": "How long does an AJD-V6 engine rebuild take?",
@@ -133,7 +133,7 @@
       },
       {
         "q": "Is rebuilding better than fitting a used engine?",
-        "a": "For most AJD-V6 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history — a particular concern given the differences between 2.7L and 3.0L variants — and comes with a 12-month unlimited-mileage warranty."
+        "a": "For most AJD-V6 owners, yes. A rebuild removes the compatibility risk that comes with an unknown used unit's history - a particular concern given the differences between 2.7L and 3.0L variants - and comes with a 12-month unlimited-mileage warranty."
       }
     ]
   },

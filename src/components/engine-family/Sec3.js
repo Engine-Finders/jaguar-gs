@@ -3,6 +3,7 @@ import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 import MobileSplitTitle from "@/components/variant/MobileSplitTitle";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 const GRID_COLS = "grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)_minmax(0,0.9fr)_minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1.1fr)]";
 
@@ -65,12 +66,12 @@ export default function Sec3({ data }) {
                 <p className="text-xs text-white">{data.prompt.subtext}</p>
               </div>
             </div>
-            <a
+            <QuoteLink
               href={data.prompt.href}
               className="mt-3 flex items-center justify-center gap-2 rounded-lg border border-white/40 bg-white/5 px-4 py-3 text-xs font-bold uppercase text-white transition-colors hover:bg-white/15"
             >
               {data.prompt.buttonLabel}
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>
@@ -142,12 +143,12 @@ export default function Sec3({ data }) {
                 <p className="text-sm text-white">{data.prompt.subtext}</p>
               </div>
             </div>
-            <a
+            <QuoteLink
               href={data.prompt.href}
               className="flex shrink-0 items-center gap-2 whitespace-nowrap rounded-lg border border-white/40 bg-white/5 px-7 py-3 text-sm font-bold text-white transition-colors hover:bg-white/15"
             >
               {data.prompt.buttonLabel}
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>

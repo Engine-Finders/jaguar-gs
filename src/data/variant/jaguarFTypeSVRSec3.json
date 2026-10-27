@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp",
+  "carImage": "/cars/card/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X152 (2013–2024)",
+      "generation": "X152 (2013-2024)",
       "price": "£6,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,9 +28,9 @@
     "titlePre": "Jaguar F-Type SVR Timing Chain Tensioner ",
     "titleHighlight": "(AJ133)",
     "paragraphs": [
-      "The AJ133 5.0-litre supercharged V8 in the F-Type SVR is covered by the same timing chain tensioner design pattern as the wider Jaguar V8 family — an issue that has been documented extensively across JLR models. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild, ensuring your engine gets the updated specification components needed for long-term reliability."
+      "The AJ133 5.0-litre supercharged V8 in the F-Type SVR is covered by the same timing chain tensioner design pattern as the wider Jaguar V8 family - an issue that has been documented extensively across JLR models. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild, ensuring your engine gets the updated specification components needed for long-term reliability."
     ],
-    "source": "Source: verified via rrsport.co.uk lawsuit reference, per G-BRF-Jaguar.md. The class-action lawsuit covers 2012–2014 models specifically; the SVR was introduced later, but the AJ133 engine family design principle applies. For exact year coverage, confirm via registration."
+    "source": "Source: verified via rrsport.co.uk lawsuit reference, per G-BRF-Jaguar.md. The class-action lawsuit covers 2012-2014 models specifically; the SVR was introduced later, but the AJ133 engine family design principle applies. For exact year coverage, confirm via registration."
   },
   "tiles": [
     {
@@ -42,7 +42,7 @@
     {
       "badge": "X152",
       "label": "Generation",
-      "big": "2013–2024",
+      "big": "2013-2024",
       "sub": "Jaguar F-Type SVR"
     },
     {

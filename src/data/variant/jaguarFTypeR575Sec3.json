@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+  "carImage": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X152 (2013–2024)",
+      "generation": "X152 (2013-2024)",
       "price": "£6,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -26,10 +26,10 @@
   "warning": {
     "bgImage": "/variant/sec3_lower_div_bg.webp",
     "titlePre": "Jaguar F-Type R575 Timing Chain Tensioner Design Flaw ",
-    "titleHighlight": "(AJ133, 2012–2014)",
+    "titleHighlight": "(AJ133, 2012-2014)",
     "paragraphs": [
-      "If your F-Type R575 is a 2012–2014 model with the AJ133 supercharged V8, the timing chain tensioner and guide design has a documented weakness — a hardened steel tensioner piston wears an aluminium guide button over time, which can fail without warning. This exact engine was subject to a US class-action lawsuit covering multiple JLR models, including the F-Type. We replace timing chains, tensioners, guides and the water pump as standard on every AJ133 rebuild.",
-      "The F-Type R575 was introduced later in the F-Type's lifecycle (2021–2024) as an extremely limited-run variant, and these later cars use a revision of the AJ133 that addressed some earlier concerns. However, if your R575 is from the earliest part of the production run, the pattern applies — we'll confirm your specific build year by registration before quoting."
+      "If your F-Type R575 is a 2012-2014 model with the AJ133 supercharged V8, the timing chain tensioner and guide design has a documented weakness - a hardened steel tensioner piston wears an aluminium guide button over time, which can fail without warning. This exact engine was subject to a US class-action lawsuit covering multiple JLR models, including the F-Type. We replace timing chains, tensioners, guides and the water pump as standard on every AJ133 rebuild.",
+      "The F-Type R575 was introduced later in the F-Type's lifecycle (2021-2024) as an extremely limited-run variant, and these later cars use a revision of the AJ133 that addressed some earlier concerns. However, if your R575 is from the earliest part of the production run, the pattern applies - we'll confirm your specific build year by registration before quoting."
     ],
     "source": "Source: verified via rrsport.co.uk lawsuit reference, per VRF-jaguar-f-type.md and G-BRF-Jaguar.md. Later production years outside the lawsuit scope flagged for registration verification."
   },
@@ -43,7 +43,7 @@
     {
       "badge": "X152",
       "label": "Generation",
-      "big": "2013–2024",
+      "big": "2013-2024",
       "sub": "Jaguar F-Type R575"
     },
     {

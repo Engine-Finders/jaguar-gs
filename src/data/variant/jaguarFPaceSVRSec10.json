@@ -5,9 +5,9 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace SVR ENGINE",
     "paragraphs": [
-      "The F-Pace SVR is the performance flagship of the F-Pace range, powered by the AJ133 5.0-litre supercharged V8 — badged as P550. It's the same engine family used across Jaguar and Land Rover's high-performance models, including the Range Rover Sport SVR and Velar SVAutobiography, delivering 550PS in this application. The AJ133 is a well-established supercharged V8 design, and while it's a powerful and characterful engine, it has known wear points on timing chain components and the cooling system that we address as standard during every rebuild."
+      "The F-Pace SVR is the performance flagship of the F-Pace range, powered by the AJ133 5.0-litre supercharged V8 - badged as P550. It's the same engine family used across Jaguar and Land Rover's high-performance models, including the Range Rover Sport SVR and Velar SVAutobiography, delivering 550PS in this application. The AJ133 is a well-established supercharged V8 design, and while it's a powerful and characterful engine, it has known wear points on timing chain components and the cooling system that we address as standard during every rebuild."
     ],
-    "boldParagraph": "The F-Pace SVR has been in production since 2018 on the X761 platform, and remains current — we continue to rebuild and replace engines for every one still on the road."
+    "boldParagraph": "The F-Pace SVR has been in production since 2018 on the X761 platform, and remains current - we continue to rebuild and replace engines for every one still on the road."
   },
   "codes": {
     "titlePre": "Jaguar F-Pace SVR ENGINE ",
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ133",
         "codeRest": "",
-        "body": "A 5.0-litre supercharged V8 fitted to the F-Pace SVR from 2018 to present, on the X761 platform. Known for timing chain wear and cooling system leaks — an established pattern across Jaguar and Land Rover models using this same engine family. We replace timing chains, valve seals, coolant components and bearings as standard on every AJ133 rebuild.",
+        "body": "A 5.0-litre supercharged V8 fitted to the F-Pace SVR from 2018 to present, on the X761 platform. Known for timing chain wear and cooling system leaks - an established pattern across Jaguar and Land Rover models using this same engine family. We replace timing chains, valve seals, coolant components and bearings as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 F-Pace SVR",
         "codeHref": "/jaguar-aj133-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Pace SVR ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The F-Pace SVR uses a single engine code across its entire production run — the AJ133 5.0-litre supercharged V8 — so compatibility is consistent across all model years. Before we quote or supply anything, we confirm:",
+    "intro": "The F-Pace SVR uses a single engine code across its entire production run - the AJ133 5.0-litre supercharged V8 - so compatibility is consistent across all model years. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace SVR quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace SVR quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace SVR ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp",
         "chassis": "X761",
-        "years": "2018–present",
+        "years": "2018-present",
         "engineCode": "AJ133",
         "fuel": "Petrol Supercharged"
       }

@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the XE, the AJ200D has powered the D150, D180 and D200 variants (X760, 2015–present). The F-Pace carries it in D165, D180 and D200 form (X761, 2016–present). The E-Pace uses it across the D150, D165, D180 and D200 variants (X540, 2017–present). We work on all three applications regularly, with single and twin-turbo configurations accounted for once your exact model and year are confirmed.",
+    "body": "Across the XE, the AJ200D has powered the D150, D180 and D200 variants (X760, 2015-present). The F-Pace carries it in D165, D180 and D200 form (X761, 2016-present). The E-Pace uses it across the D150, D165, D180 and D200 variants (X540, 2017-present). We work on all three applications regularly, with single and twin-turbo configurations accounted for once your exact model and year are confirmed.",
     "lineup": [
       {
         "label": "E-Pace",
@@ -38,7 +38,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Registration/VIN matching is required — early vs late production variants differ (improvements were made from 2019 onwards). Single vs twin-turbo variants also differ significantly in ancillary configuration. Before we quote or supply anything, we confirm your exact vehicle.",
+    "body": "Registration/VIN matching is required - early vs late production variants differ (improvements were made from 2019 onwards). Single vs twin-turbo variants also differ significantly in ancillary configuration. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
@@ -69,29 +69,29 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ200D in the E-Pace (X540, 2017–present)",
+        "heading": "AJ200D in the E-Pace (X540, 2017-present)",
         "engine": "AJ200D",
         "model": "E-Pace",
-        "detail": "X540, 2017–present",
+        "detail": "X540, 2017-present",
         "body": "The AJ200D in the E-Pace is one of the applications we work on regularly, across D150, D165, D180 and D200 variants.",
         "price": "£2,000",
         "cta": "Check your E-Pace AJ200D"
       },
       {
-        "heading": "AJ200D in the F-Pace (X761, 2016–present)",
+        "heading": "AJ200D in the F-Pace (X761, 2016-present)",
         "engine": "AJ200D",
         "model": "F-Pace",
-        "detail": "X761, 2016–present",
+        "detail": "X761, 2016-present",
         "body": "The AJ200D in the F-Pace is one of the applications we work on regularly, across D165, D180 and D200 variants.",
         "price": "£2,000",
         "cta": "Check your F-Pace AJ200D"
       },
       {
-        "heading": "AJ200D in the XE (X760, 2015–present)",
+        "heading": "AJ200D in the XE (X760, 2015-present)",
         "engine": "AJ200D",
         "model": "XE",
-        "detail": "X760, 2015–present",
-        "body": "The AJ200D in the XE is one of the applications we work on regularly, across D150, D180 and D200 variants. Jaguar AJ200D by Powertrain Variant Single-Turbo AJ200D Applications: D150, D165, D180 variants across E-Pace, F-Pace and XE. Standard rebuild scope — timing chain, balance shaft bearings, gaskets. Twin-Turbo AJ200D Applications: D200 variants across E-Pace, F-Pace and XE. Twin-turbo applications carry additional ancillary components we account for during a rebuild.",
+        "detail": "X760, 2015-present",
+        "body": "The AJ200D in the XE is one of the applications we work on regularly, across D150, D180 and D200 variants. Jaguar AJ200D by Powertrain Variant Single-Turbo AJ200D Applications: D150, D165, D180 variants across E-Pace, F-Pace and XE. Standard rebuild scope - timing chain, balance shaft bearings, gaskets. Twin-Turbo AJ200D Applications: D200 variants across E-Pace, F-Pace and XE. Twin-turbo applications carry additional ancillary components we account for during a rebuild.",
         "price": "£2,000",
         "cta": "Check your XE AJ200D"
       }
@@ -100,7 +100,7 @@
     "card": {
       "model": "Jaguar E-Pace X540",
       "engine": "AJ200D 2.0L",
-      "year": "2017 – present",
+      "year": "2017 - present",
       "price": "£2,000"
     }
   }

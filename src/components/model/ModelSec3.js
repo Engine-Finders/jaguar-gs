@@ -1,4 +1,5 @@
 import Image from "next/image";
+import QuoteLink from "@/components/shared/QuoteLink";
 import PhotoStripes from "@/components/reusable/PhotoStripes";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
@@ -29,12 +30,12 @@ function CardTitle({ c, className = "" }) {
 
 function QuoteButton({ data, className = "" }) {
   return (
-    <a
+    <QuoteLink
       href={data.cta.href}
       className={`btn-chrome inline-flex items-center justify-center gap-2 rounded-md font-bold uppercase tracking-wide transition-transform hover:-translate-y-0.5 ${className}`}
     >
       {data.cta.buttonLabel} <span aria-hidden>→</span>
-    </a>
+    </QuoteLink>
   );
 }
 
@@ -47,7 +48,7 @@ export default function ModelSec3({ data }) {
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
         <div className="relative h-72 w-full overflow-hidden">
-          {/* solid dark header band reserved for the title — the car sits low in the photo, so
+          {/* solid dark header band reserved for the title - the car sits low in the photo, so
               the photo is pinned to the bottom of a taller box and the title stays clear of it */}
           <div className="absolute inset-x-0 bottom-0 top-16">
             <Image src={data.imageMobile} alt="Black Jaguar E-Pace in a dark Jaguar workshop" fill className="translate-y-4 object-cover object-[100%_top]" sizes="100vw" />
@@ -85,7 +86,13 @@ export default function ModelSec3({ data }) {
               >
                 {c.featured && <div className="mb-1 flex justify-center"><Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-8 w-auto" sizes="120px" /></div>}
                 <div className="relative mx-auto h-16 w-full">
-                  <Image src={c.image || data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="140px" />
+                  {c.icon ? (
+                    <span className="flex h-full w-full items-center justify-center">
+                      <Icon name={c.icon} className="h-12 w-12 text-white" />
+                    </span>
+                  ) : (
+                    <Image src={c.image || data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="140px" />
+                  )}
                 </div>
                 <div className="mt-2 text-center">
                   <CardTitle c={c} className="label-text" />
@@ -149,8 +156,14 @@ export default function ModelSec3({ data }) {
                 style={c.featured ? { background: FEATURED_BG, boxShadow: "0 0 28px -4px rgba(255,255,255,0.45), 0 18px 40px -18px rgba(0,0,0,0.9)" } : undefined}
               >
                 {c.featured && <div className="mb-1 flex justify-center"><Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-10 w-auto" sizes="120px" /></div>}
-                <div className={`relative mx-auto w-full ${c.featured ? "h-28" : "h-32"}`}>
-                  <Image src={c.image || data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="200px" />
+                <div className="relative mx-auto h-28 w-full">
+                  {c.icon ? (
+                    <span className="flex h-full w-full items-center justify-center">
+                      <Icon name={c.icon} className="h-20 w-20 text-white" />
+                    </span>
+                  ) : (
+                    <Image src={c.image || data.cardImage} alt={`${c.titlePre} ${c.titleHighlight}`} fill className="object-contain" sizes="200px" />
+                  )}
                 </div>
 
                 <div className="mt-3 px-3 text-center">

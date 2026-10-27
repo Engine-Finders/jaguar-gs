@@ -1,7 +1,7 @@
 import Image from "next/image";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 
-// Light "Need your Jaguar back on the road?" banner — the photo fades to white on its left, so the
+// Light "Need your Jaguar back on the road?" banner - the photo fades to white on its left, so the
 // copy sits directly on it in charcoal and the black XE owns the right-hand side.
 export default function HomeSec12({ data }) {
   const [kicker, headline] = data.h2.split("|");
@@ -12,7 +12,7 @@ export default function HomeSec12({ data }) {
     <section className="theme-light relative overflow-hidden">
       {/* ===== mobile ===== */}
       <div className="relative md:hidden">
-        {/* full-bleed photo behind everything — no column edge */}
+        {/* full-bleed photo behind everything - no column edge */}
         <Image src={data.mobileImage} alt="Black Jaguar XE driving through London in the rain" fill className="object-cover object-right" sizes="100vw" />
         {/* uneven light backing: strongest top-left behind the copy, thinning out toward the car */}
         <div

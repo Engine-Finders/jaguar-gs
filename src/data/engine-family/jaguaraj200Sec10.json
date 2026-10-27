@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ200 appears across two model lines — the E-Pace SUV and the F-Type sports car — offering a range of power outputs from 200 to 300 hp."
+      "body": "The AJ200 appears across two model lines - the E-Pace SUV and the F-Type sports car - offering a range of power outputs from 200 to 300 hp."
     },
     {
       "icon": "wrench",
@@ -21,19 +21,19 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported pattern is confirmed for the AJ200 petrol across any of its applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented — for the AJ200, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported pattern is confirmed for the AJ200 petrol across any of its applications. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the AJ200, we don't have one to report, and we won't invent one to sound more thorough."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ200 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ200 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ200 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
     "body": "The AJ200 is the petrol version of the 2.0-litre Ingenium engine, introduced a year after the diesel AJ200D. Like other Ingenium engines, the timing chain components are inspected thoroughly during a full rebuild, and the turbocharger is checked as part of the standard strip-down process. Full engine replacements require DME software matching, which we handle as part of the refit process.",
     "scope": {
       "label": "Typical Scope:",

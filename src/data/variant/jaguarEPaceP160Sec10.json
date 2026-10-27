@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar E-Pace P160 ENGINE",
     "paragraphs": [
-      "The E-Pace P160 uses the Ingenium AJ150 — a 1.5-litre three-cylinder petrol engine. It was fitted from the model's launch in 2017 through to the end of production in 2024 across the X540 generation. The P160 sat as the entry point to the E-Pace petrol range, with the P200 and P250 offering higher-output versions of the same 2.0-litre Ingenium engine family. The E-Pace P160 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The E-Pace P160 uses the Ingenium AJ150 - a 1.5-litre three-cylinder petrol engine. It was fitted from the model's launch in 2017 through to the end of production in 2024 across the X540 generation. The P160 sat as the entry point to the E-Pace petrol range, with the P200 and P250 offering higher-output versions of the same 2.0-litre Ingenium engine family. The E-Pace P160 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ150",
         "codeRest": "",
-        "body": "A 1.5L I3 Petrol engine fitted to the E-Pace P160 — X540 (2017–2024).",
+        "body": "A 1.5L I3 Petrol engine fitted to the E-Pace P160 - X540 (2017-2024).",
         "cta": "Check Your AJ150 E-Pace P160"
       }
     ]
@@ -51,13 +51,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic E-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic E-Pace quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar E-Pace P160 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+    "image": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "X540",
-        "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+        "image": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
         "chassis": "X540",
-        "years": "2017–2024",
+        "years": "2017-2024",
         "engineCode": "AJ150",
         "fuel": "Petrol"
       }

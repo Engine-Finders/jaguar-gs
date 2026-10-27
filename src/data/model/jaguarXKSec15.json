@@ -8,12 +8,12 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "1996–2006",
+      "years": "1996-2006",
       "code": "X100",
       "list": "1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 Jaguar XK engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Jaguar XK8 Model:",
   "checklistLeft": [
@@ -23,5 +23,5 @@
     "Jaguar XK8 2000 Engine Rebuild",
     "Jaguar XK8 2001 Engine Rebuild"
   ],
-  "modelYearRange": "1996–2006 (X100):"
+  "modelYearRange": "1996-2006 (X100):"
 }

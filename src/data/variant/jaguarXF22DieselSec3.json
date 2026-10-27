@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-2-2d-and-qjba-engine.webp",
-  "carImage": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+  "carImage": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
   "cards": [
     {
       "code": "Ford Duratorq I4",
-      "generation": "X250 (2007–2015)",
+      "generation": "X250 (2007-2015)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X250",
       "label": "Generation",
-      "big": "2007–2015",
+      "big": "2007-2015",
       "sub": "Jaguar XF 2.2 Diesel"
     },
     {

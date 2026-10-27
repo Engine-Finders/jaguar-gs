@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X761 (2016–present)"
+      "value": "X761 (2016-present)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The P340 uses the 3.0-litre AJ300P petrol engine — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The P340 uses the 3.0-litre AJ300P petrol engine - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

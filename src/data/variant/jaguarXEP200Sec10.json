@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE P200 ENGINE",
     "paragraphs": [
-      "The XE P200 uses the Ingenium AJ200 — a 2.0-litre four-cylinder petrol engine fitted across the X760 generation from 2020 onwards. It's part of Jaguar's current-era petrol range and sits alongside the P250 and P300 as the entry-level petrol option in the XE lineup. Unlike the earlier diesel variants, the P200's engine code isn't an evolution of a Ford-era unit — it's part of Jaguar's own Ingenium family, designed and built in-house from the ground up."
+      "The XE P200 uses the Ingenium AJ200 - a 2.0-litre four-cylinder petrol engine fitted across the X760 generation from 2020 onwards. It's part of Jaguar's current-era petrol range and sits alongside the P250 and P300 as the entry-level petrol option in the XE lineup. Unlike the earlier diesel variants, the P200's engine code isn't an evolution of a Ford-era unit - it's part of Jaguar's own Ingenium family, designed and built in-house from the ground up."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ200 engines for every XE P200 on the road."
   },
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XE P200 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XE P200 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XE P200 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-lci-300-sport-saloon-20192024-special-ostuni-6dc1.webp",
+    "image": "/cars/card/jaguar-xe-x760-lci-300-sport-saloon-20192024-special-ostuni-6dc1.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-lci-300-sport-saloon-20192024-special-ostuni-6dc1.webp",
+        "image": "/cars/card/jaguar-xe-x760-lci-300-sport-saloon-20192024-special-ostuni-6dc1.webp",
         "chassis": "X760",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "AJ200",
         "fuel": "Petrol"
       }

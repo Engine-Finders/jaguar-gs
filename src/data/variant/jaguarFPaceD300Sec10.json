@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace D300 ENGINE",
     "paragraphs": [
-      "The F-Pace D300 has been part of the F-Pace range since 2016, using the Ingenium AJ300D — a 3.0-litre inline-six diesel MHEV. It's the most powerful diesel in the F-Pace line-up, positioned above the D200. The AJ300D is a six-cylinder member of Jaguar Land Rover's Ingenium family, sharing its core architecture with the four-cylinder AJ200D fitted to other F-Pace and XE/XF models. The D300 badge replaced the earlier 3.0-litre V6 diesel found in pre-2019 F-Pace models, moving to a more modern inline-six configuration with mild-hybrid assistance. The F-Pace D300 remains in production as a current variant."
+      "The F-Pace D300 has been part of the F-Pace range since 2016, using the Ingenium AJ300D - a 3.0-litre inline-six diesel MHEV. It's the most powerful diesel in the F-Pace line-up, positioned above the D200. The AJ300D is a six-cylinder member of Jaguar Land Rover's Ingenium family, sharing its core architecture with the four-cylinder AJ200D fitted to other F-Pace and XE/XF models. The D300 badge replaced the earlier 3.0-litre V6 diesel found in pre-2019 F-Pace models, moving to a more modern inline-six configuration with mild-hybrid assistance. The F-Pace D300 remains in production as a current variant."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ300D (Ingenium) engines for every F-Pace D300 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ300D",
         "codeRest": "(Ingenium)",
-        "body": "A 3.0-litre inline-six diesel MHEV fitted to the F-Pace D300 from 2016 to present across the X761 generation. Known for timing chain wear as part of the broader Ingenium diesel pattern — see the callout above. We replace the timing chain, tensioners, guides, injector seals, bearings and gaskets as standard on every AJ300D rebuild.",
+        "body": "A 3.0-litre inline-six diesel MHEV fitted to the F-Pace D300 from 2016 to present across the X761 generation. Known for timing chain wear as part of the broader Ingenium diesel pattern - see the callout above. We replace the timing chain, tensioners, guides, injector seals, bearings and gaskets as standard on every AJ300D rebuild.",
         "cta": "Check Your AJ300D F-Pace D300",
         "codeHref": "/jaguar-aj300d-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Pace D300 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The F-Pace D300 uses a single engine family — the Ingenium AJ300D — across the X761 generation. However, the 3.0-litre inline-six diesel fitted to the D300 is a different unit from the earlier 3.0-litre V6 diesel used in pre-2019 F-Pace models. Before we quote or supply anything, we confirm:",
+    "intro": "The F-Pace D300 uses a single engine family - the Ingenium AJ300D - across the X761 generation. However, the 3.0-litre inline-six diesel fitted to the D300 is a different unit from the earlier 3.0-litre V6 diesel used in pre-2019 F-Pace models. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace D300 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
         "chassis": "X761",
-        "years": "2016–present",
+        "years": "2016-present",
         "engineCode": "AJ300D",
         "fuel": "Diesel MHEV"
       }

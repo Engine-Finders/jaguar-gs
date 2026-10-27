@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ-V8 Applications — ",
+  "titlePre": "Jaguar AJ-V8 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "4.0 V8, 4.2 V8",
       "generation": "X200",
       "chassis": "X200",
-      "years": "1999–2008",
+      "years": "1999-2008",
       "powertrain": "AJ26/AJ28/AJ34",
       "modelHref": "/jaguar-s-type-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "XJ8, XJR",
       "generation": "X308/X350",
       "chassis": "X308/X350",
-      "years": "1997–2009",
+      "years": "1997-2009",
       "powertrain": "AJ26/AJ27/AJ33/AJ34",
       "modelHref": "/jaguar-xj-engines"
     }

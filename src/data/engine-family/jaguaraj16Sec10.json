@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ16 is one of the engines we work on for the XJ X300 — the last of the classic Jaguar inline-sixes."
+      "body": "The AJ16 is one of the engines we work on for the XJ X300 - the last of the classic Jaguar inline-sixes."
     },
     {
       "icon": "wrench",
@@ -21,19 +21,19 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "No widely-reported catastrophic issue pattern is confirmed for the AJ16. It is a robust, well-regarded engine. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented — for the AJ16, we don't have one to report, and we won't invent one to sound more thorough."
+      "body": "No widely-reported catastrophic issue pattern is confirmed for the AJ16. It is a robust, well-regarded engine. That's a genuinely different situation from several other engines in our network where a specific wear pattern is well-documented - for the AJ16, we don't have one to report, and we won't invent one to sound more thorough."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ16 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ16 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ16 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
     "body": "The AJ16 is a robust inline-six design, but a full rebuild still requires careful inspection of the crankshaft, cylinder head, and timing chain components. As with any engine of this era, the condition of the oil pump and cooling system components is also inspected during strip-down to ensure long-term reliability.",
     "scope": {
       "label": "Typical Scope:",

@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "X540 (2017–present)"
+      "value": "X540 (2017-present)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The E-Pace range includes both diesel and petrol options, and even the petrol variants have different engine codes — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The E-Pace range includes both diesel and petrol options, and even the petrol variants have different engine codes - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -4,23 +4,23 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
   "engineImage": "/engines/jaguar-3-0-v6-and-svr-v8-applications-engine.webp",
-  "carImage": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+  "carImage": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
   "cards": [
     {
       "code": "AJ26",
-      "generation": "X100 (1996–1999)",
+      "generation": "X100 (1996-1999)",
       "price": "£4,500"
     },
     {
       "code": "AJ27",
-      "generation": "X100 (1999–2006)",
+      "generation": "X100 (1999-2006)",
       "price": "£4,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Both engine codes sit on the same rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Both engine codes sit on the same rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     "titlePre": "Jaguar XK8 Timing Chain Tensioner Wear ",
     "titleHighlight": "(X100, AJ26/AJ27)",
     "paragraphs": [
-      "If your XK8 is a first-generation (X100) model from 1996 to 2006 with the AJ26 or AJ27 V8 — that's the entire production run for the XK8 — timing chain tensioner wear is a well-documented pattern on this engine, established in Jaguar specialist circles. We replace the timing chain, tensioners, and guides as standard on every X100 V8 rebuild.",
+      "If your XK8 is a first-generation (X100) model from 1996 to 2006 with the AJ26 or AJ27 V8 - that's the entire production run for the XK8 - timing chain tensioner wear is a well-documented pattern on this engine, established in Jaguar specialist circles. We replace the timing chain, tensioners, and guides as standard on every X100 V8 rebuild.",
       "The later X150 generation uses a different engine (AJ-V8 Gen III), which doesn't share this specific issue."
     ],
     "source": "Source: established pattern in Jaguar specialist circles (per G-BRF and VRF)."
@@ -48,7 +48,7 @@
     {
       "badge": "X100",
       "label": "Generation",
-      "big": "1996–1999",
+      "big": "1996-1999",
       "sub": "Jaguar XK8"
     },
     {

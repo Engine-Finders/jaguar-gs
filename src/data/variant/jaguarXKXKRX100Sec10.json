@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XK XKR (X100) ENGINE",
     "paragraphs": [
-      "The XKR is the supercharged flagship of the first-generation XK range, built on the X100 chassis from 1996 to 2006. Under the bonnet sits the AJ34 — Jaguar's supercharged 4.0-litre V8, a development of the naturally aspirated AJ26 and AJ27 engines used in the XK8. Where the XK8 produced 290bhp, the XKR's supercharger pushed output to 370bhp, giving it serious performance credentials that still command respect today. The AJ34 engine is known among specialists for timing chain tensioner wear over time — a pattern shared with the naturally aspirated AJ26 and AJ27 units — which is why we replace tensioners and guides as standard on every rebuild."
+      "The XKR is the supercharged flagship of the first-generation XK range, built on the X100 chassis from 1996 to 2006. Under the bonnet sits the AJ34 - Jaguar's supercharged 4.0-litre V8, a development of the naturally aspirated AJ26 and AJ27 engines used in the XK8. Where the XK8 produced 290bhp, the XKR's supercharger pushed output to 370bhp, giving it serious performance credentials that still command respect today. The AJ34 engine is known among specialists for timing chain tensioner wear over time - a pattern shared with the naturally aspirated AJ26 and AJ27 units - which is why we replace tensioners and guides as standard on every rebuild."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ34 engines for every XK XKR (X100) on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ34",
         "codeRest": "(X100)",
-        "body": "A 4.0-litre supercharged V8 fitted to the XKR from 1996 to 2006 across the X100 generation. Known for timing chain tensioner wear over time — see the callout above. We replace the timing chain, tensioners and guides as standard on every AJ34 rebuild.",
+        "body": "A 4.0-litre supercharged V8 fitted to the XKR from 1996 to 2006 across the X100 generation. Known for timing chain tensioner wear over time - see the callout above. We replace the timing chain, tensioners and guides as standard on every AJ34 rebuild.",
         "cta": "Check Your AJ34 XKR",
         "codeHref": "/jaguar-aj34-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XKR quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XKR quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XK XKR (X100) ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+    "image": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X100",
-        "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+        "image": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
         "chassis": "X100",
-        "years": "1996–2006",
+        "years": "1996-2006",
         "engineCode": "AJ34",
         "fuel": "Petrol Supercharged"
       }

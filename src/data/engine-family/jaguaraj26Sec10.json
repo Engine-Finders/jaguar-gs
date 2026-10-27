@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ26 appears across the XJ XJ8 and XK XK8 — two distinct model lines sharing the same engine family."
+      "body": "The AJ26 appears across the XJ XJ8 and XK XK8 - two distinct model lines sharing the same engine family."
     },
     {
       "icon": "wrench",
@@ -21,23 +21,23 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "Early AJ26 engines (1996–2000) are known for plastic timing chain tensioner failure, where primary guides crack and break off, with pieces ending up in the sump. Early engines with Nikasil cylinder linings also suffered from issues when run on high-sulphur fuel — later engines used cast-iron linings, which resolved this. We inspect and address both issues thoroughly on every AJ26 rebuild we carry out."
+      "body": "Early AJ26 engines (1996-2000) are known for plastic timing chain tensioner failure, where primary guides crack and break off, with pieces ending up in the sump. Early engines with Nikasil cylinder linings also suffered from issues when run on high-sulphur fuel - later engines used cast-iron linings, which resolved this. We inspect and address both issues thoroughly on every AJ26 rebuild we carry out."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ26 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ26 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ26 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ26's timing chain tensioner system is a known critical wear point, particularly on early engines (1996–2000) where plastic tensioners were prone to failure. We inspect the timing system thoroughly on every rebuild. Primary guide cracking is also a documented issue, with pieces breaking off and ending up in the sump. On supercharged AJ27S applications (XJR, XKR), additional specialist attention is required for the supercharger components.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ26's timing chain tensioner system is a known critical wear point, particularly on early engines (1996-2000) where plastic tensioners were prone to failure. We inspect the timing system thoroughly on every rebuild. Primary guide cracking is also a documented issue, with pieces breaking off and ending up in the sump. On supercharged AJ27S applications (XJR, XKR), additional specialist attention is required for the supercharger components.",
     "scope": {
       "label": "Typical Scope:",
-      "text": "Timing chain, tensioners, guides, bearings, gaskets — plus supercharger components on AJ27S applications"
+      "text": "Timing chain, tensioners, guides, bearings, gaskets - plus supercharger components on AJ27S applications"
     },
     "startingFromLabel": "Starting From:",
     "startingFromPrice": "£4,500",

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
   "engineImage": "/engines/jaguar-3-0-v6-and-aj-v6-wb-engine.webp",
-  "carImage": "/cars/jaguar-xf-x250-luxury-saloon-20082011-new-vapour-grey-xf-lux-b7e6.webp",
+  "carImage": "/cars/card/jaguar-xf-x250-luxury-saloon-20082011-new-vapour-grey-xf-lux-b7e6.webp",
   "cards": [
     {
       "code": "AJ34",
-      "generation": "X250 (2007–~2011)",
+      "generation": "X250 (2007-~2011)",
       "price": "£4,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X250",
       "label": "Generation",
-      "big": "2007–~2011",
+      "big": "2007-~2011",
       "sub": "Jaguar XF 4.2 V8"
     },
     {

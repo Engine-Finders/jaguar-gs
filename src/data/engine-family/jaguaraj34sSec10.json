@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ34S is a single-application engine — fitted to the XF XFR (X250, 2008–2015) — and we work on it regularly."
+      "body": "The AJ34S is a single-application engine - fitted to the XF XFR (X250, 2008-2015) - and we work on it regularly."
     },
     {
       "icon": "wrench",
@@ -26,15 +26,15 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ34S rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ34S rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ34S REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ34S's timing chain system is a known critical wear point — we inspect it thoroughly on every rebuild. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ34S's timing chain system is a known critical wear point - we inspect it thoroughly on every rebuild. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Main bearings, connecting rod bearings, complete gasket and seal set, timing chain components where required, supercharger coupler, oil filter housing gasket"

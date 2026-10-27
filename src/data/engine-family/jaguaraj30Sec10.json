@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ30 appears in the X-Type and early XF — two distinct applications with different chassis layouts and component arrangements."
+      "body": "The AJ30 appears in the X-Type and early XF - two distinct applications with different chassis layouts and component arrangements."
     },
     {
       "icon": "wrench",
@@ -26,15 +26,15 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ30 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ30 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ30 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ30 is known for catastrophic oil loss due to sump and line design — we inspect the oil system thoroughly on every rebuild as a priority. The electric drive for intake geometry can also fail, and cracked intake gaskets can cause suction issues. A full rebuild addresses these known vulnerability points alongside the standard component replacement and inspection scope.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ30 is known for catastrophic oil loss due to sump and line design - we inspect the oil system thoroughly on every rebuild as a priority. The electric drive for intake geometry can also fail, and cracked intake gaskets can cause suction issues. A full rebuild addresses these known vulnerability points alongside the standard component replacement and inspection scope.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Main bearings, connecting rod bearings, timing chain components, gaskets and seals, oil system inspection and replacement of affected components"

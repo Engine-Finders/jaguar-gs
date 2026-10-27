@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar X-Type 2.5 V6 ENGINE",
     "paragraphs": [
-      "The X-Type 2.5 V6 uses the AJ25 — a 2.5-litre V6 petrol engine derived from the Ford Duratec family, fitted throughout the X400 generation's production from 2001 to 2009. The V6 engines in the X-Type all share the same fundamental architecture, with the key difference being capacity: 2.0, 2.5, and 3.0-litre variants (AJ20, AJ25, AJ30 respectively). The 2.5 V6 sits in the middle of the petrol range, offering a balance of performance and refinement that made it a popular choice for UK buyers. The X-Type is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The X-Type 2.5 V6 uses the AJ25 - a 2.5-litre V6 petrol engine derived from the Ford Duratec family, fitted throughout the X400 generation's production from 2001 to 2009. The V6 engines in the X-Type all share the same fundamental architecture, with the key difference being capacity: 2.0, 2.5, and 3.0-litre variants (AJ20, AJ25, AJ30 respectively). The 2.5 V6 sits in the middle of the petrol range, offering a balance of performance and refinement that made it a popular choice for UK buyers. The X-Type is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ25 engines for every X-Type 2.5 V6 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ25",
         "codeRest": "",
-        "body": "A 2.5-litre V6 petrol engine fitted to the X-Type from 2001 to 2009 (X400). Known for coil-on-plug ignition coil degradation, often accelerated by oil contamination from leaking valve cover gaskets — see the callout above. We replace ignition coils and valve cover gaskets as standard on every AJ25 rebuild, along with timing chain components and bearings where worn.",
+        "body": "A 2.5-litre V6 petrol engine fitted to the X-Type from 2001 to 2009 (X400). Known for coil-on-plug ignition coil degradation, often accelerated by oil contamination from leaking valve cover gaskets - see the callout above. We replace ignition coils and valve cover gaskets as standard on every AJ25 rebuild, along with timing chain components and bearings where worn.",
         "cta": "Check Your AJ25 X-Type 2.5 V6",
         "codeHref": "/jaguar-aj25-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar X-Type 2.5 V6 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X-Type's V6 engines (AJ20, AJ25, AJ30) share the same Duratec-derived architecture but differ in capacity, confirming your exact engine code matters for correct component sourcing — particularly for parts like ignition coils, valve cover gaskets, and timing chain components. Before we quote or supply anything, we confirm:",
+    "intro": "Because the X-Type's V6 engines (AJ20, AJ25, AJ30) share the same Duratec-derived architecture but differ in capacity, confirming your exact engine code matters for correct component sourcing - particularly for parts like ignition coils, valve cover gaskets, and timing chain components. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic X-Type quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar X-Type 2.5 V6 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp",
+    "image": "/cars/card/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X400",
-        "image": "/cars/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp",
+        "image": "/cars/card/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp",
         "chassis": "X400",
-        "years": "2001–2009",
+        "years": "2001-2009",
         "engineCode": "AJ25",
         "fuel": "Petrol"
       }

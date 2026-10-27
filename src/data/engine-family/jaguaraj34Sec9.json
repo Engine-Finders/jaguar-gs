@@ -6,7 +6,7 @@
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ34",
     "titlePost": " ENGINE",
-    "body": "The AJ34 is Jaguar's 4.2-litre naturally aspirated V8 petrol engine, in production from 2002 to 2009. It was fitted to two models in the Jaguar range: the XF (X250, 2008–2009) and the XK (X150, 2006–2009). The AJ34 is part of the wider AJ-V8 engine family and represents a later, more refined version of Jaguar's V8 architecture, following the earlier AJ26/AJ27 4.0-litre units. It was offered in both naturally aspirated and supercharged forms across different models, with the naturally aspirated version found in the entry-level V8 XF and XK."
+    "body": "The AJ34 is Jaguar's 4.2-litre naturally aspirated V8 petrol engine, in production from 2002 to 2009. It was fitted to two models in the Jaguar range: the XF (X250, 2008-2009) and the XK (X150, 2006-2009). The AJ34 is part of the wider AJ-V8 engine family and represents a later, more refined version of Jaguar's V8 architecture, following the earlier AJ26/AJ27 4.0-litre units. It was offered in both naturally aspirated and supercharged forms across different models, with the naturally aspirated version found in the entry-level V8 XF and XK."
   },
   "byModel": {
     "image": "/engine/sec8_middle.webp",
@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The XF (X250) used the AJ34 in its 4.2 V8 variant during the model's first production year (2008–2009). This was the entry-level V8 option for the XF before the introduction of the later 5.0-litre AJ133 engine. The XK (X150) also used the AJ34 in its 4.2 V8 variant (2006–2009). This was the standard V8 engine for the XK before the later 5.0-litre AJ133 unit replaced it.",
+    "body": "The XF (X250) used the AJ34 in its 4.2 V8 variant during the model's first production year (2008-2009). This was the entry-level V8 option for the XF before the introduction of the later 5.0-litre AJ133 engine. The XK (X150) also used the AJ34 in its 4.2 V8 variant (2006-2009). This was the standard V8 engine for the XK before the later 5.0-litre AJ133 unit replaced it.",
     "lineup": [
       {
         "label": "XF",
@@ -34,7 +34,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ34 spans two different models — the XF and XK — compatibility comes down to confirming your exact model, generation, and specification, which we do by registration. An AJ34 from an XK isn't a drop-in match for an AJ34 from an XF, even though it's the same base engine code — ancillaries, mounting, and ECU calibration all differ. Before we quote or supply anything, we confirm your exact vehicle.",
+    "body": "Because the AJ34 spans two different models - the XF and XK - compatibility comes down to confirming your exact model, generation, and specification, which we do by registration. An AJ34 from an XK isn't a drop-in match for an AJ34 from an XF, even though it's the same base engine code - ancillaries, mounting, and ECU calibration all differ. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
@@ -69,7 +69,7 @@
         "engine": "AJ34",
         "model": "XF",
         "detail": "X250",
-        "body": "The AJ34 in the XF is one of the applications we work on, specifically the 4.2 V8 variant during the model's first production year (2008–2009). This was the entry-level V8 option for the XF.",
+        "body": "The AJ34 in the XF is one of the applications we work on, specifically the 4.2 V8 variant during the model's first production year (2008-2009). This was the entry-level V8 option for the XF.",
         "price": "£4,500",
         "cta": "Check your XF AJ34"
       },
@@ -78,7 +78,7 @@
         "engine": "AJ34",
         "model": "XK",
         "detail": "X150",
-        "body": "The AJ34 in the XK is one of the applications we work on, specifically the 4.2 V8 variant across the X150 generation (2006–2009). This was the standard V8 engine for the XK before the later 5.0-litre unit replaced it. Jaguar AJ34 by Powertrain Variant AJ34 Naturally Aspirated Applications: XF 4.2 V8 (X250), XK 4.2 V8 (X150). Standard rebuild scope — timing chain, bearings, gaskets.",
+        "body": "The AJ34 in the XK is one of the applications we work on, specifically the 4.2 V8 variant across the X150 generation (2006-2009). This was the standard V8 engine for the XK before the later 5.0-litre unit replaced it. Jaguar AJ34 by Powertrain Variant AJ34 Naturally Aspirated Applications: XF 4.2 V8 (X250), XK 4.2 V8 (X150). Standard rebuild scope - timing chain, bearings, gaskets.",
         "price": "£4,500",
         "cta": "Check your XK AJ34"
       }
@@ -87,7 +87,7 @@
     "card": {
       "model": "Jaguar XF X250",
       "engine": "AJ34 4.2L",
-      "year": "2008 – 2009",
+      "year": "2008 - 2009",
       "price": "£4,500"
     }
   }

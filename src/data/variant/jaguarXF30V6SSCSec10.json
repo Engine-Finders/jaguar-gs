@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 3.0 V6 S/SC ENGINE",
     "paragraphs": [
-      "The XF 3.0 V6 S/SC is one of the high-performance petrol options from the X250 generation, which ran from 2007 to 2015. It uses the AJ126 engine — a 3.0-litre supercharged V6 that was also used across various Jaguar Land Rover products of the same era, including the XJ, F-Type, and Range Rover Sport. The \"S\" and \"SC\" designations refer to the supercharged variants, offering more power than the naturally aspirated 3.0 V6, and making this one of the most desirable petrol XFs of its time. The XF 3.0 V6 S/SC is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XF 3.0 V6 S/SC is one of the high-performance petrol options from the X250 generation, which ran from 2007 to 2015. It uses the AJ126 engine - a 3.0-litre supercharged V6 that was also used across various Jaguar Land Rover products of the same era, including the XJ, F-Type, and Range Rover Sport. The \"S\" and \"SC\" designations refer to the supercharged variants, offering more power than the naturally aspirated 3.0 V6, and making this one of the most desirable petrol XFs of its time. The XF 3.0 V6 S/SC is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace engine engines for every XF 3.0 V6 S/SC on the road."
   },
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar XF 3.0 V6 S/SC ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the X250 generation offered such a wide range of engines — from diesel I4s and V6s to naturally aspirated and supercharged V6s and V8s — parts are not interchangeable across the board. Fitting a replacement or assuming a part from another engine will work on your AJ126 risks a compatibility problem. Before we quote or supply anything, we confirm:",
+    "intro": "Because the X250 generation offered such a wide range of engines - from diesel I4s and V6s to naturally aspirated and supercharged V6s and V8s - parts are not interchangeable across the board. Fitting a replacement or assuming a part from another engine will work on your AJ126 risks a compatibility problem. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 3.0 V6 S/SC ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+    "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,7 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+        "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -77,9 +77,9 @@
       },
       {
         "generation": "X250",
-        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+        "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "X250",
-        "years": "2007–2015",
+        "years": "2007-2015",
         "engineCode": "AJ126",
         "fuel": "Petrol Supercharged"
       }

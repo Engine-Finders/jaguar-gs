@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Jaguar E-Pace Ingenium Diesel|Timing Chain Issues?|",
-  "description": "The E-Pace shares its Ingenium diesel engines with the rest of the JLR range — the same timing chain and injector seal pattern applies. We replace worn timing chains and injector seals as standard on every Ingenium diesel rebuild.",
+  "description": "The E-Pace shares its Ingenium diesel engines with the rest of the JLR range - the same timing chain and injector seal pattern applies. We replace worn timing chains and injector seals as standard on every Ingenium diesel rebuild.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: Ingenium AJ150 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+    "body": "Yes - both verified: Ingenium AJ150 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-2-0-2-1-v6-naming-and-yb-engine.webp",
-  "carImage": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+  "carImage": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
   "cards": [
     {
       "code": "AJ-V8 Supercharged",
@@ -20,11 +20,11 @@
   "notes": [
     {
       "icon": "price",
-      "text": "We also rebuild the early AJ16 supercharged inline-six (X300) – please submit your registration for a confirmed price on this engine."
+      "text": "We also rebuild the early AJ16 supercharged inline-six (X300) - please submit your registration for a confirmed price on this engine."
     },
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -37,8 +37,8 @@
     "titlePre": "Jaguar XJR AJ133S Timing Chain Tensioner & Water Pump Issue ",
     "titleHighlight": "(X351)",
     "paragraphs": [
-      "If your XJR is an X351-generation model (2009–2019) with the AJ133S 5.0-litre supercharged V8 – that engine shares the confirmed timing chain tensioner and guide design flaw found across several JLR models, and was the subject of a US class-action lawsuit. The hardened steel tensioner piston can wear the aluminium guide button over time, and the water pump may suffer bearing/seal failure, sometimes under 20,000 miles. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild.",
-      "Earlier XJR generations – X300 with the AJ16 supercharged inline-six, and X308/X350 with the earlier AJ-V8 supercharged units – use different engine designs and do not share this specific issue."
+      "If your XJR is an X351-generation model (2009-2019) with the AJ133S 5.0-litre supercharged V8 - that engine shares the confirmed timing chain tensioner and guide design flaw found across several JLR models, and was the subject of a US class-action lawsuit. The hardened steel tensioner piston can wear the aluminium guide button over time, and the water pump may suffer bearing/seal failure, sometimes under 20,000 miles. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild.",
+      "Earlier XJR generations - X300 with the AJ16 supercharged inline-six, and X308/X350 with the earlier AJ-V8 supercharged units - use different engine designs and do not share this specific issue."
     ],
     "source": "Source: verified via multiple independent sources (kmotors.co.uk, rrsport.co.uk lawsuit reference, TopSpeed), per VRF-jaguar-xj.md. AJ16 and AJ-V8 supercharged explicitly excluded from this claim per VRF."
   },

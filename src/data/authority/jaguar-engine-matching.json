@@ -1,9 +1,9 @@
 {
   "slug": "jaguar-engine-matching",
   "metaTitle": "Jaguar Engine Matching by Registration & VIN | Jaguar Garage",
-  "metaDescription": "Professional Jaguar engine matching using VIN and registration data. We identify the exact engine specification for every Jaguar model – from classic to current.",
+  "metaDescription": "Professional Jaguar engine matching using VIN and registration data. We identify the exact engine specification for every Jaguar model - from classic to current.",
   "h1": "Jaguar Engine Matching by Registration & VIN",
-  "lede": "Accurate engine identification for every Jaguar – using the VIN and registration to confirm the exact factory specification, engine code, and compatibility.",
+  "lede": "Accurate engine identification for every Jaguar - using the VIN and registration to confirm the exact factory specification, engine code, and compatibility.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -36,15 +36,15 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Engine matching is the process of using your Jaguar's 17-character VIN – or its registration number (which links to the VIN via the DVLA database) – to identify the precise engine specification the vehicle left the factory with. This goes beyond simply knowing the engine size; it reveals the exact engine code, displacement, cylinder count, fuel type, power output, emissions standard, transmission pairing, and drivetrain configuration."
+          "html": "Engine matching is the process of using your Jaguar's 17-character VIN - or its registration number (which links to the VIN via the DVLA database) - to identify the precise engine specification the vehicle left the factory with. This goes beyond simply knowing the engine size; it reveals the exact engine code, displacement, cylinder count, fuel type, power output, emissions standard, transmission pairing, and drivetrain configuration."
         },
         {
           "t": "p",
-          "html": "At our workshop, we perform a full VIN decode using the manufacturer's official data sources. The engine number stamped on the block corresponds to the last nine digits of the VIN – confirming whether the unit is the original factory-fitted engine for that car. For any engine swap, we verify that the new engine number and capacity have been correctly recorded on the V5C registration document."
+          "html": "At our workshop, we perform a full VIN decode using the manufacturer's official data sources. The engine number stamped on the block corresponds to the last nine digits of the VIN - confirming whether the unit is the original factory-fitted engine for that car. For any engine swap, we verify that the new engine number and capacity have been correctly recorded on the V5C registration document."
         },
         {
           "t": "p",
-          "html": "We also cross-reference the decoded specification against replacement engine databases to confirm physical fitment, sensor compatibility, ECU calibration, and emissions system integration – ensuring every match is accurate and safe."
+          "html": "We also cross-reference the decoded specification against replacement engine databases to confirm physical fitment, sensor compatibility, ECU calibration, and emissions system integration - ensuring every match is accurate and safe."
         }
       ]
     },
@@ -56,7 +56,7 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "Engine matching is included as part of our [engine rebuild](/jaguar-engine-rebuild) or [engine replacement](/jaguar-engine-replacement) services. For standalone VIN-decoding checks, we charge a fixed fee – [contact us](/get-quote) for a quote. [Pricing disclaimer](/pricing-legal-disclaimer)."
+            "Engine matching is included as part of our [engine rebuild](/jaguar-engine-rebuild) or [engine replacement](/jaguar-engine-replacement) services. For standalone VIN-decoding checks, we charge a fixed fee - [contact us](/get-quote) for a quote. [Pricing disclaimer](/pricing-legal-disclaimer)."
           ]
         }
       ]
@@ -67,7 +67,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We match engines for the entire Jaguar range – from classic to current. Our database covers every model and engine family:"
+          "html": "We match engines for the entire Jaguar range - from classic to current. Our database covers every model and engine family:"
         },
         {
           "t": "modelgroup",
@@ -270,15 +270,15 @@
       "steps": [
         {
           "title": "VIN Collection",
-          "body": "We locate the VIN – typically on the dashboard, driver's door jamb, or in the V5C document. For older Jaguars, we also check the chassis plate."
+          "body": "We locate the VIN - typically on the dashboard, driver's door jamb, or in the V5C document. For older Jaguars, we also check the chassis plate."
         },
         {
           "title": "Full VIN Decode",
-          "body": "Using manufacturer-grade data systems, we decode the full 17-character VIN – identifying the engine code, emissions standard, transmission, and drivetrain."
+          "body": "Using manufacturer-grade data systems, we decode the full 17-character VIN - identifying the engine code, emissions standard, transmission, and drivetrain."
         },
         {
           "title": "Engine Number Verification",
-          "body": "We read the engine number from the block and compare it to the VIN's last nine digits – confirming if it's the factory-original unit or a replacement."
+          "body": "We read the engine number from the block and compare it to the VIN's last nine digits - confirming if it's the factory-original unit or a replacement."
         },
         {
           "title": "V5C Cross-Check",
@@ -286,7 +286,7 @@
         },
         {
           "title": "Compatibility Report",
-          "body": "If a replacement engine is being considered, we produce a detailed compatibility report – covering mounting points, ECU pairing, and emissions requirements."
+          "body": "If a replacement engine is being considered, we produce a detailed compatibility report - covering mounting points, ECU pairing, and emissions requirements."
         }
       ]
     },
@@ -297,7 +297,7 @@
         {
           "t": "ul",
           "items": [
-            "Specialist Jaguar workshop since 2009 – we know the VIN structure and engine codes across every generation.",
+            "Specialist Jaguar workshop since 2009 - we know the VIN structure and engine codes across every generation.",
             "Access to JLR TOPIX and other manufacturer-grade parts and data systems.",
             "We handle both modern (AJ/Ingenium) and classic (X100, X300, etc.) Jaguar engines.",
             "We can source Jaguar Heritage Certificates for classic vehicles.",
@@ -329,7 +329,7 @@
         },
         {
           "title": "Compatibility Report",
-          "body": "We provide a detailed report – confirming the exact specification or listing compatibility for a replacement engine."
+          "body": "We provide a detailed report - confirming the exact specification or listing compatibility for a replacement engine."
         },
         {
           "title": "Next Steps",
@@ -372,7 +372,7 @@
         },
         {
           "q": "Can you match an engine using just the registration number?",
-          "a": "Yes – the registration links to the VIN via the DVLA database, which we can use to perform a full VIN decode and confirm the original engine specification."
+          "a": "Yes - the registration links to the VIN via the DVLA database, which we can use to perform a full VIN decode and confirm the original engine specification."
         },
         {
           "q": "Do you handle classic Jaguar engine matching?",

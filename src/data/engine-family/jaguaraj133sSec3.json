@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ133S Applications — ",
+  "titlePre": "Jaguar AJ133S Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "SVR",
       "generation": "X761",
       "chassis": "X761",
-      "years": "2016–2024",
+      "years": "2016-2024",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-f-pace-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "XFR-S",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2013–2015",
+      "years": "2013-2015",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-xf-engines"
     }

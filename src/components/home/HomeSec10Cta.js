@@ -19,7 +19,7 @@ export default function HomeSec10Cta({ data }) {
           style={{ background: "linear-gradient(90deg, #f4f4f4 0%, #d0d0d0 40%, #4a4a4a 60%, #1c1c1c 100%)" }}
         />
 
-        {/* single responsive layout — column on mobile, row on desktop — so both sizes share the
+        {/* single responsive layout - column on mobile, row on desktop - so both sizes share the
             exact same markup/behavior instead of two hand-tuned blocks drifting apart */}
         <div className="relative flex w-full flex-col items-center gap-5 px-6 py-8 text-center sm:px-8 lg:flex-row lg:items-center lg:justify-start lg:gap-12 lg:py-10 lg:pl-14 lg:text-left">
           <div className="lg:max-w-[28%]">

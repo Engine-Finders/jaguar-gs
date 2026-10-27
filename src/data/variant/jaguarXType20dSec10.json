@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar X-Type 2.0d ENGINE",
     "paragraphs": [
-      "The X-Type 2.0d uses the ZSD-420 — a 2.0-litre four-cylinder diesel engine sourced from Ford. It was fitted from 2003 to 2009 across the X400 generation, representing the diesel entry point to the X-Type range. The ZSD-420 is a belt-driven unit, making the timing belt an interval-service item rather than a failure pattern, but injectors can show wear at higher mileages."
+      "The X-Type 2.0d uses the ZSD-420 - a 2.0-litre four-cylinder diesel engine sourced from Ford. It was fitted from 2003 to 2009 across the X400 generation, representing the diesel entry point to the X-Type range. The ZSD-420 is a belt-driven unit, making the timing belt an interval-service item rather than a failure pattern, but injectors can show wear at higher mileages."
     ],
     "boldParagraph": "The X-Type 2.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "ZSD-420",
         "codeRest": "",
-        "body": "A 2.0L I4 Diesel engine fitted to the X-Type 2.0d — X400 (2003–2009).",
+        "body": "A 2.0L I4 Diesel engine fitted to the X-Type 2.0d - X400 (2003-2009).",
         "cta": "Check Your ZSD-420 X-Type 2.0d",
         "codeHref": "/jaguar-zsd-420-engine"
       }
@@ -48,13 +48,13 @@
         "text": "Ancillary and drivetrain specification"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic X-Type quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar X-Type 2.0d ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
+    "image": "/cars/card/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -65,7 +65,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
+        "image": "/cars/card/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -73,9 +73,9 @@
       },
       {
         "generation": "X400",
-        "image": "/cars/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
+        "image": "/cars/card/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
         "chassis": "X400",
-        "years": "2003–2009",
+        "years": "2003-2009",
         "engineCode": "ZSD-420",
         "fuel": "Diesel"
       }

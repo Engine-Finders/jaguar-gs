@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp",
+  "carImage": "/cars/card/jaguar-f-pace-x761-svr-performance-suv-20182020-special-ultr-12cf.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X761 (2018–present)",
+      "generation": "X761 (2018-present)",
       "price": "£6,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,9 +28,9 @@
     "titlePre": "Jaguar F-Pace SVR Timing Chain & Cooling System Wear ",
     "titleHighlight": "(AJ133)",
     "paragraphs": [
-      "If your F-Pace SVR has the AJ133 5.0-litre supercharged V8 — that's every X761-generation car since 2018 — timing chain wear and cooling system leaks are established patterns on this engine, shared across Jaguar and Land Rover models using the same V8. We replace timing chains, valve seals, coolant components and bearings as standard on every AJ133 rebuild."
+      "If your F-Pace SVR has the AJ133 5.0-litre supercharged V8 - that's every X761-generation car since 2018 - timing chain wear and cooling system leaks are established patterns on this engine, shared across Jaguar and Land Rover models using the same V8. We replace timing chains, valve seals, coolant components and bearings as standard on every AJ133 rebuild."
     ],
-    "source": "Source: established pattern, cross-applicable from Jaguar/Land Rover supercharged V8 family, per VRF-Jaguar-F-Pace.md. Applies to all F-Pace SVR models, 2018–present."
+    "source": "Source: established pattern, cross-applicable from Jaguar/Land Rover supercharged V8 family, per VRF-Jaguar-F-Pace.md. Applies to all F-Pace SVR models, 2018-present."
   },
   "tiles": [
     {
@@ -42,7 +42,7 @@
     {
       "badge": "X761",
       "label": "Generation",
-      "big": "2018–present",
+      "big": "2018-present",
       "sub": "Jaguar F-Pace SVR"
     },
     {

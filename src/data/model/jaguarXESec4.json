@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Jaguar XE",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -16,28 +16,28 @@
       "fuel": "Petrol",
       "size": "2.0L",
       "chassis": "X760",
-      "range": "£2,000 – £2,800"
+      "range": "£2,000 - £2,800"
     },
     {
       "family": "Ingenium AJ200D",
       "fuel": "Diesel",
       "size": "2.0L",
       "chassis": "X760",
-      "range": "£2,000 – £2,900"
+      "range": "£2,000 - £2,900"
     },
     {
       "family": "Ingenium AJ200",
       "fuel": "Petrol",
       "size": "2.0L",
       "chassis": "X760",
-      "range": "£2,000 – £2,800"
+      "range": "£2,000 - £2,800"
     },
     {
       "family": "AJ126 (supercharged V6, until 2019)",
       "fuel": "Petrol",
       "size": "3.0L",
       "chassis": "X760",
-      "range": "£3,200 – £4,400"
+      "range": "£3,200 - £4,400"
     }
   ],
   "features": [

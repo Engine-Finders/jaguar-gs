@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar X-Type 2.0 V6 ENGINE",
     "paragraphs": [
-      "The X-Type 2.0 V6 uses the AJ20 engine — a 2.0-litre V6 petrol unit derived from the Ford Duratec family. It was fitted from 2001 to 2009 across the X400 generation. A smaller displacement sibling to the 2.5 V6 (AJ25) and 3.0 V6 (AJ30), the 2.0-litre offers a smooth petrol alternative in a range otherwise dominated by diesel options. The X-Type is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The X-Type 2.0 V6 uses the AJ20 engine - a 2.0-litre V6 petrol unit derived from the Ford Duratec family. It was fitted from 2001 to 2009 across the X400 generation. A smaller displacement sibling to the 2.5 V6 (AJ25) and 3.0 V6 (AJ30), the 2.0-litre offers a smooth petrol alternative in a range otherwise dominated by diesel options. The X-Type is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace engine engines for every X-Type 2.0 V6 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ20",
         "codeRest": "",
-        "body": "A 2.0-litre V6 petrol engine fitted to the X-Type from 2001 to 2009 (X400). Known for ignition coil degradation over time — see the callout above. We replace ignition coils and valve cover gaskets as standard on every AJ20 rebuild.",
+        "body": "A 2.0-litre V6 petrol engine fitted to the X-Type from 2001 to 2009 (X400). Known for ignition coil degradation over time - see the callout above. We replace ignition coils and valve cover gaskets as standard on every AJ20 rebuild.",
         "cta": "Check Your AJ20 X-Type 2.0 V6",
         "codeHref": "/jaguar-aj20-engine"
       }
@@ -48,13 +48,13 @@
         "text": "Drivetrain and ancillary specification"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic X-Type 2.0 V6 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic X-Type 2.0 V6 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar X-Type 2.0 V6 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
+    "image": "/cars/card/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -65,7 +65,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
+        "image": "/cars/card/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -73,9 +73,9 @@
       },
       {
         "generation": "X400",
-        "image": "/cars/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
+        "image": "/cars/card/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
         "chassis": "X400",
-        "years": "2001–2009",
+        "years": "2001-2009",
         "engineCode": "AJ20",
         "fuel": "Petrol"
       }

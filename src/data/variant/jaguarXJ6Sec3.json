@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,200",
   "engineImage": "/engines/jaguar-2-0-2-1-v6-naming-and-yb-engine.webp",
-  "carImage": "/cars/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
+  "carImage": "/cars/card/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
   "cards": [
     {
       "code": "AJ16",
@@ -20,7 +20,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -44,7 +44,7 @@
     {
       "badge": "XJ6",
       "label": "Variant",
-      "big": "3.2L–4.0L Petrol",
+      "big": "3.2L-4.0L Petrol",
       "sub": "AJ16"
     }
   ]

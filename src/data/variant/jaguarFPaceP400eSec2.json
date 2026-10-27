@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X761 (2020–present)"
+      "value": "X761 (2020-present)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The F-Pace P400e uses the Ingenium AJ200P petrol engine paired with an electric motor — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The F-Pace P400e uses the Ingenium AJ200P petrol engine paired with an electric motor - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

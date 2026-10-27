@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE 2.0d ENGINE",
     "paragraphs": [
-      "The XE 2.0d uses the AJ200D — a 2.0-litre inline-four diesel. It was fitted from 2015 to 2016 across the X760 generation. It was the early diesel offering before the later Ingenium diesel variants continued through to 2020. The XE 2.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XE 2.0d uses the AJ200D - a 2.0-litre inline-four diesel. It was fitted from 2015 to 2016 across the X760 generation. It was the early diesel offering before the later Ingenium diesel variants continued through to 2020. The XE 2.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0L I4 Diesel engine fitted to the XE 2.0d — X760 (2015–2016).",
+        "body": "A 2.0L I4 Diesel engine fitted to the XE 2.0d - X760 (2015-2016).",
         "cta": "Check Your AJ200D XE 2.0d",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar XE 2.0d ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The XE 2.0d is powered exclusively by the AJ200D diesel engine across its production run. This means there is no engine-code variation for this specific variant — every XE 2.0d uses the same basic unit, though later revisions of the Ingenium diesel may have minor updates. We always confirm your exact engine via registration to ensure the correct parts and procedures.",
+    "intro": "The XE 2.0d is powered exclusively by the AJ200D diesel engine across its production run. This means there is no engine-code variation for this specific variant - every XE 2.0d uses the same basic unit, though later revisions of the Ingenium diesel may have minor updates. We always confirm your exact engine via registration to ensure the correct parts and procedures.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -41,7 +41,7 @@
   "applications": {
     "titlePre": "Jaguar XE 2.0d ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+    "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -52,7 +52,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -60,9 +60,9 @@
       },
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "X760",
-        "years": "2015–2016",
+        "years": "2015-2016",
         "engineCode": "AJ200D",
         "fuel": "Diesel"
       }

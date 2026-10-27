@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ126 appears across four Jaguar model lines — F-Type, XE, XF and XJ — making it one of the broader-application V6 engines we work on."
+      "body": "The AJ126 appears across four Jaguar model lines - F-Type, XE, XF and XJ - making it one of the broader-application V6 engines we work on."
     },
     {
       "icon": "wrench",
@@ -21,19 +21,19 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "The AJ126 has documented timing chain stretch patterns — the same tensioner and timing chain problems as the larger AJ133 5.0 V8, though less frequent and typically appearing at higher mileage. Supercharger coupler wear is also a documented source of rattling noise, and cooling system leaks from pipes, hoses and connectors are a known failure point on higher-mileage examples."
+      "body": "The AJ126 has documented timing chain stretch patterns - the same tensioner and timing chain problems as the larger AJ133 5.0 V8, though less frequent and typically appearing at higher mileage. Supercharger coupler wear is also a documented source of rattling noise, and cooling system leaks from pipes, hoses and connectors are a known failure point on higher-mileage examples."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ126 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ126 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ126 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
     "body": "The AJ126 shares timing chain issues with the larger AJ133 V8. We inspect the timing system thoroughly on every rebuild, with particular attention to tensioners and guides. The supercharger sits on top of the engine and must be removed to access critical components in the valley where the oil cooler and timing chain are located. Plastic coolant pipes and connectors are known failure points and are inspected during strip-down.",
     "scope": {
       "label": "Typical Scope:",

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xj-x350-xj-super-v8-portfolio-saloon-20052009-new-cel-8147.webp",
+  "carImage": "/cars/card/jaguar-xj-x350-xj-super-v8-portfolio-saloon-20052009-new-cel-8147.webp",
   "cards": [
     {
       "code": "AJ-V8 supercharged",
-      "generation": "X350 (2002–2009)",
+      "generation": "X350 (2002-2009)",
       "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X350",
       "label": "Generation",
-      "big": "2002–2009",
+      "big": "2002-2009",
       "sub": "Jaguar XJ Super V8"
     },
     {

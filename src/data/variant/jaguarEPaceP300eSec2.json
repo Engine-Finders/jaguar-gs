@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X540 (2017–present)"
+      "value": "X540 (2017-present)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The E-Pace P300e uses the 1.5-litre three-cylinder Ingenium petrol engine paired with an electric motor — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The E-Pace P300e uses the 1.5-litre three-cylinder Ingenium petrol engine paired with an electric motor - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace D200 ENGINE",
     "paragraphs": [
-      "The F-Pace D200 uses the Ingenium AJ200D — a 2.0-litre four-cylinder diesel engine. It was fitted from the F-Pace's launch in 2016 through the current generation, making it one of the most common diesel options in the range. The AJ200D is a modular diesel design shared across Jaguar and Land Rover models of this era, and while it's a generally reliable unit, the Ingenium diesel family has a documented pattern of timing chain and injector seal wear over time. Knowing which engine you have matters because the components and wear patterns differ between the 2.0-litre diesel and other F-Pace engines — which is exactly why we confirm your exact engine by registration before quoting."
+      "The F-Pace D200 uses the Ingenium AJ200D - a 2.0-litre four-cylinder diesel engine. It was fitted from the F-Pace's launch in 2016 through the current generation, making it one of the most common diesel options in the range. The AJ200D is a modular diesel design shared across Jaguar and Land Rover models of this era, and while it's a generally reliable unit, the Ingenium diesel family has a documented pattern of timing chain and injector seal wear over time. Knowing which engine you have matters because the components and wear patterns differ between the 2.0-litre diesel and other F-Pace engines - which is exactly why we confirm your exact engine by registration before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ200D engines for every F-Pace D200 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the F-Pace D200 from 2016 to the present (X761 generation). Known for timing chain stretch and injector seal wear over time — see the callout above. We replace timing chain components, injector seals, EGR and gaskets as standard on every AJ200D rebuild.",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the F-Pace D200 from 2016 to the present (X761 generation). Known for timing chain stretch and injector seal wear over time - see the callout above. We replace timing chain components, injector seals, EGR and gaskets as standard on every AJ200D rebuild.",
         "cta": "Check Your AJ200D F-Pace D200",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Pace D200 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the F-Pace range spans multiple engine families across the same generation — including 2.0-litre and 3.0-litre diesels, petrol Ingenium units, and the SVR's supercharged V8 — fitting the wrong replacement or assuming parts from one engine will work on another risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "Because the F-Pace range spans multiple engine families across the same generation - including 2.0-litre and 3.0-litre diesels, petrol Ingenium units, and the SVR's supercharged V8 - fitting the wrong replacement or assuming parts from one engine will work on another risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace D200 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
         "chassis": "X761",
-        "years": "2016–present",
+        "years": "2016-present",
         "engineCode": "AJ200D",
         "fuel": "Diesel"
       }

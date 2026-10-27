@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XK8 ENGINE",
     "paragraphs": [
-      "The XK8 was Jaguar's V8 grand tourer, launched in 1996 and produced through to 2006. The XK8 specifically uses the 4.0-litre AJ-V8 family — the AJ26 from 1996 to 1999, and the AJ27 from 1999 to 2006 — both naturally aspirated petrol V8s. The AJ27 was an evolution of the AJ26, bringing improvements to the engine management and some internal components, but both engines share the same basic architecture and the same known wear pattern around the timing chain tensioners. The XK8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XK8 was Jaguar's V8 grand tourer, launched in 1996 and produced through to 2006. The XK8 specifically uses the 4.0-litre AJ-V8 family - the AJ26 from 1996 to 1999, and the AJ27 from 1999 to 2006 - both naturally aspirated petrol V8s. The AJ27 was an evolution of the AJ26, bringing improvements to the engine management and some internal components, but both engines share the same basic architecture and the same known wear pattern around the timing chain tensioners. The XK8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace engine engines for every XK8 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ26",
         "codeRest": "",
-        "body": "A 4.0-litre V8 fitted to the XK8 from 1996 to 1999 (X100). Known for timing chain tensioner wear — see the callout above. We replace the timing chain, tensioners, and guides as standard on every AJ26 rebuild.",
+        "body": "A 4.0-litre V8 fitted to the XK8 from 1996 to 1999 (X100). Known for timing chain tensioner wear - see the callout above. We replace the timing chain, tensioners, and guides as standard on every AJ26 rebuild.",
         "cta": "Check Your AJ26 XK8",
         "codeHref": "/jaguar-aj26-engine"
       },
@@ -59,13 +59,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XK8 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XK8 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XK8 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+    "image": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -76,7 +76,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+        "image": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -84,9 +84,9 @@
       },
       {
         "generation": "X100",
-        "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+        "image": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
         "chassis": "X100",
-        "years": "1996–2006",
+        "years": "1996-2006",
         "engineCode": "AJ26/AJ27",
         "fuel": "Petrol"
       }

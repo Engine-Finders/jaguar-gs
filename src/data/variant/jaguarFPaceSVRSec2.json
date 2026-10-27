@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X761 (2018–present)"
+      "value": "X761 (2018-present)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The F-Pace SVR uses the AJ133 5.0-litre supercharged V8 across its entire production run — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The F-Pace SVR uses the AJ133 5.0-litre supercharged V8 across its entire production run - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "Jaguar XKR (X150) ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "Jaguar XKR (X150) has used the AJ133 throughout (X150 (2005–2014)). If you're unsure of your exact spec, we'll confirm it before you book.",
+  "description": "Jaguar XKR (X150) has used the AJ133 throughout (X150 (2005-2014)). If you're unsure of your exact spec, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -99,7 +99,7 @@
   ],
   "notice": {
     "highlight": "The AJ133",
-    "rest": " has been fitted to every XKR (X150) since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+    "rest": " has been fitted to every XKR (X150) since launch - if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
   },
   "coverNote": {
     "title": "We Cover Every Jaguar XKR Model Year:",
@@ -110,6 +110,6 @@
       "Jaguar XKR 2012 Engine Rebuild",
       "Jaguar XKR 2014 Engine Rebuild"
     ],
-    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
+    "footer": "If your registration year isn't listed above, get in touch - we'll confirm availability directly against your reg."
   }
 }

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/variant/sec10_engine.webp",
-  "carImage": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+  "carImage": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
   "cards": [
     {
       "code": "Ford EcoBoost",
-      "generation": "X260 (2015–present)",
+      "generation": "X260 (2015-present)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X260",
       "label": "Generation",
-      "big": "2015–present",
+      "big": "2015-present",
       "sub": "Jaguar XF 2.0i"
     },
     {

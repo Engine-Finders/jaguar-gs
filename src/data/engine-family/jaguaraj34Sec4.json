@@ -19,7 +19,7 @@
       "items": [
         "Crankshaft",
         "Cylinder head",
-        "VVT phase regulators — critical known issue",
+        "VVT phase regulators - critical known issue",
         "Timing chain tensioners and guides"
       ],
       "image": "/engine/sec4.webp"
@@ -28,8 +28,8 @@
       "icon": "oil",
       "title": "Inspected and Measured",
       "items": [
-        "Cooling system — critical known issue",
-        "Intake manifold swirl flaps — critical known issue",
+        "Cooling system - critical known issue",
+        "Intake manifold swirl flaps - critical known issue",
         "Ignition coils",
         "PCV system"
       ],
@@ -44,6 +44,6 @@
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from the Jaguar Master Engine Data File. If your AJ34's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from the Jaguar Master Engine Data File. If your AJ34's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

@@ -46,9 +46,9 @@ export default function ModelSec2({ data }) {
         </div>
 
         {/* matches the established mobile treatment for this section: the wide desktop photo,
-            diagonally clipped — not the dedicated mobile crop, which crops the engine out of
+            diagonally clipped - not the dedicated mobile crop, which crops the engine out of
             frame. This container's aspect ratio is wider than the photo's, so object-cover only
-            crops top/bottom, not left/right — the engine (which sits in the photo's right half)
+            crops top/bottom, not left/right - the engine (which sits in the photo's right half)
             stays pinned right regardless of object-position. Zoomed + shifted via transform so
             the engine block itself sits centered in the frame instead. */}
         <div className="relative mt-2 h-56 w-full overflow-hidden">
@@ -102,7 +102,7 @@ export default function ModelSec2({ data }) {
       <div className="mx-auto max-w-6xl">
         <div className="relative">
           {/* sec2.webp already bakes in the light left panel / diagonal photo split, matching
-              the reference exactly — sized to the photo's own aspect ratio so there's no dead
+              the reference exactly - sized to the photo's own aspect ratio so there's no dead
               space below the text, text sits directly on it with no extra frosted panel */}
           <div className="relative w-full" style={{ aspectRatio: "1024 / 410" }}>
             <Image src={data.image} alt="Jaguar Ingenium timing chain assembly" fill className="object-cover" sizes="1152px" />

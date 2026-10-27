@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generation",
-      "value": "X200 (1999–2008)"
+      "value": "X200 (1999-2008)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The S-Type R uses the supercharged 4.2-litre AJ-V8 — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The S-Type R uses the supercharged 4.2-litre AJ-V8 - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

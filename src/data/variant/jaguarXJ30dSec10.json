@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XJ 3.0d ENGINE",
     "paragraphs": [
-      "The XJ 3.0d was introduced in the X351 generation, produced from 2009 to 2019. It uses the AJD-V6 — a 3.0-litre V6 diesel engine, Ford-sourced with twin-turbocharging. The XJ 3.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XJ 3.0d was introduced in the X351 generation, produced from 2009 to 2019. It uses the AJD-V6 - a 3.0-litre V6 diesel engine, Ford-sourced with twin-turbocharging. The XJ 3.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJD-V6",
         "codeRest": "",
-        "body": "A 3.0L V6 Diesel engine fitted to the XJ 3.0d — X351 (2009–2019).",
+        "body": "A 3.0L V6 Diesel engine fitted to the XJ 3.0d - X351 (2009-2019).",
         "cta": "Check Your AJD-V6 XJ 3.0d",
         "codeHref": "/jaguar-ajd-v6-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XJ 3.0d quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XJ 3.0d quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "JAGUAR XJ 3.0d ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+    "image": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "generation",
-        "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+        "image": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
         "chassis": "generation",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "[MISSING: engine code not confirmed]",
         "fuel": "Petrol"
       }

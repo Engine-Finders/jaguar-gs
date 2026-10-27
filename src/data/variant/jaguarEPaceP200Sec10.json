@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar E-Pace P200 ENGINE",
     "paragraphs": [
-      "The E-Pace P200 has been part of the E-Pace range since the model launched in 2017. The P200 uses the AJ200 — a 2.0-litre four-cylinder petrol engine from Jaguar Land Rover's Ingenium family. It sits as the entry-level petrol option in the E-Pace line-up, positioned below the discontinued P250 and alongside the D165 and D200 diesel variants and the P300e plug-in hybrid."
+      "The E-Pace P200 has been part of the E-Pace range since the model launched in 2017. The P200 uses the AJ200 - a 2.0-litre four-cylinder petrol engine from Jaguar Land Rover's Ingenium family. It sits as the entry-level petrol option in the E-Pace line-up, positioned below the discontinued P250 and alongside the D165 and D200 diesel variants and the P300e plug-in hybrid."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200",
         "codeRest": "",
-        "body": "A 2.0L I4 Petrol engine fitted to the E-Pace P200 — X540 (2017–present).",
+        "body": "A 2.0L I4 Petrol engine fitted to the E-Pace P200 - X540 (2017-present).",
         "cta": "Check Your AJ200 E-Pace P200",
         "codeHref": "/jaguar-aj200-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic E-Pace P200 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic E-Pace P200 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar E-Pace P200 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+    "image": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X540",
-        "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+        "image": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
         "chassis": "X540",
-        "years": "2017–present",
+        "years": "2017-present",
         "engineCode": "AJ200",
         "fuel": "Petrol"
       }

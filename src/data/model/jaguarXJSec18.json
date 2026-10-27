@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all Jaguar XJ models?",
-      "a": "Yes — we rebuild and replace engines across every XJ generation, from the X300 up to the current X351."
+      "a": "Yes - we rebuild and replace engines across every XJ generation, from the X300 up to the current X351."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a Jaguar XJ engine rebuild cost?",
-      "a": "V6 rebuilds start from £2,600, V8 from £4,500, and supercharged V8 (XJR) from £5,500. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "V6 rebuilds start from £2,600, V8 from £4,500, and supercharged V8 (XJR) from £5,500. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is the timing chain issue on my XJ covered by a recall?",
-      "a": "There's been a US class-action lawsuit covering the affected 2012–2014 AJ-V8 Gen III engines, but that's separate from whether your specific car has a live recall — submit your reg and we'll advise on your exact situation."
+      "a": "There's been a US class-action lawsuit covering the affected 2012-2014 AJ-V8 Gen III engines, but that's separate from whether your specific car has a live recall - submit your reg and we'll advise on your exact situation."
     }
   ],
   "form": {

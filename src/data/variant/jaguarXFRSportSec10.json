@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF R-Sport ENGINE",
     "paragraphs": [
-      "The XF R-Sport is a trim-level designation within the X260 generation (2015–present). Depending on the model year and market, it was offered with a variety of engines: the Ingenium 2.0L petrol (AJ200), the Ingenium 2.0L diesel (AJ200D), and – on earlier cars – the AJ126 3.0L supercharged V6. Because the engine varies from car to car, we always start with your registration to identify your exact unit before quoting."
+      "The XF R-Sport is a trim-level designation within the X260 generation (2015-present). Depending on the model year and market, it was offered with a variety of engines: the Ingenium 2.0L petrol (AJ200), the Ingenium 2.0L diesel (AJ200D), and - on earlier cars - the AJ126 3.0L supercharged V6. Because the engine varies from car to car, we always start with your registration to identify your exact unit before quoting."
     ],
     "boldParagraph": "We continue to rebuild and replace Varies (AJ200, AJ200D, and other X260‑era units) engines for every XF R-Sport on the road."
   },
@@ -68,7 +68,7 @@
   "applications": {
     "titlePre": "JAGUAR XF R-Sport ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x260-r-sport-saloon-20162019-new-caesium-blue-x260-8fd2.webp",
+    "image": "/cars/card/jaguar-xf-x260-r-sport-saloon-20162019-new-caesium-blue-x260-8fd2.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -78,10 +78,10 @@
     ],
     "rows": [
       {
-        "generation": "X260 (2015 – present)",
-        "image": "/cars/jaguar-xf-x260-r-sport-saloon-20162019-new-caesium-blue-x260-8fd2.webp",
-        "chassis": "X260 (2015 – present)",
-        "years": "2014–2025",
+        "generation": "X260 (2015 - present)",
+        "image": "/cars/card/jaguar-xf-x260-r-sport-saloon-20162019-new-caesium-blue-x260-8fd2.webp",
+        "chassis": "X260 (2015 - present)",
+        "years": "2014-2025",
         "engineCode": "[MISSING: engine code not confirmed]",
         "fuel": "Petrol"
       }

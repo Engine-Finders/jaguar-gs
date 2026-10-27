@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X351 (2013–2019)"
+      "value": "X351 (2013-2019)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XJ 3.0 V6 uses the AJ126 supercharged V6 — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XJ 3.0 V6 uses the AJ126 supercharged V6 - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

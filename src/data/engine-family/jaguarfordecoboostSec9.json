@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Within Jaguar, the Ford EcoBoost is found in a single application — the XF (X250 generation, 2012–2015). During this period, it served as the 2.0-litre petrol option in the XF range, positioned alongside the 2.2-litre diesel and the 3.0-litre V6 petrol and diesel options. It was discontinued when Jaguar introduced the second-generation XF (X260) with its own Ingenium engines.",
+    "body": "Within Jaguar, the Ford EcoBoost is found in a single application - the XF (X250 generation, 2012-2015). During this period, it served as the 2.0-litre petrol option in the XF range, positioned alongside the 2.2-litre diesel and the 3.0-litre V6 petrol and diesel options. It was discontinued when Jaguar introduced the second-generation XF (X260) with its own Ingenium engines.",
     "lineup": [
       {
         "label": "XF",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "The Ford EcoBoost in the Jaguar XF is a single-application engine — it was only fitted to the X250 generation XF between 2012 and 2015. Because the engine was sourced from Ford, it shares its base architecture with Ford applications, but the Jaguar-specific ancillaries, mounting, and ECU calibration differ. We confirm compatibility by registration/VIN before any rebuild or replacement.",
+    "body": "The Ford EcoBoost in the Jaguar XF is a single-application engine - it was only fitted to the X250 generation XF between 2012 and 2015. Because the engine was sourced from Ford, it shares its base architecture with Ford applications, but the Jaguar-specific ancillaries, mounting, and ECU calibration differ. We confirm compatibility by registration/VIN before any rebuild or replacement.",
     "points": [
       {
         "icon": "car",
@@ -61,10 +61,10 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "Ford EcoBoost in the XF (X250, 2012–2015)",
+        "heading": "Ford EcoBoost in the XF (X250, 2012-2015)",
         "engine": "Ford EcoBoost",
         "model": "XF",
-        "detail": "X250, 2012–2015",
+        "detail": "X250, 2012-2015",
         "body": "The Ford EcoBoost in the XF is one of the applications we work on regularly. It was Jaguar's entry-level petrol option during the X250 generation. Symptoms That Justify Inspection The following symptoms don't automatically mean the Ford EcoBoost requires a rebuild. Proper diagnosis comes first. Rattling noise on cold start Loss of power (turbo or timing issues) Rough idle Check engine light",
         "price": "£2,200",
         "cta": "Check your XF Ford EcoBoost"
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar XF X250",
       "engine": "Ford EcoBoost 2.0L",
-      "year": "2012 – 2015",
+      "year": "2012 - 2015",
       "price": "£2,200"
     }
   }

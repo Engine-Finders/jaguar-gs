@@ -40,16 +40,16 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We manage the complete process of sourcing a replacement engine and fitting it to your Jaguar. This bundled service covers everything from initial compatibility matching to final road testing — so you get a turnkey solution with a single point of contact."
+          "html": "We manage the complete process of sourcing a replacement engine and fitting it to your Jaguar. This bundled service covers everything from initial compatibility matching to final road testing - so you get a turnkey solution with a single point of contact."
         },
         {
           "t": "ul",
           "items": [
-            "**VIN-matched engine sourcing** — we identify the exact engine code, drivetrain, and emissions specification for your vehicle.",
-            "**Quality-checked replacement units** — all engines are hot-run tested and balanced before dispatch.",
-            "**Full removal and fitting** — including all ancillaries, fluids, and gaskets.",
-            "**Dealer-level ECU coding** — using JLR SDD/Pathfinder to synchronise the new engine with your vehicle's electronics.",
-            "**Post-fit road testing** — we verify performance and drivability before handover."
+            "**VIN-matched engine sourcing** - we identify the exact engine code, drivetrain, and emissions specification for your vehicle.",
+            "**Quality-checked replacement units** - all engines are hot-run tested and balanced before dispatch.",
+            "**Full removal and fitting** - including all ancillaries, fluids, and gaskets.",
+            "**Dealer-level ECU coding** - using JLR SDD/Pathfinder to synchronise the new engine with your vehicle's electronics.",
+            "**Post-fit road testing** - we verify performance and drivability before handover."
           ]
         }
       ]
@@ -74,7 +74,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We supply and fit engines for the full range of Jaguar models, across all generations and engine families. Below are the primary model lines we support — each with its specific engine variants."
+          "html": "We supply and fit engines for the full range of Jaguar models, across all generations and engine families. Below are the primary model lines we support - each with its specific engine variants."
         },
         {
           "t": "modelgroup",
@@ -186,7 +186,7 @@
         },
         {
           "title": "Engine Sourcing & Compatibility Check",
-          "body": "Using our verified supplier network, we locate a replacement engine that matches your vehicle's original specification — hot-run tested and balanced."
+          "body": "Using our verified supplier network, we locate a replacement engine that matches your vehicle's original specification - hot-run tested and balanced."
         },
         {
           "title": "Removal of Old Engine",
@@ -198,7 +198,7 @@
         },
         {
           "title": "ECU Coding & System Integration",
-          "body": "Using JLR diagnostic tools, we program the engine control module to match the vehicle's VIN, immobiliser, and transmission parameters — ensuring full compatibility."
+          "body": "Using JLR diagnostic tools, we program the engine control module to match the vehicle's VIN, immobiliser, and transmission parameters - ensuring full compatibility."
         },
         {
           "title": "Road Testing & Handover",
@@ -213,12 +213,12 @@
         {
           "t": "ul",
           "items": [
-            "**Specialist Jaguar knowledge** — we understand the nuances of every engine family, from AJ-V8 to Ingenium.",
-            "**VIN-matched sourcing** — we guarantee the replacement engine is an exact match for your vehicle.",
-            "**Dealer-level diagnostic and coding** — using genuine JLR tools for seamless integration.",
-            "**Transparent, fixed-price quotes** — no hidden costs, quoted after a thorough inspection.",
-            "**All work covered by our warranty** — [see our warranty terms](/warranty).",
-            "**Nationwide collection and delivery** — we can arrange covered transport for your vehicle."
+            "**Specialist Jaguar knowledge** - we understand the nuances of every engine family, from AJ-V8 to Ingenium.",
+            "**VIN-matched sourcing** - we guarantee the replacement engine is an exact match for your vehicle.",
+            "**Dealer-level diagnostic and coding** - using genuine JLR tools for seamless integration.",
+            "**Transparent, fixed-price quotes** - no hidden costs, quoted after a thorough inspection.",
+            "**All work covered by our warranty** - [see our warranty terms](/warranty).",
+            "**Nationwide collection and delivery** - we can arrange covered transport for your vehicle."
           ]
         },
         {
@@ -260,11 +260,11 @@
         {
           "t": "ul",
           "items": [
-            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild) — full strip-down and rebuild of your existing engine.",
-            "[Jaguar Engine Replacement](/jaguar-engine-replacement) — similar to supply & fit, with a focus on replacement units.",
-            "[Jaguar Nationwide Engine Recovery](/jaguar-engine-recovery) — recovery and transport to our workshop.",
-            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment) — pre-purchase or diagnostic inspection.",
-            "[Jaguar Engine Matching by Registration & VIN](/jaguar-engine-matching) — compatibility verification service."
+            "[Jaguar Engine Rebuild](/jaguar-engine-rebuild) - full strip-down and rebuild of your existing engine.",
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement) - similar to supply & fit, with a focus on replacement units.",
+            "[Jaguar Nationwide Engine Recovery](/jaguar-engine-recovery) - recovery and transport to our workshop.",
+            "[Jaguar Engine Inspection & Assessment](/jaguar-engine-inspection-assessment) - pre-purchase or diagnostic inspection.",
+            "[Jaguar Engine Matching by Registration & VIN](/jaguar-engine-matching) - compatibility verification service."
           ]
         }
       ]
@@ -279,7 +279,7 @@
         },
         {
           "q": "How long does the process take?",
-          "a": "Typically 5–10 working days depending on engine availability and the complexity of your Jaguar model. We will give you a clear estimate during the initial assessment."
+          "a": "Typically 5-10 working days depending on engine availability and the complexity of your Jaguar model. We will give you a clear estimate during the initial assessment."
         },
         {
           "q": "Can you supply and fit an engine for any Jaguar?",

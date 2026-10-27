@@ -1,9 +1,9 @@
 {
   "slug": "jaguar-engine-rebuild",
   "metaTitle": "Jaguar Engine Rebuild | Jaguar Garage",
-  "metaDescription": "Professional Jaguar engine rebuild service — complete strip-down, machining, assembly and testing. All models including XJ, XK, XE, XF, F-Type and more.",
+  "metaDescription": "Professional Jaguar engine rebuild service - complete strip-down, machining, assembly and testing. All models including XJ, XK, XE, XF, F-Type and more.",
   "h1": "Jaguar Engine Rebuild",
-  "lede": "Complete engine rebuild service for every Jaguar model – from classic XJ to modern F-Type.",
+  "lede": "Complete engine rebuild service for every Jaguar model - from classic XJ to modern F-Type.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -36,7 +36,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "A full engine rebuild returns your Jaguar's engine to original specification — no shortcuts, no generic parts. The process is methodical and comprehensive:"
+          "html": "A full engine rebuild returns your Jaguar's engine to original specification - no shortcuts, no generic parts. The process is methodical and comprehensive:"
         },
         {
           "t": "ul",
@@ -65,12 +65,12 @@
           "t": "callout",
           "heading": "",
           "paras": [
-            "**Rebuilds start from £1,900** (4-cylinder legacy engines). Prices vary by engine type and complexity – see our [pricing disclaimer](/pricing-legal-disclaimer) for details."
+            "**Rebuilds start from £1,900** (4-cylinder legacy engines). Prices vary by engine type and complexity - see our [pricing disclaimer](/pricing-legal-disclaimer) for details."
           ]
         },
         {
           "t": "p",
-          "html": "We provide a fixed-price quote after a thorough inspection – no hidden extras."
+          "html": "We provide a fixed-price quote after a thorough inspection - no hidden extras."
         }
       ]
     },
@@ -80,7 +80,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We offer full engine rebuilds across the entire Jaguar range – including both modern and classic engines."
+          "html": "We offer full engine rebuilds across the entire Jaguar range - including both modern and classic engines."
         },
         {
           "t": "linkgrid",
@@ -130,9 +130,9 @@
         {
           "t": "ul",
           "items": [
-            "[X-Type 2.0d](/jaguar-x-type-2-0d-engines) – diesel inline-4",
-            "[XJ 5.0 V8 (AJ133)](/jaguar-xj-engines) – naturally aspirated",
-            "[XK 5.0 V8](/jaguar-xk-5-0-v8-engines) – including supercharged variants",
+            "[X-Type 2.0d](/jaguar-x-type-2-0d-engines) - diesel inline-4",
+            "[XJ 5.0 V8 (AJ133)](/jaguar-xj-engines) - naturally aspirated",
+            "[XK 5.0 V8](/jaguar-xk-5-0-v8-engines) - including supercharged variants",
             "[XE 2.0d (Ingenium)](/jaguar-xe-2-0d-engines)",
             "[XF 2.0d (Ingenium)](/jaguar-xf-2-0d-engines)",
             "[F-Type R (5.0 Supercharged V8)](/jaguar-f-type-r-engines)",
@@ -167,7 +167,7 @@
         },
         {
           "title": "Testing & Installation",
-          "body": "Pre-oil, leak test, refit, road test – then handover."
+          "body": "Pre-oil, leak test, refit, road test - then handover."
         }
       ]
     },
@@ -177,7 +177,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Enter your registration to see which engine family your vehicle has – and get an instant rebuild estimate."
+          "html": "Enter your registration to see which engine family your vehicle has - and get an instant rebuild estimate."
         }
       ]
     },
@@ -188,12 +188,12 @@
         {
           "t": "ul",
           "items": [
-            "**Jaguar specialists since 2009** – we know every engine family inside out.",
-            "**In-house machine shop partnership** – full control over quality.",
+            "**Jaguar specialists since 2009** - we know every engine family inside out.",
+            "**In-house machine shop partnership** - full control over quality.",
             "**12-month unlimited-mileage warranty** on every rebuild.",
-            "**OEM-spec parts** – no generic substitutes.",
-            "**Full road test and break-in** – your car is ready to drive.",
-            "**Transparent pricing** – fixed quote after inspection."
+            "**OEM-spec parts** - no generic substitutes.",
+            "**Full road test and break-in** - your car is ready to drive.",
+            "**Transparent pricing** - fixed quote after inspection."
           ]
         },
         {
@@ -208,7 +208,7 @@
       "steps": [
         {
           "title": "Get a Quote",
-          "body": "Contact us with your reg – we'll arrange an inspection and provide a fixed rebuild quote."
+          "body": "Contact us with your reg - we'll arrange an inspection and provide a fixed rebuild quote."
         },
         {
           "title": "Book In",
@@ -216,7 +216,7 @@
         },
         {
           "title": "Rebuild",
-          "body": "Our specialists carry out the rebuild – typically 1-4 weeks depending on the engine."
+          "body": "Our specialists carry out the rebuild - typically 1-4 weeks depending on the engine."
         },
         {
           "title": "Collect & Drive",
@@ -231,11 +231,11 @@
         {
           "t": "ul",
           "items": [
-            "[Jaguar Engine Replacement](/jaguar-engine-replacement) – full replacement service",
-            "[Jaguar V8 Timing Chain Repair](/jaguar-v8-timing-chain-repair) – specialist for AJ133/AJ126",
-            "[Jaguar Ingenium Diesel Repair](/jaguar-ingenium-diesel-repair) – timing chain & injector work",
-            "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair) – comprehensive failure diagnosis and fix",
-            "[Rebuild vs Replacement](/jaguar-rebuild-vs-replacement) – which is right for you?"
+            "[Jaguar Engine Replacement](/jaguar-engine-replacement) - full replacement service",
+            "[Jaguar V8 Timing Chain Repair](/jaguar-v8-timing-chain-repair) - specialist for AJ133/AJ126",
+            "[Jaguar Ingenium Diesel Repair](/jaguar-ingenium-diesel-repair) - timing chain & injector work",
+            "[Jaguar Engine Failure Repair](/jaguar-engine-failure-repair) - comprehensive failure diagnosis and fix",
+            "[Rebuild vs Replacement](/jaguar-rebuild-vs-replacement) - which is right for you?"
           ]
         }
       ]
@@ -254,15 +254,15 @@
         },
         {
           "q": "Do you offer a warranty on rebuilt engines?",
-          "a": "Yes – every rebuild comes with a 12-month unlimited-mileage warranty. Terms are explained in our [warranty policy](/warranty)."
+          "a": "Yes - every rebuild comes with a 12-month unlimited-mileage warranty. Terms are explained in our [warranty policy](/warranty)."
         },
         {
           "q": "Can you rebuild any Jaguar engine?",
-          "a": "We cover all production Jaguar engines – from the AJ-V6, AJ-V8, AJ133, AJ126, Ingenium, to older ZSD and AJ-series. If you're unsure, contact us with your registration."
+          "a": "We cover all production Jaguar engines - from the AJ-V6, AJ-V8, AJ133, AJ126, Ingenium, to older ZSD and AJ-series. If you're unsure, contact us with your registration."
         },
         {
           "q": "Do you supply engines without fitting?",
-          "a": "No – we are a garage that fits every engine we rebuild or supply. We do not offer stand-alone engine sales."
+          "a": "No - we are a garage that fits every engine we rebuild or supply. We do not offer stand-alone engine sales."
         }
       ]
     }

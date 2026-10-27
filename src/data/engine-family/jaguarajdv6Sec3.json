@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJD-V6 Applications — ",
+  "titlePre": "Jaguar AJD-V6 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "2.7D V6",
       "generation": "X200",
       "chassis": "X200",
-      "years": "2004–2007",
+      "years": "2004-2007",
       "powertrain": "2.7L",
       "modelHref": "/jaguar-s-type-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "2.7D, 3.0D",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2008–2015",
+      "years": "2008-2015",
       "powertrain": "2.7L / 3.0L",
       "modelHref": "/jaguar-xf-engines"
     },
@@ -46,7 +46,7 @@
       "variant": "2.7D V6",
       "generation": "X350",
       "chassis": "X350",
-      "years": "2003–2009",
+      "years": "2003-2009",
       "powertrain": "2.7L",
       "modelHref": "/jaguar-xj-engines"
     }

@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all Jaguar XF models?",
-      "a": "Yes — we rebuild and replace engines across both the X250 and current X260 generations."
+      "a": "Yes - we rebuild and replace engines across both the X250 and current X260 generations."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,10 +30,10 @@
     },
     {
       "q": "How much does a Jaguar XF engine rebuild cost?",
-      "a": "4-cylinder rebuilds start from £2,000, V6 from £2,900, and V8 from £4,500. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "4-cylinder rebuilds start from £2,000, V6 from £2,900, and V8 from £4,500. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
-      "q": "My XF is a 2012–2014 5.0 V8 — should I be worried?",
+      "q": "My XF is a 2012-2014 5.0 V8 - should I be worried?",
       "a": "It's worth knowing about. That specific engine and model year range carries a well-documented timing chain tensioner design flaw, serious enough to have been part of a class-action lawsuit. Submit your reg and we'll check your exact spec."
     }
   ],

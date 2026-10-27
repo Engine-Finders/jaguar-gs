@@ -3,39 +3,39 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XK Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XK engine we work on.",
-  "image": "/cars/jaguar-xk-x150-xk-dynamic-r-coupe-special-edition-coupe-2014-ea6b.webp",
+  "image": "/cars/card/jaguar-xk-x150-xk-dynamic-r-coupe-special-edition-coupe-2014-ea6b.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Jaguar XK8",
       "spec": "",
-      "image": "/cars/jaguar-xk-x100-xk8-convertible-convertible-19962002-new-brit-4417.webp"
+      "image": "/cars/card/jaguar-xk-x100-xk8-convertible-convertible-19962002-new-brit-4417.webp"
     },
     {
       "number": "02",
       "model": "Jaguar XKR",
       "spec": "",
-      "image": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp"
+      "image": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp"
     },
     {
       "number": "03",
       "model": "Jaguar XK 4.2 V8",
       "spec": "",
-      "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp"
+      "image": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp"
     },
     {
       "number": "04",
       "model": "Jaguar XK 5.0 V8",
       "spec": "",
-      "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp"
+      "image": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XKR-S",
       "spec": "",
-      "image": "/cars/jaguar-xk-x150-xkr-s-coupe-performance-coupe-20112014-specia-b2a4.webp"
+      "image": "/cars/card/jaguar-xk-x150-xkr-s-coupe-performance-coupe-20112014-specia-b2a4.webp"
     }
   ],
   "variants": [

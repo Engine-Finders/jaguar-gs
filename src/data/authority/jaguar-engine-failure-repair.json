@@ -3,7 +3,7 @@
   "metaTitle": "Jaguar Engine Failure Repair | Jaguar Garage",
   "metaDescription": "Jaguar engine failure repair specialists. We assess, strip down, and rebuild failed Jaguar engines. Get a detailed inspection report and fixed-price quote.",
   "h1": "Jaguar Engine Failure Repair",
-  "lede": "When a Jaguar engine has already failed, our workshop takes over. We don't diagnose the cause — we assess the damage, strip the engine, identify what can be saved, and give you a clear path forward.",
+  "lede": "When a Jaguar engine has already failed, our workshop takes over. We don't diagnose the cause - we assess the damage, strip the engine, identify what can be saved, and give you a clear path forward.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -40,7 +40,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "When a Jaguar engine has already failed, our workshop takes over. We don't diagnose the cause — we assess the damage, strip the engine, identify what can be saved, and give you a clear path forward."
+          "html": "When a Jaguar engine has already failed, our workshop takes over. We don't diagnose the cause - we assess the damage, strip the engine, identify what can be saved, and give you a clear path forward."
         },
         {
           "t": "p",
@@ -76,7 +76,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We handle engine failure repair across the full Jaguar range. Below are the key models and engine families we work on — click through to see detailed engine information for each."
+          "html": "We handle engine failure repair across the full Jaguar range. Below are the key models and engine families we work on - click through to see detailed engine information for each."
         },
         {
           "t": "modelgroup",
@@ -297,7 +297,7 @@
           "items": [
             "Specialist Jaguar engine workshop since 2009",
             "Full strip-down inspection with photographic report",
-            "Fixed-price quote after inspection — no hidden costs",
+            "Fixed-price quote after inspection - no hidden costs",
             "In-house machining: boring, honing, grinding, and skimming",
             "12-month unlimited-mileage warranty on all rebuilds",
             "Nationwide recovery service available",
@@ -308,7 +308,7 @@
     },
     {
       "kind": "steps",
-      "heading": "How it works — from arrival to collection",
+      "heading": "How it works - from arrival to collection",
       "steps": [
         {
           "title": "Contact us",
@@ -359,7 +359,7 @@
         },
         {
           "q": "How long does the assessment take?",
-          "a": "The strip-down and inspection typically takes 1–2 working days. We then prepare your report and quote. The overall timeframe depends on the engine condition and the extent of the work needed."
+          "a": "The strip-down and inspection typically takes 1-2 working days. We then prepare your report and quote. The overall timeframe depends on the engine condition and the extent of the work needed."
         },
         {
           "q": "Do you provide a warranty on the rebuild?",
@@ -371,7 +371,7 @@
         },
         {
           "q": "What if the engine is beyond repair?",
-          "a": "If the engine block or cylinder head is beyond machining or replacement, we will advise you on the best course of action — typically engine replacement. We supply and fit replacement engines."
+          "a": "If the engine block or cylinder head is beyond machining or replacement, we will advise you on the best course of action - typically engine replacement. We supply and fit replacement engines."
         }
       ]
     }

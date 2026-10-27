@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type SVR ENGINE",
     "paragraphs": [
-      "The F-Type SVR uses the AJ133 — a 5.0-litre supercharged V8 that sits at the top of Jaguar's performance range. It was fitted from 2013 through to the end of the X152 generation's production in 2024, and represents the most powerful engine option offered in the F-Type line-up. The AJ133 is a well-documented engine in Jaguar circles, with timing chain tensioner design being the primary area of attention across the engine family."
+      "The F-Type SVR uses the AJ133 - a 5.0-litre supercharged V8 that sits at the top of Jaguar's performance range. It was fitted from 2013 through to the end of the X152 generation's production in 2024, and represents the most powerful engine option offered in the F-Type line-up. The AJ133 is a well-documented engine in Jaguar circles, with timing chain tensioner design being the primary area of attention across the engine family."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ133",
         "codeRest": "",
-        "body": "A 5.0L V8 Petrol Supercharged engine fitted to the F-Type SVR — X152 (2013–2024).",
+        "body": "A 5.0L V8 Petrol Supercharged engine fitted to the F-Type SVR - X152 (2013-2024).",
         "cta": "Check Your AJ133 F-Type SVR",
         "codeHref": "/jaguar-aj133-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Type SVR ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the F-Type SVR uses a specific high-output version of the AJ133, correct engine matching is essential — particularly for supercharger, ECU and ancillary compatibility. Before we quote or supply anything, we confirm:",
+    "intro": "Because the F-Type SVR uses a specific high-output version of the AJ133, correct engine matching is essential - particularly for supercharger, ECU and ancillary compatibility. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -56,13 +56,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type SVR quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Type SVR quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type SVR ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp",
+    "image": "/cars/card/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -73,9 +73,9 @@
     "rows": [
       {
         "generation": "X152",
-        "image": "/cars/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp",
+        "image": "/cars/card/jaguar-f-type-x152-svr-coupe-performance-coupe-20162020-spec-1ca1.webp",
         "chassis": "X152",
-        "years": "2013–2024",
+        "years": "2013-2024",
         "engineCode": "AJ133",
         "fuel": "Petrol Supercharged"
       }

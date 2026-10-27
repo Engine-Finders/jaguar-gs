@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+  "carImage": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
   "cards": [
     {
       "code": "AJ133S",
-      "generation": "X351 (2009–2019)",
+      "generation": "X351 (2009-2019)",
       "price": "£5,500+"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,10 +28,10 @@
     "titlePre": "Jaguar XJ 5.0 V8 Supercharged Timing Chain Tensioner & Water Pump",
     "titleHighlight": "",
     "paragraphs": [
-      "If your XJ is a 2009–2019 model with the AJ133S supercharged V8 — that's the X351 generation — timing chain tensioner and guide wear is a well-documented pattern on this engine, backed by a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time, which can fail with no warning. We replace the timing chain, tensioners and guides as standard on every AJ133S rebuild.",
-      "The water pump on these engines also shows bearing and seal failure, sometimes under 20,000 miles, due to coolant ingress — we replace it as standard too."
+      "If your XJ is a 2009-2019 model with the AJ133S supercharged V8 - that's the X351 generation - timing chain tensioner and guide wear is a well-documented pattern on this engine, backed by a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time, which can fail with no warning. We replace the timing chain, tensioners and guides as standard on every AJ133S rebuild.",
+      "The water pump on these engines also shows bearing and seal failure, sometimes under 20,000 miles, due to coolant ingress - we replace it as standard too."
     ],
-    "source": "Source: verified via multiple independent sources (kmotors.co.uk, rrsport.co.uk lawsuit reference, TopSpeed reliability ranking), per VRF-jaguar-xj.md. Timing chain tensioner design flaw and water pump failure confirmed for AJ133/AJ133S engines, particularly 2012–2014 models, per X351 row."
+    "source": "Source: verified via multiple independent sources (kmotors.co.uk, rrsport.co.uk lawsuit reference, TopSpeed reliability ranking), per VRF-jaguar-xj.md. Timing chain tensioner design flaw and water pump failure confirmed for AJ133/AJ133S engines, particularly 2012-2014 models, per X351 row."
   },
   "tiles": [
     {
@@ -43,7 +43,7 @@
     {
       "badge": "X351",
       "label": "Generation",
-      "big": "2009–2019",
+      "big": "2009-2019",
       "sub": "Jaguar XJ 5.0 V8 Supercharged"
     },
     {

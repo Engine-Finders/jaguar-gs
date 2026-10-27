@@ -3,7 +3,7 @@
   "metaTitle": "Jaguar Rebuild vs Remanufactured Engine | Jaguar Garage",
   "metaDescription": "Understanding the difference between rebuilt and remanufactured Jaguar engines. Process definitions, technical distinctions, and decision factors explained.",
   "h1": "Jaguar Rebuild vs Remanufactured Engine",
-  "lede": "Understanding the difference between a rebuilt engine and a remanufactured engine — what each term means and how the processes compare.",
+  "lede": "Understanding the difference between a rebuilt engine and a remanufactured engine - what each term means and how the processes compare.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -36,7 +36,7 @@
   "sections": [
     {
       "kind": "prose",
-      "heading": "Rebuilt vs Remanufactured — What's the Difference?",
+      "heading": "Rebuilt vs Remanufactured - What's the Difference?",
       "blocks": [
         {
           "t": "p",
@@ -44,7 +44,7 @@
         },
         {
           "t": "p",
-          "html": "This page explains the technical and process-based distinctions between the two — so you can make an informed decision about which approach is right for your Jaguar."
+          "html": "This page explains the technical and process-based distinctions between the two - so you can make an informed decision about which approach is right for your Jaguar."
         }
       ]
     },
@@ -54,7 +54,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "A rebuilt engine is a used engine that has been reconditioned by cleaning, inspecting, and replacing severely worn or broken parts. Think of rebuilding as a **targeted repair** — the goal is to restore functionality, often with the most cost-effective approach."
+          "html": "A rebuilt engine is a used engine that has been reconditioned by cleaning, inspecting, and replacing severely worn or broken parts. Think of rebuilding as a **targeted repair** - the goal is to restore functionality, often with the most cost-effective approach."
         },
         {
           "t": "modelgroup",
@@ -102,7 +102,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "A remanufactured engine is a used engine that has been made **as close to new as possible**. Remanufacturing takes a much more rigorous and standardised approach, aiming to bring the part back to its original equipment (OE) specifications — or even exceed them."
+          "html": "A remanufactured engine is a used engine that has been made **as close to new as possible**. Remanufacturing takes a much more rigorous and standardised approach, aiming to bring the part back to its original equipment (OE) specifications - or even exceed them."
         },
         {
           "t": "modelgroup",
@@ -148,7 +148,7 @@
         },
         {
           "t": "p",
-          "html": "In the UK, an engine can only be described as \"remanufactured\" if it complies with **BS AU 257:2002** — a British Standard code of practice for the remanufacturing of internal combustion engines. This standard defines the difference between a reconditioned, refurbished or rebuilt engine and a quality remanufactured engine."
+          "html": "In the UK, an engine can only be described as \"remanufactured\" if it complies with **BS AU 257:2002** - a British Standard code of practice for the remanufacturing of internal combustion engines. This standard defines the difference between a reconditioned, refurbished or rebuilt engine and a quality remanufactured engine."
         }
       ]
     },
@@ -166,13 +166,13 @@
           "rows": [
             [
               "**Approach**",
-              "Targeted repair — restore functionality",
-              "Comprehensive restoration — restore to OE specification"
+              "Targeted repair - restore functionality",
+              "Comprehensive restoration - restore to OE specification"
             ],
             [
               "**Disassembly**",
-              "Partial — only to the point of failure",
-              "Complete — down to every component"
+              "Partial - only to the point of failure",
+              "Complete - down to every component"
             ],
             [
               "**Parts Replacement**",
@@ -181,13 +181,13 @@
             ],
             [
               "**Machining**",
-              "Minimal — only to address specific issues",
-              "Precision — to meet original factory tolerances"
+              "Minimal - only to address specific issues",
+              "Precision - to meet original factory tolerances"
             ],
             [
               "**Testing**",
               "Often limited operational check",
-              "Comprehensive — often using OEM test equipment"
+              "Comprehensive - often using OEM test equipment"
             ],
             [
               "**Standard**",
@@ -197,7 +197,7 @@
             [
               "**New Components**",
               "Fewer",
-              "More — all wear items replaced with OE-quality parts"
+              "More - all wear items replaced with OE-quality parts"
             ]
           ]
         }
@@ -205,7 +205,7 @@
     },
     {
       "kind": "prose",
-      "heading": "Decision Factors — Rebuild or Remanufacture?",
+      "heading": "Decision Factors - Rebuild or Remanufacture?",
       "blocks": [
         {
           "t": "p",
@@ -217,7 +217,7 @@
         },
         {
           "t": "p",
-          "html": "For a vehicle in good overall condition that you plan to keep for several more years, a remanufactured engine may be the more appropriate choice — it offers like-new performance and longevity. For an older vehicle with lower market value, a rebuild may be the more proportionate investment."
+          "html": "For a vehicle in good overall condition that you plan to keep for several more years, a remanufactured engine may be the more appropriate choice - it offers like-new performance and longevity. For an older vehicle with lower market value, a rebuild may be the more proportionate investment."
         },
         {
           "t": "h3",
@@ -225,7 +225,7 @@
         },
         {
           "t": "p",
-          "html": "If you require maximum longevity and reliability — for a daily driver or a vehicle you plan to keep long-term — a remanufactured engine, restored to factory specifications, is the stronger option. If the vehicle is a second car, a project, or used less intensively, a rebuild may meet your needs adequately."
+          "html": "If you require maximum longevity and reliability - for a daily driver or a vehicle you plan to keep long-term - a remanufactured engine, restored to factory specifications, is the stronger option. If the vehicle is a second car, a project, or used less intensively, a rebuild may meet your needs adequately."
         },
         {
           "t": "h3",
@@ -241,7 +241,7 @@
         },
         {
           "t": "p",
-          "html": "Remanufacturing guarantees that all wear items — bearings, piston rings, seals, gaskets, timing components — are replaced with new, OE-quality parts. A rebuild may reuse serviceable components or, in some cases, use salvaged parts."
+          "html": "Remanufacturing guarantees that all wear items - bearings, piston rings, seals, gaskets, timing components - are replaced with new, OE-quality parts. A rebuild may reuse serviceable components or, in some cases, use salvaged parts."
         },
         {
           "t": "h3",
@@ -249,7 +249,7 @@
         },
         {
           "t": "p",
-          "html": "Rebuilding an engine locally can work well, but results depend heavily on the condition of the original engine and the quality of workmanship. Remanufacturing follows a standardised, audited process with rigorous quality control — offering greater consistency and predictability."
+          "html": "Rebuilding an engine locally can work well, but results depend heavily on the condition of the original engine and the quality of workmanship. Remanufacturing follows a standardised, audited process with rigorous quality control - offering greater consistency and predictability."
         },
         {
           "t": "p",
@@ -291,7 +291,7 @@
         },
         {
           "q": "What parts are replaced in a remanufactured engine?",
-          "a": "In a remanufactured engine, all common wear items are automatically replaced regardless of their apparent condition. This includes bearings, piston rings, seals, gaskets, timing chains, drive belts, tensioners, and dampers. Components are inspected against strict OE tolerances — parts that don't meet these standards are discarded and replaced."
+          "a": "In a remanufactured engine, all common wear items are automatically replaced regardless of their apparent condition. This includes bearings, piston rings, seals, gaskets, timing chains, drive belts, tensioners, and dampers. Components are inspected against strict OE tolerances - parts that don't meet these standards are discarded and replaced."
         },
         {
           "q": "Does Jaguar Garage offer both rebuild and remanufacture?",

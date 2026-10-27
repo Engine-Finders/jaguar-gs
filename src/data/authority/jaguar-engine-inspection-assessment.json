@@ -40,16 +40,16 @@
       "blocks": [
         {
           "t": "p",
-          "html": "We assess your engine to determine the scope of work required – whether it's a full rebuild, targeted repair, or replacement. The process covers:"
+          "html": "We assess your engine to determine the scope of work required - whether it's a full rebuild, targeted repair, or replacement. The process covers:"
         },
         {
           "t": "ul",
           "items": [
-            "**Visual inspection** – external condition, fluid checks, belt/chain condition, and evidence of leaks or wear.",
-            "**Diagnostic scan** – we connect to the vehicle's ECU to read live data and performance parameters.",
-            "**Component-level checks** – using borescope cameras, compression testing, and leak-down testing where appropriate.",
-            "**Partial strip-down (if required)** – removing the cylinder head, timing cover, or sump to inspect bearings, timing components, and cylinder bores.",
-            "**Detailed quotation** – a written report with a fixed-price breakdown, scope of recommended work, and clear options."
+            "**Visual inspection** - external condition, fluid checks, belt/chain condition, and evidence of leaks or wear.",
+            "**Diagnostic scan** - we connect to the vehicle's ECU to read live data and performance parameters.",
+            "**Component-level checks** - using borescope cameras, compression testing, and leak-down testing where appropriate.",
+            "**Partial strip-down (if required)** - removing the cylinder head, timing cover, or sump to inspect bearings, timing components, and cylinder bores.",
+            "**Detailed quotation** - a written report with a fixed-price breakdown, scope of recommended work, and clear options."
           ]
         },
         {
@@ -155,7 +155,7 @@
         },
         {
           "t": "p",
-          "html": "Inspection is available for all engine configurations – [ask us](/contact) if your model isn't listed."
+          "html": "Inspection is available for all engine configurations - [ask us](/contact) if your model isn't listed."
         }
       ]
     },
@@ -192,10 +192,10 @@
         {
           "t": "ul",
           "items": [
-            "**Jaguar-specialist knowledge** – we know the common wear points on every generation of AJ, Ingenium, and Ford-sourced engines.",
-            "**Proper equipment** – we use factory-level diagnostic scanners, borescopes, and precision measuring tools.",
-            "**Clear, transparent reporting** – you get a written breakdown of what we found and what we recommend, with no obligation to proceed.",
-            "**Fixed-price quotes** – once the assessment is complete, we quote a firm price for the recommended work."
+            "**Jaguar-specialist knowledge** - we know the common wear points on every generation of AJ, Ingenium, and Ford-sourced engines.",
+            "**Proper equipment** - we use factory-level diagnostic scanners, borescopes, and precision measuring tools.",
+            "**Clear, transparent reporting** - you get a written breakdown of what we found and what we recommend, with no obligation to proceed.",
+            "**Fixed-price quotes** - once the assessment is complete, we quote a firm price for the recommended work."
           ]
         },
         {
@@ -214,7 +214,7 @@
         },
         {
           "title": "We carry out the assessment",
-          "body": "Our team performs the visual, diagnostic, and component-level checks – including strip-down if needed."
+          "body": "Our team performs the visual, diagnostic, and component-level checks - including strip-down if needed."
         },
         {
           "title": "Review the report & quote",
@@ -222,7 +222,7 @@
         },
         {
           "title": "Decide on the next steps",
-          "body": "You choose whether to proceed with the rebuild, repair, or alternative option – with no obligation to commit."
+          "body": "You choose whether to proceed with the rebuild, repair, or alternative option - with no obligation to commit."
         }
       ]
     },
@@ -252,7 +252,7 @@
       "items": [
         {
           "q": "How long does a Jaguar engine inspection take?",
-          "a": "Standard visual and diagnostic checks take 2–3 hours. If a partial strip-down is required, we usually keep the vehicle for 1–2 days to complete the full assessment."
+          "a": "Standard visual and diagnostic checks take 2-3 hours. If a partial strip-down is required, we usually keep the vehicle for 1-2 days to complete the full assessment."
         },
         {
           "q": "Do I have to proceed with the rebuild after the inspection?",

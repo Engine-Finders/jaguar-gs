@@ -10,8 +10,8 @@
         "Complete gasket and seal set",
         "Timing chain components where required",
         "Oil filter housing gasket",
-        "[Photograph of bearing components] — We replace main and connecting rod bearings as standard during a rebuild.",
-        "[Photograph of gasket set] — We replace all gaskets and seals as standard during a rebuild."
+        "[Photograph of bearing components] - We replace main and connecting rod bearings as standard during a rebuild.",
+        "[Photograph of gasket set] - We replace all gaskets and seals as standard during a rebuild."
       ],
       "image": "/engine/sec4.webp"
     },
@@ -34,8 +34,8 @@
         "Turbocharger",
         "High-pressure fuel pump",
         "Injectors",
-        "[Photograph of timing chain components] — We inspect timing chain components thoroughly during every rebuild.",
-        "[Photograph of EGR valve] — EGR valve and cooler are inspected as standard."
+        "[Photograph of timing chain components] - We inspect timing chain components thoroughly during every rebuild.",
+        "[Photograph of EGR valve] - EGR valve and cooler are inspected as standard."
       ],
       "image": "/engine/sec4.webp"
     },
@@ -48,6 +48,6 @@
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from Master Engine Data File. If your Ford Duratorq's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from Master Engine Data File. If your Ford Duratorq's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

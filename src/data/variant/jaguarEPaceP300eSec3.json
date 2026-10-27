@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-jaguar-xe-p300-engine.webp",
-  "carImage": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+  "carImage": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
   "cards": [
     {
       "code": "Ingenium AJ150 + Electric",
-      "generation": "X540 (2017–present)",
+      "generation": "X540 (2017-present)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X540",
       "label": "Generation",
-      "big": "2017–present",
+      "big": "2017-present",
       "sub": "Jaguar E-Pace P300e"
     },
     {

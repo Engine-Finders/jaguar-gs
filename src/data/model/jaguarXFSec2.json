@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Jaguar XF Ingenium Diesel & AJ-V8|Timing Chain Issues?|",
-  "description": "The current X260's Ingenium diesel shares the same timing chain and injector seal pattern found across the wider JLR range. If your XF is an earlier X250 with the 5.0L AJ-V8, particularly a 2012–2014 model, that engine carries a separately documented timing chain tensioner design flaw serious enough to have been named in a US class-action lawsuit.",
+  "description": "The current X260's Ingenium diesel shares the same timing chain and injector seal pattern found across the wider JLR range. If your XF is an earlier X250 with the 5.0L AJ-V8, particularly a 2012-2014 model, that engine carries a separately documented timing chain tensioner design flaw serious enough to have been named in a US class-action lawsuit.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: Ingenium AJ200D widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+    "body": "Yes - both verified: Ingenium AJ200D widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

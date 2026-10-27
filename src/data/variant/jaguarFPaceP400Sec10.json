@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace P400 ENGINE",
     "paragraphs": [
-      "The F-Pace P400 sits at the performance end of the Jaguar SUV range, offering a powerful and responsive driving experience. It uses the AJ300P — a 3.0-litre inline-six petrol engine with mild-hybrid technology, delivering 400PS. Fitted across the X761 generation from launch in 2016 to the present day, the AJ300P is part of Jaguar's modern Ingenium engine family and shares its fundamental architecture with the diesel variants in the range."
+      "The F-Pace P400 sits at the performance end of the Jaguar SUV range, offering a powerful and responsive driving experience. It uses the AJ300P - a 3.0-litre inline-six petrol engine with mild-hybrid technology, delivering 400PS. Fitted across the X761 generation from launch in 2016 to the present day, the AJ300P is part of Jaguar's modern Ingenium engine family and shares its fundamental architecture with the diesel variants in the range."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ300P",
         "codeRest": "",
-        "body": "A 3.0L I6 Petrol MHEV engine fitted to the F-Pace P400 — X761 (2016–present).",
+        "body": "A 3.0L I6 Petrol MHEV engine fitted to the F-Pace P400 - X761 (2016-present).",
         "cta": "Check Your AJ300P F-Pace P400",
         "codeHref": "/jaguar-aj300p-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don’t fit your actual vehicle.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote - it protects you from paying for parts that don’t fit your actual vehicle.",
     "lead": "Before we quote or supply anything, we confirm:"
   },
   "applications": {
     "titlePre": "Jaguar F-Pace P400 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
         "chassis": "X761",
-        "years": "2016–present",
+        "years": "2016-present",
         "engineCode": "AJ300P",
         "fuel": "Petrol MHEV"
       }

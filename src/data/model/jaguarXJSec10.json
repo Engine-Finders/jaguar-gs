@@ -3,57 +3,57 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XJ Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XJ engine we work on.",
-  "image": "/cars/jaguar-xj-x351-xj50-special-edition-saloon-20182019-special-6ccf.webp",
+  "image": "/cars/card/jaguar-xj-x351-xj50-special-edition-saloon-20182019-special-6ccf.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Jaguar XJ6",
       "spec": "",
-      "image": "/cars/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp"
+      "image": "/cars/card/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp"
     },
     {
       "number": "02",
       "model": "Jaguar XJ8",
       "spec": "",
-      "image": "/cars/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp"
+      "image": "/cars/card/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp"
     },
     {
       "number": "03",
       "model": "Jaguar XJR",
       "spec": "",
-      "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
+      "image": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
     },
     {
       "number": "04",
       "model": "Jaguar Super V8",
       "spec": "",
-      "image": "/cars/jaguar-xj-x350-xj-super-v8-portfolio-saloon-20052009-new-cel-8147.webp"
+      "image": "/cars/card/jaguar-xj-x350-xj-super-v8-portfolio-saloon-20052009-new-cel-8147.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XJ 3.0d",
       "spec": "",
-      "image": "/cars/jaguar-xj-x351-xj-premium-luxury-saloon-20102015-new-polaris-c2b5.webp"
+      "image": "/cars/card/jaguar-xj-x351-xj-premium-luxury-saloon-20102015-new-polaris-c2b5.webp"
     },
     {
       "number": "06",
       "model": "Jaguar XJ 3.0 V6",
       "spec": "",
-      "image": "/cars/jaguar-xj-x358-xj-2-7d-sovereign-saloon-20072009-new-botanic-5294.webp"
+      "image": "/cars/card/jaguar-xj-x358-xj-2-7d-sovereign-saloon-20072009-new-botanic-5294.webp"
     },
     {
       "number": "07",
       "model": "Jaguar XJ 5.0 V8",
       "spec": "",
-      "image": "/cars/jaguar-xj-x351-xjr575-performance-saloon-20172019-special-ve-50b0.webp"
+      "image": "/cars/card/jaguar-xj-x351-xjr575-performance-saloon-20172019-special-ve-50b0.webp"
     },
     {
       "number": "08",
       "model": "Jaguar XJ 5.0 Supercharged V8",
       "spec": "",
-      "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
+      "image": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp"
     }
   ],
   "variants": [

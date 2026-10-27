@@ -6,7 +6,7 @@
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ30",
     "titlePost": " ENGINE",
-    "body": "The AJ30 is Jaguar's 3.0-litre V6 petrol engine, produced from 1999 to 2012. It was derived from Ford's Duratec V6 family and used across two Jaguar model lines — the X-Type and the XF. The engine is generally well-regarded for its reliability, though certain components require attention as mileage accumulates."
+    "body": "The AJ30 is Jaguar's 3.0-litre V6 petrol engine, produced from 1999 to 2012. It was derived from Ford's Duratec V6 family and used across two Jaguar model lines - the X-Type and the XF. The engine is generally well-regarded for its reliability, though certain components require attention as mileage accumulates."
   },
   "byModel": {
     "image": "/engine/sec8_middle.webp",
@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the X-Type, the AJ30 powered the 3.0 V6 variant throughout the model's production run (2001–2009). The engine was the range-topping petrol option in the X-Type, providing the V6 performance that distinguished the range-topper from the four-cylinder variants. The XF continued with the AJ30 in its early years (2008–2012), using the same 3.0-litre V6 as the base petrol engine before the range transitioned to the newer AJ126 and Ingenium families.",
+    "body": "Across the X-Type, the AJ30 powered the 3.0 V6 variant throughout the model's production run (2001-2009). The engine was the range-topping petrol option in the X-Type, providing the V6 performance that distinguished the range-topper from the four-cylinder variants. The XF continued with the AJ30 in its early years (2008-2012), using the same 3.0-litre V6 as the base petrol engine before the range transitioned to the newer AJ126 and Ingenium families.",
     "lineup": [
       {
         "label": "X-Type",
@@ -34,7 +34,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ30 spans two different model lines with different chassis configurations, compatibility comes down to confirming your exact vehicle, which we do by registration. A V6 from an X-Type isn't a direct match for a V6 from an XF — ancillaries, mounting, and ECU calibration all differ. Before we quote or supply anything, we confirm your exact vehicle.",
+    "body": "Because the AJ30 spans two different model lines with different chassis configurations, compatibility comes down to confirming your exact vehicle, which we do by registration. A V6 from an X-Type isn't a direct match for a V6 from an XF - ancillaries, mounting, and ECU calibration all differ. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
@@ -65,20 +65,20 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ30 in the X-Type (X400, 2001–2009)",
+        "heading": "AJ30 in the X-Type (X400, 2001-2009)",
         "engine": "AJ30",
         "model": "X-Type",
-        "detail": "X400, 2001–2009",
-        "body": "The AJ30 in the X-Type is one of the applications we work on regularly, across the 3.0 V6 variant (2001–2009).",
+        "detail": "X400, 2001-2009",
+        "body": "The AJ30 in the X-Type is one of the applications we work on regularly, across the 3.0 V6 variant (2001-2009).",
         "price": "£3,200",
         "cta": "Check your X-Type AJ30"
       },
       {
-        "heading": "AJ30 in the XF (X250, 2008–2012)",
+        "heading": "AJ30 in the XF (X250, 2008-2012)",
         "engine": "AJ30",
         "model": "XF",
-        "detail": "X250, 2008–2012",
-        "body": "The AJ30 in the XF is one of the applications we work on, in the 3.0 V6 variant (2008–2012). AJ30 Symptoms That Justify Inspection The following symptoms don't automatically mean the AJ30 requires a rebuild. Proper diagnosis comes first. Sudden loss of oil pressure (sump/line failure) Engine failure with no warning Rough idle (intake manifold issues) Loss of power Check engine light",
+        "detail": "X250, 2008-2012",
+        "body": "The AJ30 in the XF is one of the applications we work on, in the 3.0 V6 variant (2008-2012). AJ30 Symptoms That Justify Inspection The following symptoms don't automatically mean the AJ30 requires a rebuild. Proper diagnosis comes first. Sudden loss of oil pressure (sump/line failure) Engine failure with no warning Rough idle (intake manifold issues) Loss of power Check engine light",
         "price": "£3,200",
         "cta": "Check your XF AJ30"
       }
@@ -87,7 +87,7 @@
     "card": {
       "model": "Jaguar X-Type X400",
       "engine": "AJ30 3.0L",
-      "year": "2001 – 2009",
+      "year": "2001 - 2009",
       "price": "£3,200"
     }
   }

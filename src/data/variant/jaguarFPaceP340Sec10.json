@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace P340 ENGINE",
     "paragraphs": [
-      "The F-Pace P340 uses the AJ300P — a 3.0-litre inline-six petrol engine from Jaguar Land Rover's Ingenium family. It was offered as a mid-range petrol option within the F-Pace lineup, producing 340PS. The P340 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The F-Pace P340 uses the AJ300P - a 3.0-litre inline-six petrol engine from Jaguar Land Rover's Ingenium family. It was offered as a mid-range petrol option within the F-Pace lineup, producing 340PS. The P340 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ300P (3.0L I6)",
         "codeRest": "",
-        "body": "A 3.0L Petrol engine fitted to the F-Pace P340 — X761 (2016–present).",
+        "body": "A 3.0L Petrol engine fitted to the F-Pace P340 - X761 (2016-present).",
         "cta": "Check Your AJ300P (3.0L I6) F-Pace P340",
         "codeHref": "/jaguar-aj300p-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Pace P340 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The F-Pace P340 uses a single engine family across all generations — the AJ300P 3.0L I6 petrol. Before we quote or supply anything, we confirm:",
+    "intro": "The F-Pace P340 uses a single engine family across all generations - the AJ300P 3.0L I6 petrol. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -48,13 +48,13 @@
         "text": "Drivetrain and ancillary specification"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic P340 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic P340 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace P340 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -65,7 +65,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -73,9 +73,9 @@
       },
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
         "chassis": "X761",
-        "years": "2016–present",
+        "years": "2016-present",
         "engineCode": "AJ300P",
         "fuel": "Petrol"
       }

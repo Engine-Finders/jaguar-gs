@@ -2,6 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 const BOLD_PHRASE = "12-month unlimited-mileage warranty";
 
@@ -31,8 +32,8 @@ const GLASS_BORDER = { border: "1px solid rgba(214,218,224,0.35)" };
 
 export default function VariantHeroSec1({ data }) {
   const [line1, line2, line3] = data.h1.split("|");
-  const line2Mobile = line2.replace(/\s*—\s*$/, "");
-  const line3Mobile = `— ${line3}`;
+  const line2Mobile = line2.replace(/\s*-\s*$/, "");
+  const line3Mobile = `- ${line3}`;
   const trustLabel = (t) => t.label.replace(/^✔\s*/, "");
 
   return (
@@ -73,16 +74,16 @@ export default function VariantHeroSec1({ data }) {
 
           {/* pricing + direct contact, side by side */}
           <div className="mt-3 grid grid-cols-2 gap-2">
-            <a
+            <QuoteLink
               href={data.priceCta.href}
               className="glass-luminous card-glare relative flex min-w-0 flex-col justify-center gap-0.5 rounded-xl px-3 py-3 transition-transform hover:scale-[1.02]"
               style={GLASS_BORDER}
             >
               <p className="text-[10px] leading-tight font-medium text-white">{data.priceCta.kicker}</p>
               <p className="text-[11px] leading-tight font-extrabold text-white">{data.priceCta.label}</p>
-            </a>
+            </QuoteLink>
 
-            <a
+            <QuoteLink
               href={data.phoneCta.href}
               className="glass-luminous card-glare relative flex min-w-0 items-center gap-2.5 overflow-hidden rounded-xl px-3 py-3 transition-transform hover:scale-[1.02]"
               style={GLASS_BORDER}
@@ -94,7 +95,7 @@ export default function VariantHeroSec1({ data }) {
                 <p className="text-[10px] leading-tight font-medium text-white">{data.phoneCta.label}</p>
                 <p className="text-[13px] leading-tight font-extrabold text-white">{data.phoneCta.phone}</p>
               </div>
-            </a>
+            </QuoteLink>
           </div>
 
           {/* five-column feature breakdown */}
@@ -148,16 +149,16 @@ export default function VariantHeroSec1({ data }) {
             </div>
 
             <div className="mt-4 flex flex-wrap items-stretch gap-4">
-              <a
+              <QuoteLink
                 href={data.priceCta.href}
                 className="glass-luminous card-glare relative flex w-60 shrink-0 flex-col justify-center whitespace-nowrap rounded-lg px-5 py-4 transition-transform hover:scale-[1.02]"
                 style={GLASS_BORDER}
               >
                 <p className="label-text font-medium text-white">{data.priceCta.kicker}</p>
                 <p className="text-sm font-extrabold text-white">{data.priceCta.label}</p>
-              </a>
+              </QuoteLink>
 
-              <a
+              <QuoteLink
                 href={data.phoneCta.href}
                 className="glass-luminous card-glare relative flex w-60 shrink-0 items-center gap-3 rounded-lg px-5 py-4 transition-transform hover:scale-[1.02]"
                 style={GLASS_BORDER}
@@ -169,7 +170,7 @@ export default function VariantHeroSec1({ data }) {
                   <p className="label-text whitespace-nowrap font-medium text-white">{data.phoneCta.label}</p>
                   <p className="whitespace-nowrap text-base font-extrabold text-white">{data.phoneCta.phone}</p>
                 </div>
-              </a>
+              </QuoteLink>
             </div>
           </div>
 

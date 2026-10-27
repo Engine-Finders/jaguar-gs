@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "Jaguar F-Pace D300 ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "Jaguar F-Pace D300 has used the AJ300D (Ingenium) throughout (X761 (2016–present)). If you're unsure of your exact spec, we'll confirm it before you book.",
+  "description": "Jaguar F-Pace D300 has used the AJ300D (Ingenium) throughout (X761 (2016-present)). If you're unsure of your exact spec, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -106,7 +106,7 @@
   ],
   "notice": {
     "highlight": "The AJ300D (Ingenium)",
-    "rest": " has been fitted to every F-Pace D300 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+    "rest": " has been fitted to every F-Pace D300 since launch - if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
   },
   "coverNote": {
     "title": "We Cover Every Jaguar F-Pace D300 Model Year:",
@@ -117,6 +117,6 @@
       "Jaguar F-Pace D300 2022 Engine Rebuild",
       "Jaguar F-Pace D300 2024 Engine Rebuild"
     ],
-    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
+    "footer": "If your registration year isn't listed above, get in touch - we'll confirm availability directly against your reg."
   }
 }

@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200",
         "codeRest": "",
-        "body": "A 2.0L I4 Petrol engine fitted to the XE P250 — X760 (2015–present).",
+        "body": "A 2.0L I4 Petrol engine fitted to the XE P250 - X760 (2015-present).",
         "cta": "Check Your AJ200 XE P250",
         "codeHref": "/jaguar-aj200-engine"
       }
@@ -41,7 +41,7 @@
   "applications": {
     "titlePre": "Jaguar XE P250 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+    "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -52,7 +52,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -60,9 +60,9 @@
       },
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "X760",
-        "years": "2015–present",
+        "years": "2015-present",
         "engineCode": "AJ200",
         "fuel": "Petrol"
       }

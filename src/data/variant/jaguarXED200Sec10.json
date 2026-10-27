@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE D200 ENGINE",
     "paragraphs": [
-      "The XE D200 is powered by the Ingenium AJ200D — a 2.0-litre four-cylinder diesel engine. It was fitted to the X760-generation XE from approximately 2015 until diesel was phased out of the UK and North American ranges around 2020, as Jaguar moved the XE to a predominantly petrol-only lineup in some markets. The D200 sits in the mid-to-upper tier of the XE diesel range, offering more output than the D150 and D165, but sharing the same Ingenium AJ200D engine architecture across the family."
+      "The XE D200 is powered by the Ingenium AJ200D - a 2.0-litre four-cylinder diesel engine. It was fitted to the X760-generation XE from approximately 2015 until diesel was phased out of the UK and North American ranges around 2020, as Jaguar moved the XE to a predominantly petrol-only lineup in some markets. The D200 sits in the mid-to-upper tier of the XE diesel range, offering more output than the D150 and D165, but sharing the same Ingenium AJ200D engine architecture across the family."
     ],
     "boldParagraph": "The XE D200 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the XE D200 from 2015 to approximately 2020 (X760 generation). Known for timing chain and injector seal wear over time — we inspect and replace the timing chain, injector seals, EGR components and gaskets as standard on every AJ200D rebuild.",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the XE D200 from 2015 to approximately 2020 (X760 generation). Known for timing chain and injector seal wear over time - we inspect and replace the timing chain, injector seals, EGR components and gaskets as standard on every AJ200D rebuild.",
         "cta": "Check Your AJ200D XE D200",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XE quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XE quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "JAGUAR XE D200 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+    "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "generation",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "generation",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "[MISSING: engine code not confirmed]",
         "fuel": "Petrol"
       }

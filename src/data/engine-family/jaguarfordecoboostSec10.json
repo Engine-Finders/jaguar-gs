@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The Ford EcoBoost appears in a single Jaguar application — the XF (X250, 2012–2015) — making it one of the more targeted engine families we work on."
+      "body": "The Ford EcoBoost appears in a single Jaguar application - the XF (X250, 2012-2015) - making it one of the more targeted engine families we work on."
     },
     {
       "icon": "wrench",
@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "Turbocharger issues are common on higher-mileage examples. Carbon buildup on intake valves is a characteristic of direct-injection engines. Coolant system issues — water pump and cooling system components can fail."
+      "body": "Turbocharger issues are common on higher-mileage examples. Carbon buildup on intake valves is a characteristic of direct-injection engines. Coolant system issues - water pump and cooling system components can fail."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed Ford EcoBoost rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed Ford EcoBoost rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR FORD ECOBOOST REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The Ford EcoBoost uses a direct injection system, which means carbon buildup on intake valves is a known characteristic of this engine family — something we account for during a full strip-down. The timing chain is also inspected and replaced where required, as part of the standard rebuild scope.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The Ford EcoBoost uses a direct injection system, which means carbon buildup on intake valves is a known characteristic of this engine family - something we account for during a full strip-down. The timing chain is also inspected and replaced where required, as part of the standard rebuild scope.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain, bearings, gaskets, turbocharger inspection, direct injection system inspection"

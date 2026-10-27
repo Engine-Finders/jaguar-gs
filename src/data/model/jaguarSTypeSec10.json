@@ -3,39 +3,39 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar S-Type Rebuilds",
   "subhead": "Full variant list below covers every Jaguar S-Type engine we work on.",
-  "image": "/cars/jaguar-s-type-x200-60th-anniversary-edition-saloon-2008-spec-6563.webp",
+  "image": "/cars/card/jaguar-s-type-x200-60th-anniversary-edition-saloon-2008-spec-6563.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Jaguar S-Type 2.5 V6",
       "spec": "",
-      "image": "/cars/jaguar-s-type-x200-4-0-v8-se-saloon-19992002-new-british-rac-bb37.webp"
+      "image": "/cars/card/jaguar-s-type-x200-4-0-v8-se-saloon-19992002-new-british-rac-bb37.webp"
     },
     {
       "number": "02",
       "model": "Jaguar S-Type 3.0 V6",
       "spec": "",
-      "image": "/cars/jaguar-s-type-x200-sport-saloon-20002002-new-zircon-x200-spo-7e5a.webp"
+      "image": "/cars/card/jaguar-s-type-x200-sport-saloon-20002002-new-zircon-x200-spo-7e5a.webp"
     },
     {
       "number": "03",
       "model": "Jaguar S-Type 2.7d",
       "spec": "",
-      "image": "/cars/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp"
+      "image": "/cars/card/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp"
     },
     {
       "number": "04",
       "model": "Jaguar S-Type 4.2 V8",
       "spec": "",
-      "image": "/cars/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp"
+      "image": "/cars/card/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp"
     },
     {
       "number": "05",
       "model": "Jaguar S-Type R",
       "spec": "",
-      "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp"
+      "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp"
     }
   ],
   "variants": [

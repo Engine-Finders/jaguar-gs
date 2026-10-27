@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp",
+  "carImage": "/cars/card/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X152 (2013–2024)",
+      "generation": "X152 (2013-2024)",
       "price": "£6,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar F-Type P450 Timing Chain Tensioner Wear ",
     "titleHighlight": "(AJ133 V8)",
     "paragraphs": [
-      "If your F-Type P450 has the AJ133 5.0-litre supercharged V8 — the engine fitted across the X152 generation — timing chain tensioner and guide wear is a documented pattern on this engine family, with the 2012–2014 model years explicitly named in the same US class-action lawsuit scope as the XJ, XK and XF. We replace timing chains, tensioners and guides as standard on every AJ133 rebuild."
+      "If your F-Type P450 has the AJ133 5.0-litre supercharged V8 - the engine fitted across the X152 generation - timing chain tensioner and guide wear is a documented pattern on this engine family, with the 2012-2014 model years explicitly named in the same US class-action lawsuit scope as the XJ, XK and XF. We replace timing chains, tensioners and guides as standard on every AJ133 rebuild."
     ],
     "source": "Source: verified via rrsport.co.uk lawsuit reference per G-BRF and VRF. Applies to the AJ133 engine family; the F-Type P450 is part of this scope."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X152",
       "label": "Generation",
-      "big": "2013–2024",
+      "big": "2013-2024",
       "sub": "Jaguar F-Type P450"
     },
     {

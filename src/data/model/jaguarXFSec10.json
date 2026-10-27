@@ -3,9 +3,9 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XF Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XF engine we work on.",
-  "image": "/cars/jaguar-xf-x260-r-dynamic-hse-saloon-20192024-new-santorini-b-6d44.webp",
+  "image": "/cars/card/jaguar-xf-x260-r-dynamic-hse-saloon-20192024-new-santorini-b-6d44.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
@@ -16,43 +16,43 @@
       "number": "02",
       "model": "Jaguar XF 2.0d",
       "spec": "",
-      "image": "/cars/jaguar-xf-x260-portfolio-saloon-20162019-new-yulong-white-x2-92b8.webp"
+      "image": "/cars/card/jaguar-xf-x260-portfolio-saloon-20162019-new-yulong-white-x2-92b8.webp"
     },
     {
       "number": "03",
       "model": "Jaguar XF 2.0i",
       "spec": "",
-      "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp"
+      "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp"
     },
     {
       "number": "04",
       "model": "Jaguar XF 3.0d",
       "spec": "",
-      "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
+      "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XF 3.0 V6 S/SC",
       "spec": "",
-      "image": "/cars/jaguar-xf-x250-lci-r-sport-saloon-20142015-new-dark-sapphire-d8dd.webp"
+      "image": "/cars/card/jaguar-xf-x250-lci-r-sport-saloon-20142015-new-dark-sapphire-d8dd.webp"
     },
     {
       "number": "06",
       "model": "Jaguar XF 5.0 V8",
       "spec": "",
-      "image": "/cars/jaguar-xf-x250-lci-xfr-performance-saloon-20112015-special-u-9580.webp"
+      "image": "/cars/card/jaguar-xf-x250-lci-xfr-performance-saloon-20112015-special-u-9580.webp"
     },
     {
       "number": "07",
       "model": "Jaguar XF 300 Sport",
       "spec": "",
-      "image": "/cars/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp"
+      "image": "/cars/card/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp"
     },
     {
       "number": "08",
       "model": "Jaguar XFR",
       "spec": "",
-      "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
+      "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp"
     }
   ],
   "variants": [

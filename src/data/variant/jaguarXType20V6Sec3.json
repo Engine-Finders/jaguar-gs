@@ -4,28 +4,28 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-2-0-2-1-v6-naming-and-yb-engine.webp",
-  "carImage": "/cars/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
+  "carImage": "/cars/card/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
   "cards": [
     {
       "code": "AJ20",
-      "generation": "X400 (2001–2009)",
+      "generation": "X400 (2001-2009)",
       "price": "£2,600"
     },
     {
       "code": "AJ25",
-      "generation": "X400 (2001–2009)",
+      "generation": "X400 (2001-2009)",
       "price": "£2,600"
     },
     {
       "code": "AJ30",
-      "generation": "X400 (2001–2009)",
+      "generation": "X400 (2001-2009)",
       "price": "£2,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "All engine codes sit on the same rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "All engine codes sit on the same rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -38,7 +38,7 @@
     "titlePre": "Jaguar X-Type 2.0 V6 Ignition Coil Degradation",
     "titleHighlight": "",
     "paragraphs": [
-      "X-Type V6 engines — AJ20, AJ25 and AJ30, across every X400 generation — commonly show ignition coil degradation over time. This is often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils and valve cover gaskets as standard on every rebuild."
+      "X-Type V6 engines - AJ20, AJ25 and AJ30, across every X400 generation - commonly show ignition coil degradation over time. This is often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils and valve cover gaskets as standard on every rebuild."
     ],
     "source": "Source: verified via multiple independent sources (CarChecker.pro, TrueDelta, per G-BRF, confirmed in earlier session)."
   },
@@ -52,7 +52,7 @@
     {
       "badge": "X400",
       "label": "Generation",
-      "big": "2001–2009",
+      "big": "2001-2009",
       "sub": "Jaguar X-Type 2.0 V6"
     },
     {

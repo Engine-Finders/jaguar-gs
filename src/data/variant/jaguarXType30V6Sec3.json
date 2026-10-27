@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-3-0-v6-and-aj-v6-wb-engine.webp",
-  "carImage": "/cars/jaguar-x-type-x400-3-0-v6-sport-saloon-20012004-new-titanium-ef61.webp",
+  "carImage": "/cars/card/jaguar-x-type-x400-3-0-v6-sport-saloon-20012004-new-titanium-ef61.webp",
   "cards": [
     {
       "code": "AJ30",
-      "generation": "X400 (2001–2009)",
+      "generation": "X400 (2001-2009)",
       "price": "£2,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,9 +28,9 @@
     "titlePre": "Jaguar X-Type V6 Ignition Coil Degradation ",
     "titleHighlight": "(AJ30)",
     "paragraphs": [
-      "If your X-Type 3.0 V6 has the AJ30 petrol V6 — across the entire X400 generation from 2001 to 2009 — coil-on-plug ignition coil degradation is a well-documented pattern on this engine, often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils, valve cover gaskets, timing chain components and bearings as standard on every AJ30 rebuild."
+      "If your X-Type 3.0 V6 has the AJ30 petrol V6 - across the entire X400 generation from 2001 to 2009 - coil-on-plug ignition coil degradation is a well-documented pattern on this engine, often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils, valve cover gaskets, timing chain components and bearings as standard on every AJ30 rebuild."
     ],
-    "source": "Source: verified via multiple independent sources (CarChecker.pro, TrueDelta, per G-BRF and VRF). Applies to all V6 displacements (2.0, 2.1, 2.5, 3.0) — 2.0d diesel excluded from this claim per VRF."
+    "source": "Source: verified via multiple independent sources (CarChecker.pro, TrueDelta, per G-BRF and VRF). Applies to all V6 displacements (2.0, 2.1, 2.5, 3.0) - 2.0d diesel excluded from this claim per VRF."
   },
   "tiles": [
     {
@@ -42,7 +42,7 @@
     {
       "badge": "X400",
       "label": "Generation",
-      "big": "2001–2009",
+      "big": "2001-2009",
       "sub": "Jaguar X-Type 3.0 V6"
     },
     {

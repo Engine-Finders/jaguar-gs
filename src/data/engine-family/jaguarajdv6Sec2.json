@@ -33,7 +33,7 @@
       {
         "icon": "calendar",
         "label": "Production Years",
-        "value": "2003–2015"
+        "value": "2003-2015"
       },
       {
         "icon": "car",
@@ -56,7 +56,7 @@
     "imageMobile": "/engine/sec2_bottom_m2.webp",
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£2,900",
-    "body": "Every AJD-V6 application — 2.7L or 3.0L — sits on the same V6 diesel rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "body": "Every AJD-V6 application - 2.7L or 3.0L - sits on the same V6 diesel rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote.",
     "cta": {
       "label": "Get Your Fixed-Price Quote →",
       "href": "#quote-form"

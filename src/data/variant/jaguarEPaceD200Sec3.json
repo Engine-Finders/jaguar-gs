@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-d200-engine.webp",
-  "carImage": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+  "carImage": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
   "cards": [
     {
       "code": "AJ200D",
-      "generation": "X540 (2017–present)",
+      "generation": "X540 (2017-present)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar E-Pace D200 Timing Chain Wear ",
     "titleHighlight": "(Ingenium AJ200D)",
     "paragraphs": [
-      "If your E-Pace D200 has the Ingenium AJ200D diesel engine — fitted across the entire X540 production run from 2017 onwards — timing chain wear is a well-documented pattern on this engine family, consistent across JLR's Ingenium diesel range. We inspect and replace the timing chain, tensioners, guide rails and injector seals as standard on every AJ200D rebuild."
+      "If your E-Pace D200 has the Ingenium AJ200D diesel engine - fitted across the entire X540 production run from 2017 onwards - timing chain wear is a well-documented pattern on this engine family, consistent across JLR's Ingenium diesel range. We inspect and replace the timing chain, tensioners, guide rails and injector seals as standard on every AJ200D rebuild."
     ],
     "source": "Source: established Ingenium diesel timing chain pattern per G-BRF Jaguar Section 5, verified across JLR specialist forums and independent garages."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X540",
       "label": "Generation",
-      "big": "2017–present",
+      "big": "2017-present",
       "sub": "Jaguar E-Pace D200"
     },
     {

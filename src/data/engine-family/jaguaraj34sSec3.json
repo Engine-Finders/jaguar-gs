@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ34S Applications — ",
+  "titlePre": "Jaguar AJ34S Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "XFR",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2008–2015",
+      "years": "2008-2015",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-xf-engines"
     }

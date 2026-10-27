@@ -1,10 +1,10 @@
 {
   "kicker": "Jaguar XJ 3.0d Specialists",
-  "h1": "Jaguar XJ 3.0d|Engine Rebuild —|From £2,600",
+  "h1": "Jaguar XJ 3.0d|Engine Rebuild -|From £2,600",
   "subhead": "Specialist Jaguar XJ 3.0d engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
-    "label": "Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,600 —",
+    "kicker": "Starting from £2,600 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 // real glass: translucent white-tinted gradient, strong backdrop blur, bright rim, inner highlight and a soft top-left sheen
 const GLASS_BASE = {
@@ -25,7 +26,7 @@ function Dash() {
   );
 }
 
-// "AJ16 in the XJ (X300, 1994–1997)" -> heading + dimmed bracket
+// "AJ16 in the XJ (X300, 1994-1997)" -> heading + dimmed bracket
 function ItemHeading({ it }) {
   return (
     <h3 className="h3 origin-left scale-y-110 scale-x-90 text-xl uppercase lg:text-3xl">
@@ -46,13 +47,13 @@ function PriceRow({ it }) {
       </div>
       {it.cta && (
         <div>
-          <a
+          <QuoteLink
             href="#quote-form"
             className="flex items-center gap-2 whitespace-nowrap rounded-lg px-6 py-3 text-sm font-bold uppercase text-white transition-colors hover:brightness-125"
             style={PANEL}
           >
             {it.cta} <span aria-hidden>→</span>
-          </a>
+          </QuoteLink>
         </div>
       )}
     </div>

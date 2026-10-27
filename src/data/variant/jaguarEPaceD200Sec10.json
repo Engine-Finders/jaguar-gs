@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar E-Pace D200 ENGINE",
     "paragraphs": [
-      "The E-Pace D200 uses the Ingenium AJ200D — a 2.0-litre four-cylinder diesel engine that's part of Jaguar Land Rover's modular Ingenium family. It's been fitted to the E-Pace across the entire X540 production run from 2017 onwards. The AJ200D shares the same basic architecture as the petrol AJ200, but features diesel-specific components including high-pressure fuel injection, a DPF system and EGR. Like other Ingenium diesels in the JLR range, the AJ200D has a documented timing chain wear pattern at higher mileages — which is why we replace the timing chain components and injector seals as standard on every rebuild."
+      "The E-Pace D200 uses the Ingenium AJ200D - a 2.0-litre four-cylinder diesel engine that's part of Jaguar Land Rover's modular Ingenium family. It's been fitted to the E-Pace across the entire X540 production run from 2017 onwards. The AJ200D shares the same basic architecture as the petrol AJ200, but features diesel-specific components including high-pressure fuel injection, a DPF system and EGR. Like other Ingenium diesels in the JLR range, the AJ200D has a documented timing chain wear pattern at higher mileages - which is why we replace the timing chain components and injector seals as standard on every rebuild."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ200D engines for every E-Pace D200 on the road."
   },
@@ -16,8 +16,8 @@
     "cards": [
       {
         "codeHighlight": "AJ200D",
-        "codeRest": "(X540, 2017–present)",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the E-Pace D200 from 2017 onwards across the entire X540 generation. Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, tensioners, guide rails, injector seals, EGR and gaskets as standard on every AJ200D rebuild.",
+        "codeRest": "(X540, 2017-present)",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the E-Pace D200 from 2017 onwards across the entire X540 generation. Known for timing chain and injector seal wear over time - see the callout above. We replace the timing chain, tensioners, guide rails, injector seals, EGR and gaskets as standard on every AJ200D rebuild.",
         "cta": "Check Your AJ200D E-Pace D200",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar E-Pace D200 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the E-Pace D200 uses a single engine family across its entire production run, compatibility matching is more straightforward than on some other models — but correct fitment still depends on confirming your exact generation, drivetrain specification and any electronics or ECU considerations specific to your exact build.",
+    "intro": "Because the E-Pace D200 uses a single engine family across its entire production run, compatibility matching is more straightforward than on some other models - but correct fitment still depends on confirming your exact generation, drivetrain specification and any electronics or ECU considerations specific to your exact build.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic E-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic E-Pace quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": "Before we quote or supply anything, we confirm:"
   },
   "applications": {
     "titlePre": "Jaguar E-Pace D200 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+    "image": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X540",
-        "image": "/cars/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
+        "image": "/cars/card/jaguar-e-pace-x540-se-compact-suv-20172020-new-corris-grey-e-4506.webp",
         "chassis": "X540",
-        "years": "2017–present",
+        "years": "2017-present",
         "engineCode": "AJ200D",
         "fuel": "Diesel"
       }

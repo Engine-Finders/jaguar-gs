@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 const BADGE = "inline-block w-fit rounded-md bg-linear-to-b from-[#4a4a4c] to-[#141416] px-3 py-1 font-extrabold text-white shadow-sm";
 
@@ -73,13 +74,13 @@ export default function VariantSec3({ data }) {
           ))}
         </div>
 
-        <a
+        <QuoteLink
           href={data.cta.href}
           className="mt-3 flex items-center justify-center gap-2 whitespace-nowrap rounded-xl border border-white/10 bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-3 py-3.5 text-sm font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
         >
           <Icon name={data.cta.icon} className="h-5 w-5 shrink-0" />
           {data.cta.label} <span aria-hidden>→</span>
-        </a>
+        </QuoteLink>
 
         {data.warning && (
         <div className="theme-dark relative mt-5 overflow-hidden rounded-xl" style={{ backgroundColor: "#060a0b" }}>
@@ -144,13 +145,13 @@ export default function VariantSec3({ data }) {
                 ))}
               </div>
 
-              <a
+              <QuoteLink
                 href={data.cta.href}
                 className="flex items-center justify-center gap-3 whitespace-nowrap rounded-xl border border-white/10 bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-4 py-5 text-base font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 <Icon name={data.cta.icon} className="h-7 w-7 shrink-0" />
                 {data.cta.label} <span aria-hidden>→</span>
-              </a>
+              </QuoteLink>
             </div>
           </div>
 

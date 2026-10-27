@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type 2.0i (Ingenium) ENGINE",
     "paragraphs": [
-      "The F-Type 2.0i uses the Ingenium AJ200 — a 2.0-litre four-cylinder petrol engine fitted to the X152-generation F-Type from 2016 until the model was discontinued in 2024. It was introduced as a more accessible entry point to the F-Type range, replacing the V6 in the base position for the facelifted model. We rebuild the complete AJ200 unit to original specification, replacing timing chain components, bearings and gaskets as standard. The F-Type 2.0i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The F-Type 2.0i uses the Ingenium AJ200 - a 2.0-litre four-cylinder petrol engine fitted to the X152-generation F-Type from 2016 until the model was discontinued in 2024. It was introduced as a more accessible entry point to the F-Type range, replacing the V6 in the base position for the facelifted model. We rebuild the complete AJ200 unit to original specification, replacing timing chain components, bearings and gaskets as standard. The F-Type 2.0i is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ingenium AJ200",
         "codeRest": "",
-        "body": "A 2.0L I4 Petrol engine fitted to the F-Type 2.0i (Ingenium) — X152 (2016–2024).",
+        "body": "A 2.0L I4 Petrol engine fitted to the F-Type 2.0i (Ingenium) - X152 (2016-2024).",
         "cta": "Check Your Ingenium AJ200 F-Type 2.0i (Ingenium)"
       }
     ]
@@ -25,7 +25,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Type 2.0i (Ingenium) ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The Ingenium AJ200 fitted to the F-Type 2.0i is a specific application of Jaguar's modular engine family. We match your engine by registration or VIN to ensure the correct specification for your exact vehicle — including ancillaries, electronics, and ECU configuration that differ between model years.",
+    "intro": "The Ingenium AJ200 fitted to the F-Type 2.0i is a specific application of Jaguar's modular engine family. We match your engine by registration or VIN to ensure the correct specification for your exact vehicle - including ancillaries, electronics, and ECU configuration that differ between model years.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -40,7 +40,7 @@
   "applications": {
     "titlePre": "Jaguar F-Type 2.0i (Ingenium) ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+    "image": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -51,9 +51,9 @@
     "rows": [
       {
         "generation": "X152",
-        "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+        "image": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
         "chassis": "X152",
-        "years": "2016–2024",
+        "years": "2016-2024",
         "engineCode": "Ingenium AJ200",
         "fuel": "Petrol"
       }

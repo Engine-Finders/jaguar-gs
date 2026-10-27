@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X351 (2009–2019)"
+      "value": "X351 (2009-2019)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XJ 5.0 V8 Supercharged uses the AJ133S — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XJ 5.0 V8 Supercharged uses the AJ133S - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 function SpecTable({ rows, compact = false }) {
   // two real columns (label | value) in every row, so the vertical separator is the value cell's left border
@@ -30,14 +31,14 @@ function PromptCard({ prompt, compact = false }) {
         <p className={`font-bold text-[#111111] ${compact ? "text-xs" : "text-base"}`}>{prompt.titlePre}</p>
         <p className={`text-[#111111] ${compact ? "text-[11px]" : "text-sm"}`}>{prompt.subtext}</p>
       </div>
-      <a
+      <QuoteLink
         href={prompt.href}
         className={`flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] font-bold text-white shadow-lg transition-transform hover:scale-[1.02] ${
           compact ? "w-full px-4 py-2.5 text-xs" : "px-6 py-3 text-sm"
         }`}
       >
         {prompt.buttonLabel}
-      </a>
+      </QuoteLink>
     </div>
   );
 }
@@ -95,12 +96,12 @@ export default function Sec2({ data }) {
             <p className="text-5xl font-extrabold leading-tight text-[#111111]">{price.startingFromPrice}</p>
             <p className="mt-2 text-xs leading-snug text-[#111111]">{price.body}</p>
 
-            <a
+            <QuoteLink
               href={price.cta.href}
               className="mt-3 flex w-fit items-center justify-center gap-2 rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-5 py-3 text-xs font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
             >
               {price.cta.label}
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>
@@ -169,12 +170,12 @@ export default function Sec2({ data }) {
               <p className="text-8xl font-extrabold leading-none text-[#111111]">{price.startingFromPrice}</p>
               <p className="mt-4 text-sm leading-relaxed text-[#111111]">{price.body}</p>
 
-              <a
+              <QuoteLink
                 href={price.cta.href}
                 className="mt-5 flex w-fit items-center justify-center gap-2 rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-7 py-3.5 text-sm font-bold text-white shadow-lg transition-transform hover:scale-[1.02]"
               >
                 {price.cta.label}
-              </a>
+              </QuoteLink>
             </div>
           </div>
         </div>

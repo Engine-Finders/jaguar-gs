@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£6,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+  "carImage": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X152 (2013–2024)",
+      "generation": "X152 (2013-2024)",
       "price": "£6,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -26,9 +26,9 @@
   "warning": {
     "bgImage": "/variant/sec3_lower_div_bg.webp",
     "titlePre": "Jaguar F-Type R Timing Chain Tensioner Design Flaw ",
-    "titleHighlight": "(2012–2014 Models)",
+    "titleHighlight": "(2012-2014 Models)",
     "paragraphs": [
-      "If your F-Type R is a 2012–2014 model with the AJ133 5.0-litre supercharged V8, timing chain tensioner and guide wear is a documented design flaw — the hardened steel tensioner piston wears an aluminium guide button over time, which can fail with no warning. This engine is explicitly named in the same US class-action lawsuit scope as the XJ, XK and XF of the same era. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild.",
+      "If your F-Type R is a 2012-2014 model with the AJ133 5.0-litre supercharged V8, timing chain tensioner and guide wear is a documented design flaw - the hardened steel tensioner piston wears an aluminium guide button over time, which can fail with no warning. This engine is explicitly named in the same US class-action lawsuit scope as the XJ, XK and XF of the same era. We replace the timing chain, tensioners, guides and water pump as standard on every AJ133 rebuild.",
       "Later F-Type R models (2015 onward) use the same AJ133 engine but received updated tensioner and guide components, and are not covered by the same lawsuit scope. Still, every AJ133 rebuild we carry out gets the full timing chain assembly inspected and replaced where needed."
     ],
     "source": "Source: verified via rrsport.co.uk lawsuit reference (per VRF-jaguar-f-type.md, confirmed in earlier session). Later models excluded from the lawsuit-scoped claim per VRF."
@@ -43,7 +43,7 @@
     {
       "badge": "X152",
       "label": "Generation",
-      "big": "2013–2024",
+      "big": "2013-2024",
       "sub": "Jaguar F-Type R"
     },
     {

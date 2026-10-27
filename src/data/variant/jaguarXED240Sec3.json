@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-aj200d-engine.webp",
-  "carImage": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+  "carImage": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
   "cards": [
     {
       "code": "AJ200D",
-      "generation": "X760 (2015–~2020)",
+      "generation": "X760 (2015-~2020)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar XE D240 Timing Chain & Injector Seal Wear",
     "titleHighlight": "",
     "paragraphs": [
-      "If your XE D240 is a pre-2020 model with the Ingenium AJ200D diesel — that's the X760 generation — timing chain and injector seal wear is a well-documented pattern on this engine. We replace the timing chain and injector seals, along with other worn components, as standard on every AJ200D rebuild.",
+      "If your XE D240 is a pre-2020 model with the Ingenium AJ200D diesel - that's the X760 generation - timing chain and injector seal wear is a well-documented pattern on this engine. We replace the timing chain and injector seals, along with other worn components, as standard on every AJ200D rebuild.",
       "The X760-generation XE D240 is the only generation that used this engine, as the diesel option was discontinued from the UK/NA range around 2020."
     ],
     "source": "Source: widely corroborated across JLR specialist forums and independent garages, consistent with the broader Ingenium pattern, per VRF-jaguar-xe.md."
@@ -43,7 +43,7 @@
     {
       "badge": "X760",
       "label": "Generation",
-      "big": "2015–~2020",
+      "big": "2015-~2020",
       "sub": "Jaguar XE D240"
     },
     {

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,600",
   "engineImage": "/engines/jaguar-p400-3-0-ingenium-petrol-mhev-engine.webp",
-  "carImage": "/cars/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
+  "carImage": "/cars/card/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
   "cards": [
     {
       "code": "AJ300P",
-      "generation": "X761 (2022–present)",
+      "generation": "X761 (2022-present)",
       "price": "£3,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X761",
       "label": "Generation",
-      "big": "2022–present",
+      "big": "2022-present",
       "sub": "Jaguar F-Pace 400 Sport"
     },
     {

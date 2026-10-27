@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar S-Type 2.5 V6 ENGINE",
     "paragraphs": [
-      "The S-Type 2.5 V6 uses the AJ-V6 — a 2.5-litre V6 petrol engine. It was fitted from 1999 to 2008 across the X200 generation. The S-Type has been part of the Jaguar range since 1999, though it's no longer in production and has been succeeded by the XF."
+      "The S-Type 2.5 V6 uses the AJ-V6 - a 2.5-litre V6 petrol engine. It was fitted from 1999 to 2008 across the X200 generation. The S-Type has been part of the Jaguar range since 1999, though it's no longer in production and has been succeeded by the XF."
     ],
     "boldParagraph": "The S-Type 2.5 V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ-V6",
         "codeRest": "",
-        "body": "A 2.5-litre V6 petrol engine fitted to the S-Type from 1999 to 2008 (X200). Known for timing chain tensioner failure — see the callout above. We replace the timing chain, tensioners and gaskets as standard on every AJ-V6 rebuild.",
+        "body": "A 2.5-litre V6 petrol engine fitted to the S-Type from 1999 to 2008 (X200). Known for timing chain tensioner failure - see the callout above. We replace the timing chain, tensioners and gaskets as standard on every AJ-V6 rebuild.",
         "cta": "Check Your AJ-V6 S-Type",
         "codeHref": "/jaguar-aj-v6-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic S-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic S-Type quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar S-Type 2.5 V6 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+    "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X200",
-        "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+        "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
         "chassis": "X200",
-        "years": "1999–2008",
+        "years": "1999-2008",
         "engineCode": "AJ-V6",
         "fuel": "Petrol"
       }

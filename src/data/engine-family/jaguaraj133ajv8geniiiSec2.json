@@ -33,7 +33,7 @@
       {
         "icon": "calendar",
         "label": "Production Years",
-        "value": "2009–2024"
+        "value": "2009-2024"
       },
       {
         "icon": "car",
@@ -56,7 +56,7 @@
     "imageMobile": "/engine/sec2_bottom_m2.webp",
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£5,500",
-    "body": "The AJ133 sits on the V8 Supercharged rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "body": "The AJ133 sits on the V8 Supercharged rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote.",
     "cta": {
       "label": "Get Your Fixed-Price Quote →",
       "href": "#quote-form"

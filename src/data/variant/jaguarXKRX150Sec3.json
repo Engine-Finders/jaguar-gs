@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
+  "carImage": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X150 (2005–2014)",
+      "generation": "X150 (2005-2014)",
       "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar XKR Timing Chain Tensioner Wear ",
     "titleHighlight": "(X150, AJ133)",
     "paragraphs": [
-      "If your XKR is an X150-generation model with the AJ133 supercharged 5.0-litre V8 — that's the 2005–2014 generation — the timing chain tensioner and guide design flaw is a well-documented pattern on this engine. The hardened steel tensioner piston wears an aluminium guide button over time and can fail with no warning. This exact engine was part of a US class-action lawsuit covering multiple JLR models. We replace the timing chain, tensioners, and guide rails as standard on every AJ133 rebuild."
+      "If your XKR is an X150-generation model with the AJ133 supercharged 5.0-litre V8 - that's the 2005-2014 generation - the timing chain tensioner and guide design flaw is a well-documented pattern on this engine. The hardened steel tensioner piston wears an aluminium guide button over time and can fail with no warning. This exact engine was part of a US class-action lawsuit covering multiple JLR models. We replace the timing chain, tensioners, and guide rails as standard on every AJ133 rebuild."
     ],
     "source": "Source: verified via multiple independent sources (au7o.io, rrsport.co.uk lawsuit list), per VRF-jaguar-xk.md."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X150",
       "label": "Generation",
-      "big": "2005–2014",
+      "big": "2005-2014",
       "sub": "Jaguar XKR (X150)"
     },
     {

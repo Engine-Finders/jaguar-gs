@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-2-0-2-1-v6-naming-and-yb-engine.webp",
-  "carImage": "/cars/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
+  "carImage": "/cars/card/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp",
   "cards": [
     {
       "code": "AJ20",
-      "generation": "X400 (2001–2009)",
+      "generation": "X400 (2001-2009)",
       "price": "£2,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,8 +28,8 @@
     "titlePre": "Jaguar X-Type V6 Ignition Coil Degradation ",
     "titleHighlight": "(All V6 Petrol Variants)",
     "paragraphs": [
-      "If your X-Type has the AJ20 V6 petrol engine — fitted across the entire X400 generation from 2001 to 2009 — ignition coil degradation is a well-documented pattern on this engine, confirmed via multiple independent sources. The coil-on-plug design is susceptible to failure, often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils and valve cover gaskets as standard on every AJ20 V6 rebuild.",
-      "This applies to all X-Type V6 petrol variants — 2.0 V6, 2.1 V6, 2.5 V6 and 3.0 V6 — as they share the same AJ-series engine family and the same ignition coil design. The diesel variant is a different engine entirely and doesn't share this specific issue."
+      "If your X-Type has the AJ20 V6 petrol engine - fitted across the entire X400 generation from 2001 to 2009 - ignition coil degradation is a well-documented pattern on this engine, confirmed via multiple independent sources. The coil-on-plug design is susceptible to failure, often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils and valve cover gaskets as standard on every AJ20 V6 rebuild.",
+      "This applies to all X-Type V6 petrol variants - 2.0 V6, 2.1 V6, 2.5 V6 and 3.0 V6 - as they share the same AJ-series engine family and the same ignition coil design. The diesel variant is a different engine entirely and doesn't share this specific issue."
     ],
     "source": "Source: verified via multiple independent sources (CarChecker.pro, TrueDelta owner-reported common problems list), per G-BRF Jaguar Section 5. Applies to all AJ-series V6 petrol variants; diesel ZSD-420 explicitly excluded from this claim per VRF."
   },
@@ -43,7 +43,7 @@
     {
       "badge": "X400",
       "label": "Generation",
-      "big": "2001–2009",
+      "big": "2001-2009",
       "sub": "Jaguar X-Type 2.1 V6"
     },
     {

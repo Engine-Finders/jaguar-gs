@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the F-Pace, the AJ300P is the top-spec petrol powertrain in the P400 variant (X761, 2019–present), producing 400 hp with mild-hybrid assistance.",
+    "body": "Across the F-Pace, the AJ300P is the top-spec petrol powertrain in the P400 variant (X761, 2019-present), producing 400 hp with mild-hybrid assistance.",
     "lineup": [
       {
         "label": "F-Pace",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ300P is paired with a 48V MHEV system, compatibility depends on matching the exact vehicle specification. The engine and its associated ancillaries — including the mild-hybrid components — are specific to the F-Pace P400 application. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN.",
+    "body": "Because the AJ300P is paired with a 48V MHEV system, compatibility depends on matching the exact vehicle specification. The engine and its associated ancillaries - including the mild-hybrid components - are specific to the F-Pace P400 application. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN.",
     "points": [
       {
         "icon": "car",
@@ -61,10 +61,10 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ300P in the F-Pace (X761, 2019–present)",
+        "heading": "AJ300P in the F-Pace (X761, 2019-present)",
         "engine": "AJ300P",
         "model": "F-Pace",
-        "detail": "X761, 2019–present",
+        "detail": "X761, 2019-present",
         "body": "The AJ300P in the F-Pace P400 is one of the applications we work on. The 3.0-litre Ingenium straight-six is matched with a 48V mild-hybrid system to produce 400 hp. Jaguar AJ300P by Powertrain Variant AJ300P MHEV Applications: F-Pace P400. The mild-hybrid system carries additional 48V ancillaries we account for during a rebuild.",
         "price": "£3,200",
         "cta": "Check your F-Pace AJ300P"
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar F-Pace X761",
       "engine": "AJ300P 3.0L",
-      "year": "2019 – present",
+      "year": "2019 - present",
       "price": "£3,200"
     }
   }

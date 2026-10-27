@@ -8,12 +8,12 @@
   "partImage": "/model/sec15_part.webp",
   "generations": [
     {
-      "years": "1994–1997",
+      "years": "1994-1997",
       "code": "X300",
       "list": "1994, 1995, 1996, 1997 Jaguar XJ engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch — we'll confirm availability directly against your reg.",
+  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Jaguar XJ6 Model:",
   "checklistLeft": [
@@ -21,5 +21,5 @@
     "Jaguar XJ6 1996 Engine Rebuild",
     "Jaguar XJ6 1997 Engine Rebuild"
   ],
-  "modelYearRange": "1994–1997 (X300):"
+  "modelYearRange": "1994-1997 (X300):"
 }

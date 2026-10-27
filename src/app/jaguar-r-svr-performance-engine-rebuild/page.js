@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar R/SVR Performance Engine Rebuild | Jaguar Garage",
-  description: "Specialist performance engine rebuild for Jaguar R and SVR models – F-Type, F-Pace, XFR, XJR. Full strip-down, machining, supercharger service, and precision assembly.",
+  description: "Specialist performance engine rebuild for Jaguar R and SVR models - F-Type, F-Pace, XFR, XJR. Full strip-down, machining, supercharger service, and precision assembly.",
   alternates: { canonical: PATH },
 };
 

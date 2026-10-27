@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-3-0-v6-and-aj-v6-wb-engine.webp",
-  "carImage": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+  "carImage": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
   "cards": [
     {
       "code": "AJ-V6",
-      "generation": "X200 (1999–2008)",
+      "generation": "X200 (1999-2008)",
       "price": "£2,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar S-Type V6 Timing Chain Tensioner Failure",
     "titleHighlight": "",
     "paragraphs": [
-      "If your S-Type has the AJ-V6 petrol engine — that's the X200 generation — timing chain tensioner failure is a documented pattern on this engine. We replace the timing chain, tensioners and gaskets as standard on every AJ-V6 rebuild.",
+      "If your S-Type has the AJ-V6 petrol engine - that's the X200 generation - timing chain tensioner failure is a documented pattern on this engine. We replace the timing chain, tensioners and gaskets as standard on every AJ-V6 rebuild.",
       "The S-Type range also included a 2.7d diesel variant, which uses a different engine family (AJD-V6, PSA-sourced) and is not affected by this specific petrol V6 timing chain tensioner issue."
     ],
     "source": "Source: LR Engine Specialists, per VRF-jaguar-s-type.md. 2.7d diesel explicitly excluded from this claim per VRF, correctly scoped to petrol V6 engine only."
@@ -43,7 +43,7 @@
     {
       "badge": "X200",
       "label": "Generation",
-      "big": "1999–2008",
+      "big": "1999-2008",
       "sub": "Jaguar S-Type 2.5 V6"
     },
     {

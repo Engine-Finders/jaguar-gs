@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ20 was fitted exclusively to the X-Type in the UK market, specifically in the 2.0D variant (X400 generation, 2003–2009). It served as the entry-level diesel option in the X-Type range, offering a balance of fuel economy and performance that suited the saloon and estate body styles.",
+    "body": "The AJ20 was fitted exclusively to the X-Type in the UK market, specifically in the 2.0D variant (X400 generation, 2003-2009). It served as the entry-level diesel option in the X-Type range, offering a balance of fuel economy and performance that suited the saloon and estate body styles.",
     "lineup": [
       {
         "label": "X-Type",
@@ -61,11 +61,11 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ20 in the X-Type (X400, 2003–2009)",
+        "heading": "AJ20 in the X-Type (X400, 2003-2009)",
         "engine": "AJ20",
         "model": "X-Type",
-        "detail": "X400, 2003–2009",
-        "body": "The AJ20 in the X-Type is one of the applications we work on regularly — the 2.0D diesel variant (X400 generation, 2003–2009). Jaguar AJ20 by Powertrain Variant Not applicable — AJ20 is a single fuel type (diesel) across all applications.",
+        "detail": "X400, 2003-2009",
+        "body": "The AJ20 in the X-Type is one of the applications we work on regularly - the 2.0D diesel variant (X400 generation, 2003-2009). Jaguar AJ20 by Powertrain Variant Not applicable - AJ20 is a single fuel type (diesel) across all applications.",
         "price": "£1,900",
         "cta": "Check your X-Type AJ20"
       }
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar X-Type X400",
       "engine": "AJ20 2.0L",
-      "year": "2003 – 2009",
+      "year": "2003 - 2009",
       "price": "£1,900"
     }
   }

@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ-V6 Applications — ",
+  "titlePre": "Jaguar AJ-V6 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "2.5 V6, 3.0 V6",
       "generation": "X200",
       "chassis": "X200",
-      "years": "2001–2008",
+      "years": "2001-2008",
       "powertrain": "2.5L / 3.0L",
       "modelHref": "/jaguar-s-type-engines"
     }

@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X761 (2016–present)"
+      "value": "X761 (2016-present)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The F-Pace P250 uses the Ingenium AJ200P 2.0-litre petrol engine across all years — enter your registration below and we'll confirm your exact specification before you get a quote.",
+    "body": "The F-Pace P250 uses the Ingenium AJ200P 2.0-litre petrol engine across all years - enter your registration below and we'll confirm your exact specification before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

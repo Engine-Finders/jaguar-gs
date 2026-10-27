@@ -1,10 +1,10 @@
 {
   "kicker": "Jaguar XE D180 Specialists",
-  "h1": "Jaguar XE D180|Engine Rebuild —|From £2,000",
+  "h1": "Jaguar XE D180|Engine Rebuild -|From £2,000",
   "subhead": "Jaguar XE D180 engine rebuilds from £2,000. Specialist AJ200D diesel engine specialists. 12-month unlimited-mileage warranty, nationwide recovery, registration matching. Free quote in 30 mins.",
   "rating": {
     "stars": 5,
-    "label": "Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £2,000 —",
+    "kicker": "Starting from £2,000 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

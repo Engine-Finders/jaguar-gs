@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-aj200d-engine.webp",
-  "carImage": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+  "carImage": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
   "cards": [
     {
       "code": "AJ200D (Ingenium)",
-      "generation": "X760 (2015–~2020)",
+      "generation": "X760 (2015-~2020)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,8 +28,8 @@
     "titlePre": "Jaguar XE D165 Timing Chain & Injector Seal Wear ",
     "titleHighlight": "(Ingenium AJ200D)",
     "paragraphs": [
-      "If your XE D165 has the Ingenium AJ200D diesel engine — that's the 2.0-litre four-cylinder unit fitted to the X760 generation — timing chain and injector seal wear is a well-documented pattern on this engine, widely corroborated across JLR specialist forums and independent garages. We replace the timing chain, injectors, EGR and gaskets as standard on every AJ200D rebuild.",
-      "The petrol XE variants use different engines (the AJ200 petrol Ingenium), which don't share this specific diesel timing chain issue — they're a separate fuel system with their own characteristics."
+      "If your XE D165 has the Ingenium AJ200D diesel engine - that's the 2.0-litre four-cylinder unit fitted to the X760 generation - timing chain and injector seal wear is a well-documented pattern on this engine, widely corroborated across JLR specialist forums and independent garages. We replace the timing chain, injectors, EGR and gaskets as standard on every AJ200D rebuild.",
+      "The petrol XE variants use different engines (the AJ200 petrol Ingenium), which don't share this specific diesel timing chain issue - they're a separate fuel system with their own characteristics."
     ],
     "source": "Source: widely corroborated across JLR specialist forums and independent garages, per VRF-jaguar-xe.md. Petrol Ingenium variants explicitly excluded from this claim per VRF, correctly scoped to diesel application."
   },
@@ -43,7 +43,7 @@
     {
       "badge": "X760",
       "label": "Generation",
-      "big": "2015–~2020",
+      "big": "2015-~2020",
       "sub": "Jaguar XE D165"
     },
     {

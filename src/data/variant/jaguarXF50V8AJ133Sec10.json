@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 5.0 V8 (AJ133) ENGINE",
     "paragraphs": [
-      "The XF 5.0 V8 uses the AJ133 engine family, a 5.0-litre V8 petrol unit that replaced the earlier 4.2-litre AJ34 in the X250 generation from around 2011. The naturally aspirated AJ133 powered the standard XF V8, while the supercharged AJ133S — producing significantly more power — powered the XFR flagship. Both share the same 5.0-litre V8 architecture and the same timing chain tensioner design, which is the key known wear point across this engine family."
+      "The XF 5.0 V8 uses the AJ133 engine family, a 5.0-litre V8 petrol unit that replaced the earlier 4.2-litre AJ34 in the X250 generation from around 2011. The naturally aspirated AJ133 powered the standard XF V8, while the supercharged AJ133S - producing significantly more power - powered the XFR flagship. Both share the same 5.0-litre V8 architecture and the same timing chain tensioner design, which is the key known wear point across this engine family."
     ],
     "boldParagraph": "The XF 5.0 V8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ133",
         "codeRest": "(Naturally Aspirated)",
-        "body": "A 5.0-litre naturally aspirated V8 fitted to the XF V8 from around 2011 to 2015 (X250). Known for the timing chain tensioner design flaw — see the callout above. We replace the timing chain, tensioners, guides, and water pump as standard on every AJ133 rebuild.",
+        "body": "A 5.0-litre naturally aspirated V8 fitted to the XF V8 from around 2011 to 2015 (X250). Known for the timing chain tensioner design flaw - see the callout above. We replace the timing chain, tensioners, guides, and water pump as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 XF V8",
         "codeHref": "/jaguar-aj133-engine"
       },
@@ -59,13 +59,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF V8 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF V8 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 5.0 V8 (AJ133) ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+    "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -76,17 +76,17 @@
     "rows": [
       {
         "generation": "X250",
-        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+        "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "X250",
-        "years": "~2011–2015",
+        "years": "~2011-2015",
         "engineCode": "AJ133",
         "fuel": "Petrol"
       },
       {
         "generation": "X250",
-        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+        "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "X250",
-        "years": "~2011–2015",
+        "years": "~2011-2015",
         "engineCode": "AJ133S",
         "fuel": "Petrol Supercharged"
       }

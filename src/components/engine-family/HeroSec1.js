@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 const GLASS_BORDER = { border: "1px solid rgba(214,218,224,0.35)" };
 
@@ -79,19 +80,19 @@ export default function HeroSec1({ data }) {
               <p className="text-4xl font-extrabold leading-none text-chrome">{data.priceCta.label}</p>
             </div>
             <span className="h-12 w-px shrink-0 bg-white/20" aria-hidden="true" />
-            <a href={data.priceCta.href} className="btn-chrome flex min-w-0 flex-1 items-center justify-center gap-1.5 whitespace-nowrap rounded-lg px-2 py-3.5 text-[11px] font-bold">
+            <QuoteLink href={data.priceCta.href} className="btn-chrome flex min-w-0 flex-1 items-center justify-center gap-1.5 whitespace-nowrap rounded-lg px-2 py-3.5 text-[11px] font-bold">
               {data.priceCta.buttonLabel}
-            </a>
+            </QuoteLink>
           </div>
 
-          <a
+          <QuoteLink
             href={data.phoneCta.href}
             className="glass-luminous card-glare relative mt-2.5 flex items-center justify-center gap-2 rounded-lg px-3 py-3 text-sm font-semibold text-white"
             style={GLASS_BORDER}
           >
             <Icon name={data.phoneCta.icon} className="h-4 w-4 shrink-0 text-white" />
             {data.phoneCta.label}: {data.phoneCta.phone}
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -138,17 +139,17 @@ export default function HeroSec1({ data }) {
               </div>
               <span className="w-px shrink-0 bg-white/20" aria-hidden="true" />
               <div className="flex flex-col justify-center gap-2.5">
-                <a href={data.priceCta.href} className="btn-chrome flex items-center justify-center gap-2 whitespace-nowrap rounded-lg px-8 py-3.5 text-sm font-bold transition-transform hover:scale-[1.02]">
+                <QuoteLink href={data.priceCta.href} className="btn-chrome flex items-center justify-center gap-2 whitespace-nowrap rounded-lg px-8 py-3.5 text-sm font-bold transition-transform hover:scale-[1.02]">
                   {data.priceCta.buttonLabel}
-                </a>
-                <a
+                </QuoteLink>
+                <QuoteLink
                   href={data.phoneCta.href}
                   className="glass-luminous card-glare relative flex items-center gap-2.5 whitespace-nowrap rounded-lg px-8 py-3 text-sm font-semibold text-white"
                   style={GLASS_BORDER}
                 >
                   <Icon name={data.phoneCta.icon} className="h-4 w-4 shrink-0 text-white" />
                   {data.phoneCta.label}: {data.phoneCta.phone}
-                </a>
+                </QuoteLink>
               </div>
             </div>
           </div>

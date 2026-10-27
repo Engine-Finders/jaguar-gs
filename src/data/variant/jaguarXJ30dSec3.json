@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-2-7-litre-v6-diesel-engine.webp",
-  "carImage": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+  "carImage": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
   "cards": [
     {
       "code": "AJD-V6",
-      "generation": "X351 (2009–2019)",
+      "generation": "X351 (2009-2019)",
       "price": "£2,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X351",
       "label": "Generation",
-      "big": "2009–2019",
+      "big": "2009-2019",
       "sub": "Jaguar XJ 3.0d"
     },
     {

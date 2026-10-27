@@ -40,11 +40,11 @@
       "title": "Application-Dependent",
       "items": [
         "Vehicle-specific ancillaries",
-        "[Photographs of AJ133S components — timing chain, bearings, gaskets, supercharger coupler. Alt text references \"Jaguar AJ133S\" specifically.]"
+        "[Photographs of AJ133S components - timing chain, bearings, gaskets, supercharger coupler. Alt text references \"Jaguar AJ133S\" specifically.]"
       ],
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from the Master Engine Data File. If your AJ133S's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from the Master Engine Data File. If your AJ133S's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

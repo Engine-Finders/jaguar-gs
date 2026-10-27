@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+  "carImage": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
   "cards": [
     {
       "code": "AJ-V8 Supercharged",
-      "generation": "X200 (1999–2008)",
+      "generation": "X200 (1999-2008)",
       "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar S-Type R Timing Chain Stretch",
     "titleHighlight": "",
     "paragraphs": [
-      "If your S-Type R has the supercharged 4.2-litre AJ-V8 — that's the X200 generation — timing chain stretch is a documented pattern on this engine, typically between 80,000–150,000km, signalled by cold-start rattle. The chain tensioners and guide rails wear alongside the chain. We replace the timing chain, tensioners, and guide rails as standard on every S-Type R rebuild."
+      "If your S-Type R has the supercharged 4.2-litre AJ-V8 - that's the X200 generation - timing chain stretch is a documented pattern on this engine, typically between 80,000-150,000km, signalled by cold-start rattle. The chain tensioners and guide rails wear alongside the chain. We replace the timing chain, tensioners, and guide rails as standard on every S-Type R rebuild."
     ],
     "source": "Source: verified via multiple independent sources (AutoDoc, LR Engine Specialists), per VRF-jaguar-s-type.md."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X200",
       "label": "Generation",
-      "big": "1999–2008",
+      "big": "1999-2008",
       "sub": "Jaguar S-Type R"
     },
     {

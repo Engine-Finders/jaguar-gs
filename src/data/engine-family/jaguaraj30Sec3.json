@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ30 Applications — ",
+  "titlePre": "Jaguar AJ30 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -25,7 +25,7 @@
       "variant": "3.0 V6",
       "generation": "X400",
       "chassis": "X400",
-      "years": "2001–2009",
+      "years": "2001-2009",
       "powertrain": "",
       "modelHref": "/jaguar-x-type-engines"
     },
@@ -34,7 +34,7 @@
       "variant": "3.0 V6",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2008–2012",
+      "years": "2008-2012",
       "powertrain": "",
       "modelHref": "/jaguar-xf-engines"
     }

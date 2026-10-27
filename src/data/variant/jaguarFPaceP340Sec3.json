@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,600",
   "engineImage": "/engines/jaguar-p400-3-0-ingenium-petrol-mhev-engine.webp",
-  "carImage": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+  "carImage": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
   "cards": [
     {
       "code": "",
@@ -15,7 +15,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar F-Pace P340 Engine Rebuild — From £3,600"
+      "text": "Jaguar F-Pace P340 Engine Rebuild - From £3,600"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £3,600 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £3,600 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -49,7 +49,7 @@
     {
       "badge": "X761",
       "label": "Generation",
-      "big": "2016–present",
+      "big": "2016-present",
       "sub": "Jaguar F-Pace P340"
     },
     {

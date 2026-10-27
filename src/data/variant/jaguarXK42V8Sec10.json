@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XK 4.2 V8 ENGINE",
     "paragraphs": [
-      "The XK 4.2 V8 uses the AJ-V8 Gen III — a 4.2-litre naturally aspirated V8 petrol engine. It was fitted from 2005 to 2014 across the X150 generation of the XK, replacing the earlier X100-era AJ26/AJ27 engines. The AJ-V8 Gen III represents a significant evolution of Jaguar's V8 family, with improved timing chain components and revised cylinder heads compared to earlier iterations."
+      "The XK 4.2 V8 uses the AJ-V8 Gen III - a 4.2-litre naturally aspirated V8 petrol engine. It was fitted from 2005 to 2014 across the X150 generation of the XK, replacing the earlier X100-era AJ26/AJ27 engines. The AJ-V8 Gen III represents a significant evolution of Jaguar's V8 family, with improved timing chain components and revised cylinder heads compared to earlier iterations."
     ],
     "boldParagraph": "The XK 4.2 V8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ-V8 Gen III",
         "codeRest": "",
-        "body": "A 4.2L V8 Petrol engine fitted to the XK 4.2 V8 — X150 (2005–2014).",
+        "body": "A 4.2L V8 Petrol engine fitted to the XK 4.2 V8 - X150 (2005-2014).",
         "cta": "Check Your AJ-V8 Gen III XK 4.2 V8",
         "codeHref": "/jaguar-aj-v8-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XK quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XK quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XK 4.2 V8 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
+    "image": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X150",
-        "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
+        "image": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
         "chassis": "X150",
-        "years": "2005–2014",
+        "years": "2005-2014",
         "engineCode": "AJ-V8 Gen III",
         "fuel": "Petrol"
       }

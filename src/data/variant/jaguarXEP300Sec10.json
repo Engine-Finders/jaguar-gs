@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE P300 ENGINE",
     "paragraphs": [
-      "The XE P300 uses the AJ200P — a 2.0-litre four-cylinder petrol engine from Jaguar Land Rover's Ingenium family. It was fitted from the model's 2015 launch through to the present day across the X760 generation, representing the top-output variant in the XE's petrol range."
+      "The XE P300 uses the AJ200P - a 2.0-litre four-cylinder petrol engine from Jaguar Land Rover's Ingenium family. It was fitted from the model's 2015 launch through to the present day across the X760 generation, representing the top-output variant in the XE's petrol range."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ200P engines for every XE P300 on the road."
   },
@@ -16,7 +16,7 @@
     "cards": [
       {
         "codeHighlight": "AJ200P",
-        "codeRest": "(X760, 2015–present)",
+        "codeRest": "(X760, 2015-present)",
         "body": "A 2.0-litre four-cylinder petrol Ingenium unit fitted to the XE P300 from 2015 to the present day. No specific known issue confirmed for this application. We replace timing chain components, bearings and gaskets as standard on every AJ200P rebuild.",
         "cta": "Check Your AJ200P XE P300",
         "codeHref": "/jaguar-aj200p-engine"
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar XE P300 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The XE P300 uses a single engine family across its production run — the Ingenium AJ200P. Before we quote or supply anything, we confirm:",
+    "intro": "The XE P300 uses a single engine family across its production run - the Ingenium AJ200P. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XE P300 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XE P300 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XE P300 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+    "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "X760",
-        "years": "2015–present",
+        "years": "2015-present",
         "engineCode": "AJ200P",
         "fuel": "Petrol"
       }

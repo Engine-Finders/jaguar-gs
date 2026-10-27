@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the X-Type, the ZSD-420 was fitted to the 2.2D variant during the final two years of production (2008–2010). The X-Type, based on the Ford Mondeo platform, shared its diesel engines with Ford's wider Duratorq family, with the 2.2-litre unit offering more torque and refinement than the earlier 2.0-litre diesel option.",
+    "body": "Across the X-Type, the ZSD-420 was fitted to the 2.2D variant during the final two years of production (2008-2010). The X-Type, based on the Ford Mondeo platform, shared its diesel engines with Ford's wider Duratorq family, with the 2.2-litre unit offering more torque and refinement than the earlier 2.0-litre diesel option.",
     "lineup": [
       {
         "label": "X-Type",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the ZSD-420 was only fitted to one Jaguar model in a single generation, the X-Type X400 (2008–2010), compatibility is relatively straightforward compared to engines spanning multiple models and generations. That said, we still match by registration/VIN to confirm your exact specification before any rebuild or replacement work begins.",
+    "body": "Because the ZSD-420 was only fitted to one Jaguar model in a single generation, the X-Type X400 (2008-2010), compatibility is relatively straightforward compared to engines spanning multiple models and generations. That said, we still match by registration/VIN to confirm your exact specification before any rebuild or replacement work begins.",
     "points": [
       {
         "icon": "car",
@@ -61,11 +61,11 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "ZSD-420 in the X-Type (X400, 2008–2010)",
+        "heading": "ZSD-420 in the X-Type (X400, 2008-2010)",
         "engine": "ZSD-420",
         "model": "X-Type",
-        "detail": "X400, 2008–2010",
-        "body": "The ZSD-420 in the X-Type 2.2D is one of the applications we work on regularly. The X-Type's final years saw this 2.2-litre diesel option introduced alongside the existing 2.0-litre diesel — and it's the engine we see more often when an X-Type diesel comes in for a rebuild. Symptoms That Justify Inspection The following symptoms don't automatically mean the ZSD-420 requires a rebuild. Proper diagnosis comes first. Rough idle (EGR issues) Loss of power (injector or DPF issues) Starting issues (injectors) Warning lights Excessive smoke",
+        "detail": "X400, 2008-2010",
+        "body": "The ZSD-420 in the X-Type 2.2D is one of the applications we work on regularly. The X-Type's final years saw this 2.2-litre diesel option introduced alongside the existing 2.0-litre diesel - and it's the engine we see more often when an X-Type diesel comes in for a rebuild. Symptoms That Justify Inspection The following symptoms don't automatically mean the ZSD-420 requires a rebuild. Proper diagnosis comes first. Rough idle (EGR issues) Loss of power (injector or DPF issues) Starting issues (injectors) Warning lights Excessive smoke",
         "price": "£1,900",
         "cta": "Check your X-Type ZSD-420"
       }
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar X-Type X400",
       "engine": "ZSD-420 2.2L",
-      "year": "2008 – 2010",
+      "year": "2008 - 2010",
       "price": "£1,900"
     }
   }

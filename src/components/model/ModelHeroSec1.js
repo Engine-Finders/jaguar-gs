@@ -2,6 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 const BOLD_PHRASE = "12-month unlimited-mileage warranty";
 
@@ -95,7 +96,7 @@ export default function ModelHeroSec1({ data }) {
           </div>
 
           {/* pricing callout banner */}
-          <a
+          <QuoteLink
             href={data.priceCta.href}
             className="glass-luminous card-glare relative mt-2.5 flex items-center divide-x divide-white/15 rounded-xl px-2 py-3 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{ border: "1px solid rgba(214,218,224,0.35)" }}
@@ -108,7 +109,7 @@ export default function ModelHeroSec1({ data }) {
               </div>
             </div>
             <p className="min-w-0 flex-1 whitespace-nowrap pl-2 text-xs font-bold uppercase leading-tight text-white">{data.priceCta.label}</p>
-          </a>
+          </QuoteLink>
 
           {/* registration lookup */}
           <div className="glass-card-dark mt-2.5 rounded-xl p-3">
@@ -129,7 +130,7 @@ export default function ModelHeroSec1({ data }) {
           </div>
 
           {/* direct contact CTA */}
-          <a
+          <QuoteLink
             href={data.phoneCta.href}
             className="glass-luminous card-glare relative mt-2.5 flex items-center gap-3 overflow-hidden rounded-xl p-3 transition duration-200 hover:-translate-y-0.5 hover:brightness-110"
             style={{ border: "1px solid rgba(214,218,224,0.35)" }}
@@ -140,7 +141,7 @@ export default function ModelHeroSec1({ data }) {
               <p className="label-text uppercase tracking-wide text-white">{data.phoneCta.label}</p>
               <p className="text-lg font-extrabold text-white">{data.phoneCta.phone}</p>
             </div>
-          </a>
+          </QuoteLink>
 
           {/* trust footer */}
           <div
@@ -203,7 +204,7 @@ export default function ModelHeroSec1({ data }) {
           </div>
 
           <div className="mt-3 flex flex-wrap items-stretch gap-4">
-            <a
+            <QuoteLink
               href={data.priceCta.href}
               className="glass-luminous card-glare relative flex w-80 shrink-0 flex-col justify-between rounded-xl px-8 py-5 transition-transform hover:scale-[1.02]"
               style={{ border: "1px solid rgba(214,218,224,0.45)" }}
@@ -216,9 +217,9 @@ export default function ModelHeroSec1({ data }) {
                 </div>
               </div>
               <p className="mt-2 text-sm font-bold uppercase leading-tight tracking-wide text-white">{data.priceCta.label}</p>
-            </a>
+            </QuoteLink>
 
-            <a
+            <QuoteLink
               href={data.phoneCta.href}
               className="glass-luminous card-glare relative flex w-104 shrink-0 flex-col justify-center overflow-hidden rounded-xl px-8 py-5 transition-colors hover:bg-white/5"
             >
@@ -230,7 +231,7 @@ export default function ModelHeroSec1({ data }) {
                   <p className="mt-1 whitespace-nowrap text-2xl font-extrabold leading-none text-white">{data.phoneCta.phone}</p>
                 </div>
               </div>
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>

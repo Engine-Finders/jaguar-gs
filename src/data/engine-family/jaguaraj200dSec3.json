@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ200D Applications — ",
+  "titlePre": "Jaguar AJ200D Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "D150, D165, D180, D200",
       "generation": "X540",
       "chassis": "X540",
-      "years": "2017–present",
+      "years": "2017-present",
       "powertrain": "Diesel",
       "modelHref": "/jaguar-e-pace-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "D165, D180, D200",
       "generation": "X761",
       "chassis": "X761",
-      "years": "2016–present",
+      "years": "2016-present",
       "powertrain": "Diesel",
       "modelHref": "/jaguar-f-pace-engines"
     },
@@ -46,7 +46,7 @@
       "variant": "D150, D180, D200",
       "generation": "X760",
       "chassis": "X760",
-      "years": "2015–present",
+      "years": "2015-present",
       "powertrain": "Diesel",
       "modelHref": "/jaguar-xe-engines"
     }

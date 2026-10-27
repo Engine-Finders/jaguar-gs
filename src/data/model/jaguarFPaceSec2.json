@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Jaguar F-Pace Ingenium Diesel|Timing Chain Issues?|",
-  "description": "The Ingenium diesel engines fitted across the F-Pace range share the same timing chain and injector seal pattern found across the wider JLR Ingenium family — including Land Rover applications of the same engines. We replace worn timing chains and injector seals as standard.",
+  "description": "The Ingenium diesel engines fitted across the F-Pace range share the same timing chain and injector seal pattern found across the wider JLR Ingenium family - including Land Rover applications of the same engines. We replace worn timing chains and injector seals as standard.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: Ingenium AJ200D widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+    "body": "Yes - both verified: Ingenium AJ200D widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

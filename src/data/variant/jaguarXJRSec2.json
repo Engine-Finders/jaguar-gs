@@ -32,12 +32,12 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "4.0L – 5.0L"
+      "value": "4.0L - 5.0L"
     },
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X300 (1994–1997) · X308 (1997–2003) · X350 (2002–2009) · X351 (2009–2019)"
+      "value": "X300 (1994-1997) · X308 (1997-2003) · X350 (2002-2009) · X351 (2009-2019)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XJR used different supercharged engines across its generations — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XJR used different supercharged engines across its generations - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -17,15 +17,18 @@ export default function ModelSec11({ data }) {
           </h2>
         </div>
 
-        <div className="relative aspect-[644/455] w-full">
-          <Image src={data.imageMobile} alt="Jaguar technician rebuilding an engine block" fill className="object-cover" sizes="100vw" />
+        {/* 16:9: the desktop frame is already 16:9, so it is shown whole instead of the squarer phone crop */}
+        <div className="relative aspect-video w-full overflow-hidden">
+          <div className="absolute inset-0" style={{ transform: "scale(1.2)", transformOrigin: "85% 20%" }}>
+            <Image src={data.image} alt="Jaguar technician rebuilding an engine block" fill className="object-cover" sizes="100vw" />
+          </div>
           <div className="absolute inset-x-0 top-0 h-1/4 bg-linear-to-b from-(--color-light-surface) to-transparent" />
           <div className="absolute inset-x-0 bottom-0 h-1/4 bg-linear-to-t from-(--color-light-surface) to-transparent" />
         </div>
 
-        <div className="divide-y divide-black/10 border-t border-black/10 px-4 pb-8">
-          {data.checklist.map((item) => (
-            <div key={item} className="flex items-center gap-3 py-4">
+        <div className="border-t border-black/10 pb-8">
+          {data.checklist.map((item, i) => (
+            <div key={item} className={`flex items-center gap-3 px-4 py-4 ${i % 2 ? "bg-black/[0.07]" : "bg-black/[0.02]"}`}>
               <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-hero-blue/70">
                 <Icon name="check" className="h-4 w-4 text-hero-blue" />
               </span>

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-jlr-2-0-ingenium-aj200-engine-hero.webp",
-  "carImage": "/cars/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp",
+  "carImage": "/cars/card/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp",
   "cards": [
     {
       "code": "AJ200",
-      "generation": "X260 (2015–present)",
+      "generation": "X260 (2015-present)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X260",
       "label": "Generation",
-      "big": "2015–present",
+      "big": "2015-present",
       "sub": "Jaguar XF 300 Sport"
     },
     {

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
+  "carImage": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X150 (2005–2014)",
+      "generation": "X150 (2005-2014)",
       "price": "£4,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar XK 5.0 V8 Timing Chain Tensioner Wear ",
     "titleHighlight": "(X150, AJ133)",
     "paragraphs": [
-      "If your XK 5.0 V8 is an X150-generation model with the AJ133 — that's the 5.0-litre V8 fitted from 2005 to 2014, particularly 2012–2014 models — timing chain tensioner failure is the single most frequently reported issue on this engine, based on independent analysis of 2,500+ owner reports. We replace the timing chain, tensioners and guides as standard on every AJ133 rebuild."
+      "If your XK 5.0 V8 is an X150-generation model with the AJ133 - that's the 5.0-litre V8 fitted from 2005 to 2014, particularly 2012-2014 models - timing chain tensioner failure is the single most frequently reported issue on this engine, based on independent analysis of 2,500+ owner reports. We replace the timing chain, tensioners and guides as standard on every AJ133 rebuild."
     ],
     "source": "Source: verified via multiple independent sources (au7o.io, rrsport.co.uk lawsuit list), per G-BRF-Jaguar.md and VRF-jaguar-xk.md. This is the same class-action lawsuit scope covering this exact engine across multiple JLR models."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X150",
       "label": "Generation",
-      "big": "2005–2014",
+      "big": "2005-2014",
       "sub": "Jaguar XK 5.0 V8"
     },
     {

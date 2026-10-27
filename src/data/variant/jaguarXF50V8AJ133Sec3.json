@@ -4,23 +4,23 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+  "carImage": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
   "cards": [
     {
       "code": "AJ133 (Naturally Aspirated)",
-      "generation": "X250 (~2011–2015)",
+      "generation": "X250 (~2011-2015)",
       "price": "£4,500"
     },
     {
       "code": "AJ133S (Supercharged / XFR)",
-      "generation": "X250 (~2011–2015)",
+      "generation": "X250 (~2011-2015)",
       "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Both engine codes sit on the V8 tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Both engine codes sit on the V8 tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     "titlePre": "Jaguar XF 5.0 V8 Timing Chain Tensioner Wear ",
     "titleHighlight": "(AJ133/AJ133S, X250)",
     "paragraphs": [
-      "If your XF 5.0 V8 is from the X250 generation — roughly 2011 to 2015 — timing chain tensioner and guide wear is a well-documented design flaw on the AJ133/AJ133S V8, subject to a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time, which can fail with little warning.",
+      "If your XF 5.0 V8 is from the X250 generation - roughly 2011 to 2015 - timing chain tensioner and guide wear is a well-documented design flaw on the AJ133/AJ133S V8, subject to a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time, which can fail with little warning.",
       "We replace the timing chain, tensioners, guides, and water pump as standard on every AJ133/AJ133S rebuild."
     ],
     "source": "Source: verified via multiple independent sources including confirmed class-action lawsuit scope, X250 XF explicitly named per G-BRF. Applies to AJ133/AJ133S X250 generation only."
@@ -48,7 +48,7 @@
     {
       "badge": "X250",
       "label": "Generation",
-      "big": "~2011–2015",
+      "big": "~2011-2015",
       "sub": "Jaguar XF 5.0 V8 (AJ133)"
     },
     {

@@ -87,7 +87,7 @@ export default function HomeSec4_5({ data }) {
           {copy(true)}
         </div>
 
-        {/* footer tagline — in normal flow below the copy, centred, so it can never overlap the button */}
+        {/* footer tagline - in normal flow below the copy, centred, so it can never overlap the button */}
         <div className="relative mx-auto max-w-[76rem] px-4 pb-7 pt-6 sm:px-6 lg:px-8">
           <div className="flex items-center justify-center gap-4">
             <span className="h-px w-20 bg-white/45" />

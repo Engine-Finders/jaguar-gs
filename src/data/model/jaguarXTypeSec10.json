@@ -3,39 +3,39 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar X-Type Rebuilds",
   "subhead": "Full variant list below covers every Jaguar X-Type engine we work on.",
-  "image": "/cars/jaguar-x-type-x400-2-2-d-se-saloon-20072010-new-vapour-grey-7f0f.webp",
+  "image": "/cars/card/jaguar-x-type-x400-2-2-d-se-saloon-20072010-new-vapour-grey-7f0f.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Jaguar X-Type 2.0d",
       "spec": "",
-      "image": "/cars/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp"
+      "image": "/cars/card/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp"
     },
     {
       "number": "02",
       "model": "Jaguar X-Type 2.0 V6",
       "spec": "",
-      "image": "/cars/jaguar-x-type-x400-sport-saloon-20042009-new-radiance-x-type-0fce.webp"
+      "image": "/cars/card/jaguar-x-type-x400-sport-saloon-20042009-new-radiance-x-type-0fce.webp"
     },
     {
       "number": "03",
       "model": "Jaguar X-Type 2.1 V6",
       "spec": "",
-      "image": "/cars/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp"
+      "image": "/cars/card/jaguar-x-type-x400-2-0-v6-se-saloon-20012004-new-zircon-x-ty-1f70.webp"
     },
     {
       "number": "04",
       "model": "Jaguar X-Type 2.5 V6",
       "spec": "",
-      "image": "/cars/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp"
+      "image": "/cars/card/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp"
     },
     {
       "number": "05",
       "model": "Jaguar X-Type 3.0 V6",
       "spec": "",
-      "image": "/cars/jaguar-x-type-x400-3-0-v6-sport-saloon-20012004-new-titanium-ef61.webp"
+      "image": "/cars/card/jaguar-x-type-x400-3-0-v6-sport-saloon-20012004-new-titanium-ef61.webp"
     }
   ],
   "variants": [

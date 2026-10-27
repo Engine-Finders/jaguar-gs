@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ-V6 spans 2.5-litre and 3.0-litre capacities across the S-Type, compatibility comes down to confirming your exact model and year, which we do by registration. A 2.5-litre AJ-V6 isn't a direct swap for a 3.0-litre unit without the corresponding ECU and ancillaries — we confirm your exact spec before any work begins.",
+    "body": "Because the AJ-V6 spans 2.5-litre and 3.0-litre capacities across the S-Type, compatibility comes down to confirming your exact model and year, which we do by registration. A 2.5-litre AJ-V6 isn't a direct swap for a 3.0-litre unit without the corresponding ECU and ancillaries - we confirm your exact spec before any work begins.",
     "points": [
       {
         "icon": "car",
@@ -61,11 +61,11 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ-V6 in the S-Type (X200, 2001–2008)",
+        "heading": "AJ-V6 in the S-Type (X200, 2001-2008)",
         "engine": "AJ-V6",
         "model": "S-Type",
-        "detail": "X200, 2001–2008",
-        "body": "The AJ-V6 in the S-Type is one of the applications we work on regularly, across both the 2.5 V6 and 3.0 V6 variants (2001–2008). Jaguar AJ-V6 by Powertrain Variant AJ-V6 2.5L Applications: S-Type 2.5 V6. Standard rebuild scope — timing chain, bearings, gaskets. AJ-V6 3.0L Applications: S-Type 3.0 V6. Standard rebuild scope — timing chain, bearings, gaskets.",
+        "detail": "X200, 2001-2008",
+        "body": "The AJ-V6 in the S-Type is one of the applications we work on regularly, across both the 2.5 V6 and 3.0 V6 variants (2001-2008). Jaguar AJ-V6 by Powertrain Variant AJ-V6 2.5L Applications: S-Type 2.5 V6. Standard rebuild scope - timing chain, bearings, gaskets. AJ-V6 3.0L Applications: S-Type 3.0 V6. Standard rebuild scope - timing chain, bearings, gaskets.",
         "price": "£3,200",
         "cta": "Check your S-Type AJ-V6"
       }
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar S-Type X200",
       "engine": "AJ-V6 2.5L / 3.0L",
-      "year": "2001 – 2008",
+      "year": "2001 - 2008",
       "price": "£3,200"
     }
   }

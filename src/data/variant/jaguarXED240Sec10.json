@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre turbocharged four-cylinder diesel fitted to the XE D240. Known for timing chain and injector seal wear over time — see the callout above. We replace both as standard on every AJ200D rebuild, along with EGR components and gaskets where necessary.",
+        "body": "A 2.0-litre turbocharged four-cylinder diesel fitted to the XE D240. Known for timing chain and injector seal wear over time - see the callout above. We replace both as standard on every AJ200D rebuild, along with EGR components and gaskets where necessary.",
         "cta": "Check Your AJ200D XE D240",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar XE D240 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The XE D240 uses a single engine family — the Ingenium AJ200D — across its entire production run. However, we still confirm your exact vehicle specification via registration before any work begins to ensure the correct parts and procedures are used for your specific model year and configuration.",
+    "intro": "The XE D240 uses a single engine family - the Ingenium AJ200D - across its entire production run. However, we still confirm your exact vehicle specification via registration before any work begins to ensure the correct parts and procedures are used for your specific model year and configuration.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -41,7 +41,7 @@
   "applications": {
     "titlePre": "Jaguar XE D240 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+    "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -52,7 +52,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -60,9 +60,9 @@
       },
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "X760",
-        "years": "2015–~2020",
+        "years": "2015-~2020",
         "engineCode": "AJ200D",
         "fuel": "Diesel"
       }

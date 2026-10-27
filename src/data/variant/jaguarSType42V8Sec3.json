@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
   "engineImage": "/engines/jaguar-3-0-v6-and-svr-v8-applications-engine.webp",
-  "carImage": "/cars/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp",
+  "carImage": "/cars/card/jaguar-s-type-x200-4-2-v8-saloon-20022007-new-radiance-x200-a4e0.webp",
   "cards": [
     {
       "code": "AJ-V8",
-      "generation": "X200 (1999–2008)",
+      "generation": "X200 (1999-2008)",
       "price": "£4,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar S-Type 4.2 V8 Timing Chain Stretch",
     "titleHighlight": "",
     "paragraphs": [
-      "The S-Type 4.2 V8 uses the AJ-V8 engine. Across its production run, this engine is known for timing chain stretch, typically between 80,000–150,000km, signalled by a cold-start rattle. The chain tensioners and guide rails wear alongside the chain. We replace the timing chain, tensioners, guide rails, and gaskets as standard on every AJ-V8 rebuild."
+      "The S-Type 4.2 V8 uses the AJ-V8 engine. Across its production run, this engine is known for timing chain stretch, typically between 80,000-150,000km, signalled by a cold-start rattle. The chain tensioners and guide rails wear alongside the chain. We replace the timing chain, tensioners, guide rails, and gaskets as standard on every AJ-V8 rebuild."
     ],
     "source": "Source: verified via multiple independent sources (AutoDoc, LR Engine Specialists), per VRF-jaguar-s-type.md. This claim applies to the AJ-V8 4.2L engine."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X200",
       "label": "Generation",
-      "big": "1999–2008",
+      "big": "1999-2008",
       "sub": "Jaguar S-Type 4.2 V8"
     },
     {

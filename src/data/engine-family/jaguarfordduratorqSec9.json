@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The Ford Duratorq appears in a single Jaguar application: the XF 2.2D (X250, 2008–2015) . It was the diesel option for the first-generation XF before the Ingenium diesel family replaced it in the X260 generation. We work on this engine across all X250 XF 2.2D variants.",
+    "body": "The Ford Duratorq appears in a single Jaguar application: the XF 2.2D (X250, 2008-2015) . It was the diesel option for the first-generation XF before the Ingenium diesel family replaced it in the X260 generation. We work on this engine across all X250 XF 2.2D variants.",
     "lineup": [
       {
         "label": "XF",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the Ford Duratorq appears in only one Jaguar application — the XF 2.2D (X250, 2008–2015) — compatibility matching is more straightforward than with engines that span multiple models. However, registration/VIN matching is still required to confirm exact ancillaries, ECU calibration, and year-specific variations. Before we quote or supply anything, we confirm your exact vehicle.",
+    "body": "Because the Ford Duratorq appears in only one Jaguar application - the XF 2.2D (X250, 2008-2015) - compatibility matching is more straightforward than with engines that span multiple models. However, registration/VIN matching is still required to confirm exact ancillaries, ECU calibration, and year-specific variations. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
@@ -61,11 +61,11 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "Ford Duratorq in the XF (X250, 2008–2015)",
+        "heading": "Ford Duratorq in the XF (X250, 2008-2015)",
         "engine": "Ford Duratorq",
         "model": "XF",
-        "detail": "X250, 2008–2015",
-        "body": "The Ford Duratorq in the XF is one of the applications we work on regularly — the 2.2D entry-level diesel option for the X250-generation saloon.",
+        "detail": "X250, 2008-2015",
+        "body": "The Ford Duratorq in the XF is one of the applications we work on regularly - the 2.2D entry-level diesel option for the X250-generation saloon.",
         "price": "£1,900",
         "cta": "Check your XF Ford Duratorq"
       }
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar XF X250",
       "engine": "Ford Duratorq 2.2L",
-      "year": "2008 – 2015",
+      "year": "2008 - 2015",
       "price": "£1,900"
     }
   }

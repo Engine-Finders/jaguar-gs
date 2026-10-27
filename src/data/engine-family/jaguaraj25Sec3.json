@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ25 Applications — ",
+  "titlePre": "Jaguar AJ25 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -25,7 +25,7 @@
       "variant": "2.5 V6",
       "generation": "X400",
       "chassis": "X400",
-      "years": "2001–2009",
+      "years": "2001-2009",
       "powertrain": "",
       "modelHref": "/jaguar-x-type-engines"
     }

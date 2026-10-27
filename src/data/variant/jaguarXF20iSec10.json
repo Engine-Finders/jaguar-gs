@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 2.0i ENGINE",
     "paragraphs": [
-      "The XF 2.0i is part of the X260 generation of the Jaguar XF, introduced in 2015. It uses the Ford EcoBoost 2.0-litre four-cylinder petrol engine — a turbocharged unit shared across several Ford and Jaguar models of that era. The 2.0i was available in early X260 models as a petrol alternative to the diesel-badged variants."
+      "The XF 2.0i is part of the X260 generation of the Jaguar XF, introduced in 2015. It uses the Ford EcoBoost 2.0-litre four-cylinder petrol engine - a turbocharged unit shared across several Ford and Jaguar models of that era. The 2.0i was available in early X260 models as a petrol alternative to the diesel-badged variants."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ford EcoBoost",
         "codeRest": "",
-        "body": "A 2.0L I4 Petrol engine fitted to the XF 2.0i — X260 (2015–present).",
+        "body": "A 2.0L I4 Petrol engine fitted to the XF 2.0i - X260 (2015-present).",
         "cta": "Check Your Ford EcoBoost XF 2.0i",
         "codeHref": "/jaguar-ford-ecoboost-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF 2.0i quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF 2.0i quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 2.0i ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+    "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X260",
-        "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+        "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
         "chassis": "X260",
-        "years": "2015–present",
+        "years": "2015-present",
         "engineCode": "Ford EcoBoost",
         "fuel": "Petrol"
       }

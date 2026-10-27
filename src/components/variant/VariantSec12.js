@@ -4,7 +4,7 @@ import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
-const NOTE = "If your exact specification isn’t listed here, get in touch — we’ll confirm availability directly against your reg.";
+const NOTE = "If your exact specification isn’t listed here, get in touch - we’ll confirm availability directly against your reg.";
 
 // "Jaguar E-Pace D165 2.0 Litre Engine" -> bold "Jaguar E-Pace D165" + regular remainder
 function DetailItem({ text, vehicle, className = "" }) {

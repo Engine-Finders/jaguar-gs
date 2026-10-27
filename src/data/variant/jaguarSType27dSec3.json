@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,900",
   "engineImage": "/engines/jaguar-2-7-litre-v6-diesel-engine.webp",
-  "carImage": "/cars/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp",
+  "carImage": "/cars/card/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp",
   "cards": [
     {
       "code": "",
@@ -15,7 +15,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar S-Type 2.7d Engine Rebuild — From £2,900"
+      "text": "Jaguar S-Type 2.7d Engine Rebuild - From £2,900"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £2,900 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £2,900 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -49,7 +49,7 @@
     {
       "badge": "X200",
       "label": "Generation",
-      "big": "2004–2008",
+      "big": "2004-2008",
       "sub": "Jaguar S-Type 2.7d"
     },
     {

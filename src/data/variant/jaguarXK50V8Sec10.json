@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XK 5.0 V8 ENGINE",
     "paragraphs": [
-      "The XK 5.0 V8 uses the AJ133 — a 5.0-litre naturally aspirated V8 petrol engine. It was fitted from 2005 to 2014 across the X150 generation. The AJ133 is part of Jaguar's third-generation AJ-V8 family, and its timing chain tensioner design is the subject of a documented class-action lawsuit covering this exact engine across multiple JLR models. The XK 5.0 V8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XK 5.0 V8 uses the AJ133 - a 5.0-litre naturally aspirated V8 petrol engine. It was fitted from 2005 to 2014 across the X150 generation. The AJ133 is part of Jaguar's third-generation AJ-V8 family, and its timing chain tensioner design is the subject of a documented class-action lawsuit covering this exact engine across multiple JLR models. The XK 5.0 V8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ133",
         "codeRest": "",
-        "body": "A 5.0L V8 Petrol engine fitted to the XK 5.0 V8 — X150 (2005–2014).",
+        "body": "A 5.0L V8 Petrol engine fitted to the XK 5.0 V8 - X150 (2005-2014).",
         "cta": "Check Your AJ133 XK 5.0 V8",
         "codeHref": "/jaguar-aj133-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XK quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XK quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XK 5.0 V8 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
+    "image": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X150",
-        "image": "/cars/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
+        "image": "/cars/card/jaguar-xk-x150-xk-coupe-coupe-20062011-new-liquid-silver-x15-0f92.webp",
         "chassis": "X150",
-        "years": "2005–2014",
+        "years": "2005-2014",
         "engineCode": "AJ133",
         "fuel": "Petrol"
       }

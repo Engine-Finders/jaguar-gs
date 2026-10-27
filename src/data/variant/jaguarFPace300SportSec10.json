@@ -5,10 +5,10 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace 300 Sport ENGINE",
     "paragraphs": [
-      "The F-Pace 300 Sport is a special-edition variant launched in 2022, positioned as a diesel-focused sporty addition to the F-Pace range alongside the 400 Sport petrol. It uses the Ingenium AJ300D — a 3.0-litre straight-six diesel with mild-hybrid technology, producing 300PS. This is the same engine family used in the F-Pace D300, but in a distinct trim-specific application with its own badging and equipment level. The 300 Sport ran alongside the rest of the F-Pace range from 2022 onwards, offering diesel buyers a more sporting alternative to the standard D300.",
+      "The F-Pace 300 Sport is a special-edition variant launched in 2022, positioned as a diesel-focused sporty addition to the F-Pace range alongside the 400 Sport petrol. It uses the Ingenium AJ300D - a 3.0-litre straight-six diesel with mild-hybrid technology, producing 300PS. This is the same engine family used in the F-Pace D300, but in a distinct trim-specific application with its own badging and equipment level. The 300 Sport ran alongside the rest of the F-Pace range from 2022 onwards, offering diesel buyers a more sporting alternative to the standard D300.",
       "About the Jaguar F-Pace 300 Sport Engine Code",
       "AJ300D",
-      "A 3.0-litre straight-six diesel MHEV fitted to the F-Pace 300 Sport from 2022 to present (X761 generation). This is the same Ingenium diesel six-cylinder used across the wider JLR range, with timing chain wear and injector seal failure as documented wear patterns — see the callout above. We replace timing chains, injector seals, bearings and gaskets as standard on every AJ300D rebuild."
+      "A 3.0-litre straight-six diesel MHEV fitted to the F-Pace 300 Sport from 2022 to present (X761 generation). This is the same Ingenium diesel six-cylinder used across the wider JLR range, with timing chain wear and injector seal failure as documented wear patterns - see the callout above. We replace timing chains, injector seals, bearings and gaskets as standard on every AJ300D rebuild."
     ],
     "boldParagraph": "Check Your AJ300D F-Pace 300 Sport → [link to quote form]"
   },
@@ -20,7 +20,7 @@
       {
         "codeHighlight": "AJ300D",
         "codeRest": "",
-        "body": "A 3.0L I6 Diesel MHEV engine fitted to the F-Pace 300 Sport — X761 (2022–present).",
+        "body": "A 3.0L I6 Diesel MHEV engine fitted to the F-Pace 300 Sport - X761 (2022-present).",
         "cta": "Check Your AJ300D F-Pace 300 Sport",
         "codeHref": "/jaguar-aj300d-engine"
       }
@@ -55,13 +55,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic quote — it protects you from paying for parts that don't fit your actual vehicle.",
+    "footer": "This is why we always start with your registration rather than a generic quote - it protects you from paying for parts that don't fit your actual vehicle.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace 300 Sport ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -72,9 +72,9 @@
     "rows": [
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
         "chassis": "X761",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "AJ300D",
         "fuel": "Diesel MHEV"
       }

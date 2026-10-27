@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Engine Replacement | Jaguar Garage",
-  description: "Professional Jaguar engine replacement services – removal, supply & fit, ECU coding, and full road-test validation. Fixed-price quotes from our Essex workshop.",
+  description: "Professional Jaguar engine replacement services - removal, supply & fit, ECU coding, and full road-test validation. Fixed-price quotes from our Essex workshop.",
   alternates: { canonical: PATH },
 };
 

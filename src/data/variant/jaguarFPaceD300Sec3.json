@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,900",
   "engineImage": "/engines/jaguar-d300-engine.webp",
-  "carImage": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+  "carImage": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
   "cards": [
     {
       "code": "AJ300D (Ingenium)",
-      "generation": "X761 (2016–present)",
+      "generation": "X761 (2016-present)",
       "price": "£2,900"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar F-Pace D300 Engine Rebuild — From £2,900"
+      "text": "Jaguar F-Pace D300 Engine Rebuild - From £2,900"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £2,900 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £2,900 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -44,8 +44,8 @@
     "titlePre": "Jaguar F-Pace D300 Timing Chain Wear ",
     "titleHighlight": "(Ingenium AJ300D)",
     "paragraphs": [
-      "If your F-Pace D300 has the Ingenium AJ300D diesel — fitted across the X761 generation — timing chain wear is a well-documented pattern on this engine family, consistent across Jaguar and Land Rover models using the same Ingenium diesel architecture. We replace the timing chain, tensioners and guides as standard on every AJ300D rebuild, along with injector seals, bearings and gaskets where required.",
-      "The 300 Sport diesel shares the same AJ300D engine and the same pattern — both are covered by our standard rebuild process."
+      "If your F-Pace D300 has the Ingenium AJ300D diesel - fitted across the X761 generation - timing chain wear is a well-documented pattern on this engine family, consistent across Jaguar and Land Rover models using the same Ingenium diesel architecture. We replace the timing chain, tensioners and guides as standard on every AJ300D rebuild, along with injector seals, bearings and gaskets where required.",
+      "The 300 Sport diesel shares the same AJ300D engine and the same pattern - both are covered by our standard rebuild process."
     ],
     "source": "Source: G-BRF Section 5, F-Pace entry. Same broad Ingenium diesel pattern confirmed across XE, XF, F-Pace and E-Pace. Applies to AJ300D in D300 and 300 Sport."
   },
@@ -59,7 +59,7 @@
     {
       "badge": "X761",
       "label": "Generation",
-      "big": "2016–present",
+      "big": "2016-present",
       "sub": "Jaguar F-Pace D300"
     },
     {

@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJD-V6 appears across three Jaguar model lines — S-Type, XF and XJ — with the XF being the most common application we work on."
+      "body": "The AJD-V6 appears across three Jaguar model lines - S-Type, XF and XJ - with the XF being the most common application we work on."
     },
     {
       "icon": "wrench",
@@ -26,15 +26,15 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJD-V6 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJD-V6 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJD-V6 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJD-V6 uses a timing belt, not a chain — the interval is critical, and belt breakage will bend valves. We inspect the timing belt thoroughly on every rebuild and replace it as part of our standard scope. The crankshaft bearing system is another area we pay close attention to, as rapid wear of liners can lead to wedge and crankshaft breakage. Oil cooler leaks through the heat exchanger and injector seal issues are also common — we address these as part of every strip-down.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJD-V6 uses a timing belt, not a chain - the interval is critical, and belt breakage will bend valves. We inspect the timing belt thoroughly on every rebuild and replace it as part of our standard scope. The crankshaft bearing system is another area we pay close attention to, as rapid wear of liners can lead to wedge and crankshaft breakage. Oil cooler leaks through the heat exchanger and injector seal issues are also common - we address these as part of every strip-down.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing belt, bearings, gaskets, oil cooler seals, injector seals, crankshaft oil seals"

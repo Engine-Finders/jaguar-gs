@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-3-0-v6-and-aj-v6-wb-engine.webp",
-  "carImage": "/cars/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
+  "carImage": "/cars/card/jaguar-xk-x100-xk8-coupe-coupe-19962002-new-topaz-x100-xk8-315f.webp",
   "cards": [
     {
       "code": "AJ34",
-      "generation": "X100 (1996–2006)",
+      "generation": "X100 (1996-2006)",
       "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar XKR Timing Chain Tensioner Wear ",
     "titleHighlight": "(X100, AJ34)",
     "paragraphs": [
-      "If your XKR is a 1996–2006 model with the AJ34 supercharged 4.0-litre V8 — that's the X100 generation — timing chain tensioner wear is a well-established pattern on these Nikasil-liner-era engines, confirmed in Jaguar specialist circles. We replace the timing chain, tensioners and guides as standard on every AJ34 rebuild."
+      "If your XKR is a 1996-2006 model with the AJ34 supercharged 4.0-litre V8 - that's the X100 generation - timing chain tensioner wear is a well-established pattern on these Nikasil-liner-era engines, confirmed in Jaguar specialist circles. We replace the timing chain, tensioners and guides as standard on every AJ34 rebuild."
     ],
     "source": "Source: established pattern in Jaguar specialist circles, per VRF-jaguar-xk.md. Confirmed specifically for the X100 generation."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X100",
       "label": "Generation",
-      "big": "1996–2006",
+      "big": "1996-2006",
       "sub": "Jaguar XK XKR (X100)"
     },
     {

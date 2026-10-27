@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar ZSD-420 Applications — ",
+  "titlePre": "Jaguar ZSD-420 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -25,7 +25,7 @@
       "variant": "2.2D",
       "generation": "X400",
       "chassis": "X400",
-      "years": "2008–2010",
+      "years": "2008-2010",
       "powertrain": "",
       "modelHref": "/jaguar-x-type-engines"
     }

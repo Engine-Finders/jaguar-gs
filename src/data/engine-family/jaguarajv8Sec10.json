@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ-V8 spans the S-Type and XJ model lines across naturally aspirated and supercharged variants — a broad range of applications within a single engine family."
+      "body": "The AJ-V8 spans the S-Type and XJ model lines across naturally aspirated and supercharged variants - a broad range of applications within a single engine family."
     },
     {
       "icon": "wrench",
@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "Early AJ-V8 engines (1997–2000) are known for plastic timing chain tensioner failure — the primary guides crack and break off, with pieces ending up in the sump. Cylinder bore problems and Nikasil cylinder lining issues were also present on early engines, resolved by 2002 when later engines used cast-iron linings."
+      "body": "Early AJ-V8 engines (1997-2000) are known for plastic timing chain tensioner failure - the primary guides crack and break off, with pieces ending up in the sump. Cylinder bore problems and Nikasil cylinder lining issues were also present on early engines, resolved by 2002 when later engines used cast-iron linings."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ-V8 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ-V8 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ-V8 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "Early AJ-V8 engines (1997–2000) are known for plastic timing chain tensioner failure — the primary guides crack and break off, with pieces ending up in the sump. We inspect the timing system thoroughly on every rebuild. Supercharged variants (XJR, S-Type R) require additional specialist attention beyond the naturally aspirated scope.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "Early AJ-V8 engines (1997-2000) are known for plastic timing chain tensioner failure - the primary guides crack and break off, with pieces ending up in the sump. We inspect the timing system thoroughly on every rebuild. Supercharged variants (XJR, S-Type R) require additional specialist attention beyond the naturally aspirated scope.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain, tensioners, guides, bearings, gaskets, plus supercharger components on AJ27S/AJ33S applications"

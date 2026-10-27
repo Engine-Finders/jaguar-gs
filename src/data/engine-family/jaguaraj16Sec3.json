@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ16 Applications — ",
+  "titlePre": "Jaguar AJ16 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "XJ6",
       "generation": "X300",
       "chassis": "X300",
-      "years": "1994–1997",
+      "years": "1994-1997",
       "powertrain": "Petrol",
       "modelHref": "/jaguar-xj-engines"
     }

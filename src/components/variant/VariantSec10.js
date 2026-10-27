@@ -4,6 +4,7 @@ import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 import MobileSplitTitle from "@/components/variant/MobileSplitTitle";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec10({ data }) {
   const { about, codes, compatibility, applications } = data;
@@ -87,12 +88,12 @@ export default function VariantSec10({ data }) {
                     <span className="text-lg text-white">{c.codeRest}</span>
                   </p>
                   <p className="mt-2 text-xs leading-snug text-white">{c.body}</p>
-                  <a
+                  <QuoteLink
                     href="#quote-form"
                     className="btn-text mt-3 inline-flex items-center gap-1.5 rounded-lg bg-white/10 px-4 py-2.5 uppercase text-white transition-colors hover:bg-white/20"
                   >
                     {c.cta} <span aria-hidden>→</span>
-                  </a>
+                  </QuoteLink>
                 </div>
               </div>
             ))}
@@ -128,12 +129,12 @@ export default function VariantSec10({ data }) {
                       <span className="text-xl text-white">{c.codeRest}</span>
                     </p>
                     <p className="text-sm leading-relaxed text-white">{c.body}</p>
-                    <a
+                    <QuoteLink
                       href="#quote-form"
                       className="mt-1 inline-flex w-fit items-center gap-2 rounded-lg bg-white/10 px-6 py-3 text-sm font-bold uppercase text-white transition-colors hover:bg-white/20"
                     >
                       {c.cta} <span aria-hidden>→</span>
-                    </a>
+                    </QuoteLink>
                   </div>
                 </div>
               ))}

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/engines-2-0-ingenium-petrol-engine.webp",
-  "carImage": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+  "carImage": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
   "cards": [
     {
       "code": "AJ200P",
-      "generation": "X760 (2015–present)",
+      "generation": "X760 (2015-present)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X760",
       "label": "Generation",
-      "big": "2015–present",
+      "big": "2015-present",
       "sub": "Jaguar XE P300"
     },
     {

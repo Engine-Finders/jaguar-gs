@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ200P Applications — ",
+  "titlePre": "Jaguar AJ200P Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "P250, P300",
       "generation": "X761",
       "chassis": "X761",
-      "years": "2016–present",
+      "years": "2016-present",
       "powertrain": "Petrol",
       "modelHref": "/jaguar-f-pace-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "P250, P300",
       "generation": "X760",
       "chassis": "X760",
-      "years": "2016–present",
+      "years": "2016-present",
       "powertrain": "Petrol",
       "modelHref": "/jaguar-xe-engines"
     }

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£5,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+  "carImage": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
   "cards": [
     {
       "code": "AJ133S",
-      "generation": "X250 (2011–2015)",
+      "generation": "X250 (2011-2015)",
       "price": "£5,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,9 +28,9 @@
     "titlePre": "Jaguar XFR Timing Chain Tensioner Wear ",
     "titleHighlight": "(X250, AJ133S)",
     "paragraphs": [
-      "If your XFR is a 2011–2015 model with the AJ133S supercharged 5.0-litre V8 — that's the X250 generation — timing chain tensioner and guide wear is a well-documented design flaw on this engine, subject to a US class-action lawsuit covering this exact engine across multiple JLR models of the era (2012–2014 in particular). We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild."
+      "If your XFR is a 2011-2015 model with the AJ133S supercharged 5.0-litre V8 - that's the X250 generation - timing chain tensioner and guide wear is a well-documented design flaw on this engine, subject to a US class-action lawsuit covering this exact engine across multiple JLR models of the era (2012-2014 in particular). We replace the timing chain, tensioners, guides and water pump as standard on every AJ133S rebuild."
     ],
-    "source": "Source: verified via rrsport.co.uk lawsuit reference and multiple independent sources (kmotors.co.uk, au7o.io, TopSpeed reliability ranking), per G-BRF-Jaguar.md and VRF-jaguar-xf.md. AJ133S explicitly confirmed as affected for X250 XFR, 2011–2015."
+    "source": "Source: verified via rrsport.co.uk lawsuit reference and multiple independent sources (kmotors.co.uk, au7o.io, TopSpeed reliability ranking), per G-BRF-Jaguar.md and VRF-jaguar-xf.md. AJ133S explicitly confirmed as affected for X250 XFR, 2011-2015."
   },
   "tiles": [
     {
@@ -42,7 +42,7 @@
     {
       "badge": "X250",
       "label": "Generation",
-      "big": "2011–2015",
+      "big": "2011-2015",
       "sub": "Jaguar XF XFR 5.0 Supercharged V8"
     },
     {

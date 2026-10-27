@@ -32,7 +32,7 @@
     {
       "icon": "gauge",
       "label": "Capacity",
-      "value": "3.2L–4.0L"
+      "value": "3.2L-4.0L"
     },
     {
       "icon": "calendar",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XJ6 used the AJ16 inline-6 across both generations — enter your registration below and we’ll confirm your exact spec before you get a quote.",
+    "body": "The XJ6 used the AJ16 inline-6 across both generations - enter your registration below and we’ll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

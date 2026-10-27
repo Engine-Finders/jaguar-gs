@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The Ford Duratorq appears in a single Jaguar application — the XF 2.2D (X250, 2008–2015)."
+      "body": "The Ford Duratorq appears in a single Jaguar application - the XF 2.2D (X250, 2008-2015)."
     },
     {
       "icon": "wrench",
@@ -26,14 +26,14 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed Ford Duratorq rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed Ford Duratorq rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR FORD DURATORQ REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
     "body": "The Ford Duratorq's timing chain system is inspected thoroughly during every rebuild. EGR valve and cooler inspection is standard, as is DPF component inspection. Turbocharger and high-pressure fuel pump condition are both measured and assessed. On higher-mileage examples, injector seal condition is a particular focus.",
     "scope": {
       "label": "Typical Scope:",

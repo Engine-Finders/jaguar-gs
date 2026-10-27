@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X100 (1996–2006)"
+      "value": "X100 (1996-2006)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XKR X100 uses the AJ34 supercharged 4.0-litre V8 — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XKR X100 uses the AJ34 supercharged 4.0-litre V8 - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF P300 ENGINE",
     "paragraphs": [
-      "The XF P300 is the current performance-oriented petrol variant of the X260-generation XF, introduced as part of the Ingenium engine family. It uses the AJ200 — a 2.0-litre four-cylinder turbocharged petrol engine, developed as part of Jaguar Land Rover's modular Ingenium architecture. The AJ200 is a different unit from the earlier Ford-sourced EcoBoost petrol engines used in the X250 generation, and from the Ingenium diesel units fitted to other X260 variants. The petrol Ingenium is widely regarded as a robust, generally reliable unit."
+      "The XF P300 is the current performance-oriented petrol variant of the X260-generation XF, introduced as part of the Ingenium engine family. It uses the AJ200 - a 2.0-litre four-cylinder turbocharged petrol engine, developed as part of Jaguar Land Rover's modular Ingenium architecture. The AJ200 is a different unit from the earlier Ford-sourced EcoBoost petrol engines used in the X250 generation, and from the Ingenium diesel units fitted to other X260 variants. The petrol Ingenium is widely regarded as a robust, generally reliable unit."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200",
         "codeRest": "",
-        "body": "A 2.0L I4 Petrol engine fitted to the XF P300 — X260 (2015–present).",
+        "body": "A 2.0L I4 Petrol engine fitted to the XF P300 - X260 (2015-present).",
         "cta": "Check Your AJ200 XF P300",
         "codeHref": "/jaguar-aj200-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar XF P300 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the XF has spanned two distinct generations with multiple engine families — Ford-sourced EcoBoost petrol units in the early X250, AJ126 supercharged V6s, and then Ingenium petrol and diesel engines in the X260 — getting the right engine for your specific car matters. Before we quote or supply anything, we confirm:",
+    "intro": "Because the XF has spanned two distinct generations with multiple engine families - Ford-sourced EcoBoost petrol units in the early X250, AJ126 supercharged V6s, and then Ingenium petrol and diesel engines in the X260 - getting the right engine for your specific car matters. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF P300 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+    "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X260",
-        "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+        "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
         "chassis": "X260",
-        "years": "2015–present",
+        "years": "2015-present",
         "engineCode": "AJ200",
         "fuel": "Petrol"
       }

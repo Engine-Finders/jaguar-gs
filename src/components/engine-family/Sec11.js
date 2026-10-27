@@ -5,6 +5,8 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
+import QuoteLink from "@/components/shared/QuoteLink";
+import FormSelect from "@/components/reusable/FormSelect";
 
 const OPTION_RESULT = ["Our rebuild service is exactly that.", "Our rebuild service covers this.", "That’s consistent with what our rebuild service delivers."];
 const FEATURES = [
@@ -133,9 +135,9 @@ export default function Sec11({ data }) {
                 <p className="text-3xl font-extrabold leading-tight text-[#111111]">{costBanner.startingFromPrice}</p>
               </div>
               <div className="min-w-0 flex-1">
-                <a href="#quote-form" className="flex items-center justify-center gap-2 rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-4 py-3 text-xs font-bold uppercase text-white shadow-lg">
+                <QuoteLink href="#quote-form" className="flex items-center justify-center gap-2 rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-4 py-3 text-xs font-bold uppercase text-white shadow-lg">
                   Submit your registration <span aria-hidden>→</span>
-                </a>
+                </QuoteLink>
                 <p className="mt-1 text-[11px] text-[#333333]">Get a fixed-price quote within 30 minutes.</p>
               </div>
             </div>
@@ -173,9 +175,9 @@ export default function Sec11({ data }) {
                     <p className="text-5xl font-extrabold leading-tight text-[#111111]">{costBanner.startingFromPrice}</p>
                   </div>
                   <div>
-                    <a href="#quote-form" className="flex items-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-7 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]">
+                    <QuoteLink href="#quote-form" className="flex items-center gap-2 whitespace-nowrap rounded-lg bg-linear-to-b from-[#2a2a2c] to-[#0d0d0d] px-7 py-3.5 text-sm font-bold uppercase text-white shadow-lg transition-transform hover:scale-[1.02]">
                       Submit your registration <span aria-hidden>→</span>
-                    </a>
+                    </QuoteLink>
                     <p className="mt-2 text-xs text-[#333333]">Get a fixed-price quote within 30 minutes.</p>
                   </div>
                 </div>
@@ -225,9 +227,9 @@ export default function Sec11({ data }) {
             ))}
           </div>
           <div className="mt-6 text-center">
-            <a href={comparison.cta.href} className="glass-card-dark inline-flex items-center justify-center rounded-lg px-6 py-3 text-xs font-bold uppercase text-white">
+            <QuoteLink href={comparison.cta.href} className="glass-card-dark inline-flex items-center justify-center rounded-lg px-6 py-3 text-xs font-bold uppercase text-white">
               {comparison.cta.label}
-            </a>
+            </QuoteLink>
             <p className="mt-2 text-xs text-white">Enter your registration and we’ll talk you through both options honestly.</p>
           </div>
         </div>
@@ -290,9 +292,9 @@ export default function Sec11({ data }) {
             </div>
 
             <div className="mt-8 text-center">
-              <a href={comparison.cta.href} className="glass-card-dark inline-flex items-center justify-center rounded-lg px-12 py-3.5 text-sm font-bold uppercase text-white transition-colors hover:bg-white/10">
+              <QuoteLink href={comparison.cta.href} className="glass-card-dark inline-flex items-center justify-center rounded-lg px-12 py-3.5 text-sm font-bold uppercase text-white transition-colors hover:bg-white/10">
                 {comparison.cta.label}
-              </a>
+              </QuoteLink>
               <p className="mt-3 text-sm text-white">Enter your registration and we’ll talk you through both options honestly.</p>
             </div>
           </div>
@@ -434,13 +436,7 @@ export default function Sec11({ data }) {
             <Field name="number" icon="phone" placeholder={quote.fields.phone.label} type="tel" />
             <Field name="email" icon="note" placeholder={quote.fields.email.label} type="email" />
             <label className="relative block">
-              <select name="description" required className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm uppercase tracking-wide text-white/80 outline-none">
-                <option value="">{quote.fields.enquiry.label}</option>
-                {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
-                  <option key={o} value={o}>{o}</option>
-                ))}
-              </select>
-              <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
+              <FormSelect name="description" required theme="dark" placeholder={quote.fields.enquiry.label} options={["Engine Failure", "Replacement Needed", "General Enquiry"]} className="h-12 rounded-lg border border-white/15 bg-white/5 px-4 text-sm uppercase tracking-wide text-white/80" />
             </label>
             <button type="submit" disabled={lead.status === "loading"} className="btn-chrome flex h-12 w-full items-center justify-center gap-2 rounded-lg text-sm font-extrabold uppercase">
               Get my quote <span aria-hidden>→</span>
@@ -496,13 +492,7 @@ export default function Sec11({ data }) {
               </div>
               <Field name="email" icon="note" placeholder={quote.fields.email.label} type="email" />
               <label className="relative block">
-                <select name="description" required className="h-12 w-full appearance-none rounded-lg border border-white/15 bg-white/5 px-4 pr-10 text-sm uppercase tracking-wide text-white/80 outline-none">
-                  <option value="">{quote.fields.enquiry.label}</option>
-                  {["Engine Failure", "Replacement Needed", "General Enquiry"].map((o) => (
-                    <option key={o} value={o}>{o}</option>
-                  ))}
-                </select>
-                <Icon name="chevron-down" className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white" />
+                <FormSelect name="description" required theme="dark" placeholder={quote.fields.enquiry.label} options={["Engine Failure", "Replacement Needed", "General Enquiry"]} className="h-12 rounded-lg border border-white/15 bg-white/5 px-4 text-sm uppercase tracking-wide text-white/80" />
               </label>
               <button type="submit" disabled={lead.status === "loading"} className="btn-chrome flex h-14 w-full items-center justify-center gap-2 rounded-lg text-sm font-extrabold uppercase">
                 Get my quote <span aria-hidden>→</span>

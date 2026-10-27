@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£4,500",
   "engineImage": "/engines/jaguar-aj133-engine.webp",
-  "carImage": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+  "carImage": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
   "cards": [
     {
       "code": "AJ133",
-      "generation": "X351 (2009–2019)",
+      "generation": "X351 (2009-2019)",
       "price": "£4,500"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar XJ 5.0 V8 Timing Chain Tensioner & Water Pump ",
     "titleHighlight": "(X351, AJ133)",
     "paragraphs": [
-      "If your XJ 5.0 V8 is a 2009–2019 model with the AJ133 5.0-litre V8 — that's the X351 generation — timing chain tensioner and guide wear is a well-documented design flaw on this engine, confirmed by multiple independent sources and subject to a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time and can fail with no warning. We replace the timing chain, tensioners and guides as standard on every AJ133 rebuild.",
+      "If your XJ 5.0 V8 is a 2009-2019 model with the AJ133 5.0-litre V8 - that's the X351 generation - timing chain tensioner and guide wear is a well-documented design flaw on this engine, confirmed by multiple independent sources and subject to a US class-action lawsuit covering this exact engine across multiple JLR models. The hardened steel tensioner piston wears an aluminium guide button over time and can fail with no warning. We replace the timing chain, tensioners and guides as standard on every AJ133 rebuild.",
       "Water pump bearing and seal failure is also documented on this engine, sometimes under 20,000 miles due to coolant ingress. We inspect and replace the water pump where needed as part of the rebuild."
     ],
     "source": "Source: verified via multiple independent sources (kmotors.co.uk, rrsport.co.uk lawsuit reference, TopSpeed reliability ranking), per VRF-jaguar-xj.md. Applies to AJ133/AJ133S in X351 generation only; diesel V6 and earlier X300/X308/X350 generations explicitly excluded from this claim."
@@ -43,7 +43,7 @@
     {
       "badge": "X351",
       "label": "Generation",
-      "big": "2009–2019",
+      "big": "2009-2019",
       "sub": "Jaguar XJ 5.0 V8"
     },
     {

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF P250 ENGINE",
     "paragraphs": [
-      "The XF P250 is part of the X260 generation, which launched in 2015 and remains in production. It uses the Ingenium AJ200 — a 2.0-litre four-cylinder petrol engine that's part of Jaguar Land Rover's modular engine family. This is the modern petrol unit for the XF range, positioned as the entry-level petrol option alongside the higher-output P300 and the diesel variants. Unlike the diesel-badged X260 variants, which share the Ingenium timing chain pattern, the P250's petrol engine has no independently confirmed wide-scale known issue pattern — it's considered generally reliable within the broader Ingenium family."
+      "The XF P250 is part of the X260 generation, which launched in 2015 and remains in production. It uses the Ingenium AJ200 - a 2.0-litre four-cylinder petrol engine that's part of Jaguar Land Rover's modular engine family. This is the modern petrol unit for the XF range, positioned as the entry-level petrol option alongside the higher-output P300 and the diesel variants. Unlike the diesel-badged X260 variants, which share the Ingenium timing chain pattern, the P250's petrol engine has no independently confirmed wide-scale known issue pattern - it's considered generally reliable within the broader Ingenium family."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ingenium AJ200",
         "codeRest": "",
-        "body": "A 2.0L I4 Petrol engine fitted to the XF P250 — X260 (2015–present).",
+        "body": "A 2.0L I4 Petrol engine fitted to the XF P250 - X260 (2015-present).",
         "cta": "Check Your Ingenium AJ200 XF P250"
       }
     ]
@@ -25,7 +25,7 @@
   "compatibility": {
     "titlePre": "Jaguar XF P250 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The XF P250 uses the Ingenium AJ200 petrol engine across the X260 generation, which is a modular design shared with other Jaguar and Land Rover models of the same era. However, the 2.0-litre petrol is a different unit from the diesel version (AJ200D) — they're not interchangeable, and the engine management, fuel system, ancillaries and even the rebuild specifications differ. Before we quote or supply anything, we confirm:",
+    "intro": "The XF P250 uses the Ingenium AJ200 petrol engine across the X260 generation, which is a modular design shared with other Jaguar and Land Rover models of the same era. However, the 2.0-litre petrol is a different unit from the diesel version (AJ200D) - they're not interchangeable, and the engine management, fuel system, ancillaries and even the rebuild specifications differ. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -40,7 +40,7 @@
       },
       {
         "icon": "car",
-        "text": "Your generation (X260, 2015–present)"
+        "text": "Your generation (X260, 2015-present)"
       },
       {
         "icon": "gear",
@@ -51,13 +51,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "JAGUAR XF P250 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+    "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "generation",
-        "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+        "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
         "chassis": "generation",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "[MISSING: engine code not confirmed]",
         "fuel": "Petrol"
       }

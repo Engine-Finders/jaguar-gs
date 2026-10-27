@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XJ8 ENGINE",
     "paragraphs": [
-      "The XJ8 was a key part of Jaguar's XJ range through the late 1990s and 2000s, offering V8 power in a more accessible package than the supercharged XJR. It used the naturally aspirated AJ-V8 engine across two generations — the X308 (1997–2003) and the X350 (2002–2009) — with capacities ranging from 3.2 litres to 4.0 litres depending on the market and specification. The AJ-V8 was Jaguar's first all-new V8 design, and while it's a robust engine overall, timing chain components and valve seals are common service items at higher mileage. The XJ8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XJ8 was a key part of Jaguar's XJ range through the late 1990s and 2000s, offering V8 power in a more accessible package than the supercharged XJR. It used the naturally aspirated AJ-V8 engine across two generations - the X308 (1997-2003) and the X350 (2002-2009) - with capacities ranging from 3.2 litres to 4.0 litres depending on the market and specification. The AJ-V8 was Jaguar's first all-new V8 design, and while it's a robust engine overall, timing chain components and valve seals are common service items at higher mileage. The XJ8 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ-V8 (naturally aspirated) engines for every XJ8 on the road."
   },
@@ -52,13 +52,13 @@
         "text": "Any ancillary or ECU variations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XJ8 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XJ8 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XJ8 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp",
+    "image": "/cars/card/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,17 +69,17 @@
     "rows": [
       {
         "generation": "X308",
-        "image": "/cars/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
+        "image": "/cars/card/jaguar-xj-x308-xj8-sovereign-saloon-19972003-new-emerald-fir-21f8.webp",
         "chassis": "X308",
-        "years": "1997–2003",
+        "years": "1997-2003",
         "engineCode": "AJ-V8 (3.2L/4.0L)",
         "fuel": "Petrol"
       },
       {
         "generation": "X350",
-        "image": "/cars/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp",
+        "image": "/cars/card/jaguar-xj-x350-xj6-saloon-20032007-new-zircon-x350-xj6-0120.webp",
         "chassis": "X350",
-        "years": "2002–2009",
+        "years": "2002-2009",
         "engineCode": "AJ-V8 (4.0L)",
         "fuel": "Petrol"
       }

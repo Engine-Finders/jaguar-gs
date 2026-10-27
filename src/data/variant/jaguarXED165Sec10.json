@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE D165 ENGINE",
     "paragraphs": [
-      "The XE D165 uses the Ingenium AJ200D — a 2.0-litre four-cylinder diesel. It was fitted from 2015 until the diesel was dropped from the UK and NA range around 2020, across the X760 generation. The D165 sits in the middle of Jaguar's diesel output tiers for the XE, between the lower-output D150 and the higher-output D180/D200/D240 variants. The XE D165 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XE D165 uses the Ingenium AJ200D - a 2.0-litre four-cylinder diesel. It was fitted from 2015 until the diesel was dropped from the UK and NA range around 2020, across the X760 generation. The D165 sits in the middle of Jaguar's diesel output tiers for the XE, between the lower-output D150 and the higher-output D180/D200/D240 variants. The XE D165 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200D (Ingenium)",
         "codeRest": "",
-        "body": "A 2.0L I4 Diesel engine fitted to the XE D165 — X760 (2015–~2020).",
+        "body": "A 2.0L I4 Diesel engine fitted to the XE D165 - X760 (2015-~2020).",
         "cta": "Check Your AJ200D (Ingenium) XE D165",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XE D165 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XE D165 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XE D165 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+    "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+        "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
         "chassis": "X760",
-        "years": "2015–~2020",
+        "years": "2015-~2020",
         "engineCode": "AJ200D (Ingenium)",
         "fuel": "Diesel"
       }

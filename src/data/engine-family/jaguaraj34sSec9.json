@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ34S is fitted to the XF XFR (X250, 2008–2015), producing 420 hp. This is a single-application engine — the supercharged 4.2-litre V8 was reserved exclusively for the XFR variant during this generation.",
+    "body": "The AJ34S is fitted to the XF XFR (X250, 2008-2015), producing 420 hp. This is a single-application engine - the supercharged 4.2-litre V8 was reserved exclusively for the XFR variant during this generation.",
     "lineup": [
       {
         "label": "XF",
@@ -61,11 +61,11 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ34S in the XF XFR (X250, 2008–2015)",
+        "heading": "AJ34S in the XF XFR (X250, 2008-2015)",
         "engine": "AJ34S",
         "model": "XF XFR",
-        "detail": "X250, 2008–2015",
-        "body": "The AJ34S in the XF XFR is one of the applications we work on regularly — the supercharged 4.2-litre V8 was reserved exclusively for this high-performance saloon variant. Data-Rich Details: Model: XF Variant: XFR Generation: X250 Chassis: X250 Years: 2008–2015 Powertrain: Supercharged V8",
+        "detail": "X250, 2008-2015",
+        "body": "The AJ34S in the XF XFR is one of the applications we work on regularly - the supercharged 4.2-litre V8 was reserved exclusively for this high-performance saloon variant. Data-Rich Details: Model: XF Variant: XFR Generation: X250 Chassis: X250 Years: 2008-2015 Powertrain: Supercharged V8",
         "price": "£5,500",
         "cta": "Check your XF XFR AJ34S"
       }
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar XF X250",
       "engine": "AJ34S 4.2L",
-      "year": "2008 – 2015",
+      "year": "2008 - 2015",
       "price": "£5,500"
     }
   }

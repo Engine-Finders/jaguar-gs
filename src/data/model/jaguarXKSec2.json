@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Jaguar XK AJ-V8|Timing Chain Tensioner Issue?|",
-  "description": "If your XK is a 2012–2014 X150-generation car with the 5.0L AJ133 engine, timing chain tensioner failure is the single most frequently reported issue by owners, based on independent analysis of over 2,500 owner reports. It's part of the same design flaw that led to a US class-action lawsuit covering this engine across multiple Jaguar and Land Rover models. Earlier X100-era 4.0/4.2L V8s have their own separate, well-established timing chain tensioner wear pattern.",
+  "description": "If your XK is a 2012-2014 X150-generation car with the 5.0L AJ133 engine, timing chain tensioner failure is the single most frequently reported issue by owners, based on independent analysis of over 2,500 owner reports. It's part of the same design flaw that led to a US class-action lawsuit covering this engine across multiple Jaguar and Land Rover models. Earlier X100-era 4.0/4.2L V8s have their own separate, well-established timing chain tensioner wear pattern.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: AJ26/AJ27 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+    "body": "Yes - both verified: AJ26/AJ27 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

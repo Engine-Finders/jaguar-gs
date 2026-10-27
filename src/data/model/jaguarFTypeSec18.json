@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all Jaguar F-Type models?",
-      "a": "Yes — we rebuild and replace engines across the full range, from the Ingenium 4-cylinder through the supercharged V6 to the supercharged V8 in the R and SVR."
+      "a": "Yes - we rebuild and replace engines across the full range, from the Ingenium 4-cylinder through the supercharged V6 to the supercharged V8 in the R and SVR."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a Jaguar F-Type engine rebuild cost?",
-      "a": "4-cylinder rebuilds start from £2,200, V6 from £3,600, and V8 from £6,500. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "4-cylinder rebuilds start from £2,200, V6 from £3,600, and V8 from £6,500. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
-      "q": "Is my 2012–2014 F-Type V8 affected by the timing chain lawsuit?",
-      "a": "Possibly — that model year range with the AJ133 5.0L supercharged V8 is directly named in the same lawsuit scope as the equivalent XJ, XK and XF. Submit your reg and we'll confirm your exact spec before quoting."
+      "q": "Is my 2012-2014 F-Type V8 affected by the timing chain lawsuit?",
+      "a": "Possibly - that model year range with the AJ133 5.0L supercharged V8 is directly named in the same lawsuit scope as the equivalent XJ, XK and XF. Submit your reg and we'll confirm your exact spec before quoting."
     }
   ],
   "form": {

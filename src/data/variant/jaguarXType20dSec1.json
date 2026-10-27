@@ -1,10 +1,10 @@
 {
   "kicker": "Jaguar X-Type 2.0d Specialists",
-  "h1": "Jaguar X-Type 2.0d|Engine Rebuild —|From £1,900",
+  "h1": "Jaguar X-Type 2.0d|Engine Rebuild -|From £1,900",
   "subhead": "Jaguar X-Type 2.0d engine rebuilds from £1,900. Specialist ZSD-420 Diesel engine specialists. 12-month unlimited-mileage warranty, nationwide recovery, registration matching. Free quote in 30 mins.",
   "rating": {
     "stars": 5,
-    "label": "Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £1,900 —",
+    "kicker": "Starting from £1,900 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

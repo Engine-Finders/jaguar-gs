@@ -5,7 +5,7 @@ import Image from "next/image";
 // derived from the leaper's 111:60 aspect ratio so it is never squashed
 // into the square box the earlier tri-star emblem needed.
 //
-// Image `fill` needs *some* positioning context on this wrapper — normally
+// Image `fill` needs *some* positioning context on this wrapper - normally
 // "relative", but callers that need to position the whole logo themselves
 // (e.g. "absolute ... -translate-x-1/2") pass their own position utility, and
 // forcing "relative" here too made both classes compete for the CSS

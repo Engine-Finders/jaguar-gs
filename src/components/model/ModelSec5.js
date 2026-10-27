@@ -1,4 +1,5 @@
 import Image from "next/image";
+import QuoteLink from "@/components/shared/QuoteLink";
 import Icon from "@/components/reusable/Icon";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
@@ -127,9 +128,9 @@ export default function ModelSec5({ data }) {
               <p className="label-text font-extrabold uppercase leading-tight text-white">{data.cta.text}</p>
             </div>
 
-            <a href={data.cta.href} className="btn-text btn-chrome shrink-0 rounded-lg px-4 py-2.5 uppercase transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
+            <QuoteLink href={data.cta.href} className="btn-text btn-chrome shrink-0 rounded-lg px-4 py-2.5 uppercase transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
               {data.cta.buttonLabel} →
-            </a>
+            </QuoteLink>
           </div>
         </div>
       </div>

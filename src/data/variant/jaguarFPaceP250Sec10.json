@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace P250 ENGINE",
     "paragraphs": [
-      "The F-Pace P250 has been part of the Jaguar SUV range since the model's launch in 2016. It uses the Ingenium AJ200P — a 2.0-litre turbocharged four-cylinder petrol engine, part of Jaguar Land Rover's modular Ingenium family introduced in 2015. The P250 represents the highest-output 2.0-litre petrol variant in the F-Pace line-up, positioned between the discontinued P340 V6 and the P400 six-cylinder above it. It remains a current variant across the X761 generation."
+      "The F-Pace P250 has been part of the Jaguar SUV range since the model's launch in 2016. It uses the Ingenium AJ200P - a 2.0-litre turbocharged four-cylinder petrol engine, part of Jaguar Land Rover's modular Ingenium family introduced in 2015. The P250 represents the highest-output 2.0-litre petrol variant in the F-Pace line-up, positioned between the discontinued P340 V6 and the P400 six-cylinder above it. It remains a current variant across the X761 generation."
     ],
     "boldParagraph": "}"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ingenium AJ200P",
         "codeRest": "",
-        "body": "A 2.0L Petrol engine fitted to the F-Pace P250 — X761 (2016–present).",
+        "body": "A 2.0L Petrol engine fitted to the F-Pace P250 - X761 (2016-present).",
         "cta": "Check Your Ingenium AJ200P F-Pace P250"
       }
     ]
@@ -25,7 +25,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Pace P250 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "Because the F-Pace P250 uses a single consistent engine family across its production run, compatibility confirmation is straightforward — but still essential before any rebuild or replacement begins. We confirm:",
+    "intro": "Because the F-Pace P250 uses a single consistent engine family across its production run, compatibility confirmation is straightforward - but still essential before any rebuild or replacement begins. We confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -47,13 +47,13 @@
         "text": "Any specific component revisions or updates that apply to your model year"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car's exact build date.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote - it protects you from paying for parts that don't fit your actual car's exact build date.",
     "lead": ""
   },
   "applications": {
     "titlePre": "JAGUAR F-Pace P250 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -64,9 +64,9 @@
     "rows": [
       {
         "generation": "generation",
-        "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
         "chassis": "generation",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "[MISSING: engine code not confirmed]",
         "fuel": "Petrol"
       }

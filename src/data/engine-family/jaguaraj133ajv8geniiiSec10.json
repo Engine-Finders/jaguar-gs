@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ133 is one of the highest-performance engines we work on — spanning six model lines from the XF and XJ through to the F-Type and F-Pace SVR, in both naturally aspirated and supercharged forms."
+      "body": "The AJ133 is one of the highest-performance engines we work on - spanning six model lines from the XF and XJ through to the F-Type and F-Pace SVR, in both naturally aspirated and supercharged forms."
     },
     {
       "icon": "wrench",
@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "Early AJ133 engines (2009–2012) are known for timing chain tensioner failure — the tensioners and guide rails were not strong enough, and early engines with 15,000-mile oil change intervals are most affected. Cooling system leaks are also common, with pipes, hoses, connectors, and water pumps all documented failure points. Supercharger coupler wear is a known source of rattling noise. These are confirmed issues we inspect for on every AJ133 rebuild."
+      "body": "Early AJ133 engines (2009-2012) are known for timing chain tensioner failure - the tensioners and guide rails were not strong enough, and early engines with 15,000-mile oil change intervals are most affected. Cooling system leaks are also common, with pipes, hoses, connectors, and water pumps all documented failure points. Supercharger coupler wear is a known source of rattling noise. These are confirmed issues we inspect for on every AJ133 rebuild."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ133 (AJ-V8 Gen III) rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ133 (AJ-V8 Gen III) rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ133 (AJ-V8 GEN III) REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ133's timing chain system is a known critical wear point, particularly on early engines (2009–2012). We inspect it thoroughly on every rebuild. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside. Plastic coolant pipes and heat exchangers are known failure points and are inspected during strip-down. Full engine replacements require DME software matching.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ133's timing chain system is a known critical wear point, particularly on early engines (2009-2012). We inspect it thoroughly on every rebuild. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside. Plastic coolant pipes and heat exchangers are known failure points and are inspected during strip-down. Full engine replacements require DME software matching.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain components, bearings, gaskets, supercharger coupler (where applicable), cooling system inspection, DME software matching"

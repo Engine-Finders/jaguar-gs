@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace D180 ENGINE",
     "paragraphs": [
-      "The F-Pace D180 is a 2.0-litre diesel variant of Jaguar's X761-generation SUV, produced from 2016 to 2025. It uses the Ingenium AJ200D, a 2.0-litre four-cylinder diesel engine from Jaguar Land Rover's modern modular engine family. The AJ200D was designed as a modern, clean diesel, but like many common-rail diesel engines, it has known wear points at higher mileages—specifically on the timing chain and injector seals. The F-Pace D180 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The F-Pace D180 is a 2.0-litre diesel variant of Jaguar's X761-generation SUV, produced from 2016 to 2025. It uses the Ingenium AJ200D, a 2.0-litre four-cylinder diesel engine from Jaguar Land Rover's modern modular engine family. The AJ200D was designed as a modern, clean diesel, but like many common-rail diesel engines, it has known wear points at higher mileages-specifically on the timing chain and injector seals. The F-Pace D180 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace engine engines for every F-Pace D180 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the F-Pace D180 from 2016 to 2025 (X761 generation). Known for timing chain and injector seal wear over time — see the callout above. We replace the timing chain, injector seals, EGR components, and gaskets as standard on every AJ200D rebuild.",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the F-Pace D180 from 2016 to 2025 (X761 generation). Known for timing chain and injector seal wear over time - see the callout above. We replace the timing chain, injector seals, EGR components, and gaskets as standard on every AJ200D rebuild.",
         "cta": "Check Your AJ200D F-Pace D180",
         "codeHref": "/jaguar-aj200d-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace D180 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace D180 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace D180 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,7 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -77,9 +77,9 @@
       },
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
         "chassis": "X761",
-        "years": "2016–2025",
+        "years": "2016-2025",
         "engineCode": "AJ200D",
         "fuel": "Diesel"
       }

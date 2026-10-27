@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-aj200d-engine.webp",
-  "carImage": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+  "carImage": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
   "cards": [
     {
       "code": "Ingenium AJ200D",
-      "generation": "X260 (2015–~2020)",
+      "generation": "X260 (2015-~2020)",
       "price": "£2,000"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,8 +28,8 @@
     "titlePre": "Jaguar XF 2.0d Ingenium Diesel Timing Chain Wear",
     "titleHighlight": "",
     "paragraphs": [
-      "If your XF 2.0d is from the X260 generation (2015–~2020) with the Ingenium AJ200D diesel engine, timing chain wear is a well-documented pattern across this engine family. We replace the timing chain, injector seals, EGR components and gaskets as standard on every XF 2.0d rebuild.",
-      "The petrol XF variants — P250 and P300 — use the same Ingenium AJ200 petrol engine, which does not share this specific diesel timing chain issue."
+      "If your XF 2.0d is from the X260 generation (2015-~2020) with the Ingenium AJ200D diesel engine, timing chain wear is a well-documented pattern across this engine family. We replace the timing chain, injector seals, EGR components and gaskets as standard on every XF 2.0d rebuild.",
+      "The petrol XF variants - P250 and P300 - use the same Ingenium AJ200 petrol engine, which does not share this specific diesel timing chain issue."
     ],
     "source": "Source: widely corroborated across JLR specialist forums and independent garages, consistent with broader Ingenium pattern per G-BRF-Jaguar.md. Petrol variants explicitly excluded from this claim per VRF, correctly scoped to diesel-badged X260 variants."
   },
@@ -43,7 +43,7 @@
     {
       "badge": "X260",
       "label": "Generation",
-      "big": "2015–~2020",
+      "big": "2015-~2020",
       "sub": "Jaguar XF 2.0d"
     },
     {

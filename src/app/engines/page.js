@@ -7,7 +7,7 @@ const PATH = "/engines";
 
 export const metadata = {
   title: "Jaguar Engine Rebuilds | Jaguar Garage",
-  description: "Every Jaguar engine family we rebuild and replace — click through for pricing, applications and known issues.",
+  description: "Every Jaguar engine family we rebuild and replace - click through for pricing, applications and known issues.",
   alternates: { canonical: PATH },
 };
 

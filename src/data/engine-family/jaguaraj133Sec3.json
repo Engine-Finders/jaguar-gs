@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ133 Applications — ",
+  "titlePre": "Jaguar AJ133 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "SVR",
       "generation": "X761",
       "chassis": "X761",
-      "years": "2016–2024",
+      "years": "2016-2024",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-f-pace-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "R, SVR",
       "generation": "X152",
       "chassis": "X152",
-      "years": "2013–2024",
+      "years": "2013-2024",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-f-type-engines"
     },
@@ -46,7 +46,7 @@
       "variant": "Project 8",
       "generation": "X760",
       "chassis": "X760",
-      "years": "2018–2020",
+      "years": "2018-2020",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-xe-engines"
     },
@@ -55,7 +55,7 @@
       "variant": "XFR, XFR-S",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2009–2015",
+      "years": "2009-2015",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-xf-engines"
     },
@@ -64,7 +64,7 @@
       "variant": "XJ Supersport, XJR",
       "generation": "X351",
       "chassis": "X351",
-      "years": "2009–2019",
+      "years": "2009-2019",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-xj-engines"
     },
@@ -73,7 +73,7 @@
       "variant": "XKR, XKR-S",
       "generation": "X150",
       "chassis": "X150",
-      "years": "2009–2014",
+      "years": "2009-2014",
       "powertrain": "Supercharged V8",
       "modelHref": "/jaguar-xk-engines"
     }

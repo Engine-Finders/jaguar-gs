@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ200D is fitted across three Jaguar models — the E-Pace, F-Pace and XE — with single and twin-turbo variants across the range."
+      "body": "The AJ200D is fitted across three Jaguar models - the E-Pace, F-Pace and XE - with single and twin-turbo variants across the range."
     },
     {
       "icon": "wrench",
@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "Timing chain stretch is a confirmed pattern on this engine — a metallic rattle on cold start is often the first clue. Balance shaft bearing wear is also documented, particularly on first years of production. We inspect both thoroughly on every rebuild. Oil dilution from DPF regeneration cycles and EGR valve clogging are also confirmed issues on higher-mileage examples."
+      "body": "Timing chain stretch is a confirmed pattern on this engine - a metallic rattle on cold start is often the first clue. Balance shaft bearing wear is also documented, particularly on first years of production. We inspect both thoroughly on every rebuild. Oil dilution from DPF regeneration cycles and EGR valve clogging are also confirmed issues on higher-mileage examples."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ200D rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ200D rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ200D REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ200D's timing chain is a known critical wear point — we inspect it thoroughly on every rebuild. Balance shaft bearing wear is a well-documented issue on early Ingenium diesels, particularly on first years of production, and we inspect these bearings as standard. DPF regeneration cycles are also accounted for, as oil dilution from regeneration is a known issue on higher-mileage examples.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ200D's timing chain is a known critical wear point - we inspect it thoroughly on every rebuild. Balance shaft bearing wear is a well-documented issue on early Ingenium diesels, particularly on first years of production, and we inspect these bearings as standard. DPF regeneration cycles are also accounted for, as oil dilution from regeneration is a known issue on higher-mileage examples.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain components, balance shaft bearings, main bearings, connecting rod bearings, gaskets and seals"

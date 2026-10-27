@@ -6,7 +6,7 @@
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ133 (AJ-V8 Gen III)",
     "titlePost": " ENGINE",
-    "body": "The AJ133 — also known as the AJ-V8 Gen III — is Jaguar Land Rover's 5.0-litre V8 petrol engine, produced from 2009 to 2024. It's one of the most significant engines in Jaguar's modern history, appearing across six model lines from the XF and XJ through to the F-Type and F-Pace SVR. The engine is available in both naturally aspirated and supercharged forms, with the supercharged version delivering between 470 and 575 horsepower depending on application. The naturally aspirated variant, used in earlier XF, XJ and XK models, produces 385-470 hp. The highest-output variant, the AJ133S, is found in the F-Pace SVR and XFR-S, producing 550-575 hp."
+    "body": "The AJ133 - also known as the AJ-V8 Gen III - is Jaguar Land Rover's 5.0-litre V8 petrol engine, produced from 2009 to 2024. It's one of the most significant engines in Jaguar's modern history, appearing across six model lines from the XF and XJ through to the F-Type and F-Pace SVR. The engine is available in both naturally aspirated and supercharged forms, with the supercharged version delivering between 470 and 575 horsepower depending on application. The naturally aspirated variant, used in earlier XF, XJ and XK models, produces 385-470 hp. The highest-output variant, the AJ133S, is found in the F-Pace SVR and XFR-S, producing 550-575 hp."
   },
   "byModel": {
     "image": "/engine/sec8_middle.webp",
@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "Across the F-Pace, the AJ133 appears exclusively in the SVR variant (X761, 2016–2024) with a supercharged tune producing 550 hp. The F-Type uses the AJ133 in both R and SVR variants (X152, 2013–2024), with the same supercharged V8 delivering between 550 and 575 hp. The XE saw the AJ133 only in the limited-production Project 8 (X760, 2018–2020), the most extreme application of this engine. The XF uses the AJ133 in the XFR and XFR-S (X250, 2009–2015), with the XFR-S receiving the higher-output AJ133S tune. The XJ carries the engine in Supersport and XJR variants (X351, 2009–2019), while the XK uses it in the XKR and XKR-S (X150, 2009–2014).",
+    "body": "Across the F-Pace, the AJ133 appears exclusively in the SVR variant (X761, 2016-2024) with a supercharged tune producing 550 hp. The F-Type uses the AJ133 in both R and SVR variants (X152, 2013-2024), with the same supercharged V8 delivering between 550 and 575 hp. The XE saw the AJ133 only in the limited-production Project 8 (X760, 2018-2020), the most extreme application of this engine. The XF uses the AJ133 in the XFR and XFR-S (X250, 2009-2015), with the XFR-S receiving the higher-output AJ133S tune. The XJ carries the engine in Supersport and XJR variants (X351, 2009-2019), while the XK uses it in the XKR and XKR-S (X150, 2009-2014).",
     "lineup": [
       {
         "label": "F-Pace",
@@ -50,7 +50,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "Because the AJ133 spans six different models and multiple generations — and because it exists in naturally aspirated, supercharged, and high-output SVR tunes — compatibility comes down to confirming your exact model, generation, and powertrain spec, which we do by registration. A supercharged AJ133 from an F-Pace SVR isn't a drop-in match for a naturally aspirated AJ133 from an earlier XJ, even though the base engine code is the same. Ancillaries, mounting, ECU calibration, and supercharger tune all vary by model and year. Before we quote or supply anything, we confirm your exact vehicle.",
+    "body": "Because the AJ133 spans six different models and multiple generations - and because it exists in naturally aspirated, supercharged, and high-output SVR tunes - compatibility comes down to confirming your exact model, generation, and powertrain spec, which we do by registration. A supercharged AJ133 from an F-Pace SVR isn't a drop-in match for a naturally aspirated AJ133 from an earlier XJ, even though the base engine code is the same. Ancillaries, mounting, ECU calibration, and supercharger tune all vary by model and year. Before we quote or supply anything, we confirm your exact vehicle.",
     "points": [
       {
         "icon": "car",
@@ -81,56 +81,56 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ133 in the F-Pace SVR (X761, 2016–2024)",
+        "heading": "AJ133 in the F-Pace SVR (X761, 2016-2024)",
         "engine": "AJ133",
         "model": "F-Pace SVR",
-        "detail": "X761, 2016–2024",
-        "body": "The AJ133 in the F-Pace SVR is one of the applications we work on regularly — the 550 hp supercharged V8 that sits at the top of the F-Pace range.",
+        "detail": "X761, 2016-2024",
+        "body": "The AJ133 in the F-Pace SVR is one of the applications we work on regularly - the 550 hp supercharged V8 that sits at the top of the F-Pace range.",
         "price": "£5,500",
         "cta": "Check your F-Pace AJ133"
       },
       {
-        "heading": "AJ133 in the F-Type R and SVR (X152, 2013–2024)",
+        "heading": "AJ133 in the F-Type R and SVR (X152, 2013-2024)",
         "engine": "AJ133",
         "model": "F-Type R and SVR",
-        "detail": "X152, 2013–2024",
-        "body": "The AJ133 in the F-Type is one of the most frequent applications we see — both the R variant (550 hp) and the SVR (575 hp) use this supercharged V8 across the current and previous generation.",
+        "detail": "X152, 2013-2024",
+        "body": "The AJ133 in the F-Type is one of the most frequent applications we see - both the R variant (550 hp) and the SVR (575 hp) use this supercharged V8 across the current and previous generation.",
         "price": "£5,500",
         "cta": "Check your F-Type AJ133"
       },
       {
-        "heading": "AJ133 in the XE Project 8 (X760, 2018–2020)",
+        "heading": "AJ133 in the XE Project 8 (X760, 2018-2020)",
         "engine": "AJ133",
         "model": "XE Project 8",
-        "detail": "X760, 2018–2020",
-        "body": "The AJ133 in the XE Project 8 is one of the rarer applications we work on — the limited-production supercharged V8 saloon that remains one of Jaguar's most extreme road cars.",
+        "detail": "X760, 2018-2020",
+        "body": "The AJ133 in the XE Project 8 is one of the rarer applications we work on - the limited-production supercharged V8 saloon that remains one of Jaguar's most extreme road cars.",
         "price": "£5,500",
         "cta": "Check your XE AJ133"
       },
       {
-        "heading": "AJ133 in the XF XFR and XFR-S (X250, 2009–2015)",
+        "heading": "AJ133 in the XF XFR and XFR-S (X250, 2009-2015)",
         "engine": "AJ133",
         "model": "XF XFR and XFR-S",
-        "detail": "X250, 2009–2015",
-        "body": "The AJ133 in the XF is one of the applications we work on regularly — the XFR and XFR-S both use this supercharged V8, with the XFR-S receiving the higher-output AJ133S tune.",
+        "detail": "X250, 2009-2015",
+        "body": "The AJ133 in the XF is one of the applications we work on regularly - the XFR and XFR-S both use this supercharged V8, with the XFR-S receiving the higher-output AJ133S tune.",
         "price": "£5,500",
         "cta": "Check your XF AJ133"
       },
       {
-        "heading": "AJ133 in the XJ Supersport and XJR (X351, 2009–2019)",
+        "heading": "AJ133 in the XJ Supersport and XJR (X351, 2009-2019)",
         "engine": "AJ133",
         "model": "XJ Supersport and XJR",
-        "detail": "X351, 2009–2019",
-        "body": "The AJ133 in the XJ is one of the applications we work on regularly — the XJ Supersport and XJR both use the supercharged V8, delivering flagship-level performance in Jaguar's luxury saloon.",
+        "detail": "X351, 2009-2019",
+        "body": "The AJ133 in the XJ is one of the applications we work on regularly - the XJ Supersport and XJR both use the supercharged V8, delivering flagship-level performance in Jaguar's luxury saloon.",
         "price": "£5,500",
         "cta": "Check your XJ AJ133"
       },
       {
-        "heading": "AJ133 in the XK XKR and XKR-S (X150, 2009–2014)",
+        "heading": "AJ133 in the XK XKR and XKR-S (X150, 2009-2014)",
         "engine": "AJ133",
         "model": "XK XKR and XKR-S",
-        "detail": "X150, 2009–2014",
-        "body": "The AJ133 in the XK is one of the applications we work on — the XKR and XKR-S both use this supercharged V8, with the XKR-S receiving the higher-output AJ133S tune. Jaguar AJ133 by Powertrain Variant AJ133 Naturally Aspirated Applications: XF, XJ, XK (385-470 hp). Standard rebuild scope — timing chain, bearings, gaskets. AJ133 Supercharged Applications: F-Type R, F-Pace SVR, XFR, XJR, XKR, XKR-S (470-575 hp). Supercharger coupler replacement included as standard, along with the full rebuild scope. AJ133S (SVR High-Output) Applications: F-Pace SVR, XFR-S, XKR-S (550-575 hp). Higher-output tune places additional stress on components, which we account for during inspection and rebuild.",
+        "detail": "X150, 2009-2014",
+        "body": "The AJ133 in the XK is one of the applications we work on - the XKR and XKR-S both use this supercharged V8, with the XKR-S receiving the higher-output AJ133S tune. Jaguar AJ133 by Powertrain Variant AJ133 Naturally Aspirated Applications: XF, XJ, XK (385-470 hp). Standard rebuild scope - timing chain, bearings, gaskets. AJ133 Supercharged Applications: F-Type R, F-Pace SVR, XFR, XJR, XKR, XKR-S (470-575 hp). Supercharger coupler replacement included as standard, along with the full rebuild scope. AJ133S (SVR High-Output) Applications: F-Pace SVR, XFR-S, XKR-S (550-575 hp). Higher-output tune places additional stress on components, which we account for during inspection and rebuild.",
         "price": "£5,500",
         "cta": "Check your XK AJ133"
       }
@@ -139,7 +139,7 @@
     "card": {
       "model": "Jaguar F-Pace X761",
       "engine": "AJ133 (AJ-V8 Gen III) 5.0L",
-      "year": "2016 – 2024",
+      "year": "2016 - 2024",
       "price": "£5,500"
     }
   }

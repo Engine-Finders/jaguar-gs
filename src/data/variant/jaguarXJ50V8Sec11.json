@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "Jaguar XJ 5.0 V8 ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "Jaguar XJ 5.0 V8 has used the AJ133 throughout (X351 (2009–2019)). If you're unsure of your exact spec, we'll confirm it before you book.",
+  "description": "Jaguar XJ 5.0 V8 has used the AJ133 throughout (X351 (2009-2019)). If you're unsure of your exact spec, we'll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -106,7 +106,7 @@
   ],
   "notice": {
     "highlight": "The AJ133",
-    "rest": " has been fitted to every XJ 5.0 V8 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+    "rest": " has been fitted to every XJ 5.0 V8 since launch - if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
   },
   "coverNote": {
     "title": "We Cover Every Jaguar XJ 5.0 V8 Model Year:",
@@ -116,6 +116,6 @@
       "Jaguar XJ 5.0 V8 2016 Engine Rebuild",
       "Jaguar XJ 5.0 V8 2018 Engine Rebuild"
     ],
-    "footer": "If your registration year isn't listed above, get in touch — we'll confirm availability directly against your reg."
+    "footer": "If your registration year isn't listed above, get in touch - we'll confirm availability directly against your reg."
   }
 }

@@ -26,7 +26,7 @@
         "Crankshaft",
         "Cylinder head",
         "Timing chain tensioners and guides",
-        "Intake manifold geometry components — known issue"
+        "Intake manifold geometry components - known issue"
       ],
       "image": "/engine/sec4.webp"
     },
@@ -38,7 +38,7 @@
         "Cooling system components",
         "Fuel injectors",
         "[Photograph of intake manifold]",
-        "The AJ30's intake manifold geometry electric drive is inspected for wear — a known reliability concern on this engine."
+        "The AJ30's intake manifold geometry electric drive is inspected for wear - a known reliability concern on this engine."
       ],
       "image": "/engine/sec4.webp"
     },
@@ -51,6 +51,6 @@
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from the Master Engine Data File. If your AJ30's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from the Master Engine Data File. If your AJ30's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

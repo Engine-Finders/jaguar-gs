@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar S-Type R ENGINE",
     "paragraphs": [
-      "The S-Type R is the high-performance flagship of the S-Type range, powered by a supercharged 4.2-litre AJ-V8. Fitted across the entire X200 generation from 1999 to 2008, it shares its fundamental architecture with the naturally aspirated 4.2-litre V8 but adds an Eaton supercharger to produce significantly more power. It's a different engine variant from the standard V8, with its own specific supercharger, intercooler, and engine management calibration — which means a rebuild requires specialist knowledge of the supercharged AJ-V8's particular components and tolerances. The S-Type R is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The S-Type R is the high-performance flagship of the S-Type range, powered by a supercharged 4.2-litre AJ-V8. Fitted across the entire X200 generation from 1999 to 2008, it shares its fundamental architecture with the naturally aspirated 4.2-litre V8 but adds an Eaton supercharger to produce significantly more power. It's a different engine variant from the standard V8, with its own specific supercharger, intercooler, and engine management calibration - which means a rebuild requires specialist knowledge of the supercharged AJ-V8's particular components and tolerances. The S-Type R is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ-V8 (supercharged) engines for every S-Type R on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ-V8 Supercharged",
         "codeRest": "(4.2L)",
-        "body": "A 4.2-litre supercharged V8 fitted to the S-Type R from 1999 to 2008 (X200 generation). Known for timing chain stretch between 80,000–150,000km, with tensioners and guide rails wearing alongside the chain — see the callout above. We replace the timing chain, tensioners, and guide rails as standard on every AJ-V8 supercharged rebuild.",
+        "body": "A 4.2-litre supercharged V8 fitted to the S-Type R from 1999 to 2008 (X200 generation). Known for timing chain stretch between 80,000-150,000km, with tensioners and guide rails wearing alongside the chain - see the callout above. We replace the timing chain, tensioners, and guide rails as standard on every AJ-V8 supercharged rebuild.",
         "cta": "Check Your AJ-V8 Supercharged S-Type R",
         "codeHref": "/jaguar-aj-v8-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar S-Type R ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The S-Type R uses the supercharged AJ-V8 across its entire production run — there's only one engine code for this variant. That said, running changes to components and ECU calibrations occurred during the 1999–2008 period, so we always confirm your exact build details via registration before quoting or supplying any parts. Before we quote or supply anything, we confirm:",
+    "intro": "The S-Type R uses the supercharged AJ-V8 across its entire production run - there's only one engine code for this variant. That said, running changes to components and ECU calibrations occurred during the 1999-2008 period, so we always confirm your exact build details via registration before quoting or supplying any parts. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -62,7 +62,7 @@
   "applications": {
     "titlePre": "Jaguar S-Type R ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+    "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -73,9 +73,9 @@
     "rows": [
       {
         "generation": "X200",
-        "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+        "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
         "chassis": "X200",
-        "years": "1999–2008",
+        "years": "1999-2008",
         "engineCode": "AJ-V8 Supercharged",
         "fuel": "Petrol Supercharged"
       }

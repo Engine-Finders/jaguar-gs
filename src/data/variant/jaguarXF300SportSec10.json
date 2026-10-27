@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 300 Sport ENGINE",
     "paragraphs": [
-      "The XF 300 Sport is a special-edition variant of the X260-generation XF, introduced as a sportier trim level within the range. It uses the Ingenium AJ200 — a 2.0-litre turbocharged four-cylinder petrol engine, the same unit found across a wide range of Jaguar Land Rover products of this era. The AJ200 petrol is a different engine from the diesel Ingenium units, and in the XF 300 Sport application it's paired with a sportier chassis tune and distinctive styling details. The 300 Sport name refers to the trim package rather than the engine output — it's a styling and specification package positioned above the standard R-Sport trim."
+      "The XF 300 Sport is a special-edition variant of the X260-generation XF, introduced as a sportier trim level within the range. It uses the Ingenium AJ200 - a 2.0-litre turbocharged four-cylinder petrol engine, the same unit found across a wide range of Jaguar Land Rover products of this era. The AJ200 petrol is a different engine from the diesel Ingenium units, and in the XF 300 Sport application it's paired with a sportier chassis tune and distinctive styling details. The 300 Sport name refers to the trim package rather than the engine output - it's a styling and specification package positioned above the standard R-Sport trim."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ200 engines for every XF 300 Sport on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder turbocharged petrol engine fitted to the XF 300 Sport across the X260 generation (2015–present). The petrol Ingenium engine is generally considered reliable in service, with no specific known issue pattern confirmed for this application. We replace timing chain components, bearings and gaskets as standard on every AJ200 rebuild.",
+        "body": "A 2.0-litre four-cylinder turbocharged petrol engine fitted to the XF 300 Sport across the X260 generation (2015-present). The petrol Ingenium engine is generally considered reliable in service, with no specific known issue pattern confirmed for this application. We replace timing chain components, bearings and gaskets as standard on every AJ200 rebuild.",
         "cta": "Check Your AJ200 XF 300 Sport",
         "codeHref": "/jaguar-aj200-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 300 Sport ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp",
+    "image": "/cars/card/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X260",
-        "image": "/cars/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp",
+        "image": "/cars/card/jaguar-xf-x260-300-sport-saloon-20192024-special-firenze-red-8ac7.webp",
         "chassis": "X260",
-        "years": "2015–present",
+        "years": "2015-present",
         "engineCode": "AJ200",
         "fuel": "Petrol"
       }

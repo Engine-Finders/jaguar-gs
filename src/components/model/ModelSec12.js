@@ -14,9 +14,9 @@ function JobCard({ c, data, sizes, onOpen }) {
     <div className="group flex flex-col overflow-hidden rounded-xl border border-black/5 bg-white shadow-[0_10px_24px_-12px_rgba(0,0,0,0.4)] transition-transform duration-300 md:hover:-translate-y-1">
       <div
         className={`relative aspect-[6/5] shrink-0 overflow-hidden ${onOpen ? "cursor-pointer" : ""}`}
-        onClick={onOpen ? () => onOpen({ src: c.image || data.image, alt: `${c.model} — ${c.tag}` }) : undefined}
+        onClick={onOpen ? () => onOpen({ src: c.image || data.image, alt: `${c.model} - ${c.tag}` }) : undefined}
       >
-        <Image src={c.image || data.image} alt={`${c.model} — ${c.tag}`} fill className="object-cover transition-transform duration-500 ease-out md:group-hover:scale-110" sizes={sizes} />
+        <Image src={c.image || data.image} alt={`${c.model} - ${c.tag}`} fill className="object-cover transition-transform duration-500 ease-out md:group-hover:scale-110" sizes={sizes} />
       </div>
       <div className="flex-1 px-3 py-2.5">
         <p className="truncate text-sm font-extrabold text-[#111111]">{c.href ? <Link href={c.href}>{c.model}</Link> : c.model}</p>

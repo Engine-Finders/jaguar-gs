@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar S-Type 3.0 V6 ENGINE",
     "paragraphs": [
-      "The S-Type 3.0 V6 uses the AJ-V6 — a 3.0-litre V6 petrol. It was fitted from 1999 to 2008 across the X200 generation. It sits above the 2.5 V6 as the mid-range petrol option in the S-Type lineup. The S-Type 3.0 V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The S-Type 3.0 V6 uses the AJ-V6 - a 3.0-litre V6 petrol. It was fitted from 1999 to 2008 across the X200 generation. It sits above the 2.5 V6 as the mid-range petrol option in the S-Type lineup. The S-Type 3.0 V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ-V6",
         "codeRest": "",
-        "body": "A 3.0L Petrol engine fitted to the S-Type 3.0 V6 — X200 (1999–2008).",
+        "body": "A 3.0L Petrol engine fitted to the S-Type 3.0 V6 - X200 (1999-2008).",
         "cta": "Check Your AJ-V6 S-Type 3.0 V6",
         "codeHref": "/jaguar-aj-v6-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar S-Type 3.0 V6 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The S-Type 3.0 V6 uses a single engine family, the AJ-V6, across all generations (X200). Because the engine code is consistent across the production run, there’s no risk of a mid-generation engine change that affects fitment — but we still confirm your exact car by registration before quoting to ensure ancillaries and ECU specifications match your specific build.",
+    "intro": "The S-Type 3.0 V6 uses a single engine family, the AJ-V6, across all generations (X200). Because the engine code is consistent across the production run, there’s no risk of a mid-generation engine change that affects fitment - but we still confirm your exact car by registration before quoting to ensure ancillaries and ECU specifications match your specific build.",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -41,7 +41,7 @@
   "applications": {
     "titlePre": "JAGUAR S-Type 3.0 V6 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+    "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -52,9 +52,9 @@
     "rows": [
       {
         "generation": "X200",
-        "image": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+        "image": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
         "chassis": "X200",
-        "years": "1999–2008",
+        "years": "1999-2008",
         "engineCode": "AJ-V6",
         "fuel": "Petrol"
       }

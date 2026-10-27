@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,600",
   "engineImage": "/engines/jaguar-aj126-engine.webp",
-  "carImage": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+  "carImage": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
   "cards": [
     {
       "code": "AJ126",
-      "generation": "X152 (2012–2024)",
+      "generation": "X152 (2012-2024)",
       "price": "£3,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X152",
       "label": "Generation",
-      "big": "2012–2024",
+      "big": "2012-2024",
       "sub": "Jaguar F-Type V6"
     },
     {

@@ -2,7 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
 
-// Glass panel shared by the mobile + desktop lookup cards — dark graphite on the left
+// Glass panel shared by the mobile + desktop lookup cards - dark graphite on the left
 // fading to brushed silver on the right, with a mirror sheen, per the reference.
 const PANEL_BG =
   "linear-gradient(105deg, rgba(14,14,14,0.92) 0%, rgba(28,28,28,0.88) 38%, rgba(120,120,120,0.55) 64%, rgba(226,226,226,0.82) 100%)";
@@ -63,7 +63,7 @@ export default function HomeSec1({ hero, lookup }) {
           </div>
 
           {/* content flows normally so the hero's real height tracks whatever the text/box
-              actually need on this device — no reserved overlap padding, no scroll past fold. */}
+              actually need on this device - no reserved overlap padding, no scroll past fold. */}
           <div className="relative flex flex-col px-4 pb-48 pt-6">
             <div className="w-[68vw]">
               <h1 className="h1 uppercase">

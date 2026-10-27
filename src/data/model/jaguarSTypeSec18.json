@@ -4,7 +4,7 @@
   "faqLeft": [
     {
       "q": "Do you rebuild engines for all Jaguar S-Type models?",
-      "a": "Yes — we rebuild and replace engines across the full X200 range, diesel, V6 petrol and V8, including the supercharged S-Type R."
+      "a": "Yes - we rebuild and replace engines across the full X200 range, diesel, V6 petrol and V8, including the supercharged S-Type R."
     },
     {
       "q": "Do I keep my original engine, or do you send me a different one?",
@@ -30,11 +30,11 @@
     },
     {
       "q": "How much does a Jaguar S-Type engine rebuild cost?",
-      "a": "V6 rebuilds start from £2,600, V8 from £4,500. Exact price depends on engine code and condition — submit your reg for a fixed-price quote."
+      "a": "V6 rebuilds start from £2,600, V8 from £4,500. Exact price depends on engine code and condition - submit your reg for a fixed-price quote."
     },
     {
       "q": "Is the timing chain rattle serious?",
-      "a": "Yes — a cold-start rattle on the 4.2 V8 or 3.0 V6 is an early warning sign of chain and tensioner wear. Left unaddressed, it can lead to valve damage. We replace worn chains, tensioners and guide rails as standard."
+      "a": "Yes - a cold-start rattle on the 4.2 V8 or 3.0 V6 is an early warning sign of chain and tensioner wear. Left unaddressed, it can lead to valve damage. We replace worn chains, tensioners and guide rails as standard."
     }
   ],
   "form": {

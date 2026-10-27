@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 2.0d ENGINE",
     "paragraphs": [
-      "The XF 2.0d was introduced during the X260 generation (2015 onwards) as Jaguar's entry-level diesel option. It uses the Ingenium AJ200D — a 2.0-litre four-cylinder diesel that's part of Jaguar Land Rover's modular engine family. The X260 generation replaced the older X250's Ford-sourced diesel engines with this new in-house unit, which went on to serve across multiple JLR models including the XE, F-Pace and E-Pace. The XF 2.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The XF 2.0d was introduced during the X260 generation (2015 onwards) as Jaguar's entry-level diesel option. It uses the Ingenium AJ200D - a 2.0-litre four-cylinder diesel that's part of Jaguar Land Rover's modular engine family. The X260 generation replaced the older X250's Ford-sourced diesel engines with this new in-house unit, which went on to serve across multiple JLR models including the XE, F-Pace and E-Pace. The XF 2.0d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace Ingenium AJ200D engines for every XF 2.0d on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ingenium AJ200D",
         "codeRest": "",
-        "body": "A 2.0-litre four-cylinder diesel fitted to the XF 2.0d throughout the X260 generation (2015–~2020). Known for timing chain wear over time — see the callout above. We replace the timing chain, injector seals, EGR components and gaskets as standard on every Ingenium AJ200D rebuild.",
+        "body": "A 2.0-litre four-cylinder diesel fitted to the XF 2.0d throughout the X260 generation (2015-~2020). Known for timing chain wear over time - see the callout above. We replace the timing chain, injector seals, EGR components and gaskets as standard on every Ingenium AJ200D rebuild.",
         "cta": "Check Your Ingenium AJ200D XF 2.0d"
       }
     ]
@@ -51,13 +51,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 2.0d ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+    "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "X260",
-        "image": "/cars/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
+        "image": "/cars/card/jaguar-xf-x260-s-saloon-20162019-new-firenze-red-x260-s-2dc8.webp",
         "chassis": "X260",
-        "years": "2015–~2020",
+        "years": "2015-~2020",
         "engineCode": "Ingenium AJ200D",
         "fuel": "Diesel"
       }

@@ -2,7 +2,7 @@
   "image": "/variant/sec11.webp",
   "titlePre": "JAGUAR F-Pace P340 ENGINES ",
   "titleHighlight": "BY YEAR",
-  "description": "Jaguar F-Pace P340 has used the AJ300P (3.0L I6) (X761 (2016–present)). If you’re unsure of your exact spec, we’ll confirm it before you book.",
+  "description": "Jaguar F-Pace P340 has used the AJ300P (3.0L I6) (X761 (2016-present)). If you’re unsure of your exact spec, we’ll confirm it before you book.",
   "columns": [
     {
       "icon": "calendar",
@@ -36,19 +36,19 @@
     {
       "year": "X761",
       "generation": "X761",
-      "engineCode": "2016–present",
+      "engineCode": "2016-present",
       "fuel": "AJ300P",
       "service": "Petrol"
     }
   ],
   "notice": {
     "highlight": "The engine",
-    "rest": " has been fitted to every F-Pace P340 since launch — if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
+    "rest": " has been fitted to every F-Pace P340 since launch - if your registration year isn't listed above, get in touch and we'll confirm availability directly against your reg."
   },
   "coverNote": {
     "title": "}",
     "items": [
-      "Jaguar F-Pace P340 Engine Rebuild — From £3,600"
+      "Jaguar F-Pace P340 Engine Rebuild - From £3,600"
     ],
     "footer": "Specialist Jaguar F-Pace P340 engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty"
   }

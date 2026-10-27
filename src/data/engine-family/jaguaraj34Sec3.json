@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar AJ34 Applications — ",
+  "titlePre": "Jaguar AJ34 Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -28,7 +28,7 @@
       "variant": "4.2 V8",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2008–2009",
+      "years": "2008-2009",
       "powertrain": "Naturally Aspirated",
       "modelHref": "/jaguar-xf-engines"
     },
@@ -37,7 +37,7 @@
       "variant": "4.2 V8",
       "generation": "X150",
       "chassis": "X150",
-      "years": "2006–2009",
+      "years": "2006-2009",
       "powertrain": "Naturally Aspirated",
       "modelHref": "/jaguar-xk-engines"
     }

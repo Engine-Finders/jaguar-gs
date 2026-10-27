@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ133 is one of the broadest-application engines we work on — the same base V8 across six model lines, spanning SUVs, saloons, sports cars and grand tourers."
+      "body": "The AJ133 is one of the broadest-application engines we work on - the same base V8 across six model lines, spanning SUVs, saloons, sports cars and grand tourers."
     },
     {
       "icon": "wrench",
@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "Timing chain tensioner and guide failure is a confirmed pattern, particularly on early engines (2009–2012) with 15,000-mile oil change intervals — guide rails were not strong enough and aluminium guide rails were weaker than steel tensioners. Cooling system leaks (pipes, hoses, connectors) and water pump failure are also documented. Supercharger coupler wear can cause rattling noise. Rare cases of falling valve seats have been documented."
+      "body": "Timing chain tensioner and guide failure is a confirmed pattern, particularly on early engines (2009-2012) with 15,000-mile oil change intervals - guide rails were not strong enough and aluminium guide rails were weaker than steel tensioners. Cooling system leaks (pipes, hoses, connectors) and water pump failure are also documented. Supercharger coupler wear can cause rattling noise. Rare cases of falling valve seats have been documented."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ133 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ133 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ133 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ133's timing chain system is a known critical wear point — we inspect it thoroughly on every rebuild. Early engines (2009–2012) are most affected by tensioner and guide failure. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside. Plastic coolant pipes and heat exchangers are known failure points and are inspected during strip-down. Full engine replacements require DME software matching.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ133's timing chain system is a known critical wear point - we inspect it thoroughly on every rebuild. Early engines (2009-2012) are most affected by tensioner and guide failure. The supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside. Plastic coolant pipes and heat exchangers are known failure points and are inspected during strip-down. Full engine replacements require DME software matching.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain, bearings, gaskets, supercharger coupler, cooling system inspection"

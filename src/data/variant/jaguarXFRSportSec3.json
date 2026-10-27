@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-jlr-2-0-ingenium-aj200-engine-hero.webp",
-  "carImage": "/cars/jaguar-xf-x260-r-sport-saloon-20162019-new-caesium-blue-x260-8fd2.webp",
+  "carImage": "/cars/card/jaguar-xf-x260-r-sport-saloon-20162019-new-caesium-blue-x260-8fd2.webp",
   "cards": [
     {
       "code": "Engine Family",
@@ -30,7 +30,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar XF R-Sport Engine Rebuild — From £2,000"
+      "text": "Jaguar XF R-Sport Engine Rebuild - From £2,000"
     },
     {
       "icon": "price",
@@ -38,7 +38,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -62,7 +62,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £2,000 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £2,000 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -72,10 +72,10 @@
   },
   "warning": {
     "bgImage": "/variant/sec3_lower_div_bg.webp",
-    "titlePre": "XF R-Sport Known Issues – By Engine",
+    "titlePre": "XF R-Sport Known Issues - By Engine",
     "titleHighlight": "",
     "paragraphs": [
-      "If your XF R-Sport is fitted with the Ingenium 2.0L diesel (AJ200D) – common on many X260-era cars – it shares the timing-chain wear pattern documented across the Ingenium diesel family. We replace timing chains, tensioners, injector seals and gaskets as standard on every diesel rebuild.",
+      "If your XF R-Sport is fitted with the Ingenium 2.0L diesel (AJ200D) - common on many X260-era cars - it shares the timing-chain wear pattern documented across the Ingenium diesel family. We replace timing chains, tensioners, injector seals and gaskets as standard on every diesel rebuild.",
       "If your car has the Ingenium 2.0L petrol (AJ200) or the AJ126 3.0L V6, no independently confirmed widespread issue pattern is currently documented for these engines in the XF R-Sport application. We still strip, inspect and replace any worn components during every rebuild.",
       "Not sure which engine you have? Enter your registration and we’ll confirm before we quote."
     ],

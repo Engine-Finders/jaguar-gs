@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£1,900",
   "engineImage": "/engines/jaguar-2-0d-and-fmba-fmb-b-engine.webp",
-  "carImage": "/cars/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
+  "carImage": "/cars/card/jaguar-x-type-x400-estate-2-0d-estate-20042010-new-emerald-f-8114.webp",
   "cards": [
     {
       "code": "",
@@ -15,7 +15,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar X-Type 2.0d Engine Rebuild — From £1,900"
+      "text": "Jaguar X-Type 2.0d Engine Rebuild - From £1,900"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £1,900 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £1,900 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -49,7 +49,7 @@
     {
       "badge": "X400",
       "label": "Generation",
-      "big": "2003–2009",
+      "big": "2003-2009",
       "sub": "Jaguar X-Type 2.0d"
     },
     {

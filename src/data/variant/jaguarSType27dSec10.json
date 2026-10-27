@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar S-Type 2.7d ENGINE",
     "paragraphs": [
-      "The S-Type 2.7d uses the AJD-V6 — a 2.7-litre V6 diesel engine sourced from PSA, fitted to the X200-generation S-Type from 2004 to 2008. It was offered alongside petrol V6 and V8 options in the S-Type range, providing a more economical diesel alternative. The S-Type 2.7d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The S-Type 2.7d uses the AJD-V6 - a 2.7-litre V6 diesel engine sourced from PSA, fitted to the X200-generation S-Type from 2004 to 2008. It was offered alongside petrol V6 and V8 options in the S-Type range, providing a more economical diesel alternative. The S-Type 2.7d is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJD-V6 (PSA-sourced)",
         "codeRest": "",
-        "body": "A 2.7L V6 Diesel engine fitted to the S-Type 2.7d — X200 (2004–2008).",
+        "body": "A 2.7L V6 Diesel engine fitted to the S-Type 2.7d - X200 (2004-2008).",
         "cta": "Check Your AJD-V6 (PSA-sourced) S-Type 2.7d",
         "codeHref": "/jaguar-ajd-v6-engine"
       }
@@ -53,7 +53,7 @@
       },
       {
         "icon": "code",
-        "text": "We always start with your registration rather than a generic S-Type quote — it protects you from paying for parts that don't fit your actual car."
+        "text": "We always start with your registration rather than a generic S-Type quote - it protects you from paying for parts that don't fit your actual car."
       }
     ],
     "footer": "",
@@ -62,7 +62,7 @@
   "applications": {
     "titlePre": "JAGUAR S-Type 2.7d ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp",
+    "image": "/cars/card/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -73,9 +73,9 @@
     "rows": [
       {
         "generation": "generation",
-        "image": "/cars/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp",
+        "image": "/cars/card/jaguar-s-type-x200-2-7d-se-saloon-20042007-new-platinum-silv-10d7.webp",
         "chassis": "generation",
-        "years": "2014–2025",
+        "years": "2014-2025",
         "engineCode": "[MISSING: engine code not confirmed]",
         "fuel": "Petrol"
       }

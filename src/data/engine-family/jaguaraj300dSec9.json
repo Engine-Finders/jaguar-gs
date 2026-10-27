@@ -6,7 +6,7 @@
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ300D",
     "titlePost": " ENGINE",
-    "body": "The AJ300D is Jaguar Land Rover's Ingenium-family 3.0-litre straight-six diesel engine. It's a twin-turbocharged unit that entered production in 2019 and is paired with a 48V mild-hybrid system. Within the Jaguar range, the AJ300D is fitted exclusively to the F-Pace D300 — a single, specific application."
+    "body": "The AJ300D is Jaguar Land Rover's Ingenium-family 3.0-litre straight-six diesel engine. It's a twin-turbocharged unit that entered production in 2019 and is paired with a 48V mild-hybrid system. Within the Jaguar range, the AJ300D is fitted exclusively to the F-Pace D300 - a single, specific application."
   },
   "byModel": {
     "image": "/engine/sec8_middle.webp",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "The AJ300D is used in a single Jaguar application — the F-Pace D300 — so compatibility is straightforward. However, the engine is part of a wider Ingenium family and is also used in Land Rover vehicles. Ancillaries, mounting, and ECU calibration differ between brands and models, so registration/VIN matching is still required before any rebuild or replacement is confirmed. For the F-Pace D300 specifically, the 48V MHEV system is integrated with the combustion engine.",
+    "body": "The AJ300D is used in a single Jaguar application - the F-Pace D300 - so compatibility is straightforward. However, the engine is part of a wider Ingenium family and is also used in Land Rover vehicles. Ancillaries, mounting, and ECU calibration differ between brands and models, so registration/VIN matching is still required before any rebuild or replacement is confirmed. For the F-Pace D300 specifically, the 48V MHEV system is integrated with the combustion engine.",
     "points": [
       {
         "icon": "car",
@@ -61,10 +61,10 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ300D in the F-Pace D300 (X761, 2019–present)",
+        "heading": "AJ300D in the F-Pace D300 (X761, 2019-present)",
         "engine": "AJ300D",
         "model": "F-Pace D300",
-        "detail": "X761, 2019–present",
+        "detail": "X761, 2019-present",
         "body": "The AJ300D in the F-Pace is one of the applications we work on. The F-Pace D300 uses the 3.0-litre twin-turbo diesel with 48V mild-hybrid assistance. Jaguar AJ300D by Powertrain Variant AJ300D MHEV Applications: F-Pace D300. This is the only variant. The 48V mild-hybrid system is integrated with the combustion engine and accounted for during a rebuild.",
         "price": "£2,800",
         "cta": "Check your F-Pace AJ300D"
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar F-Pace X761",
       "engine": "AJ300D 3.0L",
-      "year": "2019 – present",
+      "year": "2019 - present",
       "price": "£2,800"
     }
   }

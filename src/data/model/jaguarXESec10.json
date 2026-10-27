@@ -3,45 +3,45 @@
   "headlinePre": "Most Popular",
   "headlineHighlight": "Jaguar XE Rebuilds",
   "subhead": "Full variant list below covers every Jaguar XE engine we work on.",
-  "image": "/cars/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp",
+  "image": "/cars/card/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp",
   "viewMoreLabel": "View More",
-  "footerNote": "Real photos from our workshop — not stock imagery. This is what a genuine rebuild looks like.",
+  "footerNote": "Real photos from our workshop - not stock imagery. This is what a genuine rebuild looks like.",
   "cards": [
     {
       "number": "01",
       "model": "Jaguar XE 2.0d",
       "spec": "",
-      "image": "/cars/jaguar-xe-x760-prestige-saloon-20152017-new-corris-grey-xe-p-611a.webp"
+      "image": "/cars/card/jaguar-xe-x760-prestige-saloon-20152017-new-corris-grey-xe-p-611a.webp"
     },
     {
       "number": "02",
       "model": "Jaguar XE 2.0i",
       "spec": "",
-      "image": "/cars/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp"
+      "image": "/cars/card/jaguar-xe-x760-lci-r-dynamic-hse-saloon-20192024-new-santori-3f91.webp"
     },
     {
       "number": "03",
       "model": "Jaguar XE 3.0 V6 S",
       "spec": "",
-      "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
+      "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
     },
     {
       "number": "04",
       "model": "Jaguar XE 3.0 V6 SC",
       "spec": "",
-      "image": "/cars/jaguar-xe-x760-r-sport-saloon-20152017-new-caesium-blue-xe-r-ce16.webp"
+      "image": "/cars/card/jaguar-xe-x760-r-sport-saloon-20152017-new-caesium-blue-xe-r-ce16.webp"
     },
     {
       "number": "05",
       "model": "Jaguar XE 300 Sport",
       "spec": "",
-      "image": "/cars/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp"
+      "image": "/cars/card/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp"
     },
     {
       "number": "06",
       "model": "Jaguar XE P250",
       "spec": "",
-      "image": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
+      "image": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp"
     }
   ],
   "variants": [

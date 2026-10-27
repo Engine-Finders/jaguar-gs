@@ -2,6 +2,7 @@ import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 import RegLookupForm from "@/components/reusable/RegLookupForm";
+import QuoteLink from "@/components/shared/QuoteLink";
 
 export default function VariantSec2({ data }) {
   return (
@@ -131,12 +132,12 @@ export default function VariantSec2({ data }) {
                 <div className="min-w-0 flex-1">
                   <RegLookupForm buttonLabel={data.lookup.buttonLabel} row hideButton lightPlate />
                 </div>
-                <a
+                <QuoteLink
                   href="#quote-form"
                   className="btn-text flex h-15 w-64 shrink-0 items-center justify-center whitespace-nowrap rounded-lg border border-white/40 bg-white/5 px-2 uppercase text-white shadow-lg transition-all hover:scale-[1.02] hover:bg-white hover:text-[#111111]"
                 >
                   {data.lookup.buttonLabel} <span className="ml-1.5" aria-hidden>→</span>
-                </a>
+                </QuoteLink>
               </div>
 
               <div className="relative mt-5 flex items-stretch">

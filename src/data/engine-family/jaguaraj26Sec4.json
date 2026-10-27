@@ -8,7 +8,7 @@
       "items": [
         "Main bearings and connecting rod bearings",
         "Complete gasket and seal set",
-        "Timing chain components where required — critical known issue",
+        "Timing chain components where required - critical known issue",
         "Oil filter housing gasket"
       ],
       "image": "/engine/sec4.webp"
@@ -19,8 +19,8 @@
       "items": [
         "Crankshaft",
         "Cylinder head",
-        "Timing chain tensioners — critical known issue",
-        "Timing chain guides — critical known issue"
+        "Timing chain tensioners - critical known issue",
+        "Timing chain guides - critical known issue"
       ],
       "image": "/engine/sec4.webp"
     },
@@ -43,6 +43,6 @@
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from Master Engine Data File data. If your AJ26's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from Master Engine Data File data. If your AJ26's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

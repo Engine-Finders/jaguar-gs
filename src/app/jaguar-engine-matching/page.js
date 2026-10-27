@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Engine Matching by Registration & VIN | Jaguar Garage",
-  description: "Professional Jaguar engine matching using VIN and registration data. We identify the exact engine specification for every Jaguar model – from classic to current.",
+  description: "Professional Jaguar engine matching using VIN and registration data. We identify the exact engine specification for every Jaguar model - from classic to current.",
   alternates: { canonical: PATH },
 };
 

@@ -26,14 +26,14 @@
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ34 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ34 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ34 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
     "body": "The AJ34's VVT system is a known critical point, and the VVT phase regulators are inspected thoroughly on every rebuild. The aluminium engine is sensitive to overheating, so the cooling system (water pump, hoses, and thermostat housing) receives particular attention during strip-down. PCV valve clogging is a known cause of high oil consumption on higher-mileage examples, so the PCV system is always checked. The intake manifold swirl flaps are also inspected for degradation. Ignition coil pack failure is common, so these are checked as part of the electrical system inspection.",
     "scope": {
       "label": "Typical Scope:",

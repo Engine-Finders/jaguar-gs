@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X150 (2005–2014)"
+      "value": "X150 (2005-2014)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The XKR-S uses the AJ133 supercharged 5.0L V8 — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The XKR-S uses the AJ133 supercharged 5.0L V8 - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

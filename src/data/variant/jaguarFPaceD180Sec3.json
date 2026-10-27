@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,200",
   "engineImage": "/engines/jaguar-d180-engine.webp",
-  "carImage": "/cars/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
+  "carImage": "/cars/card/jaguar-f-pace-x761-30d-s-suv-20162019-group-caesium-blue-f-p-6c1e.webp",
   "cards": [
     {
       "code": "",
@@ -15,7 +15,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar F-Pace D180 Engine Rebuild — From £2,200"
+      "text": "Jaguar F-Pace D180 Engine Rebuild - From £2,200"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £2,200 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £2,200 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -44,7 +44,7 @@
     "titlePre": "Jaguar F-Pace D180 Timing Chain & Injector Wear ",
     "titleHighlight": "(Ingenium AJ200D)",
     "paragraphs": [
-      "The F-Pace D180 uses the Ingenium AJ200D 2.0-litre diesel engine. Across this engine family — including its use in F-Pace's platform siblings XE, XF, and Velar — timing chain and injector seal wear is a confirmed pattern. We replace the timing chain, injector seals, EGR components, and gaskets as standard on every AJ200D rebuild.",
+      "The F-Pace D180 uses the Ingenium AJ200D 2.0-litre diesel engine. Across this engine family - including its use in F-Pace's platform siblings XE, XF, and Velar - timing chain and injector seal wear is a confirmed pattern. We replace the timing chain, injector seals, EGR components, and gaskets as standard on every AJ200D rebuild.",
       "Other F-Pace variants with petrol Ingenium engines do not share this specific issue."
     ],
     "source": "Source: widely corroborated across JLR specialist forums and independent garages, consistent with broader Ingenium pattern per VRF-jaguar-f-pace.md. Applies to AJ200D; other F-Pace petrol variants explicitly excluded per VRF."
@@ -59,7 +59,7 @@
     {
       "badge": "X761",
       "label": "Generation",
-      "big": "2016–2025",
+      "big": "2016-2025",
       "sub": "Jaguar F-Pace D180"
     },
     {

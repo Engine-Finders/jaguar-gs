@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XE 300 Sport ENGINE",
     "paragraphs": [
-      "The XE 300 Sport was a special-edition variant of the X760-generation XE, produced from around 2018 to 2019. It uses the AJ126 — a 3.0-litre supercharged V6 petrol engine, shared with other performance-oriented Jaguar models of the era. The 300 Sport sat above the standard V6 S in the XE range, offering a more focused specification with distinct styling and chassis upgrades. The AJ126 is a direct-injection, supercharged unit that delivers strong, linear power — characteristic of Jaguar's supercharged V6 family."
+      "The XE 300 Sport was a special-edition variant of the X760-generation XE, produced from around 2018 to 2019. It uses the AJ126 - a 3.0-litre supercharged V6 petrol engine, shared with other performance-oriented Jaguar models of the era. The 300 Sport sat above the standard V6 S in the XE range, offering a more focused specification with distinct styling and chassis upgrades. The AJ126 is a direct-injection, supercharged unit that delivers strong, linear power - characteristic of Jaguar's supercharged V6 family."
     ],
     "boldParagraph": "The XE 300 Sport is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ126 (3.0L V6 supercharged)",
         "codeRest": "",
-        "body": "A 3.0L Petrol Supercharged engine fitted to the XE 300 Sport — X760 (2015–2019/2020).",
+        "body": "A 3.0L Petrol Supercharged engine fitted to the XE 300 Sport - X760 (2015-2019/2020).",
         "cta": "Check Your AJ126 (3.0L V6 supercharged) XE 300 Sport",
         "codeHref": "/jaguar-aj126-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XE quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XE quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XE 300 Sport ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp",
+    "image": "/cars/card/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X760",
-        "image": "/cars/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp",
+        "image": "/cars/card/jaguar-xe-x760-300-sport-saloon-20172019-special-santorini-b-9a84.webp",
         "chassis": "X760",
-        "years": "2018–2019",
+        "years": "2018-2019",
         "engineCode": "AJ126",
         "fuel": "Petrol Supercharged"
       }

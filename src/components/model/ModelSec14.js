@@ -1,4 +1,5 @@
 import Image from "next/image";
+import QuoteLink from "@/components/shared/QuoteLink";
 import PhotoStripes from "@/components/reusable/PhotoStripes";
 
 export default function ModelSec14({ data }) {
@@ -36,12 +37,12 @@ export default function ModelSec14({ data }) {
             <span className="text-white">{data.calloutRest}</span>
           </p>
 
-          <a
+          <QuoteLink
             href={data.cta.href}
             className="mt-5 inline-flex items-center gap-2 whitespace-nowrap card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-white backdrop-blur-md transition duration-200 hover:-translate-y-0.5 hover:bg-white/10"
           >
             {data.cta.label} <span aria-hidden>→</span>
-          </a>
+          </QuoteLink>
         </div>
       </div>
 
@@ -69,12 +70,12 @@ export default function ModelSec14({ data }) {
             <span className="text-white">{data.calloutRest}</span>
           </p>
 
-          <a
+          <QuoteLink
             href={data.cta.href}
             className="mt-5 inline-flex items-center gap-2 card-corner-glare relative rounded-lg border border-white/40 bg-black/55 px-6 py-3.5 text-sm font-bold uppercase tracking-wide text-white backdrop-blur-md transition duration-200 hover:-translate-y-0.5 hover:bg-white/10"
           >
             {data.cta.label} <span aria-hidden>→</span>
-          </a>
+          </QuoteLink>
         </div>
       </div>
       </div>

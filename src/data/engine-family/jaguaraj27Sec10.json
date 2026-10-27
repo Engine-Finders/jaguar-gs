@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "The AJ26 and AJ27 are known for timing chain tensioner failure — plastic tensioners fail, and primary guides crack and break off, with pieces ending up in the sump. Early engines also suffered from Nikasil cylinder lining issues with high-sulphur fuel; later engines (from around 2002) use cast-iron linings. We inspect the timing chain system thoroughly on every rebuild and assess cylinder bore condition as part of the strip-down process."
+      "body": "The AJ26 and AJ27 are known for timing chain tensioner failure - plastic tensioners fail, and primary guides crack and break off, with pieces ending up in the sump. Early engines also suffered from Nikasil cylinder lining issues with high-sulphur fuel; later engines (from around 2002) use cast-iron linings. We inspect the timing chain system thoroughly on every rebuild and assess cylinder bore condition as part of the strip-down process."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ27 rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ27 rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ27 REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ27's timing chain system is a known critical wear point on early AJ-V8 engines (1997–2000), with plastic chain tensioners failing and primary guides cracking and breaking off. We inspect the timing chain tensioners and guides thoroughly on every rebuild. Supercharged AJ27S variants (XKR) require additional specialist attention to the supercharger system. Full engine replacements require DME software matching.",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ27's timing chain system is a known critical wear point on early AJ-V8 engines (1997-2000), with plastic chain tensioners failing and primary guides cracking and breaking off. We inspect the timing chain tensioners and guides thoroughly on every rebuild. Supercharged AJ27S variants (XKR) require additional specialist attention to the supercharger system. Full engine replacements require DME software matching.",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain components, bearings, gaskets, plus supercharger inspection on AJ27S applications"

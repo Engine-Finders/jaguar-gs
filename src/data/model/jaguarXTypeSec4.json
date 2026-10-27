@@ -2,7 +2,7 @@
   "kicker": "Full Breakdown",
   "headlinePre": "Jaguar X-Type",
   "headlineHighlight": "Engine Rebuild Price Guide",
-  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide — request a free quote for an exact fixed price on your specific engine.",
+  "description": "Prices vary by engine code, condition, and parts required. Ranges below are a guide - request a free quote for an exact fixed price on your specific engine.",
   "columns": [
     "Engine Code",
     "Fuel",
@@ -16,21 +16,21 @@
       "fuel": "Diesel",
       "size": "2.0L/2.2L",
       "chassis": "X400",
-      "range": "£1,900 – £2,700"
+      "range": "£1,900 - £2,700"
     },
     {
       "family": "AJ20/AJ25",
       "fuel": "Petrol V6",
       "size": "2.0L/2.5L",
       "chassis": "X400",
-      "range": "£2,600 – £3,400"
+      "range": "£2,600 - £3,400"
     },
     {
       "family": "AJ30",
       "fuel": "Petrol V6",
       "size": "3.0L",
       "chassis": "X400",
-      "range": "£2,800 – £3,600"
+      "range": "£2,800 - £3,600"
     }
   ],
   "features": [

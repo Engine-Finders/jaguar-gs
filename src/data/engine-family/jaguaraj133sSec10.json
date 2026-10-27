@@ -11,7 +11,7 @@
     {
       "icon": "car",
       "title": "APPLICATIONS WE SEE:",
-      "body": "The AJ133S is fitted to two high-performance Jaguar models — the F-Pace SVR and XF XFR-S — with SVR-specific tuning that places additional stress on components compared to standard AJ133 applications."
+      "body": "The AJ133S is fitted to two high-performance Jaguar models - the F-Pace SVR and XF XFR-S - with SVR-specific tuning that places additional stress on components compared to standard AJ133 applications."
     },
     {
       "icon": "wrench",
@@ -21,20 +21,20 @@
     {
       "icon": "clipboard",
       "title": "KNOWN ISSUES:",
-      "body": "The AJ133S shares the known issue pattern of the broader AJ133 engine family — timing chain failure (particularly on early engines), supercharger coupler wear causing rattling, and cooling system leaks from pipes, hoses, and connectors. The SVR-specific higher output places additional stress on these components."
+      "body": "The AJ133S shares the known issue pattern of the broader AJ133 engine family - timing chain failure (particularly on early engines), supercharger coupler wear causing rattling, and cooling system leaks from pipes, hoses, and connectors. The SVR-specific higher output places additional stress on these components."
     }
   ],
   "notice": {
     "highlight": "Note:",
-    "rest": " engine-specific case studies with real job details are not yet included on this page — they'll be added once a documented set of completed AJ133S rebuilds is available to draw from, rather than filled with placeholder examples now."
+    "rest": " engine-specific case studies with real job details are not yet included on this page - they'll be added once a documented set of completed AJ133S rebuilds is available to draw from, rather than filled with placeholder examples now."
   },
   "typical": {
     "kicker": "A TYPICAL",
     "title": "JAGUAR AJ133S REBUILD",
     "image": "",
     "imageMobile": "",
-    "intro": "The following describes a typical rebuild scope for this engine — illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
-    "body": "The AJ133S supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside. The SVR-specific higher output places additional stress on timing chain and cooling system components compared to standard AJ133 applications. Early AJ133 engines (2009–2012) are most affected by timing chain issues — though the AJ133S is a later variant, the same design characteristics apply. Plastic coolant pipes and heat exchangers are known failure points and are inspected during strip-down. LAYER 3 — SEARCH COVERAGE",
+    "intro": "The following describes a typical rebuild scope for this engine - illustrative of the work involved, not a specific customer job. Real case studies from our own completed work will replace this section once available.",
+    "body": "The AJ133S supercharger sits on top of the engine and must be removed to access the valley where the oil cooler, timing chain, and other critical components reside. The SVR-specific higher output places additional stress on timing chain and cooling system components compared to standard AJ133 applications. Early AJ133 engines (2009-2012) are most affected by timing chain issues - though the AJ133S is a later variant, the same design characteristics apply. Plastic coolant pipes and heat exchangers are known failure points and are inspected during strip-down. LAYER 3 - SEARCH COVERAGE",
     "scope": {
       "label": "Typical Scope:",
       "text": "Timing chain components, main bearings, connecting rod bearings, gaskets and seals, supercharger coupler, oil filter housing gasket"

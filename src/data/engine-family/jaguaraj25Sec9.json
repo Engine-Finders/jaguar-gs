@@ -6,7 +6,7 @@
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ25",
     "titlePost": " ENGINE",
-    "body": "The AJ25 is a 2.5-litre V6 petrol engine derived from Ford's Duratec family, produced from 2001 to 2009. It was fitted exclusively to the Jaguar X-Type during its first generation (X400 chassis), serving as the entry-level V6 option alongside the larger 3.0-litre AJ30. The AJ25 shares its 60-degree V6 architecture and Ford-derived engineering with the AJ30, differing primarily in capacity and output — 194-201 hp depending on market and year."
+    "body": "The AJ25 is a 2.5-litre V6 petrol engine derived from Ford's Duratec family, produced from 2001 to 2009. It was fitted exclusively to the Jaguar X-Type during its first generation (X400 chassis), serving as the entry-level V6 option alongside the larger 3.0-litre AJ30. The AJ25 shares its 60-degree V6 architecture and Ford-derived engineering with the AJ30, differing primarily in capacity and output - 194-201 hp depending on market and year."
   },
   "byModel": {
     "image": "/engine/sec8_middle.webp",
@@ -15,7 +15,7 @@
     "titlePre": "",
     "titleHighlight": "APPLICATIONS",
     "titlePost": " BY MODEL",
-    "body": "The AJ25 appears exclusively in the X-Type, across the full production run of the X400 generation (2001–2009). It was offered in both saloon and estate body styles, making it the most accessible V6-powered X-Type and a popular choice for buyers wanting the V6 driving experience in a more affordable package. While the AJ25 is less common in the workshop than the 3.0-litre AJ30, we see them regularly enough that we maintain full rebuild capability for this application.",
+    "body": "The AJ25 appears exclusively in the X-Type, across the full production run of the X400 generation (2001-2009). It was offered in both saloon and estate body styles, making it the most accessible V6-powered X-Type and a popular choice for buyers wanting the V6 driving experience in a more affordable package. While the AJ25 is less common in the workshop than the 3.0-litre AJ30, we see them regularly enough that we maintain full rebuild capability for this application.",
     "lineup": [
       {
         "label": "X-Type",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "The AJ25 was fitted exclusively to the X-Type (X400), meaning compatibility concerns are simpler than on engines spanning multiple model lines. However, even within the X-Type, differences exist between early and late production variants — ancillaries, ECU calibration, and emissions equipment varied by market and model year. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN to ensure the correct specification is used.",
+    "body": "The AJ25 was fitted exclusively to the X-Type (X400), meaning compatibility concerns are simpler than on engines spanning multiple model lines. However, even within the X-Type, differences exist between early and late production variants - ancillaries, ECU calibration, and emissions equipment varied by market and model year. Before we quote or supply anything, we confirm your exact vehicle by registration or VIN to ensure the correct specification is used.",
     "points": [
       {
         "icon": "car",
@@ -61,11 +61,11 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ25 in the X-Type (X400, 2001–2009)",
+        "heading": "AJ25 in the X-Type (X400, 2001-2009)",
         "engine": "AJ25",
         "model": "X-Type",
-        "detail": "X400, 2001–2009",
-        "body": "The AJ25 in the X-Type is one of the applications we work on — the 2.5-litre V6 petrol option across the X400 generation (2001–2009), available in both saloon and estate body styles.",
+        "detail": "X400, 2001-2009",
+        "body": "The AJ25 in the X-Type is one of the applications we work on - the 2.5-litre V6 petrol option across the X400 generation (2001-2009), available in both saloon and estate body styles.",
         "price": "£3,200",
         "cta": "Check your X-Type AJ25"
       }
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar X-Type X400",
       "engine": "AJ25 2.5L",
-      "year": "2001 – 2009",
+      "year": "2001 - 2009",
       "price": "£3,200"
     }
   }

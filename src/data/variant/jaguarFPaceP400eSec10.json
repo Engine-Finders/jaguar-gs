@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace P400e ENGINE",
     "paragraphs": [
-      "The F-Pace P400e is Jaguar's plug-in hybrid variant of the F-Pace SUV, introduced in 2020 as part of the X761 generation. The petrol engine is the Ingenium AJ200P — a 2.0-litre turbocharged four-cylinder — which works alongside an electric motor to produce 404PS combined. The P400e offers an electric-only range of 33 miles per Jaguar's own specification. The P400e sits alongside the rest of the F-Pace range as Jaguar's petrol PHEV offering, distinct from the diesel and supercharged V8 variants in the lineup. No PHEV-specific known issues have been confirmed for this variant at this time."
+      "The F-Pace P400e is Jaguar's plug-in hybrid variant of the F-Pace SUV, introduced in 2020 as part of the X761 generation. The petrol engine is the Ingenium AJ200P - a 2.0-litre turbocharged four-cylinder - which works alongside an electric motor to produce 404PS combined. The P400e offers an electric-only range of 33 miles per Jaguar's own specification. The P400e sits alongside the rest of the F-Pace range as Jaguar's petrol PHEV offering, distinct from the diesel and supercharged V8 variants in the lineup. No PHEV-specific known issues have been confirmed for this variant at this time."
     ],
     "boldParagraph": "]"
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ200P",
         "codeRest": "",
-        "body": "A 2.0L I4 + electric motor (404PS combined, 33mi electric range) Petrol Plug-in Hybrid engine fitted to the F-Pace P400e — X761 (2020–present).",
+        "body": "A 2.0L I4 + electric motor (404PS combined, 33mi electric range) Petrol Plug-in Hybrid engine fitted to the F-Pace P400e - X761 (2020-present).",
         "cta": "Check Your AJ200P F-Pace P400e",
         "codeHref": "/jaguar-aj200p-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to the PHEV system"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace P400e ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-s-suv-20162018-new-firenze-red-f-pace-s-0804.webp",
         "chassis": "X761",
-        "years": "2020–present",
+        "years": "2020-present",
         "engineCode": "AJ200P",
         "fuel": "Petrol Plug-in Hybrid"
       }

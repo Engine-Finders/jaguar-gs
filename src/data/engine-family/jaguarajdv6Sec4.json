@@ -9,7 +9,7 @@
         "Main bearings and connecting rod bearings",
         "Complete gasket and seal set",
         "Timing chain components",
-        "Oil cooler seals — critical known issue",
+        "Oil cooler seals - critical known issue",
         "Oil filter housing gasket"
       ],
       "image": "/engine/sec4.webp"
@@ -20,8 +20,8 @@
       "items": [
         "Crankshaft",
         "Cylinder head",
-        "Timing belt — critical known issue",
-        "Injector seals — critical known issue"
+        "Timing belt - critical known issue",
+        "Injector seals - critical known issue"
       ],
       "image": "/engine/sec4.webp"
     },
@@ -47,6 +47,6 @@
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from Master Engine Data File data. If your AJD-V6's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from Master Engine Data File data. If your AJD-V6's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

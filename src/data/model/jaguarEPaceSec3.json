@@ -4,11 +4,11 @@
   "startingFromLabel": "Starting From:",
   "image": "/model/sec3.webp",
   "imageMobile": "/model/sec3_mobile.webp",
-  "cardImage": "/model/engine_trim.webp",
+  "cardImage": "/engines/card3-engine-trim.webp",
   "cards": [
     {
       "titlePre": "3-Cylinder",
-      "image": "/engines/jaguar-p160-1-5-litre-mhev-engine.webp",
+      "image": "/engines/card3-jaguar-p160-1-5-litre-mhev-engine.webp",
       "titleHighlight": "Rebuild",
       "code": "(Ingenium)",
       "price": "£2,000",
@@ -16,7 +16,7 @@
     },
     {
       "titlePre": "4-Cylinder",
-      "image": "/engines/jaguar-jlr-2-0-ingenium-aj200-engine-hero.webp",
+      "image": "/engines/card3-jaguar-jlr-2-0-ingenium-aj200-engine-hero.webp",
       "titleHighlight": "Rebuild",
       "code": "(Ingenium)",
       "price": "£2,000",
@@ -24,7 +24,7 @@
     },
     {
       "titlePre": "E-Pace Rebuild",
-      "image": "/engines/jaguar-aj200d-engine.webp",
+      "image": "/engines/card3-jaguar-aj200d-engine.webp",
       "titleHighlight": "",
       "code": "(Ingenium)",
       "price": "£2,000",
@@ -35,10 +35,11 @@
       "titleHighlight": "Recovery",
       "code": "",
       "price": "£70",
-      "featured": false
+      "featured": false,
+      "icon": "truck"
     }
   ],
-  "disclaimer": "Exact price depends on engine code, condition and parts required — full pricing further down this page.",
+  "disclaimer": "Exact price depends on engine code, condition and parts required - full pricing further down this page.",
   "cta": {
     "line1": "Get Your Fixed-Price Quote",
     "line2": "In Under 30 Minutes",

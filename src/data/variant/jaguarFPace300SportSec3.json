@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,900",
   "engineImage": "/engines/jaguar-d300-engine.webp",
-  "carImage": "/cars/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
+  "carImage": "/cars/card/jaguar-f-pace-x761-300-sport-suv-20212024-new-carpathian-gre-9143.webp",
   "cards": [
     {
       "code": "AJ300D",
-      "generation": "X761 (2022–present)",
+      "generation": "X761 (2022-present)",
       "price": "£2,900"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar F-Pace 300 Sport Timing Chain & Injector Wear ",
     "titleHighlight": "(AJ300D)",
     "paragraphs": [
-      "If your F-Pace 300 Sport has the AJ300D diesel — that's the Ingenium straight-six mild-hybrid — timing chain wear and injector seal failure are documented patterns on this engine family. We inspect and replace timing chains, injector seals, bearings and gaskets as standard on every AJ300D rebuild."
+      "If your F-Pace 300 Sport has the AJ300D diesel - that's the Ingenium straight-six mild-hybrid - timing chain wear and injector seal failure are documented patterns on this engine family. We inspect and replace timing chains, injector seals, bearings and gaskets as standard on every AJ300D rebuild."
     ],
     "source": "Source: same Ingenium 6-cyl pattern as D300, per G-BRF and VRF-jaguar-f-pace.md, confirmed applicable to the 300 Sport via shared engine family."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X761",
       "label": "Generation",
-      "big": "2022–present",
+      "big": "2022-present",
       "sub": "Jaguar F-Pace 300 Sport"
     },
     {

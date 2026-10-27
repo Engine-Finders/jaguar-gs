@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£3,200",
   "engineImage": "/engines/jaguar-aj126-engine.webp",
-  "carImage": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+  "carImage": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
   "cards": [
     {
       "code": "AJ126",
-      "generation": "X351 (2013–2019)",
+      "generation": "X351 (2013-2019)",
       "price": "£3,200"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "The AJ126 sits on the V6 petrol rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "The AJ126 sits on the V6 petrol rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -33,7 +33,7 @@
     {
       "badge": "X351",
       "label": "Generation",
-      "big": "2013–2019",
+      "big": "2013-2019",
       "sub": "Jaguar XJ 3.0 V6 Supercharged"
     },
     {

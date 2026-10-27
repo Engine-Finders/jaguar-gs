@@ -4,17 +4,8 @@ import Image from "next/image";
 
 import { useRef, useState } from "react";
 import Icon from "@/components/reusable/Icon";
-
-function GoogleG({ className = "h-5 w-5" }) {
-  return (
-    <svg viewBox="0 0 24 24" className={className}>
-      <path fill="#4285F4" d="M23.5 12.27c0-.85-.08-1.66-.22-2.45H12v4.64h6.47a5.53 5.53 0 01-2.4 3.63v3h3.88c2.27-2.09 3.55-5.17 3.55-8.82z" />
-      <path fill="#34A853" d="M12 24c3.24 0 5.96-1.07 7.95-2.91l-3.88-3c-1.08.72-2.46 1.15-4.07 1.15-3.13 0-5.78-2.11-6.73-4.96H1.27v3.11A12 12 0 0012 24z" />
-      <path fill="#FBBC05" d="M5.27 14.28a7.2 7.2 0 010-4.56V6.61H1.27a12 12 0 000 10.78z" />
-      <path fill="#EA4335" d="M12 4.75c1.76 0 3.34.6 4.58 1.79l3.44-3.44C17.95 1.19 15.24 0 12 0A12 12 0 001.27 6.61l4 3.11C6.22 6.86 8.87 4.75 12 4.75z" />
-    </svg>
-  );
-}
+import { GoogleG, TrustpilotMark } from "@/components/reusable/BrandLogos";
+import Link from "next/link";
 
 function Stars({ count = 5 }) {
   return (
@@ -26,13 +17,22 @@ function Stars({ count = 5 }) {
   );
 }
 
+// Long model names ("Land Rover Range Rover Evoque") run into the logo in the corner, so over MAX_NAME
+// characters the leading brand word is dropped ("Range Rover Evoque"); anything still longer is cut with an ellipsis.
+const MAX_NAME = 22;
+function shortName(name) {
+  let n = name.trim();
+  if (n.length > MAX_NAME) n = n.replace(/^(Land Rover|Mercedes-Benz|Mercedes|Jaguar|BMW)\s+/i, "");
+  return n.length > MAX_NAME ? `${n.slice(0, MAX_NAME - 1).trimEnd()}…` : n;
+}
+
 function renderTitleLine(line, defaultClassName) {
   const parts = line.split(/(\*\*.*?\*\*)/g).filter(Boolean);
   return parts.map((part, i) => {
     const match = part.match(/^\*\*(.*)\*\*$/);
     return match ? (
-      <span key={i} className="text-white">
-        {match[1]}
+      <span key={i} className="text-hero-blue">
+        {shortName(match[1])}
       </span>
     ) : (
       <span key={i} className={defaultClassName}>
@@ -63,7 +63,7 @@ export default function ModelSec8({ data }) {
         <Image src="/brand/logo-icon.webp" alt="Jaguar Garage" width={512} height={173} className="h-14 w-auto absolute right-4 top-4" sizes="120px" />
 
         <div className="relative px-4 pb-8 pt-8">
-          <h2 className="h2 origin-left scale-y-110 scale-x-90 uppercase">
+          <h2 className="h2 max-w-[68%] origin-left scale-y-110 scale-x-90 uppercase">
             <span className="block text-white">{renderTitleLine(line1, "text-white")}</span>
             <span className="block text-hero-blue">{renderTitleLine(line2, "text-hero-blue")}</span>
           </h2>
@@ -94,7 +94,7 @@ export default function ModelSec8({ data }) {
                   {r.platform === "google" ? (
                     <GoogleG className="h-5 w-5" />
                   ) : (
-                    <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
+                    <TrustpilotMark className="h-5 w-5" />
                   )}
                 </div>
                 <p className="mt-4 text-base font-bold text-white">{r.name}</p>
@@ -117,14 +117,9 @@ export default function ModelSec8({ data }) {
           </div>
 
           <div className="mt-6 space-y-3">
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
-              <GoogleG className="h-5 w-5" />
-              {data.googleCta} <span aria-hidden className="text-white">→</span>
-            </button>
-            <button className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
-              <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
-              {data.trustpilotCta} <span aria-hidden className="text-white">→</span>
-            </button>
+            <Link href="/our-reviews" className="btn-text card-corner-glare relative flex w-full items-center justify-center gap-2 rounded-lg border border-white/25 bg-[#101010] px-6 py-3.5 uppercase text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
+              Check All Our Reviews <span aria-hidden>→</span>
+            </Link>
           </div>
         </div>
       </div>
@@ -169,7 +164,7 @@ export default function ModelSec8({ data }) {
                 {r.platform === "google" ? (
                   <GoogleG className="h-5 w-5" />
                 ) : (
-                  <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
+                  <TrustpilotMark className="h-5 w-5" />
                 )}
               </div>
               <p className="mt-4 text-base font-bold text-white">{r.name}</p>
@@ -183,14 +178,9 @@ export default function ModelSec8({ data }) {
         </div>
 
         <div className="mt-5 flex justify-center gap-4">
-          <button className="btn-text card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-white/25 bg-[#101010] px-6 py-3 text-white transition hover:-translate-y-0.5">
-            <GoogleG className="h-5 w-5" />
-            {data.googleCta} <span aria-hidden className="text-white">→</span>
-          </button>
-          <button className="btn-text card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-white/25 bg-[#101010] px-6 py-3 text-white transition hover:-translate-y-0.5">
-            <Icon name="star" className="h-5 w-5 fill-[#00b67a] text-[#00b67a]" />
-            {data.trustpilotCta} <span aria-hidden className="text-white">→</span>
-          </button>
+          <Link href="/our-reviews" className="btn-text card-corner-glare relative flex items-center justify-center gap-2 rounded-md border border-white/25 bg-[#101010] px-6 py-3 text-white transition hover:-translate-y-0.5">
+            Check All Our Reviews <span aria-hidden>→</span>
+          </Link>
         </div>
       </div>
       </div>

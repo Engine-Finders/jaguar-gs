@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Jaguar X-Type|Ignition Coil Failure?|",
-  "description": "On the AJ V6 petrol engines, coil-on-plug ignition coils degrade over time, causing misfires, rough idle and check-engine warnings — often accelerated by oil contamination from leaking valve cover gaskets. We replace worn coils and address the underlying gasket leak together, not just the symptom.",
+  "description": "On the AJ V6 petrol engines, coil-on-plug ignition coils degrade over time, causing misfires, rough idle and check-engine warnings - often accelerated by oil contamination from leaking valve cover gaskets. We replace worn coils and address the underlying gasket leak together, not just the symptom.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: ZSD-420/422 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+    "body": "Yes - both verified: ZSD-420/422 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

@@ -4,18 +4,18 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-2-5-v6-and-xb-engine.webp",
-  "carImage": "/cars/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp",
+  "carImage": "/cars/card/jaguar-x-type-x400-2-5-v6-se-saloon-20012004-new-british-rac-4a60.webp",
   "cards": [
     {
       "code": "AJ25",
-      "generation": "X400 (2001–2009)",
+      "generation": "X400 (2001-2009)",
       "price": "£2,600"
     }
   ],
   "notes": [
     {
       "icon": "price",
-      "text": "Exact price depends on condition and parts required — submit your reg for a fixed-price quote."
+      "text": "Exact price depends on condition and parts required - submit your reg for a fixed-price quote."
     }
   ],
   "cta": {
@@ -28,7 +28,7 @@
     "titlePre": "Jaguar X-Type V6 Ignition Coil Degradation",
     "titleHighlight": "",
     "paragraphs": [
-      "If your X-Type is a V6 model with the AJ-series engine — that's the X400 generation built between 2001 and 2009 — ignition coil degradation is a well-documented pattern on this engine. The coil-on-plug design is often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils and valve cover gaskets as standard on every AJ25 rebuild."
+      "If your X-Type is a V6 model with the AJ-series engine - that's the X400 generation built between 2001 and 2009 - ignition coil degradation is a well-documented pattern on this engine. The coil-on-plug design is often accelerated by oil contamination from leaking valve cover gaskets. We replace ignition coils and valve cover gaskets as standard on every AJ25 rebuild."
     ],
     "source": "Source: verified via multiple independent sources (CarChecker.pro, TrueDelta), per G-BRF Jaguar Section 5. Diesel 2.0d timing belt is a service interval item, not a defect pattern, and is not included as a hero hook per VRF Section 2."
   },
@@ -42,7 +42,7 @@
     {
       "badge": "X400",
       "label": "Generation",
-      "big": "2001–2009",
+      "big": "2001-2009",
       "sub": "Jaguar X-Type 2.5 V6"
     },
     {

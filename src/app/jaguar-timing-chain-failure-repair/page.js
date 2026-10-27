@@ -8,7 +8,7 @@ const FAQ = (data.sections || []).filter((s) => s.kind === "faq").flatMap((s) =>
 
 export const metadata = {
   title: "Jaguar Timing Chain Failure Repair | Jaguar Garage",
-  description: "Professional Jaguar timing chain failure repair – full assessment, strip-down inspection, and remediation by Jaguar specialists. Book an inspection today.",
+  description: "Professional Jaguar timing chain failure repair - full assessment, strip-down inspection, and remediation by Jaguar specialists. Book an inspection today.",
   alternates: { canonical: PATH },
 };
 

@@ -3,7 +3,7 @@
   "metaTitle": "Jaguar Engine Compatibility & Application Matching | Jaguar Garage",
   "metaDescription": "Professional Jaguar engine compatibility and application matching. Verify engine fitment by VIN, engine code, model year, drivetrain, and ancillaries. Expert advice from our Essex workshop.",
   "h1": "Jaguar Engine Compatibility & Application Matching",
-  "lede": "Professional engine matching by VIN, engine code, model year, drivetrain, and ancillaries. We verify exactly which engine fits your Jaguar before any work begins — avoiding costly mis-matches.",
+  "lede": "Professional engine matching by VIN, engine code, model year, drivetrain, and ancillaries. We verify exactly which engine fits your Jaguar before any work begins - avoiding costly mis-matches.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -36,7 +36,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Professional engine matching goes far beyond comparing model badges. We use a multi-point verification process to ensure that any replacement or rebuilt engine is a perfect fit for your specific Jaguar — not just the same displacement, but the exact variant with the correct ancillaries, sensors, and ECU compatibility."
+          "html": "Professional engine matching goes far beyond comparing model badges. We use a multi-point verification process to ensure that any replacement or rebuilt engine is a perfect fit for your specific Jaguar - not just the same displacement, but the exact variant with the correct ancillaries, sensors, and ECU compatibility."
         },
         {
           "t": "p",
@@ -45,17 +45,17 @@
         {
           "t": "ul",
           "items": [
-            "**VIN Decoding** — we use the VIN to confirm the factory-specified engine, model year, and build details",
-            "**Engine Code Verification** — comparing the stamped engine code to confirm the exact engine family and variant",
-            "**Model Year and Production Date** — identifying design updates that affect interchangeability",
-            "**Drivetrain and Transmission Matching** — ensuring correct sump, mounts, and flex plate for RWD or AWD",
-            "**Ancillary Component Audit** — checking that engine harnesses, sensors, throttle bodies, and ECUs match",
-            "**Emissions Specification** — verifying compliance with the vehicle's original emissions hardware"
+            "**VIN Decoding** - we use the VIN to confirm the factory-specified engine, model year, and build details",
+            "**Engine Code Verification** - comparing the stamped engine code to confirm the exact engine family and variant",
+            "**Model Year and Production Date** - identifying design updates that affect interchangeability",
+            "**Drivetrain and Transmission Matching** - ensuring correct sump, mounts, and flex plate for RWD or AWD",
+            "**Ancillary Component Audit** - checking that engine harnesses, sensors, throttle bodies, and ECUs match",
+            "**Emissions Specification** - verifying compliance with the vehicle's original emissions hardware"
           ]
         },
         {
           "t": "p",
-          "html": "We cross-reference OEM part numbers and work with specialist suppliers to confirm compatibility before any work is undertaken — saving time, money, and unnecessary hassle."
+          "html": "We cross-reference OEM part numbers and work with specialist suppliers to confirm compatibility before any work is undertaken - saving time, money, and unnecessary hassle."
         }
       ]
     },
@@ -306,11 +306,11 @@
         {
           "t": "ul",
           "items": [
-            "**Jaguar-specific expertise** — across all modern models and engine families",
-            "**Multi-point verification** — VIN, engine code, year, drivetrain, ancillaries",
-            "**OEM cross-reference** — we use genuine part numbers and specialist supplier data",
-            "**Avoid costly mistakes** — mis-matches can lead to wasted time and expense",
-            "**Full transparency** — we explain every step and provide clear documentation",
+            "**Jaguar-specific expertise** - across all modern models and engine families",
+            "**Multi-point verification** - VIN, engine code, year, drivetrain, ancillaries",
+            "**OEM cross-reference** - we use genuine part numbers and specialist supplier data",
+            "**Avoid costly mistakes** - mis-matches can lead to wasted time and expense",
+            "**Full transparency** - we explain every step and provide clear documentation",
             "[Learn more about our workshop](/about)"
           ]
         }
@@ -322,7 +322,7 @@
       "steps": [
         {
           "title": "",
-          "body": "You provide your VIN or registration — we decode the factory specification."
+          "body": "You provide your VIN or registration - we decode the factory specification."
         },
         {
           "title": "",
@@ -330,7 +330,7 @@
         },
         {
           "title": "",
-          "body": "We cross-reference all components — ancillaries, sensors, ECU — to ensure a perfect match."
+          "body": "We cross-reference all components - ancillaries, sensors, ECU - to ensure a perfect match."
         },
         {
           "title": "",
@@ -360,7 +360,7 @@
       "items": [
         {
           "q": "Why can't I just fit any engine with the same displacement?",
-          "a": "Engines from the same model year and displacement can have critical differences in mounts, sumps, sensors, and ECU strategy. For example, AJ26 and AJ27 4.0-litre V8s are not directly interchangeable — cylinder heads, cams, sensors, coils, throttle body, and ECU differ. Correct matching is essential for a working installation."
+          "a": "Engines from the same model year and displacement can have critical differences in mounts, sumps, sensors, and ECU strategy. For example, AJ26 and AJ27 4.0-litre V8s are not directly interchangeable - cylinder heads, cams, sensors, coils, throttle body, and ECU differ. Correct matching is essential for a working installation."
         },
         {
           "q": "How do you check compatibility using the VIN?",

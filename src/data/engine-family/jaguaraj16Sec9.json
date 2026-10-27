@@ -6,7 +6,7 @@
     "titlePre": "JAGUAR",
     "titleHighlight": "AJ16",
     "titlePost": " ENGINE",
-    "body": "The AJ16 is Jaguar's 4.0-litre inline-six petrol engine, produced from 1994 to 1997. It was fitted exclusively to the XJ X300 generation — the last of Jaguar's traditional straight-six engines before the brand moved to V8 power. The AJ16 is a robust, well-regarded engine that remains one of the most respected powerplants from the Ford-era Jaguar transition."
+    "body": "The AJ16 is Jaguar's 4.0-litre inline-six petrol engine, produced from 1994 to 1997. It was fitted exclusively to the XJ X300 generation - the last of Jaguar's traditional straight-six engines before the brand moved to V8 power. The AJ16 is a robust, well-regarded engine that remains one of the most respected powerplants from the Ford-era Jaguar transition."
   },
   "byModel": {
     "image": "/engine/sec8_middle.webp",
@@ -30,7 +30,7 @@
     "titlePre": "",
     "titleHighlight": "ENGINE",
     "titlePost": " COMPATIBILITY",
-    "body": "The AJ16 was used exclusively in the XJ X300 generation — meaning compatibility is straightforward for this particular engine code. However, even within a single application, ancillaries and mounting may vary by specification and year. We confirm your exact vehicle by registration/VIN before proceeding with any rebuild or replacement.",
+    "body": "The AJ16 was used exclusively in the XJ X300 generation - meaning compatibility is straightforward for this particular engine code. However, even within a single application, ancillaries and mounting may vary by specification and year. We confirm your exact vehicle by registration/VIN before proceeding with any rebuild or replacement.",
     "points": [
       {
         "icon": "car",
@@ -61,10 +61,10 @@
     "imageMobile": "/engine/sec9a_m4.webp",
     "items": [
       {
-        "heading": "AJ16 in the XJ (X300, 1994–1997)",
+        "heading": "AJ16 in the XJ (X300, 1994-1997)",
         "engine": "AJ16",
         "model": "XJ",
-        "detail": "X300, 1994–1997",
+        "detail": "X300, 1994-1997",
         "body": "The AJ16 in the XJ X300 is the application we work on for this engine. This was the final generation of the Jaguar XJ to use the classic inline-six, and it remains a sought-after engine for its smoothness and character.",
         "price": "£3,200",
         "cta": "Check your XJ AJ16"
@@ -74,7 +74,7 @@
     "card": {
       "model": "Jaguar XJ X300",
       "engine": "AJ16 4.0L",
-      "year": "1994 – 1997",
+      "year": "1994 - 1997",
       "price": "£3,200"
     }
   }

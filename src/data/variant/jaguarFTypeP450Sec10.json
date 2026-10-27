@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type P450 ENGINE",
     "paragraphs": [
-      "The F-Type P450 is a late-cycle addition to the F-Type range, introduced as a replacement for the previous V6 S and positioned just below the R in the line-up. Like the rest of the F-Type's V8 models, it uses the AJ133 — a 5.0-litre supercharged V8 from Jaguar's Gen III AJ-V8 family, shared with the R and SVR variants. The P450 name refers to its power output in PS — a badge introduced for the 2021 model year as part of a range-wide naming restructure, bringing the F-Type's V8 offering into the same naming convention used across Jaguar's contemporary line-up. The F-Type P450 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The F-Type P450 is a late-cycle addition to the F-Type range, introduced as a replacement for the previous V6 S and positioned just below the R in the line-up. Like the rest of the F-Type's V8 models, it uses the AJ133 - a 5.0-litre supercharged V8 from Jaguar's Gen III AJ-V8 family, shared with the R and SVR variants. The P450 name refers to its power output in PS - a badge introduced for the 2021 model year as part of a range-wide naming restructure, bringing the F-Type's V8 offering into the same naming convention used across Jaguar's contemporary line-up. The F-Type P450 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ133 engines for every F-Type P450 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ133",
         "codeRest": "",
-        "body": "A 5.0-litre supercharged V8 fitted to the F-Type P450 across the entire X152 generation (2013–2024). The AJ133 is a member of Jaguar's Gen III AJ-V8 family, using a cross-plane crankshaft and Eaton TVS supercharger. Timing chain tensioner and guide wear is a documented pattern on this engine family — particularly on earlier 2012–2014 examples, which were explicitly named in a US class-action lawsuit scope covering the same engine across multiple JLR models. We replace timing chains, tensioners and guides as standard on every AJ133 rebuild.",
+        "body": "A 5.0-litre supercharged V8 fitted to the F-Type P450 across the entire X152 generation (2013-2024). The AJ133 is a member of Jaguar's Gen III AJ-V8 family, using a cross-plane crankshaft and Eaton TVS supercharger. Timing chain tensioner and guide wear is a documented pattern on this engine family - particularly on earlier 2012-2014 examples, which were explicitly named in a US class-action lawsuit scope covering the same engine across multiple JLR models. We replace timing chains, tensioners and guides as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 F-Type P450",
         "codeHref": "/jaguar-aj133-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Type P450 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The F-Type P450 uses the AJ133 V8 across its entire production run — no engine code changes occurred during this variant's life. That means compatibility for replacement or rebuild work is consistent, but sourcing a used unit still requires VIN matching to ensure the correct ECU calibration and ancillaries. Before we quote or supply anything, we confirm:",
+    "intro": "The F-Type P450 uses the AJ133 V8 across its entire production run - no engine code changes occurred during this variant's life. That means compatibility for replacement or rebuild work is consistent, but sourcing a used unit still requires VIN matching to ensure the correct ECU calibration and ancillaries. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Type quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type P450 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp",
+    "image": "/cars/card/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X152",
-        "image": "/cars/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp",
+        "image": "/cars/card/jaguar-f-type-x152-lci-p450-r-dynamic-coupe-20202024-new-san-6cf1.webp",
         "chassis": "X152",
-        "years": "2013–2024",
+        "years": "2013-2024",
         "engineCode": "AJ133",
         "fuel": "Petrol Supercharged"
       }

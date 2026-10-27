@@ -1,7 +1,7 @@
 {
   "kicker": "Known Issue",
   "h2": "Jaguar F-Type AJ133 V8|Timing Chain Issue?|",
-  "description": "If your F-Type is a 2012–2014 model fitted with the 5.0L supercharged AJ133 V8, this engine carries the same documented timing chain tensioner design flaw found on the equivalent-era XJ, XK and XF — serious enough to have been named directly in a US class-action lawsuit alongside those models.",
+  "description": "If your F-Type is a 2012-2014 model fitted with the 5.0L supercharged AJ133 V8, this engine carries the same documented timing chain tensioner design flaw found on the equivalent-era XJ, XK and XF - serious enough to have been named directly in a US class-action lawsuit alongside those models.",
   "descriptionEmphasis": "No hidden extras.",
   "image": "/model/sec2.webp",
   "imageMobile": "/model/sec2_mobile.webp",
@@ -13,7 +13,7 @@
   "heroHook": {
     "icon": "shield-check",
     "title": "Include In Hero Hook:",
-    "body": "Yes — both verified: Ingenium AJ200 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
+    "body": "Yes - both verified: Ingenium AJ200 widely documented with multiple TSBs; M156 pre-2012 established Jaguar specialist pattern."
   },
   "features": [
     {
@@ -34,7 +34,7 @@
     {
       "icon": "shield-check",
       "title": "Peace Of Mind",
-      "body": "No hidden extras — just a stronger, longer-lasting engine"
+      "body": "No hidden extras - just a stronger, longer-lasting engine"
     }
   ]
 }

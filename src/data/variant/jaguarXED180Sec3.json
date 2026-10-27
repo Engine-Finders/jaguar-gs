@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,000",
   "engineImage": "/engines/jaguar-aj200d-engine.webp",
-  "carImage": "/cars/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
+  "carImage": "/cars/card/jaguar-xe-x760-se-saloon-20152017-new-polaris-white-xe-se-1e85.webp",
   "cards": [
     {
       "code": "",
@@ -15,7 +15,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar XE D180 Engine Rebuild — From £2,000"
+      "text": "Jaguar XE D180 Engine Rebuild - From £2,000"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £2,000 — Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
+      "text": "Starting from £2,000 - Get a Fixed-Price Quote →   [Call Our Specialists: 0203 488 4649]"
     }
   ],
   "cta": {
@@ -45,7 +45,7 @@
     "titleHighlight": "",
     "paragraphs": [
       "If your XE D180 is an X760 generation model with the AJ200D diesel engine, timing chain and injector seal wear is a well-documented pattern on this engine. We replace the timing chain, injectors, EGR, and gaskets as standard on every AJ200D rebuild.",
-      "Not all XE variants share this issue — it applies to the diesel range, including the D180, D150, and D240. The petrol Ingenium and V6 supercharged variants use different engine designs without the same consistently reported pattern."
+      "Not all XE variants share this issue - it applies to the diesel range, including the D180, D150, and D240. The petrol Ingenium and V6 supercharged variants use different engine designs without the same consistently reported pattern."
     ],
     "source": "Source: widely corroborated across JLR specialist forums and independent garages per VRF-jaguar-xe.md."
   },
@@ -59,7 +59,7 @@
     {
       "badge": "X760",
       "label": "Generation",
-      "big": "2015–~2020",
+      "big": "2015-~2020",
       "sub": "Jaguar XE D180"
     },
     {

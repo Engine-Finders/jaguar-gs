@@ -1,9 +1,9 @@
 {
   "slug": "jaguar-engine-replacement",
   "metaTitle": "Jaguar Engine Replacement | Jaguar Garage",
-  "metaDescription": "Professional Jaguar engine replacement services – removal, supply & fit, ECU coding, and full road-test validation. Fixed-price quotes from our Essex workshop.",
+  "metaDescription": "Professional Jaguar engine replacement services - removal, supply & fit, ECU coding, and full road-test validation. Fixed-price quotes from our Essex workshop.",
   "h1": "Jaguar Engine Replacement",
-  "lede": "Complete engine removal, supply, and fit for all Jaguar models – from X-Type to F-Type, XJ to F-Pace. Fixed-price work with full warranty.",
+  "lede": "Complete engine removal, supply, and fit for all Jaguar models - from X-Type to F-Type, XJ to F-Pace. Fixed-price work with full warranty.",
   "ctas": [
     {
       "label": "Get a Quote",
@@ -72,11 +72,11 @@
             "**Engine replacement from:**",
             {
               "ul": [
-                "4-cylinder (Ingenium / EcoBoost / ZSD) – from **£1,900**",
-                "V6 Diesel – from **£2,900**",
-                "V6 Petrol – from **£3,200**",
-                "V8 (naturally aspirated) – from **£4,500**",
-                "V8 Supercharged / SVR – from **£5,500**"
+                "4-cylinder (Ingenium / EcoBoost / ZSD) - from **£1,900**",
+                "V6 Diesel - from **£2,900**",
+                "V6 Petrol - from **£3,200**",
+                "V8 (naturally aspirated) - from **£4,500**",
+                "V8 Supercharged / SVR - from **£5,500**"
               ]
             },
             "Fixed-price quotes include all parts, labour, and ECU programming. [Pricing disclaimer →](/pricing-legal-disclaimer)"
@@ -90,7 +90,7 @@
       "blocks": [
         {
           "t": "p",
-          "html": "Our engine replacement service covers the full Jaguar range – from classic XJ to the latest F-Pace. Every replacement is matched to your exact vehicle specification."
+          "html": "Our engine replacement service covers the full Jaguar range - from classic XJ to the latest F-Pace. Every replacement is matched to your exact vehicle specification."
         },
         {
           "t": "linkgrid",
@@ -150,7 +150,7 @@
     },
     {
       "kind": "steps",
-      "heading": "Our Process – Step by Step",
+      "heading": "Our Process - Step by Step",
       "steps": [
         {
           "title": "Pre-diagnostic & backup",
@@ -166,7 +166,7 @@
         },
         {
           "title": "Engine removal",
-          "body": "Using a professional engine hoist (322 kg+ capacity), the old unit is lifted out – or the subframe is lowered as one assembly."
+          "body": "Using a professional engine hoist (322 kg+ capacity), the old unit is lifted out - or the subframe is lowered as one assembly."
         },
         {
           "title": "Component transfer",
@@ -194,11 +194,11 @@
           "t": "ul",
           "items": [
             "**JLR-trained technicians** with years of specialist experience",
-            "**Full JLR diagnostic & programming equipment** – SDD, Pathfinder, JET Master",
-            "**Fixed-price quotes** – no hidden extras",
+            "**Full JLR diagnostic & programming equipment** - SDD, Pathfinder, JET Master",
+            "**Fixed-price quotes** - no hidden extras",
             "**12-month unlimited-mileage warranty** on all replacement work",
             "**Nationwide engine recovery** available (from £70)",
-            "**Real workshop premises** in Essex – visit us anytime"
+            "**Real workshop premises** in Essex - visit us anytime"
           ]
         },
         {
@@ -253,7 +253,7 @@
         },
         {
           "t": "p",
-          "html": "Read our blog for more insights: [Rebuild, replacement, or used – how we decide](/guides) and [The hidden risk in a cheap used engine](/guides)."
+          "html": "Read our blog for more insights: [Rebuild, replacement, or used - how we decide](/guides) and [The hidden risk in a cheap used engine](/guides)."
         }
       ]
     },
@@ -267,19 +267,19 @@
         },
         {
           "q": "How long does a Jaguar engine replacement take?",
-          "a": "Typical workshop time is between 14 and 30 hours depending on the model and engine type. We'll give you a clear schedule when we quote – most replacements are completed within one working week."
+          "a": "Typical workshop time is between 14 and 30 hours depending on the model and engine type. We'll give you a clear schedule when we quote - most replacements are completed within one working week."
         },
         {
           "q": "Will the replacement engine be coded to my car?",
-          "a": "Yes – we always perform dealer-level ECU coding to match the new engine's parameters to your vehicle's VIN. This ensures correct operation and full integration with the immobiliser, transmission, and other modules."
+          "a": "Yes - we always perform dealer-level ECU coding to match the new engine's parameters to your vehicle's VIN. This ensures correct operation and full integration with the immobiliser, transmission, and other modules."
         },
         {
           "q": "Do you source the replacement engine, or do I supply it?",
-          "a": "We supply the replacement unit for you – we source engines from reputable suppliers and ensure they are the exact match for your vehicle. We never fit customer-supplied engines because we can't guarantee their condition or compatibility."
+          "a": "We supply the replacement unit for you - we source engines from reputable suppliers and ensure they are the exact match for your vehicle. We never fit customer-supplied engines because we can't guarantee their condition or compatibility."
         },
         {
           "q": "Can you recover my Jaguar if it's not driveable?",
-          "a": "Absolutely – we offer nationwide engine recovery starting from £70. Just call us and we'll arrange collection to our workshop."
+          "a": "Absolutely - we offer nationwide engine recovery starting from £70. Just call us and we'll arrange collection to our workshop."
         }
       ]
     }

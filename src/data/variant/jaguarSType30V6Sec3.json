@@ -4,7 +4,7 @@
   "startingFromLabel": "Starting From",
   "startingFromPrice": "£2,600",
   "engineImage": "/engines/jaguar-3-0-v6-and-aj-v6-wb-engine.webp",
-  "carImage": "/cars/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
+  "carImage": "/cars/card/jaguar-s-type-x200-3-0-v6-se-saloon-19992002-new-platinum-si-6aca.webp",
   "cards": [
     {
       "code": "AJ‑V6",
@@ -15,7 +15,7 @@
   "notes": [
     {
       "icon": "price",
-      "text": "Jaguar S-Type 3.0 V6 Engine Rebuild — From £2,600"
+      "text": "Jaguar S-Type 3.0 V6 Engine Rebuild - From £2,600"
     },
     {
       "icon": "price",
@@ -23,7 +23,7 @@
     },
     {
       "icon": "price",
-      "text": "★★★★★ Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+      "text": "★★★★★ Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
     },
     {
       "icon": "price",
@@ -31,7 +31,7 @@
     },
     {
       "icon": "price",
-      "text": "Starting from £2,600 — Get a Fixed-Price Quote →   [Call Our Specialists: +44 203 488 4649]"
+      "text": "Starting from £2,600 - Get a Fixed-Price Quote →   [Call Our Specialists: +44 203 488 4649]"
     }
   ],
   "cta": {
@@ -44,7 +44,7 @@
     "titlePre": "Jaguar S-Type 3.0 V6 Timing Chain Tensioner Failure",
     "titleHighlight": "",
     "paragraphs": [
-      "If your S-Type 3.0 V6 has the AJ-V6 engine (all models from 1999–2008), timing chain tensioner failure is a documented pattern on this engine. We replace timing chain, tensioners, and gaskets as standard on every AJ-V6 rebuild."
+      "If your S-Type 3.0 V6 has the AJ-V6 engine (all models from 1999-2008), timing chain tensioner failure is a documented pattern on this engine. We replace timing chain, tensioners, and gaskets as standard on every AJ-V6 rebuild."
     ],
     "source": "Source: LR Engine Specialists, per VRF-jaguar-s-type.md"
   },
@@ -58,7 +58,7 @@
     {
       "badge": "X200",
       "label": "Generation",
-      "big": "1999–2008",
+      "big": "1999-2008",
       "sub": "Jaguar S-Type 3.0 V6"
     },
     {

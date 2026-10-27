@@ -1,6 +1,6 @@
 {
   "image": "/engine/sec3.webp",
-  "titlePre": "Jaguar Ford Duratorq Applications — ",
+  "titlePre": "Jaguar Ford Duratorq Applications - ",
   "titleHighlight": "Every Model & Variant",
   "columns": [
     {
@@ -25,7 +25,7 @@
       "variant": "2.2D",
       "generation": "X250",
       "chassis": "X250",
-      "years": "2008–2015",
+      "years": "2008-2015",
       "powertrain": "",
       "modelHref": "/jaguar-xf-engines"
     }

@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type V6 ENGINE",
     "paragraphs": [
-      "The F-Type V6 uses the AJ126 — a 3.0-litre supercharged V6 based on the same engine family as the larger AJ133 V8, but with two fewer cylinders. It was fitted from the F-Type's launch in 2012 right through to the end of production in 2024, across the single X152 generation. The AJ126 produced either 335bhp in standard V6 form or 375bhp in V6 S guise, and it was offered alongside the 2.0-litre four-cylinder Ingenium and the 5.0-litre V8 options throughout the F-Type's life. The F-Type V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
+      "The F-Type V6 uses the AJ126 - a 3.0-litre supercharged V6 based on the same engine family as the larger AJ133 V8, but with two fewer cylinders. It was fitted from the F-Type's launch in 2012 right through to the end of production in 2024, across the single X152 generation. The AJ126 produced either 335bhp in standard V6 form or 375bhp in V6 S guise, and it was offered alongside the 2.0-litre four-cylinder Ingenium and the 5.0-litre V8 options throughout the F-Type's life. The F-Type V6 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ126 engines for every F-Type V6 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ126",
         "codeRest": "",
-        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 from 2012 to 2024 (X152 generation). No specific known issue confirmed for this variant's application beyond the general wear pattern common to AJ-family timing chain components — which is why we replace the timing chain, tensioners and guides as standard on every AJ126 rebuild.",
+        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 from 2012 to 2024 (X152 generation). No specific known issue confirmed for this variant's application beyond the general wear pattern common to AJ-family timing chain components - which is why we replace the timing chain, tensioners and guides as standard on every AJ126 rebuild.",
         "cta": "Check Your AJ126 F-Type V6",
         "codeHref": "/jaguar-aj126-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Type V6 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The F-Type uses a single X152 chassis across its entire production run, but engine fitment varies by variant. The AJ126 3.0-litre supercharged V6 is specific to the V6 and V6 S models — it's a different unit from the 2.0-litre Ingenium in the four-cylinder cars and the 5.0-litre AJ133 in the V8 models. Before we quote or supply anything, we confirm:",
+    "intro": "The F-Type uses a single X152 chassis across its entire production run, but engine fitment varies by variant. The AJ126 3.0-litre supercharged V6 is specific to the V6 and V6 S models - it's a different unit from the 2.0-litre Ingenium in the four-cylinder cars and the 5.0-litre AJ133 in the V8 models. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Whether your car is the standard V6 or V6 S (which affects power output but shares the same base engine)"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Type quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type V6 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+    "image": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X152",
-        "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+        "image": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
         "chassis": "X152",
-        "years": "2012–2024",
+        "years": "2012-2024",
         "engineCode": "AJ126",
         "fuel": "Petrol Supercharged"
       }

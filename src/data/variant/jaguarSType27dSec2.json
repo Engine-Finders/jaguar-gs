@@ -37,7 +37,7 @@
     {
       "icon": "calendar",
       "label": "Generations",
-      "value": "X200 (2004–2008)"
+      "value": "X200 (2004-2008)"
     },
     {
       "icon": "price",
@@ -47,7 +47,7 @@
   ],
   "lookup": {
     "title": "Not sure which engine you have?",
-    "body": "The S-Type 2.7d uses the AJD-V6 diesel — enter your registration below and we'll confirm your exact spec before you get a quote.",
+    "body": "The S-Type 2.7d uses the AJD-V6 diesel - enter your registration below and we'll confirm your exact spec before you get a quote.",
     "badges": [
       {
         "icon": "shield-check",

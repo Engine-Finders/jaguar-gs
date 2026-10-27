@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Type V6 S ENGINE",
     "paragraphs": [
-      "The F-Type V6 S uses the AJ126 — a 3.0-litre supercharged V6 petrol engine. It was fitted from the F-Type's launch in 2012 through to 2024 across the X152 generation, sitting above the 2.0-litre Ingenium four-cylinder and below the 5.0-litre supercharged V8 in the F-Type range."
+      "The F-Type V6 S uses the AJ126 - a 3.0-litre supercharged V6 petrol engine. It was fitted from the F-Type's launch in 2012 through to 2024 across the X152 generation, sitting above the 2.0-litre Ingenium four-cylinder and below the 5.0-litre supercharged V8 in the F-Type range."
     ],
     "boldParagraph": "The V6 S was discontinued alongside the rest of the F-Type range in 2024, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ126",
         "codeRest": "",
-        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 S from 2012 to 2024 (X152 generation). No widely-reported specific known issue confirmed for this application — we still service it to the same standard as our other Jaguar rebuilds, replacing timing chain, tensioners and guides as standard where worn.",
+        "body": "A 3.0-litre supercharged V6 fitted to the F-Type V6 S from 2012 to 2024 (X152 generation). No widely-reported specific known issue confirmed for this application - we still service it to the same standard as our other Jaguar rebuilds, replacing timing chain, tensioners and guides as standard where worn.",
         "cta": "Check Your AJ126 F-Type V6 S",
         "codeHref": "/jaguar-aj126-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar F-Type V6 S ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The F-Type V6 S uses a single engine family across all production years — the AJ126 supercharged 3.0-litre V6. Before we quote or supply anything, we confirm:",
+    "intro": "The F-Type V6 S uses a single engine family across all production years - the AJ126 supercharged 3.0-litre V6. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Type quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Type quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Type V6 S ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+    "image": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X152",
-        "image": "/cars/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
+        "image": "/cars/card/jaguar-f-type-x152-s-coupe-20132017-new-ultimate-black-f-typ-bbe3.webp",
         "chassis": "X152",
-        "years": "2012–2024",
+        "years": "2012-2024",
         "engineCode": "AJ126",
         "fuel": "Petrol Supercharged"
       }

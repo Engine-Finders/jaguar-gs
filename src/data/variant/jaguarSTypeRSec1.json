@@ -1,10 +1,10 @@
 {
   "kicker": "Jaguar S-Type R Specialists",
-  "h1": "Jaguar S-Type R|Engine Rebuild —|From £5,500",
+  "h1": "Jaguar S-Type R|Engine Rebuild -|From £5,500",
   "subhead": "Specialist Jaguar S-Type R engine rebuilds and replacements, with registration-based engine matching, nationwide recovery and a 12-month unlimited-mileage warranty",
   "rating": {
     "stars": 5,
-    "label": "Rated Jaguar Engine Specialists — 1,800+ Engines Rebuilt"
+    "label": "Rated Jaguar Engine Specialists - 1,800+ Engines Rebuilt"
   },
   "trustBar": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "priceCta": {
-    "kicker": "Starting from £5,500 —",
+    "kicker": "Starting from £5,500 -",
     "label": "Get a Fixed-Price Quote →",
     "href": "#quote-form"
   },

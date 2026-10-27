@@ -20,7 +20,7 @@
       "items": [
         "Crankshaft",
         "Cylinder head",
-        "Timing chain tensioners and guides — critical known issue",
+        "Timing chain tensioners and guides - critical known issue",
         "Oil pump"
       ],
       "image": "/engine/sec4.webp"
@@ -29,7 +29,7 @@
       "icon": "oil",
       "title": "Inspected and Measured",
       "items": [
-        "Cooling system components (water pump, coolant pipes, heat exchanger) — critical known issue",
+        "Cooling system components (water pump, coolant pipes, heat exchanger) - critical known issue",
         "Fuel injectors",
         "Supercharger",
         "PCV system"
@@ -46,6 +46,6 @@
       "image": "/engine/sec4.webp"
     }
   ],
-  "notice": "Components drawn directly from Master Engine Data File data. If your AJ133's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected — not guessed in advance.",
+  "notice": "Components drawn directly from Master Engine Data File data. If your AJ133's exact ancillary set isn't covered above, we confirm the full scope once your engine is inspected - not guessed in advance.",
   "noticeImage": "/model/sec15_part.webp"
 }

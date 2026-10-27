@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XJ 5.0 V8 ENGINE",
     "paragraphs": [
-      "The XJ 5.0 V8 — fitted to the X351 generation from 2009 to 2019 — uses the AJ133 5.0-litre naturally aspirated V8. This engine was Jaguar's third-generation AJ-V8, introduced alongside the X351's launch and representing a significant development over the earlier 4.2-litre units. It produces 385bhp in naturally aspirated form and was also offered in supercharged guise as the XJR. The engine's timing chain tensioner design has been the subject of documented reliability concerns, which is why we address it as standard on every rebuild."
+      "The XJ 5.0 V8 - fitted to the X351 generation from 2009 to 2019 - uses the AJ133 5.0-litre naturally aspirated V8. This engine was Jaguar's third-generation AJ-V8, introduced alongside the X351's launch and representing a significant development over the earlier 4.2-litre units. It produces 385bhp in naturally aspirated form and was also offered in supercharged guise as the XJR. The engine's timing chain tensioner design has been the subject of documented reliability concerns, which is why we address it as standard on every rebuild."
     ],
     "boldParagraph": "We continue to rebuild and replace AJ133 engines for every XJ 5.0 V8 on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ133",
         "codeRest": "(X351)",
-        "body": "A 5.0-litre naturally aspirated V8 petrol engine fitted to the XJ from 2009 to 2019 (X351 generation). Known for timing chain tensioner and guide wear, and water pump bearing/seal failure — see the callout above. We replace timing chain components and inspect the water pump as standard on every AJ133 rebuild.",
+        "body": "A 5.0-litre naturally aspirated V8 petrol engine fitted to the XJ from 2009 to 2019 (X351 generation). Known for timing chain tensioner and guide wear, and water pump bearing/seal failure - see the callout above. We replace timing chain components and inspect the water pump as standard on every AJ133 rebuild.",
         "cta": "Check Your AJ133 XJ 5.0 V8",
         "codeHref": "/jaguar-aj133-engine"
       }
@@ -26,7 +26,7 @@
   "compatibility": {
     "titlePre": "Jaguar XJ 5.0 V8 ENGINE ",
     "titleHighlight": "COMPATIBILITY",
-    "intro": "The XJ 5.0 V8 uses the AJ133 engine exclusively across its entire X351 production run. However, fitting the wrong replacement — or assuming an AJ133 part from a different model will work on an XJ — risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
+    "intro": "The XJ 5.0 V8 uses the AJ133 engine exclusively across its entire X351 production run. However, fitting the wrong replacement - or assuming an AJ133 part from a different model will work on an XJ - risks a compatibility problem that's expensive to unpick. Before we quote or supply anything, we confirm:",
     "image": "/variant/sec10_third_div.webp",
     "imageMobile": "/variant/sec10_third_div_m2.webp",
     "badge": {
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XJ 5.0 V8 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XJ 5.0 V8 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XJ 5.0 V8 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+    "image": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,9 +69,9 @@
     "rows": [
       {
         "generation": "X351",
-        "image": "/cars/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
+        "image": "/cars/card/jaguar-xj-x351-xj-portfolio-saloon-20102015-new-stratus-grey-3ff2.webp",
         "chassis": "X351",
-        "years": "2009–2019",
+        "years": "2009-2019",
         "engineCode": "AJ133",
         "fuel": "Petrol"
       }

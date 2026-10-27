@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar XF 2.0 ENGINE",
     "paragraphs": [
-      "The XF 2.0 uses the Ford EcoBoost 2.0 — a 2.0-litre turbocharged four-cylinder petrol engine. It was fitted to the X250 generation from 2007 until the model's discontinuation in 2015, offering a more efficient petrol alternative to the diesel and larger V6/V8 units in the range. The engine shares its architecture with the wider Ford EcoBoost family used across multiple Ford and Jaguar Land Rover models of that era."
+      "The XF 2.0 uses the Ford EcoBoost 2.0 - a 2.0-litre turbocharged four-cylinder petrol engine. It was fitted to the X250 generation from 2007 until the model's discontinuation in 2015, offering a more efficient petrol alternative to the diesel and larger V6/V8 units in the range. The engine shares its architecture with the wider Ford EcoBoost family used across multiple Ford and Jaguar Land Rover models of that era."
     ],
     "boldParagraph": "The XF 2.0 is no longer in production, but we continue to rebuild and replace engines for every one still on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "Ford EcoBoost 2.0 I4",
         "codeRest": "",
-        "body": "A 2.0-litre turbocharged four-cylinder petrol engine fitted to the XF 2.0 from 2007 to 2015 (X250 generation). No widely-reported engine issue for this variant — we still recommend a full inspection before any long journey.",
+        "body": "A 2.0-litre turbocharged four-cylinder petrol engine fitted to the XF 2.0 from 2007 to 2015 (X250 generation). No widely-reported engine issue for this variant - we still recommend a full inspection before any long journey.",
         "cta": "Check Your EcoBoost XF 2.0"
       }
     ]
@@ -51,13 +51,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic XF 2.0 quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic XF 2.0 quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar XF 2.0 ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+    "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -68,9 +68,9 @@
     "rows": [
       {
         "generation": "X250",
-        "image": "/cars/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
+        "image": "/cars/card/jaguar-xf-x250-lci-luxury-saloon-20112015-new-stratus-grey-x-e05d.webp",
         "chassis": "X250",
-        "years": "2007–2015",
+        "years": "2007-2015",
         "engineCode": "Ford EcoBoost 2.0 I4",
         "fuel": "Petrol"
       }

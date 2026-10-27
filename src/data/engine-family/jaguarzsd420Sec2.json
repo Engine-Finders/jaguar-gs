@@ -33,7 +33,7 @@
       {
         "icon": "calendar",
         "label": "Production Years",
-        "value": "2008–2010"
+        "value": "2008-2010"
       },
       {
         "icon": "car",
@@ -56,7 +56,7 @@
     "imageMobile": "/engine/sec2_bottom_m2.webp",
     "startingFromLabel": "Starting From",
     "startingFromPrice": "£1,900",
-    "body": "The ZSD-420 sits on the 4-cylinder diesel rebuild tier. Exact price depends on condition and parts required — submit your reg for a fixed-price quote.",
+    "body": "The ZSD-420 sits on the 4-cylinder diesel rebuild tier. Exact price depends on condition and parts required - submit your reg for a fixed-price quote.",
     "cta": {
       "label": "Get Your Fixed-Price Quote →",
       "href": "#quote-form"

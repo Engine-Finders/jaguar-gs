@@ -5,7 +5,7 @@
     "titlePre": "ABOUT THE",
     "titleHighlight": "Jaguar F-Pace 400 Sport ENGINE",
     "paragraphs": [
-      "The F-Pace 400 Sport was launched in 2022 as a special edition, distinguished by its use of the Ingenium AJ300P — a 3.0-litre inline-six petrol engine with mild-hybrid assistance. This is the same engine family as the standard F-Pace P400, but the 400 Sport carries the badge as a separate, high-spec variant. It's part of Jaguar's newer-generation six-cylinder Ingenium range, paired with a 48V mild-hybrid system for improved responsiveness and efficiency."
+      "The F-Pace 400 Sport was launched in 2022 as a special edition, distinguished by its use of the Ingenium AJ300P - a 3.0-litre inline-six petrol engine with mild-hybrid assistance. This is the same engine family as the standard F-Pace P400, but the 400 Sport carries the badge as a separate, high-spec variant. It's part of Jaguar's newer-generation six-cylinder Ingenium range, paired with a 48V mild-hybrid system for improved responsiveness and efficiency."
     ],
     "boldParagraph": "We continue to rebuild and replace engine engines for every F-Pace 400 Sport on the road."
   },
@@ -17,7 +17,7 @@
       {
         "codeHighlight": "AJ300P",
         "codeRest": "",
-        "body": "A 3.0-litre inline-six petrol MHEV fitted to the F-Pace 400 Sport from 2022 onwards (X761). The same Ingenium 6-cylinder pattern shared with the F-Pace D300 diesel and P400 petrol variants — we service it to the same standard as our other F-Pace rebuilds, replacing timing chains, bearings and gaskets as standard.",
+        "body": "A 3.0-litre inline-six petrol MHEV fitted to the F-Pace 400 Sport from 2022 onwards (X761). The same Ingenium 6-cylinder pattern shared with the F-Pace D300 diesel and P400 petrol variants - we service it to the same standard as our other F-Pace rebuilds, replacing timing chains, bearings and gaskets as standard.",
         "cta": "Check Your AJ300P F-Pace 400 Sport",
         "codeHref": "/jaguar-aj300p-engine"
       }
@@ -52,13 +52,13 @@
         "text": "Any electronics or ECU considerations specific to your exact build"
       }
     ],
-    "footer": "This is why we always start with your registration rather than a generic F-Pace quote — it protects you from paying for parts that don't fit your actual car.",
+    "footer": "This is why we always start with your registration rather than a generic F-Pace quote - it protects you from paying for parts that don't fit your actual car.",
     "lead": ""
   },
   "applications": {
     "titlePre": "Jaguar F-Pace 400 Sport ",
     "titleHighlight": "APPLICATIONS BY GENERATION",
-    "image": "/cars/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
+    "image": "/cars/card/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
     "columns": [
       "Generation",
       "Chassis",
@@ -69,7 +69,7 @@
     "rows": [
       {
         "generation": "Generation",
-        "image": "/cars/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
         "chassis": "Chassis",
         "years": "Years",
         "engineCode": "Engine Code",
@@ -77,9 +77,9 @@
       },
       {
         "generation": "X761",
-        "image": "/cars/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
+        "image": "/cars/card/jaguar-f-pace-x761-400-sport-suv-20232024-special-carpathian-0c92.webp",
         "chassis": "X761",
-        "years": "2022–present",
+        "years": "2022-present",
         "engineCode": "AJ300P",
         "fuel": "Petrol MHEV"
       }
