@@ -90,7 +90,7 @@ export default function ModelHeroSec1({ data }) {
             {data.trustBar.map((t) => (
               <div key={t.label} className="flex flex-col items-center gap-1 px-1 text-center">
                 <Icon name={t.icon} className="h-5 w-5 shrink-0 text-white" />
-                <p className="text-xs font-medium leading-tight [overflow-wrap:anywhere] text-white">{t.label.replace(/^✔\s*/, "")}</p>
+                <p className="text-[11px] font-medium leading-tight [overflow-wrap:break-word] text-white">{t.label.replace(/^✔\s*/, "")}</p>
               </div>
             ))}
           </div>
@@ -179,10 +179,6 @@ export default function ModelHeroSec1({ data }) {
               <Subhead text={data.subhead} />
             </p>
 
-            <div className="glass-luminous card-glare relative mt-3 inline-flex items-center gap-2.5 rounded-lg px-4 py-2.5">
-              <Stars count={data.rating.stars} className="h-4 w-4" />
-              <p className="label-text uppercase leading-tight text-white">{data.rating.label}</p>
-            </div>
 
             {/* reg lookup */}
             <div className="mt-3 max-w-md">
@@ -192,11 +188,11 @@ export default function ModelHeroSec1({ data }) {
 
           {/* trust bar spans the full width of the hero content column */}
           <div
-            className="card-glare relative mt-3 flex items-stretch justify-between divide-x divide-white/15 rounded-xl px-6 py-5 backdrop-blur-md"
+            className="card-glare relative mt-3 flex items-stretch justify-between divide-x divide-white/15 rounded-xl px-2 py-5 backdrop-blur-md"
             style={{ background: "linear-gradient(135deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.02) 100%)" }}
           >
             {data.trustBar.map((t) => (
-              <div key={t.label} className="flex flex-1 items-center gap-4 px-5">
+              <div key={t.label} className="flex flex-1 items-center gap-3 px-3">
                 <Icon name={t.icon} className="h-10 w-10 shrink-0 text-white" />
                 <p className="text-sm leading-tight font-medium text-white">{t.label.replace(/^✔\s*/, "")}</p>
               </div>
@@ -232,6 +228,10 @@ export default function ModelHeroSec1({ data }) {
                 </div>
               </div>
             </QuoteLink>
+          </div>
+          <div className="glass-luminous card-glare relative mt-3 flex w-fit items-center gap-2.5 rounded-lg px-4 py-2.5">
+            <Stars count={data.rating.stars} className="h-4 w-4" />
+            <p className="label-text uppercase leading-tight text-white">{data.rating.label}</p>
           </div>
         </div>
       </div>

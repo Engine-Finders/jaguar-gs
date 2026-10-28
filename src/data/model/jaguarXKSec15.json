@@ -2,7 +2,7 @@
   "headlinePre": "Jaguar XK Engine",
   "headlineHighlight": "Coverage",
   "kicker": "Engines by Model Year",
-  "description": "Our Jaguar engine specialist garage covers all engine types from 1996 to 2006, across every XK generation.",
+  "description": "Our Jaguar engine specialist garage covers all engine types from 1996 to 2014, across every XK generation.",
   "image": "/model/sec15.webp",
   "imageMobile": "/model/sec15_mobile.webp",
   "partImage": "/model/sec15_part.webp",
@@ -11,9 +11,14 @@
       "years": "1996-2006",
       "code": "X100",
       "list": "1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 Jaguar XK engines"
+    },
+    {
+      "years": "2005-2014",
+      "code": "X150",
+      "list": "2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014 Jaguar XK engines"
     }
   ],
-  "notice": "If your registration year isn't listed, get in touch - we'll confirm availability directly against your reg.",
+  "notice": "If your registration year or model isn't listed, get in touch - we'll confirm availability directly against your reg.",
   "checklistTitlePre": "We Cover Every",
   "checklistTitleHighlight": "Jaguar XK8 Model:",
   "checklistLeft": [

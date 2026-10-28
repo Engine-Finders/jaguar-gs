@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Icon from "@/components/reusable/Icon";
+import PhotoStripes from "@/components/reusable/PhotoStripes";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
 
 export default function ModelSec11({ data }) {
@@ -43,6 +44,7 @@ export default function ModelSec11({ data }) {
       {/* photo pushed to the right so the checklist sits on clean light space */}
       <div className="absolute inset-0 translate-x-[8%]">
         <Image src={data.image} alt="Jaguar technician rebuilding an engine block" fill className="object-cover object-right" sizes="100vw" />
+        <PhotoStripes preset="sec11" className="object-cover object-right" />
         <div className="absolute inset-y-0 left-0 w-1/5 bg-linear-to-r from-(--color-light-surface) to-transparent" />
       </div>
 
@@ -56,9 +58,9 @@ export default function ModelSec11({ data }) {
             <span className="block text-hero-blue">{line2}</span>
           </div>
 
-          <div className="mt-3 divide-y divide-black/10 border-t border-black/10">
+          <div className="mt-3 w-fit divide-y divide-black/10">
             {data.checklist.map((item) => (
-              <div key={item} className="flex items-center gap-2.5 py-2">
+              <div key={item} className="flex items-center gap-2.5 py-2 pr-8">
                 <span className="flex h-5.5 w-5.5 shrink-0 items-center justify-center rounded-full border border-hero-blue/60 bg-hero-blue/10">
                   <Icon name="check" className="h-3 w-3 text-hero-blue" />
                 </span>

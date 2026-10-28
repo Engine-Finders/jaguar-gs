@@ -40,6 +40,15 @@ function build(p) {
 }
 
 const PRESETS = {
+  // sec11 desktop: two flat bands side by side - silver, then black - redrawn over the stripe baked into the photo
+  sec11: {
+    w: 1024,
+    h: 572,
+    bands: [
+      { top: [408, 456], bottom: [258, 306], y: [0, 460], fill: "#c3c4c7" },
+      { top: [456, 498], bottom: [306, 348], y: [0, 460], fill: "#1c1c1e" },
+    ],
+  },
   // sec3 desktop: two silver bands that end behind the car's windscreen
   sec3: {
     w: 1024,

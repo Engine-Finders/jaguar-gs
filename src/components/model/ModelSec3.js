@@ -40,6 +40,8 @@ function QuoteButton({ data, className = "" }) {
 }
 
 export default function ModelSec3({ data }) {
+  // desktop: alternate light / dark cards across the row (matches the mobile checkerboard)
+  const desktopCards = data.cards.map((c, i) => ({ ...c, featured: i % 2 === 0 }));
   const [line1, line2] = data.h2.split("|");
   const count = data.cards.length;
 
@@ -149,7 +151,7 @@ export default function ModelSec3({ data }) {
           </p>
 
           <div className="mt-5 grid gap-4" style={{ gridTemplateColumns: `repeat(${count}, ${count >= 4 ? "minmax(0, 1fr)" : "minmax(0, 16rem)"})` }}>
-            {data.cards.map((c) => (
+            {desktopCards.map((c) => (
               <div
                 key={`${c.titlePre}-${c.titleHighlight}`}
                 className={`relative rounded-xl pb-5 pt-4 ${c.featured ? "border border-white/15" : "glass-card-dark card-glare"}`}
@@ -180,7 +182,7 @@ export default function ModelSec3({ data }) {
             {data.disclaimer}
           </p>
 
-          <div className="glass-card-dark relative mt-4 flex items-center justify-between gap-6 rounded-xl px-8 py-5">
+          <div className="glass-card-dark relative mt-4 flex items-center w-fit max-w-full gap-10 rounded-xl px-8 py-5">
             <div className="flex items-center gap-4">
               <Icon name="clock" className="h-12 w-12 shrink-0 text-white" />
               <p className="text-base font-extrabold uppercase leading-tight text-white">

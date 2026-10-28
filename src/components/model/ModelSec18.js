@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import { useState } from "react";
 import Icon from "@/components/reusable/Icon";
-import RegPlate from "@/components/reusable/RegPlate";
+import QuoteRegField from "@/components/reusable/QuoteRegField";
 import useLeadForm, { LeadStatus } from "@/components/reusable/useLeadForm";
 import JaguarLogo from "@/components/reusable/JaguarLogo";
 import JaguarStripe from "@/components/reusable/JaguarStripe";
@@ -54,7 +54,6 @@ export default function ModelSec18({ data }) {
     });
   }
 
-  const [reg, setReg] = useState("");
   const lead = useLeadForm();
   const handleSubmit = lead.handleSubmit;
 
@@ -100,20 +99,7 @@ export default function ModelSec18({ data }) {
           </h3>
 
           <div className="mt-5 space-y-4">
-            <label className="block">
-              <span className="label-text uppercase tracking-wide text-white">
-                {data.form.fields.reg.label} <span className="text-hero-blue">*</span>
-              </span>
-              <div className="mt-2 flex items-stretch gap-2">
-                <div className="min-w-0 flex-1">
-                  <RegPlate value={reg} onChange={setReg} heightClass="[--ph:56px]" className="max-w-none!" ariaLabel="Vehicle registration" />
-                </div>
-                <button type="submit" aria-label="Continue" className="flex w-14 shrink-0 items-center justify-center rounded-lg bg-hero-blue text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
-                  <span aria-hidden className="text-2xl leading-none">→</span>
-                </button>
-                <input type="hidden" name="vehicle_vrm" value={reg} required />
-              </div>
-            </label>
+            <QuoteRegField label={data.form.fields.reg.label} labelClass="label-text uppercase tracking-wide text-white" starClass="text-hero-blue" />
 
             <Field name="name" label={data.form.fields.name.label} placeholder={data.form.fields.name.placeholder} />
             <Field name="number" label={data.form.fields.phone.label} placeholder={data.form.fields.phone.placeholder} type="tel" />
@@ -186,28 +172,15 @@ export default function ModelSec18({ data }) {
             {data.form.headlinePost}
           </div>
 
-          <div className="mt-6 grid grid-cols-3 gap-4">
-            <label className="block">
-              <span className="label-text uppercase tracking-wide text-white">
-                {data.form.fields.reg.label} <span className="text-hero-blue">*</span>
-              </span>
-              <div className="mt-2 flex items-stretch gap-2">
-                <div className="min-w-0 flex-1">
-                  <RegPlate value={reg} onChange={setReg} heightClass="[--ph:56px]" className="max-w-none!" ariaLabel="Vehicle registration" />
-                </div>
-                <button type="submit" aria-label="Continue" className="flex w-14 shrink-0 items-center justify-center rounded-lg bg-hero-blue text-white transition duration-200 hover:-translate-y-0.5 hover:brightness-110">
-                  <span aria-hidden className="text-2xl leading-none">→</span>
-                </button>
-                <input type="hidden" name="vehicle_vrm" value={reg} required />
-              </div>
-            </label>
+          <div className="group/reg mt-6 grid grid-cols-3 gap-4">
+            <QuoteRegField label={data.form.fields.reg.label} labelClass="label-text uppercase tracking-wide text-white" starClass="text-hero-blue" />
 
             <Field name="name" label={data.form.fields.name.label} placeholder={data.form.fields.name.placeholder} />
             <Field name="number" label={data.form.fields.phone.label} placeholder={data.form.fields.phone.placeholder} type="tel" />
             <Field name="email" label={data.form.fields.email.label} placeholder={data.form.fields.email.placeholder} type="email" />
             <Field name="postcode" label={data.form.fields.postcode.label} placeholder={data.form.fields.postcode.placeholder} />
 
-            <label className="block">
+            <label className="block md:group-has-[[data-vehicle]]/reg:col-span-2">
               <span className="label-text uppercase tracking-wide text-white">
                 {data.form.fields.enquiry.label} <span className="text-hero-blue">*</span>
               </span>
