@@ -16,7 +16,7 @@ export default function ModelSec16({ data, modelName = "Jaguar" }) {
   return (
     <section className="theme-dark relative overflow-hidden text-white">
       {/* ===== mobile ===== */}
-      <div className="relative md:hidden" style={{ background: "linear-gradient(135deg, #0a0a0b 0%, #000000 100%)" }}>
+      <div className="relative md:hidden" style={{ background: "linear-gradient(135deg, #0a0a0b 0%, #000000 100%)", paddingBottom: "1.25rem" }}>
         <div className="relative px-4 pb-8 pt-10">
           {/* engine sizes */}
           <SectionHeader icon={data.engineSizes.icon} title={data.engineSizes.title} />
@@ -71,7 +71,7 @@ export default function ModelSec16({ data, modelName = "Jaguar" }) {
         </div>
 
         {/* services available */}
-        <div className="theme-light relative mt-2 overflow-hidden rounded-t-3xl bg-(--color-light-surface) px-3 pb-3 pt-6">
+        <div className="mx-3 theme-light relative mt-2 overflow-hidden rounded-3xl bg-(--color-light-surface) px-1.5 pb-3 pt-6">
           <SectionHeader icon="cog" title={data.services.title} dark={false} />
 
           {/* tight 5-col row, short 2-line labels, "(where suitable)" as small subtext */}
