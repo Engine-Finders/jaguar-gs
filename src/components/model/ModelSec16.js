@@ -75,7 +75,7 @@ export default function ModelSec16({ data, modelName = "Jaguar" }) {
           <SectionHeader icon="cog" title={data.services.title} dark={false} />
 
           {/* tight 5-col row, short 2-line labels, "(where suitable)" as small subtext */}
-          <div className="mt-5 grid grid-cols-5 items-start divide-x divide-black/10">
+          <div className="mt-5 grid grid-cols-[repeat(5,minmax(min-content,1fr))] items-start divide-x divide-black/10">
             {data.services.items.map((s) => {
               const [main, note] = s.label.split(/\s*(\(.*\))\s*$/);
               return (
