@@ -17,7 +17,7 @@ function verifySignature(payload, signature, secret) {
 export async function POST(req) {
   try {
     const signature = req.headers.get("x-cms-signature-256");
-    const secret = process.env.CMS_REVALIDATION_SECRET || "jg_sec_3p8v1d5b2q";
+    const secret = process.env.CMS_REVALIDATION_SECRET || "be_sec_8m4w2p9k7x";
 
     const bodyText = await req.text();
 

@@ -5,10 +5,10 @@ import { RelatedGuidesWidget } from "@/components/blog/RelatedGuidesWidget";
 import "./blog.css";
 
 export const metadata = {
-  title: "Jaguar Technical Guides & Reliability Insights | Jaguar Garage UK",
-  description: "Comprehensive Jaguar engine guides, Ingenium failure diagnosis, timing chain replacement advice, and reconditioned engine buying tips.",
+  title: "BMW Engine Guides & Advice | BMW Engines UK",
+  description: "Comprehensive BMW engine diagnostic guides, common failure solutions, timing chain advice, and replacement engine buying tips.",
   alternates: {
-    canonical: "https://jaguargarage.uk/blog",
+    canonical: "https://bmwengines.uk/blog",
   },
 };
 
@@ -34,10 +34,10 @@ export default async function BlogPage(props) {
       {/* Header Banner */}
       <header className="mb-8">
         <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
-          Jaguar Garage <span className="text-slate-600">Technical Guides</span>
+          BMW Engines UK <span className="text-[#075fd8]">Knowledge & Guides</span>
         </h1>
         <p className="mt-2 text-sm text-slate-600 max-w-3xl">
-          In-depth Jaguar engineering insights, common failure diagnostics, Ingenium diesel/petrol maintenance, and engine replacement walkthroughs.
+          Expert failure diagnosis, engine replacement costs, timing chain guidance, and technical specifications for all BMW series.
         </p>
       </header>
 
@@ -48,7 +48,7 @@ export default async function BlogPage(props) {
           {posts.length === 0 ? (
             <div className="rounded-2xl border border-slate-200 bg-slate-50 p-12 text-center">
               <p className="text-base font-bold text-slate-900">No guides published yet</p>
-              <p className="mt-1 text-xs text-slate-500">Jaguar technical articles and diagnostic guides published from the CMS will appear here.</p>
+              <p className="mt-1 text-xs text-slate-500">BMW technical articles and diagnostic guides published from the CMS will appear here.</p>
             </div>
           ) : (
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3">
@@ -56,7 +56,7 @@ export default async function BlogPage(props) {
                 const imageUrl =
                   post.seoMetadata?.featuredImage?.url ||
                   post.seoMetadata?.ogImage ||
-                  "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=600&q=80";
+                  "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=600&q=80";
 
                 const formattedDate = new Date(post.publishedAt).toLocaleDateString("en-GB", {
                   day: "numeric",
@@ -83,7 +83,7 @@ export default async function BlogPage(props) {
 
                     <div className="flex flex-1 flex-col justify-between p-4">
                       <div>
-                        <h3 className="text-sm sm:text-base font-bold leading-snug text-slate-900 line-clamp-3 group-hover:text-black transition">
+                        <h3 className="text-sm sm:text-base font-bold leading-snug text-slate-900 line-clamp-3 group-hover:text-[#075fd8] transition">
                           <Link href={`/blog/${post.slug}`}>
                             {post.title}
                           </Link>
@@ -96,7 +96,7 @@ export default async function BlogPage(props) {
                       <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between">
                         <Link
                           href={`/blog/${post.slug}`}
-                          className="inline-flex items-center gap-1 text-xs font-bold text-slate-800 hover:text-black hover:underline"
+                          className="inline-flex items-center gap-1 text-xs font-bold text-[#075fd8] hover:underline"
                         >
                           <span>Read Guide</span>
                           <span className="text-sm leading-none">»</span>
@@ -134,7 +134,7 @@ export default async function BlogPage(props) {
                   href={`/blog?page=${pageNum}`}
                   className={`rounded-lg px-3 py-1.5 transition ${
                     pageNum === currentPage
-                      ? "bg-[#1a1a1a] font-bold text-white shadow-sm"
+                      ? "bg-[#075fd8] font-bold text-white shadow-sm"
                       : "border border-slate-200 bg-white hover:bg-slate-50 text-slate-700"
                   }`}
                 >
@@ -160,7 +160,7 @@ export default async function BlogPage(props) {
 
         {/* Sidebar (4 cols) */}
         <aside className="lg:col-span-4 space-y-6 lg:sticky lg:top-24 self-start">
-          <EngineQuoteWidget siteName="Jaguar Garage" />
+          <EngineQuoteWidget siteName="BMW Engines UK" />
           <RelatedGuidesWidget title="Recent Guides" limit={5} />
         </aside>
       </div>
