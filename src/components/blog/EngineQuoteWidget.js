@@ -90,6 +90,8 @@ export function EngineQuoteWidget({ siteName = "Jaguar Garage" }) {
         email: email.trim(),
         postcode: postcode.trim().toUpperCase(),
         description: description.trim() || "Quote requested via Jaguar Blog Guide",
+        page_url: window.location.href,
+        lead_source: "blog",
       };
 
       const res = await fetch("/api/send-lead", {
