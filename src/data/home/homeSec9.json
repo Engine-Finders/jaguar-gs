@@ -2,46 +2,16 @@
   "h2": "Recently Completed Jaguar Rebuilds",
   "footerTagline": "Every rebuild. Inspected. Tested. Delivered.",
   "images": [
-    {
-      "src": "/home/rebuild_1.webp",
-      "alt": "Completed Jaguar rebuild"
-    },
-    {
-      "src": "/home/rebuild_2.webp",
-      "alt": "Completed Jaguar rebuild"
-    },
-    {
-      "src": "/home/rebuild_3.webp",
-      "alt": "Completed Jaguar rebuild"
-    },
-    {
-      "src": "/home/rebuild_4.webp",
-      "alt": "Jaguar interior"
-    },
-    {
-      "src": "/home/rebuild_5.webp",
-      "alt": "Completed Jaguar rebuild"
-    },
-    {
-      "src": "/home/rebuild_6.webp",
-      "alt": "Completed Jaguar rebuild"
-    },
-    {
-      "src": "/home/rebuild_7.webp",
-      "alt": "Rebuilt engine bay"
-    },
-    {
-      "src": "/home/rebuild_8.webp",
-      "alt": "Completed Jaguar rebuild"
-    },
-    {
-      "src": "/home/rebuild_9.webp",
-      "alt": "Rebuilt engine bay"
-    },
-    {
-      "src": "/home/rebuild_10.webp",
-      "alt": "Completed Jaguar rebuild"
-    }
+    { "src": "/home/recent-rebuilds/rebuild-01.webp", "alt": "Grey Jaguar F-Pace outside workshop after recent engine rebuild", "h4": "Recent Jaguar F-Pace engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-02.webp", "alt": "Jaguar F-Pace rear view outside workshop after recent engine rebuild", "h4": "Recent Jaguar F-Pace engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-03.webp", "alt": "Red Jaguar F-Pace outside garage after recent engine rebuild", "h4": "Recent Jaguar F-Pace engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-04.webp", "alt": "Grey Jaguar F-Type coupe outside workshop after recent engine rebuild", "h4": "Recent Jaguar F-Type coupe engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-05.webp", "alt": "Red Jaguar F-Type convertible outside workshop after recent engine rebuild", "h4": "Recent Jaguar F-Type convertible engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-06.webp", "alt": "White Jaguar XF 204DTD outside workshop after recent engine rebuild", "h4": "Recent Jaguar XF 2.0 diesel engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-07.webp", "alt": "Black Jaguar XF outside workshop after recent engine rebuild", "h4": "Recent Jaguar XF engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-08.webp", "alt": "Black Jaguar XF front view after recent engine rebuild", "h4": "Recent Jaguar XF engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-09.webp", "alt": "Blue Jaguar XF parked outside workshop after recent engine rebuild", "h4": "Recent Jaguar XF engine rebuild at our workshop" },
+    { "src": "/home/recent-rebuilds/rebuild-10.webp", "alt": "Red Jaguar XF parked outside garage after recent engine rebuild", "h4": "Recent Jaguar XF engine rebuild at our workshop" }
   ],
   "cta": {
     "label": "Get Your Engine Rebuilt Quote"

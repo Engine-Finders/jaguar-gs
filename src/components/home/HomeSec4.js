@@ -15,22 +15,22 @@ export default function HomeSec4({ data }) {
             <a
               key={s.label}
               href={s.href}
-              className="group relative overflow-hidden rounded-xl shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-md"
+              className="group relative aspect-square overflow-hidden rounded-xl shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-md"
+              style={{ background: "#f2f2f2" }}
             >
-              <div className="relative aspect-square w-full overflow-hidden">
-                <Image src={s.image} alt={s.label} fill className="object-cover" sizes="220px" />
-                <span className="absolute bottom-11 left-2 flex h-9 w-9 items-center justify-center rounded-full border border-white/70 bg-white/55 text-[#1a1a1a] shadow-sm backdrop-blur-md sm:bottom-16 sm:left-3 sm:h-12 sm:w-12">
-                  <Icon name={s.icon} className="h-5 w-5 sm:h-7 sm:w-7" />
-                </span>
-              </div>
+              <Image src={s.image} alt={s.label} fill className="object-cover" sizes="220px" />
               <div
-                className="absolute inset-x-0 bottom-0 px-2 py-1.5 sm:px-3 sm:py-2.5"
+                aria-hidden="true"
+                className="pointer-events-none absolute inset-0"
                 style={{
                   background:
-                    "linear-gradient(to top, rgba(242,242,242,1) 0%, rgba(242,242,242,0.96) 55%, rgba(242,242,242,0) 100%)",
-                  paddingTop: "1.75rem",
+                    "linear-gradient(to bottom, rgba(242,242,242,0) 0%, rgba(242,242,242,0.06) 36%, rgba(242,242,242,0.54) 61%, rgba(242,242,242,0.94) 81%, rgba(242,242,242,1) 100%)",
                 }}
-              >
+              />
+              <span className="absolute bottom-11 left-2 z-10 flex h-9 w-9 items-center justify-center sm:bottom-16 sm:left-3 sm:h-12 sm:w-12">
+                <Icon name={s.icon} className="h-5 w-5 text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.7)] sm:h-7 sm:w-7" />
+              </span>
+              <div className="absolute inset-x-0 bottom-0 z-10 px-2 py-1.5 sm:px-3 sm:py-2.5">
                 <p className="text-xs font-semibold leading-tight text-[#1a1a1a] sm:text-sm">
                   {i + 1}. {s.label}
                 </p>
