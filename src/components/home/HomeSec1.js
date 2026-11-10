@@ -55,7 +55,7 @@ export default function HomeSec1({ hero, lookup }) {
               alt="Jaguar engine rebuild workshop"
               fill
               priority
-              className="object-cover object-[80%_center]"
+              className="object-cover object-[72%_center]"
               sizes="100vw"
             />
             <div className="absolute inset-0 bg-linear-to-b from-hero-dark/60 via-hero-dark/10 to-hero-dark" />
