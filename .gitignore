@@ -73,4 +73,6 @@ _src_content/
 /scripts/output/
 
 .vercel
+
+# local env files (restored after the 2026-11 malware cleanup)
 config.bat
